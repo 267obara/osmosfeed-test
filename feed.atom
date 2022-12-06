@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T11:11:37.822Z</updated>
+    <updated>2022-12-06T12:28:02.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「もしここに隕石が落ちるとどうなるのか？」を地図でクリックするだけでシミュレーションできる「Asteroid Launcher」]]></title>
+        <id>https://gigazine.net/news/20221206-asteroid-launcher/</id>
+        <link href="https://gigazine.net/news/20221206-asteroid-launcher/"/>
+        <updated>2022-12-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[巨大隕石が衝突するとすさまじい被害が出ることは理解していても、実際にどれほど隕石が恐ろしいのかを実感するのは難しいもの。そんな隕石衝突について、隕石のサイズ・速度・角度・落下地点を自由に設定し、隕石衝突でどれほどの被害が出るのかをシミュレーションできるツールが「Asteroid Launcher」です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[にじさんじライバーの配信コメントを分析して「コメントの雰囲気」を視覚化したムービーが示す興味深い結果とは？]]></title>
         <id>https://gigazine.net/news/20221206-nijisanji-liver-comment-network/</id>

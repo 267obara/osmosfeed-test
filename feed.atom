@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T16:19:44.709Z</updated>
+    <updated>2022-12-06T17:12:27.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub CEO トーマス・ドムケ氏が来日。いずれコードの80％がAIで作成されるようになると予言]]></title>
+        <id>https://www.publickey1.jp/blog/22/github_ceo_80ai.html</id>
+        <link href="https://www.publickey1.jp/blog/22/github_ceo_80ai.html"/>
+        <updated>2022-12-06T16:54:52.000Z</updated>
+        <summary type="html"><![CDATA[GitHub CEOのThomas Dohmke（トーマス・ドムケ）氏が来日し、記者会見を行いました。 ドムケ氏は2021年にNat Friedman氏の後を継いでCEOに就任した人物で、それまではGitHubのChief Product ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPTをビジネスのアドバイザーとして使った結果驚くべき回答が行われる]]></title>
         <id>https://gigazine.net/news/20221207-using-chatgpt-as-a-co-founder/</id>

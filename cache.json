@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221206-nijisanji-liver-comment-network/",
+          "author": null,
+          "description": "ANYCOLORが運営するVTuberグループ「にじさんじ」には、英語圏のNijisanji ENや中華圏のVirtuaRealも含めると記事作成時点で約150名のライバーが属しています。配信の内容はライバーによって大きく異なり、それに伴って視聴者層やコメントの雰囲気も変わります。そんなにじさんじライバーの視聴者コメントを分析し、コメントの雰囲気の遠近を可視化したムービーを、カレーうまさんが投稿しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221206-nijisanji-liver-comment-network/",
+          "publishedOn": "2022-12-06T11:00:00.000Z",
+          "wordCount": 2509,
+          "title": "にじさんじライバーの配信コメントを分析して「コメントの雰囲気」を視覚化したムービーが示す興味深い結果とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/06/nijisanji-liver-comment-network/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221206-amazon-shopper-panel-ad-verification/",
           "author": null,
           "description": "Amazonが一部のユーザー向けに、端末のトラフィックの追跡を許可する代わりに2ドル(約270円)を報酬として支払うプログラムを開始しました。\n続きを読む...",
@@ -696,6 +706,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news163.html",
+          "author": null,
+          "description": "東北電力と東京ガスが出資した新電力会社のシナジアパワーは、12月1日付で東京地方裁判所に破産手続開始の申し立てを行った。長引く燃料価格の高騰などで事業の継続が難しくなり、11月末でサービスを終了していた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news163.html",
+          "publishedOn": "2022-12-06T10:36:00.000Z",
+          "wordCount": 2592,
+          "title": "東北電力と東京ガスが出資した新電力が破産",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news163.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/06/news155.html",
           "author": null,

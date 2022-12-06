@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T12:28:02.870Z</updated>
+    <updated>2022-12-06T13:23:12.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ハーゲンダッツの定番アイス「ハーゲン8」に新作「ショコラデュオ」が新登場したので食べてみた]]></title>
+        <id>https://gigazine.net/news/20221206-haagen-dazs-chocolat-duo/</id>
+        <link href="https://gigazine.net/news/20221206-haagen-dazs-chocolat-duo/"/>
+        <updated>2022-12-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ハーゲンダッツの通年商品である「ハーゲン8」に、新しく「ショコラデュオ」が追加されました。ショコラデュオはミルクショコラアイスクリームとカカオショコラアイスクリームの2つのチョコレートアイスを同時に楽しめるミニカップになっているということで、さっそくどんな味わいなのか食べて確かめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「もしここに隕石が落ちるとどうなるのか？」を地図でクリックするだけでシミュレーションできる「Asteroid Launcher」]]></title>
         <id>https://gigazine.net/news/20221206-asteroid-launcher/</id>

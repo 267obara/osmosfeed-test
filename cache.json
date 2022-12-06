@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221206-haagen-dazs-chocolat-duo/",
+          "author": null,
+          "description": "ハーゲンダッツの通年商品である「ハーゲン8」に、新しく「ショコラデュオ」が追加されました。ショコラデュオはミルクショコラアイスクリームとカカオショコラアイスクリームの2つのチョコレートアイスを同時に楽しめるミニカップになっているということで、さっそくどんな味わいなのか食べて確かめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221206-haagen-dazs-chocolat-duo/",
+          "publishedOn": "2022-12-06T13:00:00.000Z",
+          "wordCount": 2491,
+          "title": "ハーゲンダッツの定番アイス「ハーゲン8」に新作「ショコラデュオ」が新登場したので食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/06/haagen-dazs-chocolat-duo/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221206-asteroid-launcher/",
           "author": null,
           "description": "巨大隕石が衝突するとすさまじい被害が出ることは理解していても、実際にどれほど隕石が恐ろしいのかを実感するのは難しいもの。そんな隕石衝突について、隕石のサイズ・速度・角度・落下地点を自由に設定し、隕石衝突でどれほどの被害が出るのかをシミュレーションできるツールが「Asteroid Launcher」です。\n続きを読む...",

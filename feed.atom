@@ -1,409 +1,1197 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-06T08:57:06.335Z</id>
+    <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T08:57:06.335Z</updated>
+    <updated>2022-12-06T09:06:05.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
+    <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[Gobuster Tutorial – How to Find Hidden Directories, Sub-Domains, and S3 Buckets]]></title>
-        <id>https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/</id>
-        <link href="https://www.freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/"/>
-        <updated>2022-12-05T23:40:58.000Z</updated>
-        <summary type="html"><![CDATA[There’s much more to web servers and websites than what appears on the surface. The first step an attacker uses when attacking a website is to find the list of URLs and sub-domains. Web developers often expose sensitive files, URL paths, or even sub-domains while building or maintaining a site.]]></summary>
+        <title type="html"><![CDATA[デジタル庁、初心者向け「Webアクセシビリティー」導入ガイド無償公開　非技術者向け、専門用語は少なめに]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news144.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news144.html"/>
+        <updated>2022-12-06T08:40:00.000Z</updated>
+        <summary type="html"><![CDATA[デジタル庁は、Webサイトへのアクセスしやすさ「Webアクセシビリティー」の解説資料「ウェブアクセシビリティ導入ガイドブック」を公開した。技術者ではないデザイナーや行政人材など初心者を対象にした資料という。]]></summary>
         <author>
-            <name>Manish Shivanandhan</name>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is an API and How Does it Work? APIs for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/how-apis-work/</id>
-        <link href="https://www.freecodecamp.org/news/how-apis-work/"/>
-        <updated>2022-12-05T22:56:35.000Z</updated>
-        <summary type="html"><![CDATA[When I started learning to code, the term API would always haunt me. I couldn't make sense of what it actually meant because I would hear people talking about APIs in different contexts.  The biggest challenge was that I couldn't find resources to learn about APIs in simple terms.]]></summary>
+        <title type="html"><![CDATA[auかんたん決済で、「App Store」「Google Play」利用の20％還元キャンペーン　上限で1万Pontaポイント]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news138.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news138.html"/>
+        <updated>2022-12-06T08:25:00.000Z</updated>
+        <summary type="html"><![CDATA[auかんたん決済で「App Store」「Google Play」利用を促進するキャンペーン。「App Store」「Google Play」の支払いの20％をPontaポイントで還元]]></summary>
         <author>
-            <name>Tooba Jamal</name>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Better React Performance – When to Use the useCallback vs useMemo Hook]]></title>
-        <id>https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/</id>
-        <link href="https://www.freecodecamp.org/news/better-react-performance-usecallback-vs-usememo/"/>
-        <updated>2022-12-05T18:47:25.000Z</updated>
-        <summary type="html"><![CDATA[We all want to build powerful applications and avoid unnecessary renders. There are some hooks available to help with this, but you might not be sure about which one to use and when. In this article you will learn the differences between useCallback and useMemo  as well as how]]></summary>
+        <title type="html"><![CDATA[Amazonで購入したグラボが偽物だったので返品すると「正しい製品が返送されるまで返金しない」とむちゃくちゃな対応をされたという報告]]></title>
+        <id>https://gigazine.net/news/20221206-amazon-shipped-fake-product-refuses-refund/</id>
+        <link href="https://gigazine.net/news/20221206-amazon-shipped-fake-product-refuses-refund/"/>
+        <updated>2022-12-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonは注文ミスや「思っていたのと違う商品だった」など、わりとシンプルな理由でも返品を受け付けてくれますが、9万円超のグラフィックボードを注文して偽物が届いたから返品したにもかかわらず、Amazonから「本物を返すように」と理不尽な要求をされた事例が報告されています。
+続きを読む...]]></summary>
         <author>
-            <name>Daniel Asta</name>
+            <name>GIGAZINE</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Does WWW still belong in URLs?]]></title>
-        <id>https://css-tricks.com/?p=375184</id>
-        <link href="https://css-tricks.com/does-www-still-belong-in-urls/"/>
-        <updated>2022-12-05T15:20:22.000Z</updated>
-        <summary type="html"><![CDATA[For years, a small pedantry war has been raging in our address bars. In one corner are brands like Google, Instagram, and Facebook. This group has chosen to redirect example.com to www.example.com. In the opposite corner: …
-Does WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[AIスゴっ！　下手な漫画が秒で“プロ並み”に　「ネームだけで原稿完成」の時代に？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news129.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news129.html"/>
+        <updated>2022-12-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AIイラストメーカーを使うと、平面っぽい雑な絵が、立体的で表情も動きのある、描き込まれた美しいイラストに変わった。イラストAIが、「絵を描く」の意味を変えつつある。]]></summary>
         <author>
-            <name>Pieter De Decker</name>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Exactly is Node.js? Explained for Beginners]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-node-js/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-node-js/"/>
-        <updated>2022-12-05T15:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Node.js allows developers to create both front-end and back-end applications using JavaScript. It was released in 2009 by Ryan Dahl. In this article, you will learn about Node.js. You will learn the following:  * What is Node.js?  * How the Node.js environment differs from the browser.  *]]></summary>
+        <title type="html"><![CDATA[チェスAI不正疑惑のハンス・ニーマンによる訴訟は売名行為であるとしてChess.comが棄却を申し立て]]></title>
+        <id>https://gigazine.net/news/20221206-chess-com-says-lawsuit-is-public-relatoins-stunt/</id>
+        <link href="https://gigazine.net/news/20221206-chess-com-says-lawsuit-is-public-relatoins-stunt/"/>
+        <updated>2022-12-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[チェスの大会でAIを用いて不正をした疑いをかけられているグランドマスターのハンス・ニーマン氏が、マグヌス・カールセン氏とオンラインチェスプラットフォーム・Chess.comが共謀して自らを陥れ名誉を毀損(きそん)したとして1億ドルの賠償を求める訴えを起こした件で、Chess.comが「ニーマン氏の訴えに利はなく、単なる売名行為」として、裁判所に訴えの棄却を申し立てました。
+続きを読む...]]></summary>
         <author>
-            <name>Benjamin Semah</name>
+            <name>GIGAZINE</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Find the Size of an Array in C with the sizeof Operator]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-find-the-size-of-an-array-in-c-with-the-sizeof-operator/"/>
-        <updated>2022-12-05T14:53:05.000Z</updated>
-        <summary type="html"><![CDATA[When coding in the C programming language, there may be times when you need to know the size of an array. For example, when you want to loop through all the elements stored in the array to determine whether a specific value is present. In this article, you will learn]]></summary>
+        <title type="html"><![CDATA[指定した複数の電波だけ吸い取るシート、凸版が開発　干渉防ぎ通信品質向上に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news126.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news126.html"/>
+        <updated>2022-12-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[凸版印刷が、特定の周波数の電波を限定的に吸収するシート「マルチバンド対応ミリ波吸収体」を開発した。電波干渉や漏えいを防ぐことで、通信品質の向上を実現できるとしている。]]></summary>
         <author>
-            <name>Dionysia Lemonaki</name>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Pseudo-Classes – How the :is Pseudo-Class Works with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/css-is-pseudo-class-explained/</id>
-        <link href="https://www.freecodecamp.org/news/css-is-pseudo-class-explained/"/>
-        <updated>2022-12-02T22:04:37.000Z</updated>
-        <summary type="html"><![CDATA[Pseudo-classes allow you to style an element in a specific state. There are many supported classes for states in CSS. In this article, I'll explain how the :is  pseudo-class works. This article is the first in a new series I'll be working on over the coming weeks and months:]]></summary>
+        <title type="html"><![CDATA[25％が「給与デジタル払い」を使いたい　マネフォ調査]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news123.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news123.html"/>
+        <updated>2022-12-06T06:37:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年春に解禁が予定されている「給与デジタル払い」に対し、25％が利用意向を示した。]]></summary>
         <author>
-            <name>Dillion Megida</name>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS Infinite and Circular Rotating Image Slider]]></title>
-        <id>https://css-tricks.com/?p=375308</id>
-        <link href="https://css-tricks.com/css-only-infinite-and-circular-image-slider/"/>
-        <updated>2022-12-02T14:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Image sliders (also called carousels) are everywhere. There are a lot of CSS tricks to create the common slider where the images slide from left to right (or the opposite). It’s the same deal with the many JavaScript libraries out …
-CSS Infinite and Circular Rotating Image Slider originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[16～19歳は「34％が違法コンテンツを閲覧」「27％が荒らし経験あり」「22％が暴力を扇動したことがある」という衝撃の分析結果]]></title>
+        <id>https://gigazine.net/news/20221206-young-people-cybercrime/</id>
+        <link href="https://gigazine.net/news/20221206-young-people-cybercrime/"/>
+        <updated>2022-12-06T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[インターネット上では、多くの人々によって犯罪行為や荒らし行為が行われています。新たにヨーロッパで行われた研究では、16～19歳の34％が違法コンテンツを所持し、22％が暴力を扇動しているといった実態が明らかになりました。
+続きを読む...]]></summary>
         <author>
-            <name>Temani Afif</name>
+            <name>GIGAZINE</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Anatomy Of Themed Design System Components]]></title>
-        <id>https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/</id>
-        <link href="https://smashingmagazine.com/2022/12/anatomy-themed-design-system-components/"/>
+        <title type="html"><![CDATA[世界中の10人に4人が魔法や呪いを信じているという研究結果]]></title>
+        <id>https://gigazine.net/news/20221206-witchcraft-beliefs-around-the-world/</id>
+        <link href="https://gigazine.net/news/20221206-witchcraft-beliefs-around-the-world/"/>
+        <updated>2022-12-06T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[魔法や呪いはファンタジーやおとぎ話の中だけに存在するものであり、実際にこれらを信じる大人は圧倒的に少数派だと思っている人も多いはず。ところが、世界の95の国と地域に住む14万人以上の人々を含むデータセットを分析したところ、「調査対象者の40％以上が魔法や呪いを信じている」という結果が明らかとなりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ABEMAくんおるやん」──アクセス制限中のABEMAでエンジニアの遊び心が話題に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news112.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news112.html"/>
+        <updated>2022-12-06T04:57:00.000Z</updated>
+        <summary type="html"><![CDATA[6日のサッカーW杯「日本対クロアチア」。アクセス制限の裏でABEMAの“遊び心”がSNSで注目を集めていた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT、公開6日目で100万ユーザー突破]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news110.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news110.html"/>
+        <updated>2022-12-06T04:31:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIのアルトマンCEOは、ChatGPTのユーザー数が100万人を突破したとツイートした。公開したのは11月30日のことだ。プレビュー版の現在は無料だが、永遠に無料というわけにはいかないとも。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PayPayを使うバイト」に注意　SNSで勧誘、アカウント情報だまし取る例も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news108.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news108.html"/>
+        <updated>2022-12-06T04:23:00.000Z</updated>
+        <summary type="html"><![CDATA[SNSなどで勧誘されたアルバイトで、PayPayのアカウント情報や残高をだまし取られるなどのトラブルに注意。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ひろゆき、初の児童書を出版　子供に世の中の攻略法を伝授　YouTubeでも小学生の悩みに回答]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news106.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news106.html"/>
+        <updated>2022-12-06T04:04:00.000Z</updated>
+        <summary type="html"><![CDATA[小学館は「ひろゆき」こと西村博之さんが書いた初の児童書「よのなかの攻略法」を12月7日に発売すると発表した。小学生が抱える勉強や友達、恋、いじめなどの悩みをひろゆきさんが回答する子ども向けの学習まんが。一部内容はYouTube上でも公開している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[対話型チャットAI「ChatGPT」開始から1週間も経たないうちにユーザーが100万人を突破、そもそもChatGPTとは一体何なのか？]]></title>
+        <id>https://gigazine.net/news/20221206-chatgpt-users-1-million/</id>
+        <link href="https://gigazine.net/news/20221206-chatgpt-users-1-million/"/>
+        <updated>2022-12-06T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AIの研究・開発を行う団体「OpenAI」のサム・アルトマンCEOが、2022年12月1日にテスト版が一般公開された「ChatGPT」のユーザー数が100万人を突破したと発表しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクの脳インプラント企業「Neuralink」が違法な動物実験を繰り返しているとして政府の調査を受けていることが明らかに]]></title>
+        <id>https://gigazine.net/news/20221206-musk-neuralink-faces-federal-probe/</id>
+        <link href="https://gigazine.net/news/20221206-musk-neuralink-faces-federal-probe/"/>
+        <updated>2022-12-06T03:39:00.000Z</updated>
+        <summary type="html"><![CDATA[電気自動車メーカーのテスラや宇宙開発企業のSpaceXの創業者であり、Twitterを買収したことでも有名な事業家のイーロン・マスク氏は、他にも脳神経にコンピューターを接続することを試みる脳インプラント企業・Neuralinkを立ち上げています。このNeuralinkが、違法な動物実験を繰り返しているとしてアメリカ政府の調査を受けていると報じられました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本ハムファイターズの新球場「エスコンフィールド」、完全キャッシュレス化　現金取扱なし]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news098.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news098.html"/>
+        <updated>2022-12-06T03:36:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年3月に開業する北海道日本ハムファイターズの新球場「ES CON FIELD HOKKAIDO（エスコンフィールド）」は完全キャッシュレス化され、現金は取り扱わない計画だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国系ハッカーが新型コロナ給付金27億円超を盗み出したことが判明]]></title>
+        <id>https://gigazine.net/news/20221206-chinese-hacker-steals-covid-benefits/</id>
+        <link href="https://gigazine.net/news/20221206-chinese-hacker-steals-covid-benefits/"/>
+        <updated>2022-12-06T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[中国政府と関連のあるハッカーグループ・APT41が、アメリカ中小企業局の融資や失業保険基金など、新型コロナウイルス感染症対策の給付金を少なくとも2000万ドル(約27億円)盗み出したことが明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Foundation、ソフトウェアを安全に使用・開発する方法を無料で学べるオンラインコースを発表]]></title>
+        <id>http://codezine.jp/article/detail/16972</id>
+        <link href="http://codezine.jp/article/detail/16972"/>
+        <updated>2022-12-06T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Linux Foundationは、オープンソースやその他のソフトウェアを安全に使用・開発する方法について無料で学べるオンラインコース「セキュアソフトウェア開発（LFD121-JP）」を、12月5日に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、統合ソフトウェア開発・配信サービス「Amazon Code Catalyst」をプレビューリリース]]></title>
+        <id>http://codezine.jp/article/detail/16973</id>
+        <link href="http://codezine.jp/article/detail/16973"/>
+        <updated>2022-12-06T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[米Amazon Web Servicesは、AWSでアプリケーションを迅速かつ簡単に計画、開発、コラボレーション、構築、配信することを可能にし、全体にスムーズな開発ライフサイクルを実現する統合型のソフトウェア開発・配信サービス「Amazon Code Catalyst」を、12月1日（現地時間）にプレビューリリースした。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xboxが自社製タイトルの販売価格を約1400円値上げすると認める]]></title>
+        <id>https://gigazine.net/news/20221206-microsoft-raising-prices-xbox/</id>
+        <link href="https://gigazine.net/news/20221206-microsoft-raising-prices-xbox/"/>
+        <updated>2022-12-06T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MicrosoftのゲームブランドであるXboxが、自社製タイトルの基本販売価格を59.99ドル(日本だと税込7590円)から69.99ドル(約9600円)に引き上げることが明らかになりました。新しい販売価格は「Starfield」「Forza Motorsport」「Redfall」といった今後リリース予定のタイトルに適用されます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AdobeがAIで作られたストック写真を販売]]></title>
+        <id>https://gigazine.net/news/20221206-adobe-stock-guidelines-generative-ai/</id>
+        <link href="https://gigazine.net/news/20221206-adobe-stock-guidelines-generative-ai/"/>
+        <updated>2022-12-06T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[ロイヤリティフリーの画像を多数販売するAdobeのサービス「Adobe Stock」が、新たにジェネレーティブ(生成)AIを利用したアーティストからの画像を受け入れ、他の画像と同じように販売する方針を明らかにしました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[柚子の爽やかな酸味とピリ辛ペッパーがチキンの味を最大限に引き出す「ファミチキ(柚子こしょう)」試食レビュー]]></title>
+        <id>https://gigazine.net/news/20221206-familymart-chicken-yuzu-pepper/</id>
+        <link href="https://gigazine.net/news/20221206-familymart-chicken-yuzu-pepper/"/>
+        <updated>2022-12-06T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ファミリーマートの人気ホットスナック「ファミチキ」に大分県産柚子こしょうを合わせた「ファミチキ(柚子こしょう)」が2022年12月6日(火)に登場しました。食べた瞬間に柚子の香りと青唐辛子のピリピリした辛味を楽しめるとのことなので、実際に食べて味を確かめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Amazon GameLift」でオンプレサーバを活用できる「Anywhere」一般提供　AWSのゲーム開発向けサービスに新機能]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news090.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news090.html"/>
+        <updated>2022-12-06T02:44:00.000Z</updated>
+        <summary type="html"><![CDATA[米AWSが、ゲーム開発向けサービス「Amazon GameLift」でオンプレミスサーバなどを管理できる新機能「Amazon GameLift Anywhere」の一般提供を開始。ゲームサーバの管理を一元化でき、運用の複雑さを改善できるという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[会話AI「ChatGPT」の回答の投稿がコーディングQ＆AサイトのStack Overflowで一時的に禁止される]]></title>
+        <id>https://gigazine.net/news/20221206-chatgpt-banned-temporary/</id>
+        <link href="https://gigazine.net/news/20221206-chatgpt-banned-temporary/"/>
+        <updated>2022-12-06T02:39:00.000Z</updated>
+        <summary type="html"><![CDATA[プログラミング技術に関するナレッジコミュニティのStack Overflowで、対話向け言語モデルの「ChatGPT」による回答が急増したことを受けて、一時的にChatGPTを使用した投稿が禁止されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビックカメラ「新春福箱」抽選受付を開始　GoPro、ノートPC、iPadなど57種]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news088.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news088.html"/>
+        <updated>2022-12-06T02:35:00.000Z</updated>
+        <summary type="html"><![CDATA[ビックカメラの通販サイト「ビックカメラ・ドットコム」は6日、恒例の「新春福箱」の抽選販売受付を始めた。「ノートパソコン福箱」（4万9800円～）など57種を用意。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「マージ」　～マンガでプログラミング用語解説]]></title>
+        <id>http://codezine.jp/article/detail/16787</id>
+        <link href="http://codezine.jp/article/detail/16787"/>
+        <updated>2022-12-06T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この連載は、マンガで分かるプログラミング用語辞典です。気軽に読み流せるマンガと、テキストによる詳しい解説で、プログラミング未経験者がつまづきがちな専門用語・概念をやさしく読み解き、よりスムーズな学習を手助けします。市販のプログラミング入門書の副教材としてもぜひご活用ください。今回解説するのは、複数のファイルやデータを一つにまとめる処理「マージ」です。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT業界で働く従業員向け匿名SNS「WorkCircle」、プレリリース版を12月5日に公開]]></title>
+        <id>http://codezine.jp/article/detail/16970</id>
+        <link href="http://codezine.jp/article/detail/16970"/>
+        <updated>2022-12-06T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HonneWorksは、社会人向け匿名SNS「WorkCircle（ワークサークル）」のプレリリース版を12月5日に公開した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アン・コンサルティングが「フリーランスエンジニアへの転向意識調査」を実施、正社員エンジニアの40％はフリーランスに興味を持つ]]></title>
+        <id>http://codezine.jp/article/detail/16971</id>
+        <link href="http://codezine.jp/article/detail/16971"/>
+        <updated>2022-12-06T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アン・コンサルティングは、正社員として働くエンジニアと、正社員を経験しフリーランスとして働くエンジニアに対して実施した「フリーランスエンジニアへの転向意識調査」の結果を12月2日に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22歳が趣味で作ったアプリ、ABEMA超え1位に　「zenly」代替の「NauNau」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news075.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news075.html"/>
+        <updated>2022-12-06T00:25:00.000Z</updated>
+        <summary type="html"><![CDATA[22歳の大学生が「趣味で作った」というアプリが、App Storeの無料アプリランキング1位になっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年度11月分のGIGAZINEのアクセス解析結果]]></title>
+        <id>https://gigazine.net/news/20221206-access/</id>
+        <link href="https://gigazine.net/news/20221206-access/"/>
+        <updated>2022-12-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この記事はGIGAZINEシークレットクラブの有料メンバー限定ですが、2023年1月31日までは誰でも閲覧可能です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深刻すぎる部活の指導者不足　ICTで遠隔指導は可能か]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news073.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news073.html"/>
+        <updated>2022-12-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NTT東日本などは、部活動の遠隔指導の実証実験を開始した。バドミントン男子シングルス東京五輪代表の桃田賢斗らが北海道の中学生に、オンラインで技術を伝授した。地方における指導者不足解消などが期待され、同社は、2023年の事業化を目指す。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SlackのバターフィールドCEO、1月に退任]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news070.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news070.html"/>
+        <updated>2022-12-05T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Slackの共同創業者でCEOのスチュワート・バターフィールド氏が退任する。後任には親会社Salesforceの上級副社長、リディアン・ジョーンズ氏が指名された。数日前にはSlack買収に貢献したブラット・テイラー共同CEOも退任を発表している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[あのGoProの小型軽量モデル「GoPro HERO11 Black Mini」が届いたので「GoPro HERO11 Black」と外観を比較してみた]]></title>
+        <id>https://gigazine.net/news/20221206-gopro-hero11-black-mini-unboxing/</id>
+        <link href="https://gigazine.net/news/20221206-gopro-hero11-black-mini-unboxing/"/>
+        <updated>2022-12-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[強力ブレ補正機能や防水性能を備えたアクションカメラ「GoProシリーズ」に、小型モデル「GoPro HERO11 Black Mini」が加わりました。GoPro HERO11 Black Miniは小型モデルながら「GoPro HERO11 Black」と同等のカメラ性能を備えており、最大5.3K60fpsのムービー撮影に対応しています。そんなGoPro HERO11 Black Miniが編集部にやってきたので、まずはGoPro HERO11 Blackと外観を比較してみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PythonでGraph APIを操作できる「Microsoft Graph Python SDK」をプレビューとして公開]]></title>
+        <id>http://codezine.jp/article/detail/16967</id>
+        <link href="http://codezine.jp/article/detail/16967"/>
+        <updated>2022-12-05T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは、Python言語からMicrosoft Graph APIの操作を可能にするSDK「Microsoft Graph Python SDK」を11月28日にプレビュー版として公開した。Microsoft Graph APIは、Microsoft 365やWindowsなど、同社がクラウド上で提供しているサービスのデータへのアクセスを可能にするAPI。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チャットAI「ChatGPT」内部に仮想マシンを作成する試み、内部には仮想インターネットが存在しChatGPTが創造した世界にもChatGPTが存在]]></title>
+        <id>https://gigazine.net/news/20221206-virtual-machine-inside-chatgpt/</id>
+        <link href="https://gigazine.net/news/20221206-virtual-machine-inside-chatgpt/"/>
+        <updated>2022-12-05T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大学生レベルの自由記述問題を解いたり、プログラムのコードを書いたりすることもできると話題の対話AI「ChatGPT」の内側に仮想マシンを作ることができると、AI企業・DeepMindのジョナス・デグレイブ氏が報告しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTによる回答をStack Overflowが一時的に禁止　大量のもっともらしいが不正確な回答に対処しきれず]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news069.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news069.html"/>
+        <updated>2022-12-05T21:47:00.000Z</updated>
+        <summary type="html"><![CDATA[質問するともっともらしい回答をくれるOpenAIの「ChatGPT」。プログラミング関連のQ&AサイトStack OverflowがChatGPTで生成した回答の投稿を一時的に禁止した。このAIで生成したとみられる不正確な回答が急増したため。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日産車やホンダ車をハッキングして個人情報を取得＆リモートでロックを解除したりクラクションを鳴らしたりする手法が見つかる]]></title>
+        <id>https://gigazine.net/news/20221206-car-telematic-services-hacking-vin-number/</id>
+        <link href="https://gigazine.net/news/20221206-car-telematic-services-hacking-vin-number/"/>
+        <updated>2022-12-05T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現代の車はオーディオシステムやカーナビにとどまらず、ロックの解除や操縦までコンピューターで制御されているため、PCやスマートフォンのようにハッキングの影響を受けるデバイスとなっています。新たにセキュリティ研究者のSam Curry氏が、「さまざまな車をハッキングしてユーザーの個人情報を取得したり、ロックを解除したり、位置を特定したり、クラクションを勝手に鳴らしたりする方法」を発見しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サッカーW杯クロアチア戦、日本はPKで敗北　ABEMA視聴数は2300万超え]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news068.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news068.html"/>
+        <updated>2022-12-05T17:53:00.000Z</updated>
+        <summary type="html"><![CDATA[12月6日に開催された「FIFA ワールドカップ カタール 2022」決勝トーナメントの1回戦「日本VSクロアチア戦」。勝負はPKまでもつれ込んだが、日本の敗北に終わった。試合を配信していた動画サービス「ABEMA」の視聴数は、試合終了直後の午前2時46分時点で約2300万まで増加。2日のスペイン戦で記録した1700万人を上回った。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABEMA、入場制限を一時発動　日本の先制ゴール後にアクセス集中か（追記あり）]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news062.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news062.html"/>
+        <updated>2022-12-05T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[AbemaTVが運営する動画配信サービス「ABEMA」は、「FIFA ワールドカップ カタール 2022」決勝トーナメントの1回戦、「日本VSクロアチア戦」において入場制限を実施した。現在は再びアクセスできるようになっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WasmバイナリをWin/Mac/Linuxで実行可能なバイナリファイルへ変換可能に「Wasmer 3.0」正式リリース]]></title>
+        <id>https://www.publickey1.jp/blog/22/wasmwinmaclinuxwasmer_30.html</id>
+        <link href="https://www.publickey1.jp/blog/22/wasmwinmaclinuxwasmer_30.html"/>
+        <updated>2022-12-05T15:18:49.000Z</updated>
+        <summary type="html"><![CDATA[スタンドアロンのWebAssemblyランタイム「Wasmer」の最新版「Wasmer 3.0」が正式リリースされました。  Announcing Wasmer 3.0https://t.co/Nay8Po9FXk&mdash; Wasme...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[詐欺師はスパムメールにわざと誤字脱字を入れることでカモを選別している]]></title>
+        <id>https://gigazine.net/news/20221205-scammers-spell-reason/</id>
+        <link href="https://gigazine.net/news/20221205-scammers-spell-reason/"/>
+        <updated>2022-12-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スパムメールの中には「主人がオオアリクイに殺されて1年が過ぎました」というような意味不明な内容のものが存在しており、こうした荒唐無稽な文面には「詐欺にだまされやすい人だけを見つける」という意図があるとされています。同様に、海外のスパムメールにはわざとスペルミスや文法ミスを紛れ込ませて、文章をきちんと読まない人だけをふるいにかける手口があることを専門家が指摘しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ひっくり返すとハート型の姿を見せる甘いいちごの大福アイス「雪見だいふく ハートのいちご」試食レビュー]]></title>
+        <id>https://gigazine.net/news/20221205-yukimi-daifuku-heart-strawberry/</id>
+        <link href="https://gigazine.net/news/20221205-yukimi-daifuku-heart-strawberry/"/>
+        <updated>2022-12-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[とちおとめいちごを使用した雪見だいふくの新フレーバー「雪見だいふく ハートのいちご」がロッテから登場しました。いちごの味わいがしっかり感じられるのに加え、ハートの形で見た目も楽しめるとのことなので、どんなものなのか確かめるべく実際に食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アンチチートツールを搭載した人気ゲーム「コール オブ デューティ モダン・ウォーフェアII」で誤BANされるプレイヤーが大量発生している]]></title>
+        <id>https://gigazine.net/news/20221205-call-of-duty-mw2-false-ban/</id>
+        <link href="https://gigazine.net/news/20221205-call-of-duty-mw2-false-ban/"/>
+        <updated>2022-12-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オンライン対戦ゲームで遊んでいると、不正な手段を用いて勝つチートプレイヤーとマッチングすることがあります。チートプレイヤーの存在はゲームから公平性を奪い、正当なプレイヤーのやる気を失わせるため、開発企業や運営企業もアンチチートツールをゲームに導入していますが、このアンチチートツールによる誤検出で、チート行為をしていないにもかかわらずアカウントをBANされてしまってゲームをプレイできなくなる人が続出していると、元Microsoftの技術者であるマイク・スワンソン氏が問題提起しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冬のエアコン、まだ寒いのに「弱運転」になる原因は〇　対策して節電も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news180.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news180.html"/>
+        <updated>2022-12-05T11:21:00.000Z</updated>
+        <summary type="html"><![CDATA[部屋の中はまだ寒いのに、エアコンが勝手に弱運転になり、いつまでたっても暖まらないなんてことはありませんか？　ここで設定温度を上げると無駄に電力を消費してしまう可能性があります。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonのベストセラーメーカーが1年で後発メーカーに敗れ9億円以上の損失を出し倒産するまで]]></title>
+        <id>https://gigazine.net/news/20221205-7-million-dollar-amazon-bankrupt/</id>
+        <link href="https://gigazine.net/news/20221205-7-million-dollar-amazon-bankrupt/"/>
+        <updated>2022-12-05T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonで2019年から2021年まで2年間、「マッサージガン」のベストセラー製品を販売していたというDavid氏が、後発メーカーから「偽の著作権侵害」などの妨害を受け、2022年11月に倒産し、その損失が700万ドル(約9億4000万円)に上ったことを報告しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大人気ゲームCoDのカモフラ性能高すぎスキンが人気すぎてSteamの売上上位に食い込む事態が発生]]></title>
+        <id>https://gigazine.net/news/20221205-call-of-duty-skin/</id>
+        <link href="https://gigazine.net/news/20221205-call-of-duty-skin/"/>
+        <updated>2022-12-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本を含む世界中でプレイされてる人気シューティングゲームのコール オブ デューティシリーズでは、武器やキャラクターの見た目を変化させるスキンパックが配付されています。そんなスキンパックの中でも真っ黒な見た目の有料スキンパック「Los Angeles Thievesパック2023」がSteamの売上上位に食い込む事態が発生しました。同スキンは真っ黒な見た目が特徴で、視認性の低さに着目したプレイヤーが購入しているようです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GMOクリック証券、27歳以下の株式取引手数料を無料化]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news168.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news168.html"/>
+        <updated>2022-12-05T09:57:00.000Z</updated>
+        <summary type="html"><![CDATA[GMOクリック証券は12月5日から、27歳以下の顧客の株式取引手数料を無料化する。28歳の誕生日前日の取引までが対象。既存ユーザーや未成年口座も適用となる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIに“W杯を見るための仕事の断り方”を考えてもらおう！　説得文生成AI、限定公開中]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news143.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news143.html"/>
+        <updated>2022-12-05T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[最近、画像生成AIが話題だ。しかし世の中にはまだあまり知られていないAIも多く存在する。本連載では面白いAI、癖のあるAIを紹介する。第1回はAI開発を手掛けるデジタルレシピの「W杯を見るために仕事や飲み会を断る」だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIで、3歳児のラクガキが“超美麗”に!?　「Meitu」で実験してみた]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news163.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news163.html"/>
+        <updated>2022-12-05T09:31:00.000Z</updated>
+        <summary type="html"><![CDATA[最近、Twitterを騒がせているのは、スマートフォンアプリ「Meitu」の「AIイラストメーカー」だ。「AIのやつ」などと呼ばれることもある。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年12月5日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221205-headline/</id>
+        <link href="https://gigazine.net/news/20221205-headline/"/>
+        <updated>2022-12-05T09:26:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年4月放送予定のTVアニメ「この素晴らしい世界に爆焔を！」のPVが公開されています。本作は「この素晴らしい世界に祝福を！」のスピンオフで、めぐみんがカズマたちと出会う以前の紅魔の里での姿が描かれます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ホロライブ・にじさんじ、中傷対策で協力　「タレントの人生を狂わせる」攻撃に歯止め]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news156.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news156.html"/>
+        <updated>2022-12-05T09:10:00.000Z</updated>
+        <summary type="html"><![CDATA[バーチャルYouTuber事務所を運営するカバーとANYCOLORが、所属タレントへの誹謗中傷対策で協力すると発表した。連携体制を強化し、名誉毀損や“荒らし”行為などに対処していく。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【キャリア相談会も実施】12月9日開催、Developers CAREER Boostおすすめセッション]]></title>
+        <id>http://codezine.jp/article/detail/16969</id>
+        <link href="http://codezine.jp/article/detail/16969"/>
+        <updated>2022-12-05T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[翔泳社 CodeZine編集部が12月9日（金）に開催するオンラインイベント「Developers CAREER Boost」。今回は、今週末に迫った本イベントの見どころについてご紹介します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「pixivプレミアム」が自動解約される不具合　クレカ決済刷新が原因　「自身で再登録を」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news149.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news149.html"/>
+        <updated>2022-12-05T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[「pixivプレミアム」（月額550円）で、ユーザーが意図せず自動解約される不具合が起きている。クレジットカード決済システム・請求サイクル刷新が原因だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食器に残った食器洗い機用の「リンス」が腸のバリアを破壊してしまうという研究結果]]></title>
+        <id>https://gigazine.net/news/20221205-gut-barrier-damage-dishwasher-rinse/</id>
+        <link href="https://gigazine.net/news/20221205-gut-barrier-damage-dishwasher-rinse/"/>
+        <updated>2022-12-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[食器洗い機は日々の家事負担を軽減してくれる非常に便利な家電であり、一度使い始めたら手洗いに戻れなくなったという人も多いはず。そんな食器洗い機には、乾燥効率を高めたり乾燥後の見た目をきれいにするリンス剤(すすぎ剤／乾燥仕上げ剤)を用いることがありますが、このリンス剤が食器に残留して腸のバリアを破壊する危険があるという研究結果が発表されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[この先スマートウォッチはどこへ向かうべきか？　日本には世界にまだない“巨大なニーズ”がある]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news142.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news142.html"/>
+        <updated>2022-12-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleが同社初となるスマートウォッチ「Pixel Watch」を発売したことから、またあらためてスマートウォッチに注目が集まっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「X68000 Z」クラファン、1時間で達成　5時間で1億円集まる]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news136.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news136.html"/>
+        <updated>2022-12-05T07:44:00.000Z</updated>
+        <summary type="html"><![CDATA[往年のシャープ製パソコン「X68000」を現代風にアレンジした「X68000 Z」のクラウドファンディングが12月3日にスタートし、目標額の3300万円を開始約1時間で達成した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コンカー、日本にデータセンター設立　“政府認定クラウドサービス”登録も目指す]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news133.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news133.html"/>
+        <updated>2022-12-05T07:39:00.000Z</updated>
+        <summary type="html"><![CDATA[コンカーが、同社で初めて国内にデータセンターを設立する。2024年下半期に開設予定。並行して、自社サービスを政府のクラウドサービス認定制度「政府情報システムのためのセキュリティ評価制度」（ISMAP）登録に向けた取り組みも進める。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「そんな急に」　家族SNS「ウェルノート」終了、1カ月前に突然告知　DL機能なし、ユーザー困惑]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news127.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news127.html"/>
+        <updated>2022-12-05T07:06:00.000Z</updated>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[考古学者がNetflixの人気ドキュメンタリーに「事実無根なのでフィクションとして分類」するよう求める公開書簡を発表]]></title>
+        <id>https://gigazine.net/news/20221205-netflix-docuseries-ancient-apocalypse-fiction/</id>
+        <link href="https://gigazine.net/news/20221205-netflix-docuseries-ancient-apocalypse-fiction/"/>
+        <updated>2022-12-05T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ考古学協会が、作家のグラハム・ハンコック氏が出演するNetflixのドキュメンタリー番組「Ancient Apocalypse(邦題：太古からの啓示)」が虚偽の主張をあたかも事実のように扱っており考古学をおとしめているとして、ドキュメンタリーではなくフィクション作品として再分類することを要請する声明を発表しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前澤友作さん「イーロンとミーティング終了」　9日朝に「宇宙に関する重大な発表」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news119.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news119.html"/>
+        <updated>2022-12-05T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[実業家の前澤友作さんがイーロン・マスク氏とオンラインでミーティング。自身のTwitterアカウントで「日本時間で12月9日朝頃に宇宙に関する重大な発表ができることになりました」と予告した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国政府がスマホ追跡や顔認識などを駆使し抗議者を追跡し自宅を特定、大規模な監視が裕福な都市の中流階級の人々に向けられたのは初めて]]></title>
+        <id>https://gigazine.net/news/20221205-china-phones-and-faces-track/</id>
+        <link href="https://gigazine.net/news/20221205-china-phones-and-faces-track/"/>
+        <updated>2022-12-05T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[厳格な新型コロナウイルス感染症対策(COVID-19)へ抗議活動を行った中国の国民が、過去10年をかけて中国政府が構築してきた強力な監視ツールにより正確に追跡されていることがニューヨーク・タイムズより伝えられました。政府がどのようなツールを使い、どのように人々を追跡しているのかについて、ニューヨーク・タイムズが解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[経産省、Web3実証実験でメタバース内イベント実施　NFT所持が入場権に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news105.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news105.html"/>
+        <updated>2022-12-05T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[経済産業省は、メタバースとNFTに関する実証実験の第1弾として、メタバース上でイベントを実施すると発表した。参加者が対象NFTを所持することでイベントやメタバースへの入場券を取得できる仕組みで、課題の洗い出しをする。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[変電所が銃で襲撃され非常事態宣言と同時に夜間外出禁止令を発令するというとんでもない事態がアメリカで発生]]></title>
+        <id>https://gigazine.net/news/20221205-moore-power-grid-attack/</id>
+        <link href="https://gigazine.net/news/20221205-moore-power-grid-attack/"/>
+        <updated>2022-12-05T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ・ノースカロライナ州ムーア郡で、複数の変電所に異常が発生して4万軒以上の住宅やオフィスが停電状態になったと報じられています。当局は少なくとも2つの変電所が銃撃によって損傷したことを確認したと報告しており、非常事態を宣言すると同時に夜間外出禁止令も発令する事態に発展しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[白人至上主義者で悪名高いネオナチのTwitterアカウントが復活、早速ヘイトスピーチを擁護]]></title>
+        <id>https://gigazine.net/news/20221205-andrew-anglin-twitter/</id>
+        <link href="https://gigazine.net/news/20221205-andrew-anglin-twitter/"/>
+        <updated>2022-12-05T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの極右や白人至上主義者が集まるサイト「デイリー・ストーマー」を運営していることで知られるアンドリュー・アングリン氏のTwitterアカウントが、サイトを立ち上げた直後にBANされてから約10年ぶりに復活しました。これはTwitterのCEOとなったイーロン・マスク氏による「言論の自由」を復活させる取り組みの一環とみられており、アングリン氏はTwitterに復帰して間もなく、ヒトラーとナチスへの愛を宣言するアメリカ人ラッパーへの支持を表明しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チャットAI「ChatGPT」のコンテンツフィルターを解除して「銃の作り方」などを回答させる方法が発見される]]></title>
+        <id>https://gigazine.net/news/20221205-chatgpt-content-filter/</id>
+        <link href="https://gigazine.net/news/20221205-chatgpt-content-filter/"/>
+        <updated>2022-12-05T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIが開発したチャットAI「ChatGPT」は、日本語や英語で質問文を入力すると違和感の少ない言葉で回答してくれます。そんなChatGPTには不適切な質問をブロックするコンテンツフィルターが設定されているのですが、フィルターを解除する方法が発見されたので、実際に試してみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[辛さより酸味強めでズルズルすすれる「東京純豆腐監修 純豆腐チゲラーメン」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221205-sundubu-jjigae-noodle/</id>
+        <link href="https://gigazine.net/news/20221205-sundubu-jjigae-noodle/"/>
+        <updated>2022-12-05T03:17:00.000Z</updated>
+        <summary type="html"><![CDATA[韓国の鍋料理の1つ・純豆腐の専門店である「東京純豆腐」の人気メニュー「豚キムチスンドゥブ」をカップ麺で再現した「東京純豆腐監修 純豆腐チゲラーメン」が2022年11月28日(月)から登場したので、買ってきて食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国立天文台でUSBメモリ紛失　個人情報を最大1048人分保存　最後に見たのは21年11月]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news090.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news090.html"/>
+        <updated>2022-12-05T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[国立天文台が、約1000人分の個人情報を保存したUSBメモリを紛失したとして謝罪した。情報の不正使用は確認されていないが、USBメモリはいまだ見つかっていないとしている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppleがiPhone生産の40～45%をインドに移してリスクの高い中国からの脱却を検討中]]></title>
+        <id>https://gigazine.net/news/20221205-apple-plan-move-production/</id>
+        <link href="https://gigazine.net/news/20221205-apple-plan-move-production/"/>
+        <updated>2022-12-05T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneのほとんどはFoxconnを始めとする電子機器製造企業の中国工場で製造が行われていますが、昨今の新型コロナウイルス感染症(COVID-19)によるロックダウンや従業員の抗議デモ、サプライチェーンの混乱などの影響を鑑み、Appleが製造拠点をインドやベトナムに移す計画を加速させていると伝えられています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[povo2.0、1年で6回線以上の新規契約は事務手数料を有料に　MNP踏み台排除]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news077.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news077.html"/>
+        <updated>2022-12-05T02:58:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは12月20日以降、直近1年間に同一名義で6回線以上新規契約する場合、契約事務手数料を設定すると発表した。1回線あたり3300円を請求する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「zenly」、来年2月3日にサービス終了　若年層に人気の位置情報共有アプリ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news087.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news087.html"/>
+        <updated>2022-12-05T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[米Snapchatは、位置情報共有サービス「zenly」を2023年2月3日に終了する。もともと、zenlyの日本語公式アカウントが9月1日に「数カ月後に提供を終了する」とツイートしていたが、正式にサービス終了日が発表された形だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterのヘイトスピーチがイーロン・マスクの買収後に急増していると研究者が報告、マスク氏は「全くの虚偽」と反論]]></title>
+        <id>https://gigazine.net/news/20221205-twitter-hate-speech-rise-unprecedented/</id>
+        <link href="https://gigazine.net/news/20221205-twitter-hate-speech-rise-unprecedented/"/>
+        <updated>2022-12-05T02:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterを買収したイーロン・マスク氏は「言論の自由」を掲げ、差別発言やヘイトスピーチで凍結されたアカウントの復活を進めています。そんな中、デジタルヘイト対策センターや名誉毀損防止同盟などの研究チームが、「Twitterでは前例のないレベルでヘイトスピーチが増加している」と報告しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEが開発者に提供している機能を詳しく解説、アプリ開発環境を準備しよう]]></title>
+        <id>http://codezine.jp/article/detail/16857</id>
+        <link href="http://codezine.jp/article/detail/16857"/>
+        <updated>2022-12-05T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[LINEはスマートフォンやパソコン、タブレットなどで利用できるアプリケーション。 LINEアプリのユーザー同士は、無料でメッセージのやり取り、音声通話、ビデオ通話ができます。しかし、LINEアプリ、またはLINE上のシステムは多くの人が使ってことがあるにもかかわらず、実際に何ができるのかを知らないエンジニアやIT関係者も多くいます。そこで、本稿では、LINE上で実現されているアプリやシステムがどのようなAPIを使って実現されているかを紹介しながら、その仕組みを紹介します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、SIer世界一にクラスメソッドを選出　アジア太平洋一はアイレット]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news076.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news076.html"/>
+        <updated>2022-12-05T01:18:00.000Z</updated>
+        <summary type="html"><![CDATA[AWSが、同社の優れたパートナーを表彰する「2022 AWS Partner of the Year」を発表。「SI Partners of the Year」のグローバル選出は日本のクラスメソッド、アジア太平洋・日本の選出はアイレットだった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北大発AI研究開発ベンチャーの調和技研がAOSデータと提携、システム構築・受託開発サービスを開始]]></title>
+        <id>http://codezine.jp/article/detail/16965</id>
+        <link href="http://codezine.jp/article/detail/16965"/>
+        <updated>2022-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[北大発認定ベンチャー企業である調和技研は、データテック技術を基盤としたAIライフサイクルにおけるプラットフォームやサービスを提供しているAOSデータと戦略的提携を行い、AIライフサイクル基盤のAIデータ、およびAI産業実装ソリューションのAIシステム構築・運用プロジェクトにおけるワンストップサービスを12月1日より共同で提供開始した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本ディープラーニング協会、G検定の受験申し込みを開始、合格者による学習法講座などのイベントも開催]]></title>
+        <id>http://codezine.jp/article/detail/16966</id>
+        <link href="http://codezine.jp/article/detail/16966"/>
+        <updated>2022-12-05T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本ディープラーニング協会（以下JDLA）は、2023年3月3日、4日に開催を予定している2023年第1回「G検定（ジェネラリスト検定）」の受験申込受付を12月1日13時から開始した。受付は2023年2月22日まで。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万博ノベルティーにゲームアプリ？　環境負荷減らす]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news065.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news065.html"/>
+        <updated>2022-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年大阪・関西万博の資源循環型の会場運営に関する審議会が開催され、来場者に配るノベルティーをゲームアプリなど電子的なものを含め環境負荷の少ないものとする方針を明らかにした。基準は22年度中に策定する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドローンの自動飛行、住宅地上空も5日に解禁]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news064.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news064.html"/>
+        <updated>2022-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[改正航空法が12月5日に施行され、操縦者の目が届かない距離でも、ドローンを住宅地など人がいるエリアの上空を自動で飛ばすことが認められる。人手不足に悩む物流分野の企業で事業化を目指す動きが加速する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「2足歩行の人間」が「4足歩行のロボット」を全身運動で直感操作するとこうなる]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news032.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news032.html"/>
+        <updated>2022-12-04T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[韓国のソウル大学校と米ジョージア工科大学に所属する研究者らは、人が直感的に4足歩行ロボットを制御できる手法を提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホで「隠しカメラ」を手軽に見つけられるアプリ　赤外線カメラを付け、熱画像を取得　米国チームが開発]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news031.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news031.html"/>
+        <updated>2022-12-04T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米セントルイス・ワシントン大学、米テネシー大学に所属する研究者らは、熱画像で隠しカメラを見つけられるアプリを提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TwitterのマスクCEO、「Appleは（Twitterでの）広告を完全に再開した」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/05/news062.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news062.html"/>
+        <updated>2022-12-04T22:52:00.000Z</updated>
+        <summary type="html"><![CDATA[TwitterのマスクCEOは、「Appleが広告を完全に再開した」と語った。他の広告主も戻ってくると思うとも。「Twitter Files」に関する「スペース」での発言だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSのSIer世界一に日本の「クラスメソッド」が選出、アジア太平洋では「アイレット」が選出。クラウド専門のSIerがリードするクラウドのSIビジネス]]></title>
+        <id>https://www.publickey1.jp/blog/22/awssiersiersi.html</id>
+        <link href="https://www.publickey1.jp/blog/22/awssiersiersi.html"/>
+        <updated>2022-12-04T15:09:04.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Servicesは、米ラスベガスで開催した年次イベント「AWS re:Invent 2022」で同社の優れたパートナーを表彰する「2022 AWS Partner of the Year」を発表しました。 各部門はグロ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HPEがNutanix買収に向けて交渉中と米ブルームバーグが報道。縮小するオンプレミス市場での買収の思惑とは？]]></title>
+        <id>https://www.publickey1.jp/blog/22/hpenutanix.html</id>
+        <link href="https://www.publickey1.jp/blog/22/hpenutanix.html"/>
+        <updated>2022-12-04T15:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Hewlett Packard Enterprise（HPE）がハイパーコンバージドシステム大手のNutanixの買収に向けて交渉していると米ブルームバーグが報道し、話題となっています。 ＨＰＥ、クラウド会社ニュータニックスの買収に関心－関...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABEMA、クロアチア戦でアクセス制限の可能性　サッカーW杯カタール大会]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/04/news050.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/04/news050.html"/>
+        <updated>2022-12-04T05:23:00.000Z</updated>
+        <summary type="html"><![CDATA[ABEMAは、6日の午前0時（5日深夜）に始まる日本対クロアチア戦で、アクセスが集中した場合に入場制限をかける可能性があると明らかにした。「快適な聴環境を維持するため」という。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「電熱ウェア」の異常発熱に注意、国民生活センターが呼び掛け　200度に過熱した例も　「異常感じたら利用やめて」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/02/news172.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news172.html"/>
+        <updated>2022-12-03T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[国民生活センターが、バッテリーなどで電熱線を発熱させて暖を取る防寒着「電熱ウェア」について、利用時は異常な発熱に注意するよう注意を呼び掛けた。同センターには電熱ウェアに起因する衣服の焼損・やけどの相談が複数寄せられているという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お絵描きWebアプリ「Quick, Draw!」　Google製の楽しいゲーム　目的は「◯◯データ」の収集？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/03/news034.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/03/news034.html"/>
+        <updated>2022-12-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google製のお絵描きゲーム「Quick, Draw!」は、手軽に遊べるWebアプリだ。お題を基に絵を描き、AIが何を描いたか判定する。実はこのコンテンツの狙いは「◯◯データ」の収集にあった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter、イェ（カニエ・ウェスト）のアカウントを再凍結]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/03/news046.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/03/news046.html"/>
+        <updated>2022-12-02T23:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterは11月半ばに凍結解除したイェ（元カニエ・ウェスト）のアカウントを再凍結した。マスクCEOは「最善を尽くしたが、彼は再度暴力の扇動に関するTwitterルールに違反した。アカウントは停止だ」とツイートした。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「受け入れられない」　クリスタ、画像生成AIの実装を見送り　ユーザーから苦情相次ぐ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/02/news175.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news175.html"/>
+        <updated>2022-12-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[セルシスが、CLIP STUDIO PAINTに試験的に導入するとしていたAI画像生成機能について、搭載を見送ると発表した。ユーザーからの批判を受け、方針転換したとしている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ポケモンGO」で3日に“メガレイドデー”　無料パス5枚配布、「メガラグラージ」など初登場]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/02/news166.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news166.html"/>
+        <updated>2022-12-02T09:19:00.000Z</updated>
+        <summary type="html"><![CDATA[ポケモンGOで3日午後2時から「ホウエンメガレイド」が開催されます。「メガラグラージ」「メガジュカイン」「メガバシャーモ」が初登場。無料レイドパスも5枚もらえます。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、画像生成AI「Stable Diffusion」向けに機械学習フレームワークCore MLを最適化]]></title>
+        <id>http://codezine.jp/article/detail/16962</id>
+        <link href="http://codezine.jp/article/detail/16962"/>
         <updated>2022-12-02T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The world of design systems can be overwhelming sometimes. There’s a lot to take in when you get into that space! In this article, Dan Donald dives into a simple component and explores some issues, complexity, and power we can encounter.]]></summary>
+        <summary type="html"><![CDATA[米Appleは、Appleシリコン搭載デバイス上で動作するmacOS 13.1およびiOS 16.2において、画像生成AI「Stable Diffusion」のための機械学習フレームワークCore MLの最適化を行ったことを発表した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Dan Donald)</name>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[People Spent 4 Billion Minutes Learning on freeCodeCamp in 2022]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-2022-usage-statistics/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-2022-usage-statistics/"/>
-        <updated>2022-12-02T00:22:33.000Z</updated>
-        <summary type="html"><![CDATA[That's 8,000 years. That's a lot of learning. 2022 has been a massive year for the freeCodeCamp community. People around the world are using freeCodeCamp to expand their skills and advance their careers. Here's a breakdown of site usage across the four main pillars of the freeCodeCamp community: /learn (the]]></summary>
+        <title type="html"><![CDATA[AVILEN、来年1/15までAI学習講座を割引価格で提供、E資格講座など4講座が対象]]></title>
+        <id>http://codezine.jp/article/detail/16963</id>
+        <link href="http://codezine.jp/article/detail/16963"/>
+        <updated>2022-12-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AVILENは、「年末年始の学びを応援！AI学習講座割引キャンペーン」を12月1日～2023年1月15日の期間に開催する。]]></summary>
         <author>
-            <name>Quincy Larson</name>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Announcing freeCodeCamp's 2022 Top Contributors]]></title>
-        <id>https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/</id>
-        <link href="https://www.freecodecamp.org/news/freecodecamp-2022-top-contributors/"/>
-        <updated>2022-12-02T00:21:15.000Z</updated>
-        <summary type="html"><![CDATA[2022 was a massive year for the freeCodeCamp community:  * The community helped millions of people around the world learn math,    programming, and computer science. We also helped them stay motivated and    moving forward toward their goals.  * We published thousands of]]></summary>
+        <title type="html"><![CDATA[瑞起「X68000 Z」、3日にクラファン開始　約5万円]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/02/news144.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news144.html"/>
+        <updated>2022-12-02T07:27:00.000Z</updated>
+        <summary type="html"><![CDATA[瑞起は往年のシャープ製パソコン「X68000」を現代風にアレンジした「X68000 Z LIMITED EDITION EARLY ACCESS KIT」のクラウドファンディングを実施する。支援購入は4万9500円。]]></summary>
         <author>
-            <name>Quincy Larson</name>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dijkstra's Algorithm – Explained with a Pseudocode Example]]></title>
-        <id>https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/</id>
-        <link href="https://www.freecodecamp.org/news/dijkstras-algorithm-explained-with-a-pseudocode-example/"/>
-        <updated>2022-12-01T20:57:53.000Z</updated>
-        <summary type="html"><![CDATA[You can use algorithms in programming to solve specific problems through a set of precise instructions or procedures. Dijkstra's algorithm is one of many graph algorithms you'll come across. It is used to find the shortest path from a fixed node to all other nodes in a graph. There are]]></summary>
+        <title type="html"><![CDATA[書店「有隣堂」ヨドバシAKIBA店、閉店へ　利用者「ショック」「残念」「ありがとう」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/02/news134.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news134.html"/>
+        <updated>2022-12-02T06:35:00.000Z</updated>
+        <summary type="html"><![CDATA[「有隣堂 ヨドバシAKIBA店」が2023年1月9日に閉店する。「ヨドバシカメラ マルチメディアAkiba」7階にある大型書店だ。]]></summary>
         <author>
-            <name>Ihechikara Vincent Abba</name>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SQL INSERT Statement – How to Insert Data into a Table in SQL]]></title>
-        <id>https://www.freecodecamp.org/news/sql-insert-statement/</id>
-        <link href="https://www.freecodecamp.org/news/sql-insert-statement/"/>
-        <updated>2022-12-01T18:54:21.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, you'll learn how to use the SQL INSERT statement. We'll discuss the syntax of INSERT, and then we'll use an example to show all the different ways you can use INSERT. We'll also combine it with other helpful clauses to perform more complex operations. Prerequisites  *]]></summary>
+        <title type="html"><![CDATA[Teslaの大型電気トラック「SEMI」をようやく納車開始]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/02/news126.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news126.html"/>
+        <updated>2022-12-02T05:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Teslaは2017年に発表した大型電気トラック「SEMI」の出荷イベントを開催した。2019年に予定されていた出荷を同日開始した。マスクCEOは2024年までに5万台生産すると語った。]]></summary>
         <author>
-            <name>Annoh Karlgusta</name>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digging Deeper Into Container Style Queries]]></title>
-        <id>https://css-tricks.com/?p=375607</id>
-        <link href="https://css-tricks.com/digging-deeper-into-container-style-queries/"/>
-        <updated>2022-12-01T13:59:06.000Z</updated>
-        <summary type="html"><![CDATA[I wrote up some early thoughts on container style queries a little while back. It’s still early days. They’re already defined in the CSS Containment Module Level 1 specification (currently in Editor’s Draft status) but there’s still a couple of …
-Digging Deeper Into Container Style Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[W杯クロアチア戦の勝率は32％、JX通信社がシミュレーション　優勝する確率は0.8％]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/02/news115.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news115.html"/>
+        <updated>2022-12-02T04:39:00.000Z</updated>
+        <summary type="html"><![CDATA[JX通信社は2日、開催中のサッカー世界大会「FIFA ワールドカップ カタール 2022」（W杯）で日本代表が次の対戦相手であるクロアチアに勝利する確率は32.3%というシミュレーション結果を発表した。スペイン戦より高水準という。]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FabUnit: A Smart Way To Control And Synchronize Typo And Space]]></title>
-        <id>https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/</id>
-        <link href="https://smashingmagazine.com/2022/12/fabunit-smart-way-control-synchronize-typo-space/"/>
-        <updated>2022-12-01T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, we’ll take a look at the Sass function that does all the work for you — with no media queries, no breakpoints, and no design jumps. In this article, Fabienne Bielmann explains what FabUnit stands for and why she decided to create her very own responsive magic formula.]]></summary>
+        <title type="html"><![CDATA[Outlook、Teams、Skypeで障害発生　メール送信や検索、決済などに問題]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/02/news102.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news102.html"/>
+        <updated>2022-12-02T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftが提供する「Outlook」「Microsoft Teams」「Skype」で障害が発生。メール送信や検索、決済などの機能が使えないなどの問題が出ている。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Fabienne Bielmann)</name>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using The New Constrained Layout In WordPress Block Themes]]></title>
-        <id>https://css-tricks.com/?p=375278</id>
-        <link href="https://css-tricks.com/using-the-new-constrained-layout-in-wordpress-block-themes/"/>
-        <updated>2022-11-30T14:11:10.000Z</updated>
-        <summary type="html"><![CDATA[One of the main goals of the WordPress Site Editor (and, yes, that is now the “official” name) is to move basic block styling from CSS to structured JSON. JSON files are machine-readable, which makes it consumable by …
-Using The New Constrained Layout In WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[「SpreadJS」のスプレッドシートをVue.js＋ASP.NET Coreで活用してデータ集計するWebページを作ろう]]></title>
+        <id>http://codezine.jp/article/detail/16799</id>
+        <link href="http://codezine.jp/article/detail/16799"/>
+        <updated>2022-12-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本記事では、ExcelライクなスプレッドシートをWebページに表示できるグレープシティのJavaScriptライブラリ「SpreadJS」を、JavaScriptのフレームワークVue.jsと組み合わせて利用する例を紹介します。サーバー側はマイクロソフトのASP.NET CoreでWeb APIを作成して、Web APIから取得したデータをSpreadJSで表示させます。]]></summary>
         <author>
-            <name>Ganesh Dahal</name>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Endings And New Beginnings (December 2022 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/</id>
-        <link href="https://smashingmagazine.com/2022/11/desktop-wallpaper-calendars-december-2022/"/>
-        <updated>2022-11-30T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[December is almost here, so why not spread some holiday love across your devices? We’ve got some beautiful wallpapers to sweeten up the last days of the year.]]></summary>
+        <title type="html"><![CDATA[Datadog、「コンテナの実態調査」により企業のコンテナ導入が加速していることが明らかに]]></title>
+        <id>http://codezine.jp/article/detail/16956</id>
+        <link href="http://codezine.jp/article/detail/16956"/>
+        <updated>2022-12-02T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Datadogは、同社の「コンテナの実態調査」第4版を12月1日に発表した。本調査はDatadogの顧客が運用しているコンテナの使用データに基づいて、コンテナエコシステムの状況を把握する目的で作成された。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More Than “Slapping Paint on a Website”]]></title>
-        <id>https://css-tricks.com/?p=375190</id>
-        <link href="https://css-tricks.com/more-than-slapping-paint-on-a-website/"/>
-        <updated>2022-11-29T15:03:20.000Z</updated>
-        <summary type="html"><![CDATA[I’m a sucker for anything about front-end job titles.
-Anselm Hannemann:
-CSS evolved and we’re beyond the point where everyone can just do it as a side interest. We all can learn it and build amazing stuff with it, 
-…
-More Than “Slapping Paint on a Website” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[AWS、独自アプリのアクセス制御を実現する「Amazon Verified Permissions」をプレビューとして公開]]></title>
+        <id>http://codezine.jp/article/detail/16959</id>
+        <link href="http://codezine.jp/article/detail/16959"/>
+        <updated>2022-12-02T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Amazon Web Servicesは、クラウド上に構築した独自アプリケーションのアクセス制御を可能にするサービス「Amazon Verified Permissions」のプレビュー版を11月28日（現地時間）に公開した。]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Newer Things to Know About Good Ol’ HTML Lists]]></title>
-        <id>https://css-tricks.com/?p=375273</id>
-        <link href="https://css-tricks.com/newer-things-to-know-about-good-ol-html-lists/"/>
-        <updated>2022-11-28T14:05:11.000Z</updated>
-        <summary type="html"><![CDATA[HTML lists are boring. They don’t do much, so we don’t really think about them despite how widely used they are. And we’re still able to do the same things we’ve always done to customize them, like removing markers, reversing …
-Newer Things to Know About Good Ol’ HTML Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[AWS、データベース・サービスでブルー／グリーン・デプロイメントを自動化するサービスを開始]]></title>
+        <id>http://codezine.jp/article/detail/16958</id>
+        <link href="http://codezine.jp/article/detail/16958"/>
+        <updated>2022-12-02T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米Amazon Web Servicesは、データベース・サービス「Amazon Aurora」と「Amazon Relational Database Service（RDS）」で、ブルー／グリーン・デプロイメントを自動化するサービスの提供を11月27日（現地時間）に開始した。]]></summary>
         <author>
-            <name>Daniel Schwarz</name>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Document Object Model (DOM) Geometry: A Beginner’s Introduction And Guide]]></title>
-        <id>https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/</id>
-        <link href="https://smashingmagazine.com/2022/11/document-object-model-geometry-guide/"/>
-        <updated>2022-11-24T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this guide, Pearl Akpan analyzes the methods and properties that make user interface solutions such as infinite scrolling, animating elements on scroll, or even the popular drag and drop achievable, and afterward, dives into some practical use cases for them.]]></summary>
+        <title type="html"><![CDATA[OpenAIが会話向け言語モデル「ChatGPT」を公開、リサーチプレビュー中は無料で使用可能]]></title>
+        <id>http://codezine.jp/article/detail/16954</id>
+        <link href="http://codezine.jp/article/detail/16954"/>
+        <updated>2022-12-01T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIは、会話形式でやり取りする言語モデル「ChatGPT」を、11月30日（現地時間）にリサーチプレビュー公開した。リサーチプレビュー中は無料で使用できる。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Pearl Akpan)</name>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Messages & Color Contrast]]></title>
-        <id>https://css-tricks.com/?p=375343</id>
-        <link href="https://css-tricks.com/apple-messages-color-contrast/"/>
-        <updated>2022-11-23T14:25:03.000Z</updated>
-        <summary type="html"><![CDATA[Well, color me this! I was griping to myself last night about just how gosh dang hard it is to read text messages in Apple Messages. You know, not the blue bubbles that you get when messaging other iPhone users. …
-Apple Messages & Color Contrast originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[［速報］AWS上で開発環境一式、フレームワーク、初期コード、IDE、ビルド環境、CI/CDなど提供する「Amazon CodeCatalyst」発表。AWS re:Invent 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/awsidecicdamazon_codecatalystaws_reinvent_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/awsidecicdamazon_codecatalystaws_reinvent_2022.html"/>
+        <updated>2022-12-01T20:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）は米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」で、AWS上で開発チームのための環境一式を提供する「Amazon CodeCatalyst」を発表しました。 Ama...]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Publickey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WordPress Developer Blog]]></title>
-        <id>https://css-tricks.com/?p=375599</id>
-        <link href="https://css-tricks.com/wordpress-developer-blog/"/>
-        <updated>2022-11-22T18:36:12.000Z</updated>
-        <summary type="html"><![CDATA[Well, hey check this out. Looks like there is a brand spankin’ new blog over at WordPress.org all about WordPress development. In the original proposal for the blog, Birgit Pauli-Haak writes:
-The Make Core blog has a heavy 
-…
-WordPress Developer Blog originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[［速報］AWS、サーバレスアプリのビジュアル開発ツール「Application Composer」発表。AWS re:Invent 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/awsapplication_composeraws_reinvent_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/awsapplication_composeraws_reinvent_2022.html"/>
+        <updated>2022-12-01T20:21:16.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）が米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」。最後の基調講演にはAmazon.com VP兼CTOのWerner Vogels博士が登壇しました。 Vogels...]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Publickey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Optimizing A Vue App]]></title>
-        <id>https://smashingmagazine.com/2022/11/optimizing-vue-app/</id>
-        <link href="https://smashingmagazine.com/2022/11/optimizing-vue-app/"/>
-        <updated>2022-11-22T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Prioritizing performance when building our web apps improves the user experience and helps ensure they can be used by as many people as possible. In this article, Michelle Barker will walk you through some of the front-end optimization tips to keep our Vue apps as efficient as possible.]]></summary>
+        <title type="html"><![CDATA[アドビ、外部の有識者を交えた「アドビ未来デジタルラボ」を発足　及川卓也氏らが参画]]></title>
+        <id>http://codezine.jp/article/detail/16957</id>
+        <link href="http://codezine.jp/article/detail/16957"/>
+        <updated>2022-12-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アドビは、12月1日に記者発表会を開催し、2022年の振り返りと、同社が新たに発足した「アドビ未来デジタルラボ」について紹介した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taming the Cascade With BEM and Modern CSS Selectors]]></title>
-        <id>https://css-tricks.com/?p=375144</id>
-        <link href="https://css-tricks.com/taming-the-cascade-with-bem-and-modern-css-selectors/"/>
-        <updated>2022-11-21T13:59:15.000Z</updated>
-        <summary type="html"><![CDATA[BEM. Like seemingly all techniques in the world of front-end development, writing CSS in a BEM format can be polarizing. But it is – at least in my Twitter bubble – one of the better-liked CSS methodologies.
-Personally, I think …
-Taming the Cascade With BEM and Modern CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[未経験からエンジニアを目指す転職支援サービス「ENたま」、リニューアルオープン]]></title>
+        <id>http://codezine.jp/article/detail/16951</id>
+        <link href="http://codezine.jp/article/detail/16951"/>
+        <updated>2022-12-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[エンライズグループは、未経験からエンジニアを目指す人向け転職支援と、ITエンジニアを採用したい企業向け採用支援の2つのサービス機能を持つ「ENたま」のサイトをリニューアルオープンした。]]></summary>
         <author>
-            <name>Liam Johnston</name>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Keyboard Accessibility: JavaScript (Part 2)]]></title>
-        <id>https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/</id>
-        <link href="https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-javascript-part2/"/>
-        <updated>2022-11-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article is the second of two parts about a guide to making websites accessible to keyboard users. Here Cristian Diaz covers a toolset on JavaScript that you can mix into different components to create a great experience for keyboard users.]]></summary>
+        <title type="html"><![CDATA[Yahoo! JAPANがキラメックスと業務提携しエンジニアへのリスキリングを支援する「Yahoo!テックアカデミー」を開設、受講者募集]]></title>
+        <id>http://codezine.jp/article/detail/16952</id>
+        <link href="http://codezine.jp/article/detail/16952"/>
+        <updated>2022-12-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヤフー（以下Yahoo! JAPAN）は、ユナイテッドの連結子会社でデジタル教育事業を展開するキラメックスと業務提携し、有料のオンラインプログラミングスクール「Yahoo!テックアカデミー」を開設した。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Cristian Díaz)</name>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Making Static Noise From a Weird CSS Gradient Bug]]></title>
-        <id>https://css-tricks.com/?p=374993</id>
-        <link href="https://css-tricks.com/making-static-noise-from-a-weird-css-gradient-bug/"/>
-        <updated>2022-11-18T13:55:24.000Z</updated>
-        <summary type="html"><![CDATA[What I will be doing here is kind of an experiment to explore tricks that leverage a bug with the way CSS gradients handle sub-pixel rendering to create a static noise effect — like you might see on a TV with no signal.
-Making Static Noise From a Weird CSS Gradient Bug originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[［速報］Amazon S3にファイルを置くとAmazon Redshiftに自動で取り込まれる「Amazon Redshift auto-copy from S3」発表]]></title>
+        <id>https://www.publickey1.jp/blog/22/amazon_s3amazon_redshiftamazon_redshift_auto-copy_from_s3.html</id>
+        <link href="https://www.publickey1.jp/blog/22/amazon_s3amazon_redshiftamazon_redshift_auto-copy_from_s3.html"/>
+        <updated>2022-11-30T18:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」で、Amazon S3からAmazon Redshiftへデータを自動的にコピーする新サービス「Amazon Re...]]></summary>
         <author>
-            <name>Temani Afif</name>
+            <name>Publickey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 54 With Stéphanie Walter: What Is User Journey Mapping?]]></title>
-        <id>https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/</id>
-        <link href="https://smashingmagazine.com/2022/11/smashing-podcast-episode-54/"/>
-        <updated>2022-11-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode we’re talking about User Journey Mapping. What is it, and how does it help us build better digital products? Vitaly talks to expert Stéphanie Walter to find out.]]></summary>
+        <title type="html"><![CDATA[AWS、シムシティのように都市などの大規模3Dシミュレーション演算をクラウド上で可能にする「AWS SimSpace Weaver」発表。AWS re:Invent 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/aws3daws_simspace_weaveraws_reinvent_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/aws3daws_simspace_weaveraws_reinvent_2022.html"/>
+        <updated>2022-11-30T16:06:53.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」で、現実の都市の規模で何百万ものオブジェクトが相互に連携する大規模な3Dシミュレーションのための演算をクラウド上で...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>Publickey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Creating a Settings UI for a Custom WordPress Block]]></title>
-        <id>https://css-tricks.com/?p=375098</id>
-        <link href="https://css-tricks.com/creating-a-settings-ui-for-a-custom-wordpress-block/"/>
-        <updated>2022-11-17T13:48:26.000Z</updated>
-        <summary type="html"><![CDATA[So far, we’ve covered how to work with data from an external API in a custom WordPress block. We walked through the process of fetching that data for use on the front end of a WordPress site, and how to …
-Creating a Settings UI for a Custom WordPress Block originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[［速報］Amazon OpenSearch Serviceをサーバレス化する「Amazon OpenSearch Serverless」プレビュー版登場。AWS re:Invent 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/amazon_opensearch_serviceamazon_opensearch_serverlessaws_reinvent_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/amazon_opensearch_serviceamazon_opensearch_serverlessaws_reinvent_2022.html"/>
+        <updated>2022-11-29T19:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）の年次イベント「AWS re:Invent 2022」が米ラスベガスで開催中です。 2日目の基調講演では、検索エンジンサービスのAmazon OpenSearch Serviceをサーバレス化...]]></summary>
         <author>
-            <name>Manoj Kumar</name>
+            <name>Publickey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Image Optimization On Jamstack Sites]]></title>
-        <id>https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/</id>
-        <link href="https://smashingmagazine.com/2022/11/guide-image-optimization-jamstack-sites/"/>
-        <updated>2022-11-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Alba Silvente shows us the theoretical and practical solutions to the most common problems when working with images and how to automate them by using a headless CMS and an image CDN.]]></summary>
+        <title type="html"><![CDATA[［速報］Amazon AuroraのOLTPとRedshiftのDWHを統合する「Amazon Aurora zero-ETL integration with Amazon Redshift」発表。AWS re:Invent 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/amazon_auroraoltpredshiftdwhamazon_aurora_zero-etl_integration_with_amazon_redshiftaws_reinvent_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/amazon_auroraoltpredshiftdwhamazon_aurora_zero-etl_integration_with_amazon_redshiftaws_reinvent_2022.html"/>
+        <updated>2022-11-29T19:22:08.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）の年次イベント「AWS re:Invent 2022」が米ラスベガスで開催中です。 2日目の基調講演には、AWS CEOのAdam Selipsky氏が生バンドの演奏とともに登場しました。 S...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Alba Silvente)</name>
+            <name>Publickey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DigitalOcean Welcomes Cloudways to the Family]]></title>
-        <id>https://css-tricks.com/?p=375385</id>
-        <link href="https://css-tricks.com/digitalocean-welcomes-cloudways-to-the-family/"/>
-        <updated>2022-11-16T23:38:36.000Z</updated>
-        <summary type="html"><![CDATA[Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …
-DigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[［速報］AWS、クラウド基盤用のカスタムチップ「AWS Nitro v5」を発表。パケット処理能力など向上。AWS re:Invent 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/awsaws_nitro_v5aws_reinvent_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/awsaws_nitro_v5aws_reinvent_2022.html"/>
+        <updated>2022-11-29T08:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）の年次イベント「AWS re:Invent 2022」が米ラスベガスで開催中です。 最初の基調講演となった「Monday Night Live」に登壇したAWS Utility Computi...]]></summary>
         <author>
-            <name>Haley Mills</name>
+            <name>Publickey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finding Front-End Development Scholarships]]></title>
-        <id>https://css-tricks.com/?p=374792</id>
-        <link href="https://css-tricks.com/finding-front-end-development-scholarships/"/>
-        <updated>2022-11-16T14:11:11.000Z</updated>
-        <summary type="html"><![CDATA[I’m often asked where to learn web development. The answer varies, of course, and we’ve published a few posts on the topic over the years, the most recent of which was Chris taking a stab at different learning paths in …
-Finding Front-End Development Scholarships originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[［速報］AWS Lambdaのコールドスタートを劇的に速くする「AWS Lambda SnapStart」発表。AWS re:Invent 2022]]></title>
+        <id>https://www.publickey1.jp/blog/22/aws_lambdaaws_lambda_snapstartaws_reinvent_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/22/aws_lambdaaws_lambda_snapstartaws_reinvent_2022.html"/>
+        <updated>2022-11-29T05:28:20.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）の年次イベント「AWS re:Invent 2022」が米ラスベガスで開幕しました。 毎年恒例となった月曜日夜に行われるイベント最初の大型セッション「Monday Night Live」には、...]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Publickey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using Automated Test Results To Improve Accessibility]]></title>
-        <id>https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/</id>
-        <link href="https://smashingmagazine.com/2022/11/automated-test-results-improve-accessibility/"/>
-        <updated>2022-11-16T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Noah Mashni and Mark Steadman share their approach to how to leverage the automated test results from the accessibility checks to drive change and reach sustainable digital accessibility transformation.]]></summary>
+        <title type="html"><![CDATA[「Amazon RDS Blue/Green Deployments」登場。ステージング用データベースの構成、本番DBとの同期、安全な切り替えなど提供]]></title>
+        <id>https://www.publickey1.jp/blog/22/amazon_rds_bluegreen_deployments.html</id>
+        <link href="https://www.publickey1.jp/blog/22/amazon_rds_bluegreen_deployments.html"/>
+        <updated>2022-11-28T15:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、本番用のデータベースに対応するステージング用データベースの構成と安全な切り替えの仕組みなどを提供する新サービス「Amazon RDS Blue/Green Deployments」のリリー...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Noah Mashni and Mark Steadman)</name>
+            <name>Publickey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Behind the CSScenes, November 2022]]></title>
-        <id>https://css-tricks.com/?p=375066</id>
-        <link href="https://css-tricks.com/behind-the-csscenes-november-2022/"/>
-        <updated>2022-11-15T15:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …
-Behind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[Spring Framework 6.0正式リリース、5年ぶりのメジャーバージョンアップ。Java 17以降に対応、ネイティブバイナリ化支援機能など]]></title>
+        <id>https://www.publickey1.jp/blog/22/spring_framework_605java_17.html</id>
+        <link href="https://www.publickey1.jp/blog/22/spring_framework_605java_17.html"/>
+        <updated>2022-11-27T15:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Javaの代表的なフレームワークの1つである「Spring Framework 6.0」が11月18日付けで正式リリースが発表されました。 2017年にリリースされたSpring Framework 5.0以来、5年ぶりのメジャーバージョン...]]></summary>
         <author>
-            <name>Geoff Graham</name>
+            <name>Publickey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Guide To Keyboard Accessibility: HTML And CSS (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/</id>
-        <link href="https://smashingmagazine.com/2022/11/guide-keyboard-accessibility-html-css-part1/"/>
-        <updated>2022-11-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Cristian Diaz covers how to use HTML and CSS to create an accessible experience for keyboard users while mentioning what WCAG criteria we should keep into consideration.]]></summary>
+        <title type="html"><![CDATA[PR: ハイブリッド／マルチクラウドのネットワークの状態が一目で分かる　運用管理を効率化するサービスの実力は]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2211/25/news004.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2211/25/news004.html"/>
+        <updated>2022-11-25T01:00:00.000Z</updated>
         <author>
-            <name>hello@smashingmagazine.com (Cristian Díaz)</name>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Classy and Cool Custom CSS Scrollbars: A Showcase]]></title>
-        <id>https://css-tricks.com/?p=375019</id>
-        <link href="https://css-tricks.com/classy-and-cool-custom-css-scrollbars-a-showcase/"/>
-        <updated>2022-11-14T13:54:26.000Z</updated>
-        <summary type="html"><![CDATA[In this article we will be diving into the world of scrollbars. I know, it doesn’t sound too glamorous, but trust me, a well-designed page goes hand-in-hand with a matching scrollbar. The old-fashioned chrome scrollbar just doesn’t fit in as …
-Classy and Cool Custom CSS Scrollbars: A Showcase originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <title type="html"><![CDATA[AWS、Docker Desktop代替となり得る「Finch」をオープンソースで公開。ローカルマシンに仮想環境とコンテナランタイム、ビルドツールなど一式を導入]]></title>
+        <id>https://www.publickey1.jp/blog/22/awsdocker_desktopfinch.html</id>
+        <link href="https://www.publickey1.jp/blog/22/awsdocker_desktopfinch.html"/>
+        <updated>2022-11-23T15:07:31.000Z</updated>
+        <summary type="html"><![CDATA[AWSは、ローカルマシン上にLinuxコンテナのランタイム、ビルドツール、コマンドラインツールなど一式を簡単にインストールし、コンテナを用いた開発環境を開始できるソフトウェア「Finch」をオープンソースで公開しました。 Today we ...]]></summary>
         <author>
-            <name>Saleh Mubashar</name>
+            <name>Publickey</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How To Search For A Developer Job Abroad]]></title>
-        <id>https://smashingmagazine.com/2022/11/search-developer-job-abroad/</id>
-        <link href="https://smashingmagazine.com/2022/11/search-developer-job-abroad/"/>
-        <updated>2022-11-11T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Working abroad is a popular prospect, yet many people — including professionals in the tech sphere — don’t know where to start. In this article, Andrew Stetsenko gives you an ultimate step-by-step guide to finding and making international opportunities happen.]]></summary>
+        <title type="html"><![CDATA[Docker Desktop 4.14登場。コンテナごとのCPUやメモリ消費量のグラフ化、コンテナイメージの依存関係などをビジュアルに表示可能]]></title>
+        <id>https://www.publickey1.jp/blog/22/docker_desktop_414cpu.html</id>
+        <link href="https://www.publickey1.jp/blog/22/docker_desktop_414cpu.html"/>
+        <updated>2022-11-23T15:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Docker Desktop 4.14正式版がリリースされました。 Fam, #Gordon turns 11 today! In honor of our favorite grumpy tortoise, self-proclaimed...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Andrew Stetsenko)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design Systems: Useful Examples and Resources]]></title>
-        <id>https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/</id>
-        <link href="https://smashingmagazine.com/2022/11/design-systems-inspiration-resources-case-studies/"/>
-        <updated>2022-11-09T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Everything design systems on accessibility, enterprise design systems, Figma kits, data visualization, motion design, multi-lingual design, naming, ROI calculator and UX writing.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s New In Next.js 13?]]></title>
-        <id>https://smashingmagazine.com/2022/11/whats-new-nextjs-13/</id>
-        <link href="https://smashingmagazine.com/2022/11/whats-new-nextjs-13/"/>
-        <updated>2022-11-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let’s talk about Next.js, one of the most well-known React frameworks used for production. From new components to font optimization, Atila shares a quick overview and invites you to join his [Advanced Next.js Masterclass](https://smashingconf.com/online-workshops/workshops/advanced-nextjs-atila-fassina) taking place later this month.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Atila Fassina)</name>
+            <name>Publickey</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221207-using-chatgpt-as-a-co-founder/",
+          "author": null,
+          "description": "対話型AI「ChatGPT」は人間からの質問に的確に答えることができる文章生成AIで、大学生レベルの試験の自由記述問題に合格してしまうほどの文章作成能力を誇っていることなどで注目を集めています。そんなChatGPTをビジネスのアドバイザーとして使用したら素晴らしい回答が得られたということで、YouTuberのクリス・グリーニング氏がChatGPTとの対話文を公開しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-using-chatgpt-as-a-co-founder/",
+          "publishedOn": "2022-12-06T15:00:00.000Z",
+          "wordCount": 2605,
+          "title": "ChatGPTをビジネスのアドバイザーとして使った結果驚くべき回答が行われる",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/using-chatgpt-as-a-co-founder/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221206-nicovideo-peppermint/",
           "author": null,
           "description": "ニコニコ動画などで活動しているCYakigasi(やきがし)さんが、ニコニコ動画のサイトの表示や動画再生プレイヤーの機能を使いやすく改変できるUserCSS「Niconico-PepperMint」のv1.5を公開しました。Niconico-PepperMintを使用すると、ニコニコ動画ユーザーがよく見るランキングの広告動画を非表示にしたり、左右が狭いニコニコ大百科の記事を画面いっぱいに表示したりと、ニコニコ動画ユーザーのかゆいところに手が届く便利機能を豊富に使えるとのことなので、実際にブラウザにインストールして使ってみました。\n続きを読む...",

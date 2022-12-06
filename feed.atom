@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T14:12:43.442Z</updated>
+    <updated>2022-12-06T15:14:23.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTをビジネスのアドバイザーとして使った結果驚くべき回答が行われる]]></title>
+        <id>https://gigazine.net/news/20221207-using-chatgpt-as-a-co-founder/</id>
+        <link href="https://gigazine.net/news/20221207-using-chatgpt-as-a-co-founder/"/>
+        <updated>2022-12-06T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[対話型AI「ChatGPT」は人間からの質問に的確に答えることができる文章生成AIで、大学生レベルの試験の自由記述問題に合格してしまうほどの文章作成能力を誇っていることなどで注目を集めています。そんなChatGPTをビジネスのアドバイザーとして使用したら素晴らしい回答が得られたということで、YouTuberのクリス・グリーニング氏がChatGPTとの対話文を公開しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニコニコ動画の表示をすっきりさせてくれる「Niconico-PepperMint」をサクッと簡単にインストールして使ってみた]]></title>
         <id>https://gigazine.net/news/20221206-nicovideo-peppermint/</id>

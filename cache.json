@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221206-headline/",
+          "author": null,
+          "description": "週刊少年マガジン連載のヒーローバトル漫画「戦隊大失格」のアニメ化が発表されました。監督は「TIGER＆BUNNY」「神撃のバハムート GENESIS」「鴉-KARAS-」のさとうけいいちが務めます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221206-headline/",
+          "publishedOn": "2022-12-06T09:20:00.000Z",
+          "wordCount": 4729,
+          "title": "2022年12月6日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/06/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221206-amazon-shipped-fake-product-refuses-refund/",
           "author": null,
           "description": "Amazonは注文ミスや「思っていたのと違う商品だった」など、わりとシンプルな理由でも返品を受け付けてくれますが、9万円超のグラフィックボードを注文して偽物が届いたから返品したにもかかわらず、Amazonから「本物を返すように」と理不尽な要求をされた事例が報告されています。\n続きを読む...",

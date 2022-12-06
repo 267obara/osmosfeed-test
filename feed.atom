@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T09:13:23.885Z</updated>
+    <updated>2022-12-06T09:21:37.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年12月6日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221206-headline/</id>
+        <link href="https://gigazine.net/news/20221206-headline/"/>
+        <updated>2022-12-06T09:20:00.000Z</updated>
+        <summary type="html"><![CDATA[週刊少年マガジン連載のヒーローバトル漫画「戦隊大失格」のアニメ化が発表されました。監督は「TIGER＆BUNNY」「神撃のバハムート GENESIS」「鴉-KARAS-」のさとうけいいちが務めます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デジタル庁、初心者向け「Webアクセシビリティー」導入ガイド無償公開　非技術者向け、専門用語は少なめに]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/06/news144.html</id>

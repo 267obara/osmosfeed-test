@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221207-blenders-cc-by-licensed-film-youtube/",
+          "author": null,
+          "description": "オープンソースの3DCGソフト「Blender」の開発団体であるBlender Foundationは、Blenderで作ったさまざまな映画を作品の共有や使用を許可するクリエイティブ・コモンズ・ライセンス(CCライセンス)でリリースしています。そんなBlenderのCCライセンスで公開された短編アニメーション映画を素材に使い、動画をYouTubeにアップロードしたところ、まったく無関係の企業が著作権侵害だとYouTubeに申し立てて削除されてしまう事態が発生しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-blenders-cc-by-licensed-film-youtube/",
+          "publishedOn": "2022-12-06T21:00:00.000Z",
+          "wordCount": 2520,
+          "title": "YouTubeにCCライセンスの映画を使った動画を投稿したところ無関係の企業が著作権侵害を申し立てて削除されてしまう",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/blenders-cc-by-licensed-film-youtube/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221207-using-chatgpt-as-a-co-founder/",
           "author": null,
           "description": "対話型AI「ChatGPT」は人間からの質問に的確に答えることができる文章生成AIで、大学生レベルの試験の自由記述問題に合格してしまうほどの文章作成能力を誇っていることなどで注目を集めています。そんなChatGPTをビジネスのアドバイザーとして使用したら素晴らしい回答が得られたということで、YouTuberのクリス・グリーニング氏がChatGPTとの対話文を公開しました。\n続きを読む...",

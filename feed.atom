@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T22:13:23.598Z</updated>
+    <updated>2022-12-06T23:14:23.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[小さなGoPro「GoPro HERO11 Black Mini」の撮影性能は「GoPro HERO11 Black」と同等なのか徹底検証してみた]]></title>
+        <id>https://gigazine.net/news/20221207-gopro-hero11-black-mini-movie/</id>
+        <link href="https://gigazine.net/news/20221207-gopro-hero11-black-mini-movie/"/>
+        <updated>2022-12-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年11月に登場した小型アクションカメラ「GoPro HERO11 Black Mini」は、従来のGoProより小型なボディに「GoPro HERO11 Black」と同等のムービー撮影性能を備えていることがアピールされています。そんなGoPro HERO11 Black Miniが編集部に届いたので、外観チェックに続いてブレ補正性能や画角調整範囲などを徹底検証してみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無料で日本語版Macintosh用OS「漢字Talk」をブラウザ上で体験できる「kanjitalk7.app」]]></title>
         <id>https://gigazine.net/news/20221207-infinite-mac-kanjitalk/</id>

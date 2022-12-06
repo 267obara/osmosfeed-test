@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221207-gopro-hero11-black-mini-movie/",
+          "author": null,
+          "description": "2022年11月に登場した小型アクションカメラ「GoPro HERO11 Black Mini」は、従来のGoProより小型なボディに「GoPro HERO11 Black」と同等のムービー撮影性能を備えていることがアピールされています。そんなGoPro HERO11 Black Miniが編集部に届いたので、外観チェックに続いてブレ補正性能や画角調整範囲などを徹底検証してみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-gopro-hero11-black-mini-movie/",
+          "publishedOn": "2022-12-06T23:00:00.000Z",
+          "wordCount": 2700,
+          "title": "小さなGoPro「GoPro HERO11 Black Mini」の撮影性能は「GoPro HERO11 Black」と同等なのか徹底検証してみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/gopro-hero11-black-mini-movie/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221207-infinite-mac-kanjitalk/",
           "author": null,
           "description": "元GoogleエンジニアのMihai Parparita氏が公開している、ブラウザ上でClassic Mac OSを体験できる「Inifinite Mac」で、日本語版Macintosh用OS「漢字Talk」のバージョン7.5.3 リリース2を再現した「kanjitalk7.app」が公開されたので、実際に触ってみました。\n続きを読む...",

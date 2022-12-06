@@ -10,88 +10,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
     <link href="index.css?v1.14.4" rel="stylesheet" />
-    <style>
-:root {
-  /**
-   * Palette
-   * Gruvbox dark, medium
-   * Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
-   */
-  --base00: #fdf6e3;
-  --base01: #eee8d5;
-  --base02: #93a1a1;
-  --base03: #839496;
-  --base04: #657b83;
-  --base05: #586e75;
-  --base06: #073642;
-  --base07: #002b36;
-  --base08: #dc322f;
-  --base09: #cb4b16;
-  --base0A: #b58900;
-  --base0B: #859900;
-  --base0C: #2aa198;
-  --base0D: #268bd2;
-  --base0E: #6c71c4;
-  --base0F: #d33682;
-
-  /**
-   * Typograph
-   */
-  --font-family-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
-    "Helvetica Neue", sans-serif;
-  --font-size-L: 3.6rem;
-  --font-size-m: 2.2rem;
-  --font-size-s: 1.8rem;
-  --font-size-scaler: 31.25%;
-  --line-height-body: 1.4;
-  --line-height-heading: 1.2;
-
-  /**
-   * Components
-   */
-  --body-color: var(--base04);
-  --body-bg: var(--base00);
-  --body-padding: 32px 24px;
-  --body-stack-gap: 32px;
-
-  --accordion-content-hover-rail-color: var(--base04);
-  --accordion-content-rail-color: var(--base03);
-  --accordion-marker-color: var(--article-title-color);
-  --accordion-marker-expanded-color: var(--base03);
-  --accordion-marker-hover-color: var(--accordion-marker-color);
-  --accordion-marker-expanded-hover-color: var(--accordion-marker-color);
-  --accordion-rail-indent: 7px;
-
-  --article-image-border-color: var(--base03);
-  --article-image-radius: 6px;
-  --article-image-shadow: none;
-  --article-reading-time-color: var(--base04);
-  --article-stack-gap: 16px;
-  --article-summary-color: var(--base05);
-  --article-summary-hover-color: var(--base07);
-  --article-title-color: var(--base0E);
-  --article-title-expanded-color: var(--base0E);
-
-  --card-bg: var(--base01);
-  --card-border-color: var(--base03);
-  --card-padding: 16px;
-  --card-radius: 8px;
-  --card-shadow: none;
-  --card-stack-gap: 24px;
-
-  --daily-heading-color: var(--base03);
-  --daily-heading-hover-color: var(--base04);
-
-  --footer-color: var(--base03);
-  --footer-link-hover-color: var(--base04);
-
-  --source-link-color: var(--base04);
-  --source-link-hover-color: var(--base07);
-  --source-name-color: var(--base0A);
-  --source-name-hover-color: var(--base07);
-}
-</style>
-
+    <!-- %before-head-end.html% -->
   </head>
 
   <body>
@@ -103,11 +22,319 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-12-06 datetime="2022-12-06T09:21:00.000Z">2022-12-06</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-12-06 datetime="2022-12-06T09:21:00.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-12-06 datetime="2022-12-06T10:00:00.000Z">2022-12-06</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-12-06 datetime="2022-12-06T10:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >GIGAZINE</button>
+                  <a class="source-heading__link" href="https://gigazine.net/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-amazon-shopper-panel-ad-verification/"
+                        open
+                      >
+                        <summary class="article-expander__title">Amazonにスマホデータを渡すとお金もらえるプログラムがスタート、ただし報酬はたったの月2ドル</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-amazon-shopper-panel-ad-verification/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/amazon-shopper-panel-ad-verification/00.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Amazonが一部のユーザー向けに、端末のトラフィックの追跡を許可する代わりに2ドル(約270円)を報酬として支払うプログラムを開始しました。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-headline/"
+                        open
+                      >
+                        <summary class="article-expander__title">2022年12月6日のヘッドラインニュース</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-headline/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/headline/00.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>週刊少年マガジン連載のヒーローバトル漫画「戦隊大失格」のアニメ化が発表されました。監督は「TIGER＆BUNNY」「神撃のバハムート GENESIS」「鴉-KARAS-」のさとうけいいちが務めます。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;16
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-amazon-shipped-fake-product-refuses-refund/"
+                        open
+                      >
+                        <summary class="article-expander__title">Amazonで購入したグラボが偽物だったので返品すると「正しい製品が返送されるまで返金しない」とむちゃくちゃな対応をされたという報告</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-amazon-shipped-fake-product-refuses-refund/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/amazon-shipped-fake-product-refuses-refund/00.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Amazonは注文ミスや「思っていたのと違う商品だった」など、わりとシンプルな理由でも返品を受け付けてくれますが、9万円超のグラフィックボードを注文して偽物が届いたから返品したにもかかわらず、Amazonから「本物を返すように」と理不尽な要求をされた事例が報告されています。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-chess-com-says-lawsuit-is-public-relatoins-stunt/"
+                        open
+                      >
+                        <summary class="article-expander__title">チェスAI不正疑惑のハンス・ニーマンによる訴訟は売名行為であるとしてChess.comが棄却を申し立て</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-chess-com-says-lawsuit-is-public-relatoins-stunt/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/chess-com-says-lawsuit-is-public-relatoins-stunt/00_m.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>チェスの大会でAIを用いて不正をした疑いをかけられているグランドマスターのハンス・ニーマン氏が、マグヌス・カールセン氏とオンラインチェスプラットフォーム・Chess.comが共謀して自らを陥れ名誉を毀損(きそん)したとして1億ドルの賠償を求める訴えを起こした件で、Chess.comが「ニーマン氏の訴えに利はなく、単なる売名行為」として、裁判所に訴えの棄却を申し立てました。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-young-people-cybercrime/"
+                        open
+                      >
+                        <summary class="article-expander__title">16～19歳は「34％が違法コンテンツを閲覧」「27％が荒らし経験あり」「22％が暴力を扇動したことがある」という衝撃の分析結果</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-young-people-cybercrime/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/young-people-cybercrime/00.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>インターネット上では、多くの人々によって犯罪行為や荒らし行為が行われています。新たにヨーロッパで行われた研究では、16～19歳の34％が違法コンテンツを所持し、22％が暴力を扇動しているといった実態が明らかになりました。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-witchcraft-beliefs-around-the-world/"
+                        open
+                      >
+                        <summary class="article-expander__title">世界中の10人に4人が魔法や呪いを信じているという研究結果</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-witchcraft-beliefs-around-the-world/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/witchcraft-beliefs-around-the-world/00.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>魔法や呪いはファンタジーやおとぎ話の中だけに存在するものであり、実際にこれらを信じる大人は圧倒的に少数派だと思っている人も多いはず。ところが、世界の95の国と地域に住む14万人以上の人々を含むデータセットを分析したところ、「調査対象者の40％以上が魔法や呪いを信じている」という結果が明らかとなりました。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-chatgpt-users-1-million/"
+                        open
+                      >
+                        <summary class="article-expander__title">対話型チャットAI「ChatGPT」開始から1週間も経たないうちにユーザーが100万人を突破、そもそもChatGPTとは一体何なのか？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-chatgpt-users-1-million/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/chatgpt-users-1-million/00_m.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>AIの研究・開発を行う団体「OpenAI」のサム・アルトマンCEOが、2022年12月1日にテスト版が一般公開された「ChatGPT」のユーザー数が100万人を突破したと発表しました。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-musk-neuralink-faces-federal-probe/"
+                        open
+                      >
+                        <summary class="article-expander__title">イーロン・マスクの脳インプラント企業「Neuralink」が違法な動物実験を繰り返しているとして政府の調査を受けていることが明らかに</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-musk-neuralink-faces-federal-probe/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/musk-neuralink-faces-federal-probe/00_m.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>電気自動車メーカーのテスラや宇宙開発企業のSpaceXの創業者であり、Twitterを買収したことでも有名な事業家のイーロン・マスク氏は、他にも脳神経にコンピューターを接続することを試みる脳インプラント企業・Neuralinkを立ち上げています。このNeuralinkが、違法な動物実験を繰り返しているとしてアメリカ政府の調査を受けていると報じられました。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-chinese-hacker-steals-covid-benefits/"
+                        open
+                      >
+                        <summary class="article-expander__title">中国系ハッカーが新型コロナ給付金27億円超を盗み出したことが判明</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-chinese-hacker-steals-covid-benefits/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/chinese-hacker-steals-covid-benefits/00_m.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>中国政府と関連のあるハッカーグループ・APT41が、アメリカ中小企業局の融資や失業保険基金など、新型コロナウイルス感染症対策の給付金を少なくとも2000万ドル(約27億円)盗み出したことが明らかになりました。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-microsoft-raising-prices-xbox/"
+                        open
+                      >
+                        <summary class="article-expander__title">Xboxが自社製タイトルの販売価格を約1400円値上げすると認める</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-microsoft-raising-prices-xbox/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/microsoft-raising-prices-xbox/00_m.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>MicrosoftのゲームブランドであるXboxが、自社製タイトルの基本販売価格を59.99ドル(日本だと税込7590円)から69.99ドル(約9600円)に引き上げることが明らかになりました。新しい販売価格は「Starfield」「Forza Motorsport」「Redfall」といった今後リリース予定のタイトルに適用されます。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-adobe-stock-guidelines-generative-ai/"
+                        open
+                      >
+                        <summary class="article-expander__title">AdobeがAIで作られたストック写真を販売</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-adobe-stock-guidelines-generative-ai/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/adobe-stock-guidelines-generative-ai/00.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>ロイヤリティフリーの画像を多数販売するAdobeのサービス「Adobe Stock」が、新たにジェネレーティブ(生成)AIを利用したアーティストからの画像を受け入れ、他の画像と同じように販売する方針を明らかにしました。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-familymart-chicken-yuzu-pepper/"
+                        open
+                      >
+                        <summary class="article-expander__title">柚子の爽やかな酸味とピリ辛ペッパーがチキンの味を最大限に引き出す「ファミチキ(柚子こしょう)」試食レビュー</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-familymart-chicken-yuzu-pepper/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/familymart-chicken-yuzu-pepper/00.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>ファミリーマートの人気ホットスナック「ファミチキ」に大分県産柚子こしょうを合わせた「ファミチキ(柚子こしょう)」が2022年12月6日(火)に登場しました。食べた瞬間に柚子の香りと青唐辛子のピリピリした辛味を楽しめるとのことなので、実際に食べて味を確かめてみました。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-chatgpt-banned-temporary/"
+                        open
+                      >
+                        <summary class="article-expander__title">会話AI「ChatGPT」の回答の投稿がコーディングQ＆AサイトのStack Overflowで一時的に禁止される</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-chatgpt-banned-temporary/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/chatgpt-banned-temporary/00.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>プログラミング技術に関するナレッジコミュニティのStack Overflowで、対話向け言語モデルの「ChatGPT」による回答が急増したことを受けて、一時的にChatGPTを使用した投稿が禁止されました。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://gigazine.net/news/20221206-access/"
+                        open
+                      >
+                        <summary class="article-expander__title">2022年度11月分のGIGAZINEのアクセス解析結果</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-access/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.gzn.jp/img/2022/12/06/access/00.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>この記事はGIGAZINEシークレットクラブの有料メンバー限定ですが、2023年1月31日までは誰でも閲覧可能です。
+続きを読む...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -453,293 +680,6 @@
                             <span class="media-object__text">
                               <span>NTT東日本などは、部活動の遠隔指導の実証実験を開始した。バドミントン男子シングルス東京五輪代表の桃田賢斗らが北海道の中学生に、オンラインで技術を伝授した。地方における指導者不足解消などが期待され、同社は、2023年の事業化を目指す。</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >GIGAZINE</button>
-                  <a class="source-heading__link" href="https://gigazine.net/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-headline/"
-                        open
-                      >
-                        <summary class="article-expander__title">2022年12月6日のヘッドラインニュース</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-headline/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/headline/00.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>週刊少年マガジン連載のヒーローバトル漫画「戦隊大失格」のアニメ化が発表されました。監督は「TIGER＆BUNNY」「神撃のバハムート GENESIS」「鴉-KARAS-」のさとうけいいちが務めます。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;16
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-amazon-shipped-fake-product-refuses-refund/"
-                        open
-                      >
-                        <summary class="article-expander__title">Amazonで購入したグラボが偽物だったので返品すると「正しい製品が返送されるまで返金しない」とむちゃくちゃな対応をされたという報告</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-amazon-shipped-fake-product-refuses-refund/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/amazon-shipped-fake-product-refuses-refund/00.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Amazonは注文ミスや「思っていたのと違う商品だった」など、わりとシンプルな理由でも返品を受け付けてくれますが、9万円超のグラフィックボードを注文して偽物が届いたから返品したにもかかわらず、Amazonから「本物を返すように」と理不尽な要求をされた事例が報告されています。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-chess-com-says-lawsuit-is-public-relatoins-stunt/"
-                        open
-                      >
-                        <summary class="article-expander__title">チェスAI不正疑惑のハンス・ニーマンによる訴訟は売名行為であるとしてChess.comが棄却を申し立て</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-chess-com-says-lawsuit-is-public-relatoins-stunt/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/chess-com-says-lawsuit-is-public-relatoins-stunt/00_m.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>チェスの大会でAIを用いて不正をした疑いをかけられているグランドマスターのハンス・ニーマン氏が、マグヌス・カールセン氏とオンラインチェスプラットフォーム・Chess.comが共謀して自らを陥れ名誉を毀損(きそん)したとして1億ドルの賠償を求める訴えを起こした件で、Chess.comが「ニーマン氏の訴えに利はなく、単なる売名行為」として、裁判所に訴えの棄却を申し立てました。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-young-people-cybercrime/"
-                        open
-                      >
-                        <summary class="article-expander__title">16～19歳は「34％が違法コンテンツを閲覧」「27％が荒らし経験あり」「22％が暴力を扇動したことがある」という衝撃の分析結果</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-young-people-cybercrime/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/young-people-cybercrime/00.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>インターネット上では、多くの人々によって犯罪行為や荒らし行為が行われています。新たにヨーロッパで行われた研究では、16～19歳の34％が違法コンテンツを所持し、22％が暴力を扇動しているといった実態が明らかになりました。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-witchcraft-beliefs-around-the-world/"
-                        open
-                      >
-                        <summary class="article-expander__title">世界中の10人に4人が魔法や呪いを信じているという研究結果</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-witchcraft-beliefs-around-the-world/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/witchcraft-beliefs-around-the-world/00.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>魔法や呪いはファンタジーやおとぎ話の中だけに存在するものであり、実際にこれらを信じる大人は圧倒的に少数派だと思っている人も多いはず。ところが、世界の95の国と地域に住む14万人以上の人々を含むデータセットを分析したところ、「調査対象者の40％以上が魔法や呪いを信じている」という結果が明らかとなりました。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-chatgpt-users-1-million/"
-                        open
-                      >
-                        <summary class="article-expander__title">対話型チャットAI「ChatGPT」開始から1週間も経たないうちにユーザーが100万人を突破、そもそもChatGPTとは一体何なのか？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-chatgpt-users-1-million/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/chatgpt-users-1-million/00_m.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>AIの研究・開発を行う団体「OpenAI」のサム・アルトマンCEOが、2022年12月1日にテスト版が一般公開された「ChatGPT」のユーザー数が100万人を突破したと発表しました。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-musk-neuralink-faces-federal-probe/"
-                        open
-                      >
-                        <summary class="article-expander__title">イーロン・マスクの脳インプラント企業「Neuralink」が違法な動物実験を繰り返しているとして政府の調査を受けていることが明らかに</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-musk-neuralink-faces-federal-probe/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/musk-neuralink-faces-federal-probe/00_m.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>電気自動車メーカーのテスラや宇宙開発企業のSpaceXの創業者であり、Twitterを買収したことでも有名な事業家のイーロン・マスク氏は、他にも脳神経にコンピューターを接続することを試みる脳インプラント企業・Neuralinkを立ち上げています。このNeuralinkが、違法な動物実験を繰り返しているとしてアメリカ政府の調査を受けていると報じられました。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-chinese-hacker-steals-covid-benefits/"
-                        open
-                      >
-                        <summary class="article-expander__title">中国系ハッカーが新型コロナ給付金27億円超を盗み出したことが判明</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-chinese-hacker-steals-covid-benefits/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/chinese-hacker-steals-covid-benefits/00_m.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>中国政府と関連のあるハッカーグループ・APT41が、アメリカ中小企業局の融資や失業保険基金など、新型コロナウイルス感染症対策の給付金を少なくとも2000万ドル(約27億円)盗み出したことが明らかになりました。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-microsoft-raising-prices-xbox/"
-                        open
-                      >
-                        <summary class="article-expander__title">Xboxが自社製タイトルの販売価格を約1400円値上げすると認める</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-microsoft-raising-prices-xbox/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/microsoft-raising-prices-xbox/00_m.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>MicrosoftのゲームブランドであるXboxが、自社製タイトルの基本販売価格を59.99ドル(日本だと税込7590円)から69.99ドル(約9600円)に引き上げることが明らかになりました。新しい販売価格は「Starfield」「Forza Motorsport」「Redfall」といった今後リリース予定のタイトルに適用されます。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-adobe-stock-guidelines-generative-ai/"
-                        open
-                      >
-                        <summary class="article-expander__title">AdobeがAIで作られたストック写真を販売</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-adobe-stock-guidelines-generative-ai/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/adobe-stock-guidelines-generative-ai/00.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>ロイヤリティフリーの画像を多数販売するAdobeのサービス「Adobe Stock」が、新たにジェネレーティブ(生成)AIを利用したアーティストからの画像を受け入れ、他の画像と同じように販売する方針を明らかにしました。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-familymart-chicken-yuzu-pepper/"
-                        open
-                      >
-                        <summary class="article-expander__title">柚子の爽やかな酸味とピリ辛ペッパーがチキンの味を最大限に引き出す「ファミチキ(柚子こしょう)」試食レビュー</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-familymart-chicken-yuzu-pepper/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/familymart-chicken-yuzu-pepper/00.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>ファミリーマートの人気ホットスナック「ファミチキ」に大分県産柚子こしょうを合わせた「ファミチキ(柚子こしょう)」が2022年12月6日(火)に登場しました。食べた瞬間に柚子の香りと青唐辛子のピリピリした辛味を楽しめるとのことなので、実際に食べて味を確かめてみました。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-chatgpt-banned-temporary/"
-                        open
-                      >
-                        <summary class="article-expander__title">会話AI「ChatGPT」の回答の投稿がコーディングQ＆AサイトのStack Overflowで一時的に禁止される</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-chatgpt-banned-temporary/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/chatgpt-banned-temporary/00.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>プログラミング技術に関するナレッジコミュニティのStack Overflowで、対話向け言語モデルの「ChatGPT」による回答が急増したことを受けて、一時的にChatGPTを使用した投稿が禁止されました。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://gigazine.net/news/20221206-access/"
-                        open
-                      >
-                        <summary class="article-expander__title">2022年度11月分のGIGAZINEのアクセス解析結果</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://gigazine.net/news/20221206-access/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.gzn.jp/img/2022/12/06/access/00.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>この記事はGIGAZINEシークレットクラブの有料メンバー限定ですが、2023年1月31日までは誰でも閲覧可能です。
-続きを読む...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2977,8 +2917,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/267obara/osmosfeed-test/actions/runs/3628341089">
-        <time id="build-timestamp" datetime="2022-12-06T09:45:22.899Z">2022-12-06T09:45:22.899Z</time>
+      <a class="footer-link" href="https://github.com/267obara/osmosfeed-test/actions/runs/3628507524">
+        <time id="build-timestamp" datetime="2022-12-06T10:07:39.372Z">2022-12-06T10:07:39.372Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

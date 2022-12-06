@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T09:45:22.941Z</updated>
+    <updated>2022-12-06T10:07:39.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazonにスマホデータを渡すとお金もらえるプログラムがスタート、ただし報酬はたったの月2ドル]]></title>
+        <id>https://gigazine.net/news/20221206-amazon-shopper-panel-ad-verification/</id>
+        <link href="https://gigazine.net/news/20221206-amazon-shopper-panel-ad-verification/"/>
+        <updated>2022-12-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonが一部のユーザー向けに、端末のトラフィックの追跡を許可する代わりに2ドル(約270円)を報酬として支払うプログラムを開始しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サッカーW杯でちょっと話題　コンテンツ配信を支える技術「CDN」って何の略？]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/06/news155.html</id>

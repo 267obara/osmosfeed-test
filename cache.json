@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221206-amazon-shopper-panel-ad-verification/",
+          "author": null,
+          "description": "Amazonが一部のユーザー向けに、端末のトラフィックの追跡を許可する代わりに2ドル(約270円)を報酬として支払うプログラムを開始しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221206-amazon-shopper-panel-ad-verification/",
+          "publishedOn": "2022-12-06T10:00:00.000Z",
+          "wordCount": 2571,
+          "title": "Amazonにスマホデータを渡すとお金もらえるプログラムがスタート、ただし報酬はたったの月2ドル",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/06/amazon-shopper-panel-ad-verification/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221206-headline/",
           "author": null,
           "description": "週刊少年マガジン連載のヒーローバトル漫画「戦隊大失格」のアニメ化が発表されました。監督は「TIGER＆BUNNY」「神撃のバハムート GENESIS」「鴉-KARAS-」のさとうけいいちが務めます。\n続きを読む...",

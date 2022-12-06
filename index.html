@@ -10,7 +10,88 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
     <link href="index.css?v1.14.4" rel="stylesheet" />
-    <!-- %before-head-end.html% -->
+    <style>
+:root {
+  /**
+   * Palette
+   * Gruvbox dark, medium
+   * Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+   */
+  --base00: #fdf6e3;
+  --base01: #eee8d5;
+  --base02: #93a1a1;
+  --base03: #839496;
+  --base04: #657b83;
+  --base05: #586e75;
+  --base06: #073642;
+  --base07: #002b36;
+  --base08: #dc322f;
+  --base09: #cb4b16;
+  --base0A: #b58900;
+  --base0B: #859900;
+  --base0C: #2aa198;
+  --base0D: #268bd2;
+  --base0E: #6c71c4;
+  --base0F: #d33682;
+
+  /**
+   * Typograph
+   */
+  --font-family-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+    "Helvetica Neue", sans-serif;
+  --font-size-L: 3.6rem;
+  --font-size-m: 2.2rem;
+  --font-size-s: 1.8rem;
+  --font-size-scaler: 31.25%;
+  --line-height-body: 1.4;
+  --line-height-heading: 1.2;
+
+  /**
+   * Components
+   */
+  --body-color: var(--base04);
+  --body-bg: var(--base00);
+  --body-padding: 32px 24px;
+  --body-stack-gap: 32px;
+
+  --accordion-content-hover-rail-color: var(--base04);
+  --accordion-content-rail-color: var(--base03);
+  --accordion-marker-color: var(--article-title-color);
+  --accordion-marker-expanded-color: var(--base03);
+  --accordion-marker-hover-color: var(--accordion-marker-color);
+  --accordion-marker-expanded-hover-color: var(--accordion-marker-color);
+  --accordion-rail-indent: 7px;
+
+  --article-image-border-color: var(--base03);
+  --article-image-radius: 6px;
+  --article-image-shadow: none;
+  --article-reading-time-color: var(--base04);
+  --article-stack-gap: 16px;
+  --article-summary-color: var(--base05);
+  --article-summary-hover-color: var(--base07);
+  --article-title-color: var(--base0E);
+  --article-title-expanded-color: var(--base0E);
+
+  --card-bg: var(--base01);
+  --card-border-color: var(--base03);
+  --card-padding: 16px;
+  --card-radius: 8px;
+  --card-shadow: none;
+  --card-stack-gap: 24px;
+
+  --daily-heading-color: var(--base03);
+  --daily-heading-hover-color: var(--base04);
+
+  --footer-color: var(--base03);
+  --footer-link-hover-color: var(--base04);
+
+  --source-link-color: var(--base04);
+  --source-link-hover-color: var(--base07);
+  --source-name-color: var(--base0A);
+  --source-name-hover-color: var(--base07);
+}
+</style>
+
   </head>
 
   <body>
@@ -2796,8 +2877,8 @@
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/267obara/osmosfeed-test/actions/runs/3628570874">
-        <time id="build-timestamp" datetime="2022-12-06T10:15:40.937Z">2022-12-06T10:15:40.937Z</time>
+      <a class="footer-link" href="https://github.com/267obara/osmosfeed-test/actions/runs/3628578628">
+        <time id="build-timestamp" datetime="2022-12-06T10:16:47.769Z">2022-12-06T10:16:47.769Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

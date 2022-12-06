@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T09:26:59.703Z</updated>
+    <updated>2022-12-06T09:45:22.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サッカーW杯でちょっと話題　コンテンツ配信を支える技術「CDN」って何の略？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news155.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news155.html"/>
+        <updated>2022-12-06T09:21:00.000Z</updated>
+        <summary type="html"><![CDATA[デキるITビジネスパーソンなら誰もが知っている基礎知識をクイズ化。「CDN」は何の略？]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年12月6日のヘッドラインニュース]]></title>
         <id>https://gigazine.net/news/20221206-headline/</id>
@@ -15,6 +25,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe、アドビストックでAI生成画像受け入れのガイドラインを策定]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news154.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news154.html"/>
+        <updated>2022-12-06T09:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Adobeはストック画像サービス「Adobe Stock」で画像生成AIで作成したコンテンツを受け入れると発表した。細かいガイドラインを厳守すればAI生成画像を登録可能だ。「最高のコンテンツを作成するには、使うツールに関係なく、専門知識、センス、想像力が必要」としている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“ハイスペPC”じゃなくても安定したライブ配信ができるクラウドサービス「easylive.io」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/06/news139.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news139.html"/>
+        <updated>2022-12-06T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルに拠点を持つLiveU社の「easylive.io」は、スポーツ中継などさまざまな用途で利用できるクラウド型ライブ配信サービスだ。11月に開催された「Inter BEE 2022」の会場で、販売代理を手掛ける伊藤忠ケーブルシステムの担当者に話を聞いた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

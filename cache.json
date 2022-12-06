@@ -687,6 +687,36 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news155.html",
+          "author": null,
+          "description": "デキるITビジネスパーソンなら誰もが知っている基礎知識をクイズ化。「CDN」は何の略？",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news155.html",
+          "publishedOn": "2022-12-06T09:21:00.000Z",
+          "wordCount": 2612,
+          "title": "サッカーW杯でちょっと話題　コンテンツ配信を支える技術「CDN」って何の略？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news155.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news154.html",
+          "author": null,
+          "description": "Adobeはストック画像サービス「Adobe Stock」で画像生成AIで作成したコンテンツを受け入れると発表した。細かいガイドラインを厳守すればAI生成画像を登録可能だ。「最高のコンテンツを作成するには、使うツールに関係なく、専門知識、センス、想像力が必要」としている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news154.html",
+          "publishedOn": "2022-12-06T09:04:00.000Z",
+          "wordCount": 2608,
+          "title": "Adobe、アドビストックでAI生成画像受け入れのガイドラインを策定",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news154.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news139.html",
+          "author": null,
+          "description": "イスラエルに拠点を持つLiveU社の「easylive.io」は、スポーツ中継などさまざまな用途で利用できるクラウド型ライブ配信サービスだ。11月に開催された「Inter BEE 2022」の会場で、販売代理を手掛ける伊藤忠ケーブルシステムの担当者に話を聞いた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news139.html",
+          "publishedOn": "2022-12-06T09:00:00.000Z",
+          "wordCount": 2611,
+          "title": "“ハイスペPC”じゃなくても安定したライブ配信ができるクラウドサービス「easylive.io」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news139.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/06/news144.html",
           "author": null,
           "description": "デジタル庁は、Webサイトへのアクセスしやすさ「Webアクセシビリティー」の解説資料「ウェブアクセシビリティ導入ガイドブック」を公開した。技術者ではないデザイナーや行政人材など初心者を対象にした資料という。",

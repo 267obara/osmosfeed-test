@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T21:12:16.064Z</updated>
+    <updated>2022-12-06T22:13:23.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無料で日本語版Macintosh用OS「漢字Talk」をブラウザ上で体験できる「kanjitalk7.app」]]></title>
+        <id>https://gigazine.net/news/20221207-infinite-mac-kanjitalk/</id>
+        <link href="https://gigazine.net/news/20221207-infinite-mac-kanjitalk/"/>
+        <updated>2022-12-06T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[元GoogleエンジニアのMihai Parparita氏が公開している、ブラウザ上でClassic Mac OSを体験できる「Inifinite Mac」で、日本語版Macintosh用OS「漢字Talk」のバージョン7.5.3 リリース2を再現した「kanjitalk7.app」が公開されたので、実際に触ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTubeにCCライセンスの映画を使った動画を投稿したところ無関係の企業が著作権侵害を申し立てて削除されてしまう]]></title>
         <id>https://gigazine.net/news/20221207-blenders-cc-by-licensed-film-youtube/</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221207-infinite-mac-kanjitalk/",
+          "author": null,
+          "description": "元GoogleエンジニアのMihai Parparita氏が公開している、ブラウザ上でClassic Mac OSを体験できる「Inifinite Mac」で、日本語版Macintosh用OS「漢字Talk」のバージョン7.5.3 リリース2を再現した「kanjitalk7.app」が公開されたので、実際に触ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-infinite-mac-kanjitalk/",
+          "publishedOn": "2022-12-06T22:00:00.000Z",
+          "wordCount": 2525,
+          "title": "無料で日本語版Macintosh用OS「漢字Talk」をブラウザ上で体験できる「kanjitalk7.app」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/infinite-mac-kanjitalk/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221207-blenders-cc-by-licensed-film-youtube/",
           "author": null,
           "description": "オープンソースの3DCGソフト「Blender」の開発団体であるBlender Foundationは、Blenderで作ったさまざまな映画を作品の共有や使用を許可するクリエイティブ・コモンズ・ライセンス(CCライセンス)でリリースしています。そんなBlenderのCCライセンスで公開された短編アニメーション映画を素材に使い、動画をYouTubeにアップロードしたところ、まったく無関係の企業が著作権侵害だとYouTubeに申し立てて削除されてしまう事態が発生しました。\n続きを読む...",

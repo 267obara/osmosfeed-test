@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T13:23:12.973Z</updated>
+    <updated>2022-12-06T14:12:43.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニコニコ動画の表示をすっきりさせてくれる「Niconico-PepperMint」をサクッと簡単にインストールして使ってみた]]></title>
+        <id>https://gigazine.net/news/20221206-nicovideo-peppermint/</id>
+        <link href="https://gigazine.net/news/20221206-nicovideo-peppermint/"/>
+        <updated>2022-12-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ニコニコ動画などで活動しているCYakigasi(やきがし)さんが、ニコニコ動画のサイトの表示や動画再生プレイヤーの機能を使いやすく改変できるUserCSS「Niconico-PepperMint」のv1.5を公開しました。Niconico-PepperMintを使用すると、ニコニコ動画ユーザーがよく見るランキングの広告動画を非表示にしたり、左右が狭いニコニコ大百科の記事を画面いっぱいに表示したりと、ニコニコ動画ユーザーのかゆいところに手が届く便利機能を豊富に使えるとのことなので、実際にブラウザにインストールして使ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハーゲンダッツの定番アイス「ハーゲン8」に新作「ショコラデュオ」が新登場したので食べてみた]]></title>
         <id>https://gigazine.net/news/20221206-haagen-dazs-chocolat-duo/</id>

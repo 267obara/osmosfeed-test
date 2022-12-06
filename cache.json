@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221206-nicovideo-peppermint/",
+          "author": null,
+          "description": "ニコニコ動画などで活動しているCYakigasi(やきがし)さんが、ニコニコ動画のサイトの表示や動画再生プレイヤーの機能を使いやすく改変できるUserCSS「Niconico-PepperMint」のv1.5を公開しました。Niconico-PepperMintを使用すると、ニコニコ動画ユーザーがよく見るランキングの広告動画を非表示にしたり、左右が狭いニコニコ大百科の記事を画面いっぱいに表示したりと、ニコニコ動画ユーザーのかゆいところに手が届く便利機能を豊富に使えるとのことなので、実際にブラウザにインストールして使ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221206-nicovideo-peppermint/",
+          "publishedOn": "2022-12-06T14:00:00.000Z",
+          "wordCount": 2529,
+          "title": "ニコニコ動画の表示をすっきりさせてくれる「Niconico-PepperMint」をサクッと簡単にインストールして使ってみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/06/nicovideo-peppermint/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221206-haagen-dazs-chocolat-duo/",
           "author": null,
           "description": "ハーゲンダッツの通年商品である「ハーゲン8」に、新しく「ショコラデュオ」が追加されました。ショコラデュオはミルクショコラアイスクリームとカカオショコラアイスクリームの2つのチョコレートアイスを同時に楽しめるミニカップになっているということで、さっそくどんな味わいなのか食べて確かめてみました。\n続きを読む...",

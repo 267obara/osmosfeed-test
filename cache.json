@@ -940,6 +940,16 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/lineosscloud_native_telecom_operator_meetup_2022pr.html",
+          "author": null,
+          "description": "5G時代にむけた通信事業者のネットワークインフラの進化について、技術や標準化、オープンソース、そしてアカデミックなどのさまざまな観点から議論を行うイベント「Cloud Native Telecom Operator Meetup 2022」...",
+          "link": "https://www.publickey1.jp/blog/22/lineosscloud_native_telecom_operator_meetup_2022pr.html",
+          "publishedOn": "2022-12-07T15:28:15.000Z",
+          "wordCount": 1347,
+          "title": "クラウドネイティブ化がLINEのネットワーク開発にもたらしたスピード。テレコム企業はOSSとどう付き合うのか。Cloud Native Telecom Operator Meetup 2022［PR］",
+          "imageUrl": "https://www.publickey1.jp/2022/cntom2022pr01.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/github_ceo_80ai.html",
           "author": null,
           "description": "GitHub CEOのThomas Dohmke（トーマス・ドムケ）氏が来日し、記者会見を行いました。 ドムケ氏は2021年にNat Friedman氏の後を継いでCEOに就任した人物で、それまではGitHubのChief Product ...",

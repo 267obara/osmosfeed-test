@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T15:14:18.074Z</updated>
+    <updated>2022-12-07T16:19:30.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クラウドネイティブ化がLINEのネットワーク開発にもたらしたスピード。テレコム企業はOSSとどう付き合うのか。Cloud Native Telecom Operator Meetup 2022［PR］]]></title>
+        <id>https://www.publickey1.jp/blog/22/lineosscloud_native_telecom_operator_meetup_2022pr.html</id>
+        <link href="https://www.publickey1.jp/blog/22/lineosscloud_native_telecom_operator_meetup_2022pr.html"/>
+        <updated>2022-12-07T15:28:15.000Z</updated>
+        <summary type="html"><![CDATA[5G時代にむけた通信事業者のネットワークインフラの進化について、技術や標準化、オープンソース、そしてアカデミックなどのさまざまな観点から議論を行うイベント「Cloud Native Telecom Operator Meetup 2022」...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intelが考える「ムーアの法則」の次の波とは？]]></title>
         <id>https://gigazine.net/news/20221207-next-wave-of-moores-law/</id>

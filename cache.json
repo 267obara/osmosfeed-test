@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221207-particle-physics-computer-program-maintenance-retiree/",
+          "author": null,
+          "description": "1980年代に開発され、それ以来30年以上にわたって最先端の素粒子物理学で使われ続けているソフトウェア「FORM」の陳腐化が進んでおり、もし使えなくなればこの分野の研究者にとって手痛い打撃になる危険性があると、科学系ニュースサイトのQuanta Magazineが報じました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-particle-physics-computer-program-maintenance-retiree/",
+          "publishedOn": "2022-12-07T07:00:00.000Z",
+          "wordCount": 2473,
+          "title": "素粒子物理学に必須級のソフトウェア「FORM」の保守はたった1人の老科学者が担っている、新しい機器では使えなくなり研究が停滞する危険性",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/particle-physics-computer-program-maintenance-retiree/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221207-polyergus-ant/",
+          "author": null,
+          "description": "アリは繁殖を担う少数の女王アリと、育児やエサの調達を行う多数の働きアリ、餌を得るための狩りや巣の防衛を担う兵隊アリが巨大な群れを構成する社会性昆虫だといわれています。そんな中、なんと他のアリを洗脳してコミュニティをまるごと乗っ取ってしまうという戦略で生き残っている「サムライアリ」を、さまざまな科学をアニメーションで解説するYouTubeチャンネル・Kurzgesagtが取り上げています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-polyergus-ant/",
+          "publishedOn": "2022-12-07T06:36:00.000Z",
+          "wordCount": 2485,
+          "title": "他のアリを洗脳して巣をまるごと乗っ取ってしまうサムライアリの習性とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/polyergus-ant/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221207-chatgpt-invent-language/",
           "author": null,
           "description": "人間が書いたものと見分けがつかないくらいに高精度な文章を書ける言語モデル「GPT-3」などを開発するAI研究組織のOpenAIがリリースした、対話に最適化されたAI言語モデルが「ChatGPT」です。このChatGPTに新しい言語を発明させるという取り組みに、ディラン・ブラック氏が挑戦しています。\n続きを読む...",
@@ -1016,6 +1036,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/07/news131.html",
+          "author": null,
+          "description": "Google CloudのクラウドDWH「BigQuery」。DeNAではそのコスト管理に課題があった。そこで立ち上がったのは同社の「BQドクター」。取り組みの結果、1年で1600万円を削減できる見込みという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/07/news131.html",
+          "publishedOn": "2022-12-07T06:00:00.000Z",
+          "wordCount": 2618,
+          "title": "BigQueryのコストを抑えろ！　DeNAが取り組む「BQドクター」の実態　1年で1600万円を削減見込み",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news131.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/07/news118.html",
           "author": null,

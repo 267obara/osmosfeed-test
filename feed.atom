@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T06:18:01.325Z</updated>
+    <updated>2022-12-07T07:12:37.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[素粒子物理学に必須級のソフトウェア「FORM」の保守はたった1人の老科学者が担っている、新しい機器では使えなくなり研究が停滞する危険性]]></title>
+        <id>https://gigazine.net/news/20221207-particle-physics-computer-program-maintenance-retiree/</id>
+        <link href="https://gigazine.net/news/20221207-particle-physics-computer-program-maintenance-retiree/"/>
+        <updated>2022-12-07T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1980年代に開発され、それ以来30年以上にわたって最先端の素粒子物理学で使われ続けているソフトウェア「FORM」の陳腐化が進んでおり、もし使えなくなればこの分野の研究者にとって手痛い打撃になる危険性があると、科学系ニュースサイトのQuanta Magazineが報じました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他のアリを洗脳して巣をまるごと乗っ取ってしまうサムライアリの習性とは？]]></title>
+        <id>https://gigazine.net/news/20221207-polyergus-ant/</id>
+        <link href="https://gigazine.net/news/20221207-polyergus-ant/"/>
+        <updated>2022-12-07T06:36:00.000Z</updated>
+        <summary type="html"><![CDATA[アリは繁殖を担う少数の女王アリと、育児やエサの調達を行う多数の働きアリ、餌を得るための狩りや巣の防衛を担う兵隊アリが巨大な群れを構成する社会性昆虫だといわれています。そんな中、なんと他のアリを洗脳してコミュニティをまるごと乗っ取ってしまうという戦略で生き残っている「サムライアリ」を、さまざまな科学をアニメーションで解説するYouTubeチャンネル・Kurzgesagtが取り上げています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BigQueryのコストを抑えろ！　DeNAが取り組む「BQドクター」の実態　1年で1600万円を削減見込み]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news131.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news131.html"/>
+        <updated>2022-12-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google CloudのクラウドDWH「BigQuery」。DeNAではそのコスト管理に課題があった。そこで立ち上がったのは同社の「BQドクター」。取り組みの結果、1年で1600万円を削減できる見込みという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[対話AI「ChatGPT」を使って未知の言語「スライム語」を発明するという試み]]></title>
         <id>https://gigazine.net/news/20221207-chatgpt-invent-language/</id>

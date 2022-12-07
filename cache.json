@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221207-chatgpt-access-to-real-terminal-alice/",
+          "author": null,
+          "description": "OpenAIが開発したAI言語モデル「ChatGPT」は、非常に高精度な会話を人間と交わすことができると話題を呼び、テスト版の公開から1週間も経たないうちにユーザー数が100万人を突破しました。そんなChatGPTはプログラムのコードを書くなどのタスクもこなせることがわかっており、新たに「ChatGPTが現実の端末にアクセスすることを許可し、タスクを実行させる」というプロジェクトがGitHubで立ち上げられました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-chatgpt-access-to-real-terminal-alice/",
+          "publishedOn": "2022-12-07T10:00:00.000Z",
+          "wordCount": 2556,
+          "title": "ChatGPTをリアルの端末に接続してタスクを実行させる試みが進行中、「10年後には大量の中産階級の仕事が自動化されるだろう」と嘆くネットユーザーも",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/chatgpt-access-to-real-terminal-alice/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221207-headline/",
+          "author": null,
+          "description": "アニメ「チェンソーマン」のポップアップショップ「チェンソーマン大交流展」が12月9日(金)からベースヤードトーキョーで開催されます。会場では限定グッズの販売が行われるほか、アニメ制作を手がけるMAPPA監修によるアニメ設定資料の展示や大型モニターでの映像放映、販売用フィギュアの展示などが行われます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-headline/",
+          "publishedOn": "2022-12-07T09:23:00.000Z",
+          "wordCount": 6811,
+          "title": "2022年12月7日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221207-chatgpt-for-google/",
           "author": null,
           "description": "対話型AI「ChatGPT」はユーザーと自由に対話して自然な文章を出力するモデルで、ビジネスアドバイザーとして十分使えると評価されるほどの能力を持っています。そんなChatGPTの回答をGoogleの検索結果と一緒に表示するChrome・Firefox拡張機能が登場したので、実際に使ってみました。\n続きを読む...",
@@ -1046,6 +1066,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/07/news167.html",
+          "author": null,
+          "description": "後期高齢者で構成されるVTuberグループ「メタばあちゃん」プロジェクトが始動。まずは85歳の女性が“中の人”を務めるVTuber「ひろこ」さんがデビュー。「75歳以上の女性」「認知症の診断を受けていない」などを条件に、新メンバーの募集も始めた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/07/news167.html",
+          "publishedOn": "2022-12-07T09:29:00.000Z",
+          "wordCount": 2598,
+          "title": "「後期高齢者VTuberグループ」爆誕　実年齢85歳の美少女がデビュー　「チャンネル登録してくれんかのう」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news167.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/07/news156.html",
           "author": null,

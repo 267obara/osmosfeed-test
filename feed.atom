@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T09:13:35.776Z</updated>
+    <updated>2022-12-07T10:15:09.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTをリアルの端末に接続してタスクを実行させる試みが進行中、「10年後には大量の中産階級の仕事が自動化されるだろう」と嘆くネットユーザーも]]></title>
+        <id>https://gigazine.net/news/20221207-chatgpt-access-to-real-terminal-alice/</id>
+        <link href="https://gigazine.net/news/20221207-chatgpt-access-to-real-terminal-alice/"/>
+        <updated>2022-12-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIが開発したAI言語モデル「ChatGPT」は、非常に高精度な会話を人間と交わすことができると話題を呼び、テスト版の公開から1週間も経たないうちにユーザー数が100万人を突破しました。そんなChatGPTはプログラムのコードを書くなどのタスクもこなせることがわかっており、新たに「ChatGPTが現実の端末にアクセスすることを許可し、タスクを実行させる」というプロジェクトがGitHubで立ち上げられました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「後期高齢者VTuberグループ」爆誕　実年齢85歳の美少女がデビュー　「チャンネル登録してくれんかのう」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news167.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news167.html"/>
+        <updated>2022-12-07T09:29:00.000Z</updated>
+        <summary type="html"><![CDATA[後期高齢者で構成されるVTuberグループ「メタばあちゃん」プロジェクトが始動。まずは85歳の女性が“中の人”を務めるVTuber「ひろこ」さんがデビュー。「75歳以上の女性」「認知症の診断を受けていない」などを条件に、新メンバーの募集も始めた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年12月7日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221207-headline/</id>
+        <link href="https://gigazine.net/news/20221207-headline/"/>
+        <updated>2022-12-07T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメ「チェンソーマン」のポップアップショップ「チェンソーマン大交流展」が12月9日(金)からベースヤードトーキョーで開催されます。会場では限定グッズの販売が行われるほか、アニメ制作を手がけるMAPPA監修によるアニメ設定資料の展示や大型モニターでの映像放映、販売用フィギュアの展示などが行われます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不動産屋いらずの“セルフ内見”、スマホ1つで　ユカイ工学とFLIEが実証実験]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/07/news156.html</id>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T21:12:34.416Z</updated>
+    <updated>2022-12-07T22:13:25.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[政府機関や軍隊などのIPアドレスから行われたWikipedia編集履歴をまとめたサイト「Wikiwho」]]></title>
+        <id>https://gigazine.net/news/20221208-wikipedia-edits-organizations-wikiwho/</id>
+        <link href="https://gigazine.net/news/20221208-wikipedia-edits-organizations-wikiwho/"/>
+        <updated>2022-12-07T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[インターネット百科事典のWikipediaはボランティアによる共同編集が行われていますが、未登録のユーザーが編集を行った場合はIPアドレスが記録されるため、時には政府機関や特定の組織に属するIPアドレスからの編集が発覚することもあります。そんな特定の組織に属するIPアドレスが行ったWikipediaの編集履歴をまとめたウェブサイトが「Wikiwho」です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最強の「Pi Zero」はどれなのかを示すベンチマーク結果]]></title>
         <id>https://gigazine.net/news/20221208-pi-zero-benchmark/</id>

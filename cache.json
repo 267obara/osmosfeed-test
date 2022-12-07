@@ -513,6 +513,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16989",
+          "author": null,
+          "description": "翔泳社 CodeZine編集部は、2022年12月9日に「Developers CAREER Boost」をオンラインで開催する。今回は、今週末に迫った本イベントのおすすめトークセッションを紹介する。",
+          "link": "http://codezine.jp/article/detail/16989",
+          "publishedOn": "2022-12-07T05:00:00.000Z",
+          "wordCount": 4331,
+          "title": "【12/9（金）開催】エンジニアのキャリアにフォーカスするDevelopers CAREER Boost、おすすめトークセッション",
+          "imageUrl": "https://codezine.jp/static/images/article/16989/16969_ogp.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16986",
           "author": null,
           "description": "組織変革をリードする経営層やミドルマネジメントに、一歩を踏み出す勇気ときっかけを持ってもらうことを目指したオンラインイベント「アジャイル経営カンファレンス」が、2023年1月27日に開催される。",

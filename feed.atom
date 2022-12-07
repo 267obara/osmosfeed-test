@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T05:12:44.893Z</updated>
+    <updated>2022-12-07T06:18:01.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -15,6 +15,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【12/9（金）開催】エンジニアのキャリアにフォーカスするDevelopers CAREER Boost、おすすめトークセッション]]></title>
+        <id>http://codezine.jp/article/detail/16989</id>
+        <link href="http://codezine.jp/article/detail/16989"/>
+        <updated>2022-12-07T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[翔泳社 CodeZine編集部は、2022年12月9日に「Developers CAREER Boost」をオンラインで開催する。今回は、今週末に迫った本イベントのおすすめトークセッションを紹介する。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T08:17:58.423Z</updated>
+    <updated>2022-12-07T09:13:35.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[不動産屋いらずの“セルフ内見”、スマホ1つで　ユカイ工学とFLIEが実証実験]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news156.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news156.html"/>
+        <updated>2022-12-07T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ユカイ工学は7日、不動産の直接取引サイト「FLIE」と共同でマンションの“セルフ内見”を可能にする「スマビュー」実証実験を始めた。「不動産会社とのやり取り、当日の営業担当者立ち会いは一切必要ない」。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google検索をするとChatGPTの回答も表示してくれるブラウザ拡張機能「ChatGPT for Google」]]></title>
+        <id>https://gigazine.net/news/20221207-chatgpt-for-google/</id>
+        <link href="https://gigazine.net/news/20221207-chatgpt-for-google/"/>
+        <updated>2022-12-07T08:40:00.000Z</updated>
+        <summary type="html"><![CDATA[対話型AI「ChatGPT」はユーザーと自由に対話して自然な文章を出力するモデルで、ビジネスアドバイザーとして十分使えると評価されるほどの能力を持っています。そんなChatGPTの回答をGoogleの検索結果と一緒に表示するChrome・Firefox拡張機能が登場したので、実際に使ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft、任天堂に「コール オブ デューティ」を10年間提供　Xboxトップが契約締結を報告]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/07/news151.html</id>

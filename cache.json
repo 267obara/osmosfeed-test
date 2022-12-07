@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221207-chatgpt-for-google/",
+          "author": null,
+          "description": "対話型AI「ChatGPT」はユーザーと自由に対話して自然な文章を出力するモデルで、ビジネスアドバイザーとして十分使えると評価されるほどの能力を持っています。そんなChatGPTの回答をGoogleの検索結果と一緒に表示するChrome・Firefox拡張機能が登場したので、実際に使ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-chatgpt-for-google/",
+          "publishedOn": "2022-12-07T08:40:00.000Z",
+          "wordCount": 2537,
+          "title": "Google検索をするとChatGPTの回答も表示してくれるブラウザ拡張機能「ChatGPT for Google」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/chatgpt-for-google/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221207-particle-physics-computer-program-maintenance-retiree/",
           "author": null,
           "description": "1980年代に開発され、それ以来30年以上にわたって最先端の素粒子物理学で使われ続けているソフトウェア「FORM」の陳腐化が進んでおり、もし使えなくなればこの分野の研究者にとって手痛い打撃になる危険性があると、科学系ニュースサイトのQuanta Magazineが報じました。\n続きを読む...",
@@ -1036,6 +1046,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/07/news156.html",
+          "author": null,
+          "description": "ユカイ工学は7日、不動産の直接取引サイト「FLIE」と共同でマンションの“セルフ内見”を可能にする「スマビュー」実証実験を始めた。「不動産会社とのやり取り、当日の営業担当者立ち会いは一切必要ない」。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/07/news156.html",
+          "publishedOn": "2022-12-07T08:45:00.000Z",
+          "wordCount": 2594,
+          "title": "不動産屋いらずの“セルフ内見”、スマホ1つで　ユカイ工学とFLIEが実証実験",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news156.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/07/news151.html",
           "author": null,

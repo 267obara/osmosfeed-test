@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T07:12:37.617Z</updated>
+    <updated>2022-12-07T08:17:58.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、任天堂に「コール オブ デューティ」を10年間提供　Xboxトップが契約締結を報告]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news151.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news151.html"/>
+        <updated>2022-12-07T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftが、米Activision Blizzardの買収後、人気ゲーム「コール オブ デューティ」を任天堂に10年間提供し続けると発表。Xboxの責任者、フィル・スペンサー氏が自身のTwitterアカウントで契約締結を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[素粒子物理学に必須級のソフトウェア「FORM」の保守はたった1人の老科学者が担っている、新しい機器では使えなくなり研究が停滞する危険性]]></title>
         <id>https://gigazine.net/news/20221207-particle-physics-computer-program-maintenance-retiree/</id>

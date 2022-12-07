@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T12:26:40.791Z</updated>
+    <updated>2022-12-07T13:21:18.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[チーズとクリーミーなマッシュポテトが口の中でとろけ合うウェンディーズファーストキッチン「マッシュ×マッシュデミメルトバーガー」試食レビュー]]></title>
+        <id>https://gigazine.net/news/20221207-wendys-firstkitchen-mush-demi-melt-burger/</id>
+        <link href="https://gigazine.net/news/20221207-wendys-firstkitchen-mush-demi-melt-burger/"/>
+        <updated>2022-12-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ウェンディーズファーストキッチンが2022年12月6日(火)から「マッシュ×マッシュデミメルトバーガー」の提供を開始しました。たっぷりのマッシュルームとチーズを組み合わせた「マッシュルームメルトソース」にクリーミーなマッシュポテトを合わせて、肉と野菜のうまみを閉じ込めた濃厚デミグラスソースをプラスした一品が気になったので、実際にウェンディーズファーストキッチンで買って食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[リチウムイオンバッテリーの再利用を禁止する法案は「絶対に狂っている」と修理する権利の擁護派が警告]]></title>
         <id>https://gigazine.net/news/20221207-ban-reuse-lithium-ion-batteries-bill/</id>

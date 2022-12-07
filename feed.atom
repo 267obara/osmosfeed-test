@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T13:21:18.708Z</updated>
+    <updated>2022-12-07T14:12:38.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SSDの寿命を見積もるためには何に注目すればいいのか？]]></title>
+        <id>https://gigazine.net/news/20221207-ssd-working-life/</id>
+        <link href="https://gigazine.net/news/20221207-ssd-working-life/"/>
+        <updated>2022-12-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[技術の進歩によってHDDよりも読み書きが早く静かで耐衝撃性の高いSSDがPCのメインストレージに採用されるのが当たり前になっています。しかし、記憶装置にフラッシュメモリを採用しているSSDの書き込み回数には上限があり、使い方に応じて寿命が変化します。Apple関連のニュースを扱うブログ・The Eclectic Light Companyが、Macに採用されているSSDの寿命について解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チーズとクリーミーなマッシュポテトが口の中でとろけ合うウェンディーズファーストキッチン「マッシュ×マッシュデミメルトバーガー」試食レビュー]]></title>
         <id>https://gigazine.net/news/20221207-wendys-firstkitchen-mush-demi-melt-burger/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Z世代トレンドアワード2022　顔文字のトップはアーニャの「ふっ」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news089.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news089.html"/>
+        <updated>2022-12-07T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本語入力＆きせかえ顔文字キーボードアプリ「Simeji」を提供するバイドゥ（東京都港区）は、10～24歳の男女を対象とした「Simeji presents Z世代トレンドアワード 2022」を発表した。その結果、年間トレンド大賞には芸人なかやまきんに君の元気な掛け声「ヤー！パワー！」が選ばれた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

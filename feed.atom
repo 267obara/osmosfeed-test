@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-06T23:14:23.904Z</updated>
+    <updated>2022-12-07T01:11:08.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[App Storeの最低価格が50円に　10円刻みで設定も　価格テーブル900種類に急拡大]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news082.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news082.html"/>
+        <updated>2022-12-07T00:52:00.000Z</updated>
+        <summary type="html"><![CDATA[App Storeの価格テーブル刷新。日本円では、これまで160円だった最低価格は50円に引き下げられ、「60円」「70円」など10円刻みの設定も可能になった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾TSMCの2つ目のアリゾナ工場式典にバイデン大統領やAppleのクックCEOが出席]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news080.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news080.html"/>
+        <updated>2022-12-07T00:11:00.000Z</updated>
+        <summary type="html"><![CDATA[半導体ファウンドリ世界最大手のTSMCが米アリゾナ州に3nm工場を建設すると発表した。発表式典にはバイデン大統領やAppleのクックCEOが出席。クック氏はこの工場で生産するプロセッサをApple製品で採用すると語った。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【無料マンガ】秘密の宮園 第4話(後編)「花音と凛音」＆さらなる秘密が明かされる5話本編をチラ見せ]]></title>
+        <id>https://gigazine.net/news/20221207-himitsu-no-miyazono-04b/</id>
+        <link href="https://gigazine.net/news/20221207-himitsu-no-miyazono-04b/"/>
+        <updated>2022-12-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[◆あらすじ「友達ができない体質」の宮園花音(みやぞのかのん)はある日、自分と同じ名字を持つアンドロイドと名乗る少女、宮園凛音(みやぞのりおん)と出会う。凛音は、さんざん花音の日常をはちゃめちゃにして、突然動きを止めてしまった。明かされた花音の「秘密」と凛音の「過去」。すべてを受け止めて、花音はもう一度凛音に会いに行く。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Boot 3.0の一般提供にあわせてサンプルアプリセットがアップグレード]]></title>
+        <id>http://codezine.jp/article/detail/16977</id>
+        <link href="http://codezine.jp/article/detail/16977"/>
+        <updated>2022-12-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米VMwareは、Webアプリケーション開発フレームワークの最新バージョンである「Spring Boot 3.0」の一般公開にあわせて、サンプルアプリのセット「Spring WS Samples」をアップグレードしたことを、12月2日（現地時間）に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATMをAIが監視　「姿勢」から詐欺判断　STOP！！ 特殊詐欺]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news077.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news077.html"/>
+        <updated>2022-12-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[特殊詐欺の被害防止を巡り、警視庁がセブンイレブンなどと協力してコンビニエンスストアのATMでAIを活用した実証実験を11月からスタート。警視庁犯罪抑止対策本部の高崎光管理官は「ソフトとハード両面から詐欺撲滅を進めたい」と話している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本郵便「物流専用ドローン」の概要公開]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news076.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news076.html"/>
+        <updated>2022-12-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本郵便などが、開発中の物流専用国産ドローンの概要を公開した。5日に施行された改正航空法では飛行区分「レベル4」が追加され、補助者の配置なしに有人地帯での目視外飛行が認められることから、2023年度中のレベル4認証取得を目指す方針だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小さなGoPro「GoPro HERO11 Black Mini」の撮影性能は「GoPro HERO11 Black」と同等なのか徹底検証してみた]]></title>
         <id>https://gigazine.net/news/20221207-gopro-hero11-black-mini-movie/</id>
@@ -15,6 +76,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デジタル庁、ウェブアクセシビリティに関する初心者向けガイドブックを公開]]></title>
+        <id>http://codezine.jp/article/detail/16974</id>
+        <link href="http://codezine.jp/article/detail/16974"/>
+        <updated>2022-12-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デジタル庁は、“誰1人取り残されない、人に優しいデジタル化”を実現すべく継続的に取り組んでいる「ウェブアクセシビリティ」向上の一環として、ウェブアクセシビリティにはじめて取り組む行政官や事業者向けに、ウェブアクセシビリティの考え方や取り組み方のポイントを解説する「ウェブアクセシビリティ導入ガイドブック」を12月5日に公開している。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他人のスマホの現在地を特定できるサイバー攻撃　Bluetoothの欠陥を利用　米国チームが指摘]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news050.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news050.html"/>
+        <updated>2022-12-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米オハイオ州立大学に所属する研究者らは、Bluetoothを使用するモバイル機器には、攻撃者がユーザーの位置を追跡できる不具合があることを実証した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T11:11:33.476Z</updated>
+    <updated>2022-12-07T12:26:40.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リチウムイオンバッテリーの再利用を禁止する法案は「絶対に狂っている」と修理する権利の擁護派が警告]]></title>
+        <id>https://gigazine.net/news/20221207-ban-reuse-lithium-ion-batteries-bill/</id>
+        <link href="https://gigazine.net/news/20221207-ban-reuse-lithium-ion-batteries-bill/"/>
+        <updated>2022-12-07T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スマートフォンから電気自動車に至るまで、今やバッテリーで駆動する幅広いデバイスにリチウムイオンバッテリーが搭載されています。しかし、リチウムイオンバッテリーは発火・爆発する恐れがあり、実際、ヘッドホンやスマートフォンなどが爆発する事例も複数報告されてきました。そんなリチウムイオンバッテリーの爆発を危惧し、アメリカ・ニューヨークではリチウムイオンバッテリーの再利用を禁止するための法案が議会に提出されているのですが、この法案が意図しない結果をもたらすことになると専門家が警告しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テラ、セルシウス、FTXの3大ショック　価格3分の1になった2022年の仮想通貨業界を振り返る]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news172.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news172.html"/>
+        <updated>2022-12-07T11:49:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年は仮想通貨業界にとってはたいへん厳しい年となった。テラショック、セルシウスショック、FTXショックの概要を振り返るとともに、ビットバンクの廣末紀之社長に業界の今後を聞く。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユーミン、紅白で“AI荒井由実”と本人コラボ　50年前の歌声をAI技術で再現]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news177.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news177.html"/>
+        <updated>2022-12-07T11:41:00.000Z</updated>
+        <summary type="html"><![CDATA[NHKは7日、大みそかに放送する「第73回NHK紅白歌合戦」の特別企画として、シンガーソングライターの松任谷由実さんが、AI技術により再現された50年前の自分と共演すると発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ソニック」生みの親、中裕司容疑者が再逮捕　インサイダー取引の疑い　共同報道]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news175.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news175.html"/>
+        <updated>2022-12-07T10:55:00.000Z</updated>
+        <summary type="html"><![CDATA[東京地検特捜部が、スクウェア・エニックス元社員の中裕司容疑者を再逮捕。インサイダー取引をしたとして、金融商品取引法違反の疑いがあるという。共同通信が報じた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPTをリアルの端末に接続してタスクを実行させる試みが進行中、「10年後には大量の中産階級の仕事が自動化されるだろう」と嘆くネットユーザーも]]></title>
         <id>https://gigazine.net/news/20221207-chatgpt-access-to-real-terminal-alice/</id>

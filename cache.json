@@ -6,6 +6,46 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221207-mcdonalds-salted-butter-caramel-frappe/",
+          "author": null,
+          "description": "マクドナルドから、北海道産生クリームとロレーヌ産岩塩を使った「塩バターキャラメルフラッペ」と、さらにマカロンをトッピングした「塩バターキャラメルフラッペ＆マカロン バニラ」、エスプレッソベースのラテにホワイトチョコレートフレーバーのシロップを合わせた「ホワイトチョコモカ」、チョコレートムースやいちごとラズベリーピューレを重ねた「チョコカシスケーキ」が一気に登場しました。これら新作がどんな味なのか気になったので、実際に食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-mcdonalds-salted-butter-caramel-frappe/",
+          "publishedOn": "2022-12-07T03:12:00.000Z",
+          "wordCount": 2496,
+          "title": "とっても甘いキャラメルフラッペにマカロンがついてさらに贅沢になった「塩バターキャラメルフラッペ＆マカロン バニラ」などマクドナルドの新作3種を味わってみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/mcdonalds-salted-butter-caramel-frappe/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221207-elden-ring-colosseum/",
+          "author": null,
+          "description": "フロムソフトウェアが開発した大人気アクションRPG「ELDEN RING(エルデンリング)」に、プレイヤー同士の対戦専用エリア「闘技場」が追加されることが判明しました。「闘技場」は無料アップデートの一環として実装される予定で、アップデートの配信日は2022年12月7日(水)とされています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-elden-ring-colosseum/",
+          "publishedOn": "2022-12-07T03:03:00.000Z",
+          "wordCount": 2558,
+          "title": "「エルデンリング」の無料アップデートでPvP専用エリア「闘技場」が追加される",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/elden-ring-colosseum/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221207-tsmc-arizona-apple/",
+          "author": null,
+          "description": "世界最大の半導体ファウンドリであるTSMCは、アメリカのアリゾナ州で新たな半導体工場の建設を進めています。新たにTSMCが開催したイベントの中で、Appleのティム・クックCEOが「Appleがアリゾナ州に建設中の工場の最大の顧客になる」と発言しました。加えて、TSMCがアリゾナ州に2箇所目の工場建設計画を進めていることも明らかになっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-tsmc-arizona-apple/",
+          "publishedOn": "2022-12-07T03:00:00.000Z",
+          "wordCount": 2568,
+          "title": "TSMCがアリゾナ州に3nmの半導体工場建設計画を発表しAppleのティム・クックCEOは「Appleシリコンをアリゾナ州で製造する」と明言",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/tsmc-arizona-apple/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221207-board-game-diplomacy-ai-deepmind/",
+          "author": null,
+          "description": "プロ棋士を破った囲碁AIのAlphaGoなどを手がけるDeepMindが新しく、交渉による合意形成が重要なボードゲームである「ディプロマシー」でコミュニケーションを行い、他のエージェントを打ち負かすことが可能なAIを発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-board-game-diplomacy-ai-deepmind/",
+          "publishedOn": "2022-12-07T02:50:00.000Z",
+          "wordCount": 2476,
+          "title": "DeepMindが外交ゲーム「ディプロマシー」で他のプレイヤーと交渉してゲームに勝利できるAIを発表",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/board-game-diplomacy-ai-deepmind/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221207-microsoft-super-app-for-mobile/",
           "author": null,
           "description": "Microsoftが、ウェブ検索・メッセージング・ニュースフィード・ショッピングなどの機能を1つに統合したスマートフォン向けの「スーパーアプリ」の開発を検討していると報じられています。Microsoftは、このスーパーアプリによってAppleとGoogleが独占しているモバイル検索に食い込もうとしているようです。\n続きを読む...",
@@ -442,6 +482,26 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/16981",
+          "author": null,
+          "description": "米Dockerはクライアント向けコンテナ基盤「Docker Desktop」の新バージョン「Docker Desktop 4.15」を12月1日（現地時間）に公開した。Docker DesktopはWindows、macOS（Intel／Apple Silicon）、Linuxで動作する。",
+          "link": "http://codezine.jp/article/detail/16981",
+          "publishedOn": "2022-12-07T03:00:00.000Z",
+          "wordCount": 4346,
+          "title": "「Docker Desktop 4.15」が公開、検索機能を強化",
+          "imageUrl": "https://codezine.jp/static/images/article/16981/12794_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/16982",
+          "author": null,
+          "description": "PyTorch Foundationは、機械学習フレームワーク「PyTorch」の新版「PyTorch 2.0」を12月2日（現地時間）、開発者会議「PyTorch Conference」で発表した。PyTorch 2.0はまだ正式版ではないが、Nightly Buildの形で入手できる。正式版の公開は2023年3月初旬を予定している。PyTorchは修正BSDライセンスで公開しているオープンソース・ソフトウェアだ。",
+          "link": "http://codezine.jp/article/detail/16982",
+          "publishedOn": "2022-12-07T03:00:00.000Z",
+          "wordCount": 4340,
+          "title": "高速コンパイラを搭載した「PyTorch 2.0」を公開、正式版は2023年3月に登場の予定",
+          "imageUrl": "https://codezine.jp/static/images/article/16982/12597_og.jpg"
+        },
         {
           "id": "http://codezine.jp/article/detail/16910",
           "author": null,

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T14:12:38.375Z</updated>
+    <updated>2022-12-07T15:14:18.074Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intelが考える「ムーアの法則」の次の波とは？]]></title>
+        <id>https://gigazine.net/news/20221207-next-wave-of-moores-law/</id>
+        <link href="https://gigazine.net/news/20221207-next-wave-of-moores-law/"/>
+        <updated>2022-12-07T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「ムーアの法則」は「半導体の集積密度は18～24カ月で倍増し、チップの性能が倍になってもさらなる小型化が進む」という内容で、Intelの創業者の1人であるゴードン・ムーア氏が1965年に未来を予測したもの。そんなムーアの法則の次にくる「波」について、Intelの技術開発担当ゼネラルマネージャーであるアン・B・ケレハー氏が語っています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SSDの寿命を見積もるためには何に注目すればいいのか？]]></title>
         <id>https://gigazine.net/news/20221207-ssd-working-life/</id>

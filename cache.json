@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221207-next-wave-of-moores-law/",
+          "author": null,
+          "description": "「ムーアの法則」は「半導体の集積密度は18～24カ月で倍増し、チップの性能が倍になってもさらなる小型化が進む」という内容で、Intelの創業者の1人であるゴードン・ムーア氏が1965年に未来を予測したもの。そんなムーアの法則の次にくる「波」について、Intelの技術開発担当ゼネラルマネージャーであるアン・B・ケレハー氏が語っています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221207-next-wave-of-moores-law/",
+          "publishedOn": "2022-12-07T14:30:00.000Z",
+          "wordCount": 2485,
+          "title": "Intelが考える「ムーアの法則」の次の波とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/07/next-wave-of-moores-law/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221207-ssd-working-life/",
           "author": null,
           "description": "技術の進歩によってHDDよりも読み書きが早く静かで耐衝撃性の高いSSDがPCのメインストレージに採用されるのが当たり前になっています。しかし、記憶装置にフラッシュメモリを採用しているSSDの書き込み回数には上限があり、使い方に応じて寿命が変化します。Apple関連のニュースを扱うブログ・The Eclectic Light Companyが、Macに採用されているSSDの寿命について解説しています。\n続きを読む...",

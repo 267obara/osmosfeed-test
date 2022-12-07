@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-07T03:19:43.995Z</updated>
+    <updated>2022-12-07T04:17:04.767Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Appleが労働者を尋問したり反組合集会に参加させたりした労組結成妨害行動に違法の判断]]></title>
+        <id>https://gigazine.net/news/20221207-apples-anti-union-tactics-were-illegal/</id>
+        <link href="https://gigazine.net/news/20221207-apples-anti-union-tactics-were-illegal/"/>
+        <updated>2022-12-07T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アトランタにあるApple Storeの従業員による組合結成がAppleによる妨害で中止になった一件で、アメリカの全国労働関係委員会(NLRB)はAppleの行動が連邦法に違反していたと判断しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTC「VIVE」一部値上げ　1月20日から]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news106.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news106.html"/>
+        <updated>2022-12-07T03:33:00.000Z</updated>
+        <summary type="html"><![CDATA[VRグラス「VIVE」シリーズの一部が値上げ。「円安傾向が続き、製品の仕入れ価格が上昇している」ため。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「冬になると風邪やインフルエンザが流行する理由」が新たな研究によって明らかに]]></title>
+        <id>https://gigazine.net/news/20221207-colds-flu-common-in-winter/</id>
+        <link href="https://gigazine.net/news/20221207-colds-flu-common-in-winter/"/>
+        <updated>2022-12-07T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[冬になると風邪やインフルエンザといった感染症が流行しますが、その理由には「ウイルスは低温で乾燥した環境で感染力が強くなるから」「ウイルスや細菌が拡散しやすい室内にとどまる時間が増えるから」といった説が挙げられています。ハーバード大学とノースイースタン大学のチームによる研究で「寒くなると鼻にある免疫機能が損なわれる」という新たな生物学的メカニズムが発見され、これが冬に感染症が増える理由かもしれないと研究者らが説明しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アイマス楽曲をサブスク誤配信　予定のないミリオンライブ！曲を一時公開]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news105.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news105.html"/>
+        <updated>2022-12-07T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ランティスが「アイドルマスター ミリオンライブ！」の一部楽曲を各種音楽配信サービスで誤配信したと明らかにした。配信楽曲は削除済み。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[とっても甘いキャラメルフラッペにマカロンがついてさらに贅沢になった「塩バターキャラメルフラッペ＆マカロン バニラ」などマクドナルドの新作3種を味わってみた]]></title>
         <id>https://gigazine.net/news/20221207-mcdonalds-salted-butter-caramel-frappe/</id>
@@ -15,6 +57,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「アジャイル経営カンファレンス」が2023年1月27日にオンライン開催]]></title>
+        <id>http://codezine.jp/article/detail/16986</id>
+        <link href="http://codezine.jp/article/detail/16986"/>
+        <updated>2022-12-07T03:10:00.000Z</updated>
+        <summary type="html"><![CDATA[組織変革をリードする経営層やミドルマネジメントに、一歩を踏み出す勇気ときっかけを持ってもらうことを目指したオンラインイベント「アジャイル経営カンファレンス」が、2023年1月27日に開催される。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
@@ -68,6 +120,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ビルボードにボカロ曲チャート登場　ニコ動上のオリジナル曲TOP20を毎週発表]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news092.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news092.html"/>
+        <updated>2022-12-07T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Billboard JAPANは、ニコニコ動画における“ボカロ曲”を対象とする人気チャート「ニコニコ VOCALOID SONGS TOP20」の公表を始めた。再生数やコメント数などのデータを基に、上位20位までのランキングを毎週水曜日に発表する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

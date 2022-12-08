@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T05:13:16.300Z</updated>
+    <updated>2022-12-08T06:18:15.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Instagramでシャドウバンされているかどうか確認できるように]]></title>
+        <id>https://gigazine.net/news/20221208-instagram-account-status/</id>
+        <link href="https://gigazine.net/news/20221208-instagram-account-status/"/>
+        <updated>2022-12-08T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Instagramが2021年に実装された機能「アカウントステータス」を、「企業やクリエイターなどのプロフェッショナルなアカウントを持つユーザー」が自分のコンテンツがフォロワー以外のユーザーにおすすめされるかどうか、あるいは自分のコンテンツがInstagramのおすすめに関するガイドラインに違反していないかを確認できるように拡張することを発表しました。この機能拡張により、プロアカウント限定で自分の投稿したコンテンツが他の人から見えなくなる「シャドウバン」の対象かどうかがチェックできるようになります。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年、最もチャンネル登録者数を伸ばした日本のYouTuberは？　「夢みたいなお話ですわ」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/08/news129.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news129.html"/>
+        <updated>2022-12-08T05:51:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年、1年で最もチャンネル登録者数を伸ばした日本のYouTuberは？──YouTubeがランキングを発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple M1環境でLinuxを動かす「Asahi Linux」向けのApple GPUドライバーがついに実装される]]></title>
         <id>https://gigazine.net/news/20221208-apple-gpu-drivers-now-in-asahi-linux/</id>

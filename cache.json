@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221208-instagram-account-status/",
+          "author": null,
+          "description": "Instagramが2021年に実装された機能「アカウントステータス」を、「企業やクリエイターなどのプロフェッショナルなアカウントを持つユーザー」が自分のコンテンツがフォロワー以外のユーザーにおすすめされるかどうか、あるいは自分のコンテンツがInstagramのおすすめに関するガイドラインに違反していないかを確認できるように拡張することを発表しました。この機能拡張により、プロアカウント限定で自分の投稿したコンテンツが他の人から見えなくなる「シャドウバン」の対象かどうかがチェックできるようになります。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221208-instagram-account-status/",
+          "publishedOn": "2022-12-08T06:00:00.000Z",
+          "wordCount": 2813,
+          "title": "Instagramでシャドウバンされているかどうか確認できるように",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/08/instagram-account-status/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221208-apple-gpu-drivers-now-in-asahi-linux/",
           "author": null,
           "description": "Apple独自開発のSoC「M1」チップを搭載するMac上での動作を目指すLinuxディストリビューション「Asahi Linux」に、Apple GPUドライバーが2年間の開発を経てついに実装されました。\n続きを読む...",
@@ -1326,6 +1336,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news129.html",
+          "author": null,
+          "description": "2022年、1年で最もチャンネル登録者数を伸ばした日本のYouTuberは？──YouTubeがランキングを発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news129.html",
+          "publishedOn": "2022-12-08T05:51:00.000Z",
+          "wordCount": 2605,
+          "title": "2022年、最もチャンネル登録者数を伸ばした日本のYouTuberは？　「夢みたいなお話ですわ」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news129.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/08/news120.html",
           "author": null,

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221208-north-korea-change-names-ideological/",
+          "author": null,
+          "description": "北朝鮮当局が市民に対し、子どもの名前を「爆弾」「忠誠」「衛星」などのイデオロギー的、または軍国主義的な意味を持つ名前に変更するよう命じていると報じられました。北朝鮮では近年、柔らかい母音で終わる名前の子どもが増えており、当局は中国風・日本風・韓国風の名前を付ける親を非難しているとのことです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221208-north-korea-change-names-ideological/",
+          "publishedOn": "2022-12-08T08:00:00.000Z",
+          "wordCount": 2522,
+          "title": "北朝鮮が子どもの名前を「爆弾」「銃」「衛星」などを意味する愛国的なものに変更するよう命じる",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/08/north-korea-change-names-ideological/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221208-tiktok-lawsuit-targeting-teens-adult-content/",
           "author": null,
           "description": "TikTokが、子どもの安全と個人情報の取り扱いについてユーザーに誤解を与えたとして、インディアナ州から提訴されていたことが分かりました。アメリカでは、TikTokを運営する中国企業のByteDanceが中国政府にデータを流出させるおそれがあるとの懸念が広がっており、インディアナ州だけでなくテキサス州やメリーランド州など各地でTikTokを禁止したり排除したりする動きが強まっています。\n続きを読む...",
@@ -1346,6 +1356,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news125.html",
+          "author": null,
+          "description": "Xiaomiは12月8日、19分で100％充電が完了する「Xiaomi 12T Pro」を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news125.html",
+          "publishedOn": "2022-12-08T07:00:00.000Z",
+          "wordCount": 2608,
+          "title": "19分で100％充電　“神ジューデン”をうたうスマホ「Xiaomi 12T Pro」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news125.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/07/news146.html",
           "author": null,

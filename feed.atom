@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T07:12:29.878Z</updated>
+    <updated>2022-12-08T08:17:59.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮が子どもの名前を「爆弾」「銃」「衛星」などを意味する愛国的なものに変更するよう命じる]]></title>
+        <id>https://gigazine.net/news/20221208-north-korea-change-names-ideological/</id>
+        <link href="https://gigazine.net/news/20221208-north-korea-change-names-ideological/"/>
+        <updated>2022-12-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[北朝鮮当局が市民に対し、子どもの名前を「爆弾」「忠誠」「衛星」などのイデオロギー的、または軍国主義的な意味を持つ名前に変更するよう命じていると報じられました。北朝鮮では近年、柔らかい母音で終わる名前の子どもが増えており、当局は中国風・日本風・韓国風の名前を付ける親を非難しているとのことです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTokが「子どもを薬物とアダルトコンテンツにさらした」と提訴される、中国政府へのデータ漏えい懸念で使用禁止の動きも]]></title>
         <id>https://gigazine.net/news/20221208-tiktok-lawsuit-targeting-teens-adult-content/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19分で100％充電　“神ジューデン”をうたうスマホ「Xiaomi 12T Pro」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/08/news125.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news125.html"/>
+        <updated>2022-12-08T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomiは12月8日、19分で100％充電が完了する「Xiaomi 12T Pro」を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

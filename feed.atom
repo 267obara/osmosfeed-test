@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T22:13:18.387Z</updated>
+    <updated>2022-12-08T23:15:18.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソニー製フルHD・240Hzゲーミングモニター「INZONE M3」を組み立てて外観をチェックしてみた]]></title>
+        <id>https://gigazine.net/news/20221209-sony-inzone-m3-unboxing/</id>
+        <link href="https://gigazine.net/news/20221209-sony-inzone-m3-unboxing/"/>
+        <updated>2022-12-08T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーがフルHDのゲーミングモニター「INZONE M3」を2022年12月1日に発売しました。INZONE M3は240Hzという高いリフレッシュレートで動作する他、NVIDIA G-SYNCやAdaptive-Syncといった可変リフレッシュレート技術に対応。さらに、暗い場所を明るく表示するブラックイコライザーや画面中央にクロスヘアを表示する機能などゲーマーが望む機能が数多く搭載されています。そんなINZONE M3が編集部にやって来たので、まずは組み立て手順や外観をチェックしてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米連邦取引委員会（FTC）、MicrosoftのActivision Blizzard買収を阻止へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/09/news081.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news081.html"/>
+        <updated>2022-12-08T22:08:00.000Z</updated>
+        <summary type="html"><![CDATA[米連邦取引委員会（FTC）は、Microsoftが1月に発表したActivision Blizzardの買収を阻止しようとしていると発表した。ゲーム業界の競争相手を抑圧するおそれがあるとして提訴する。Microsoftの法務担当者は「この訴訟には自信がある」とツイートした。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「恐竜を絶滅させた小惑星の衝突時期」の論文にデータ偽造の疑い]]></title>
         <id>https://gigazine.net/news/20221209-paleontologist-accused-dino-killing-asteroid-paper/</id>

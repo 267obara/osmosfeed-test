@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221209-sony-inzone-m3-unboxing/",
+          "author": null,
+          "description": "ソニーがフルHDのゲーミングモニター「INZONE M3」を2022年12月1日に発売しました。INZONE M3は240Hzという高いリフレッシュレートで動作する他、NVIDIA G-SYNCやAdaptive-Syncといった可変リフレッシュレート技術に対応。さらに、暗い場所を明るく表示するブラックイコライザーや画面中央にクロスヘアを表示する機能などゲーマーが望む機能が数多く搭載されています。そんなINZONE M3が編集部にやって来たので、まずは組み立て手順や外観をチェックしてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-sony-inzone-m3-unboxing/",
+          "publishedOn": "2022-12-08T23:00:00.000Z",
+          "wordCount": 2570,
+          "title": "ソニー製フルHD・240Hzゲーミングモニター「INZONE M3」を組み立てて外観をチェックしてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/sony-inzone-m3-unboxing/00.JPG"
+        },
+        {
           "id": "https://gigazine.net/news/20221209-paleontologist-accused-dino-killing-asteroid-paper/",
           "author": null,
           "description": "「恐竜を絶滅させた小惑星」に関する論文を発表した古生物学者が、実は元同僚の結論をそのまま論文に用いていたという疑惑が持ち上がっています。元同僚は、古生物学者の論文は結論こそ同じながら用いられたデータセットが異なり、そのデータが偽造であると指摘しています。\n続きを読む...",
@@ -1456,6 +1466,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news081.html",
+          "author": null,
+          "description": "米連邦取引委員会（FTC）は、Microsoftが1月に発表したActivision Blizzardの買収を阻止しようとしていると発表した。ゲーム業界の競争相手を抑圧するおそれがあるとして提訴する。Microsoftの法務担当者は「この訴訟には自信がある」とツイートした。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news081.html",
+          "publishedOn": "2022-12-08T22:08:00.000Z",
+          "wordCount": 2650,
+          "title": "米連邦取引委員会（FTC）、MicrosoftのActivision Blizzard買収を阻止へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news081.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/08/news186.html",
           "author": null,

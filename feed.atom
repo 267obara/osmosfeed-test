@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T13:21:31.156Z</updated>
+    <updated>2022-12-08T14:12:33.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクによるTwitterの混乱に乗じてMetaが「ネクストTwitter」の構築について議論していたと判明]]></title>
+        <id>https://gigazine.net/news/20221208-twitters-rivals-capitalize-musk-induced-chaos/</id>
+        <link href="https://gigazine.net/news/20221208-twitters-rivals-capitalize-musk-induced-chaos/"/>
+        <updated>2022-12-08T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏による買収を受けてTwitterが混乱している中、Instagramを所有するMetaが「ネクストTwitter」の構築についてブレインストーミングを行っていたと、海外メディアのニューヨーク・タイムズが報じました。Meta以外にもMastodonやTumblrなどの競合サービスがシェア獲得の機会をうかがっているほか、Hive SocialやPost.といった新興企業も登場しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3種のチーズの味わいがすべてをまろやかに包み込むファーストキッチンの「とろける3種チーズのベーコンエッグバーガー」＆「とろける3種チーズのチキン竜田バーガー」を食べてみた]]></title>
         <id>https://gigazine.net/news/20221208-first-kitchen-cheese-bacon-egg-burger/</id>

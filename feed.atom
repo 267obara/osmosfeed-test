@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T20:13:36.312Z</updated>
+    <updated>2022-12-08T21:12:44.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシアの検閲の標的になってしまったらどうなるのか？VPNサービスと政府とのいたちごっこの実情が明かされる]]></title>
+        <id>https://gigazine.net/news/20221209-russia-proton/</id>
+        <link href="https://gigazine.net/news/20221209-russia-proton/"/>
+        <updated>2022-12-08T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ロシア政府は2019年に「国内のネットワークをインターネットから切り離す実験」に成功していたり、ウクライナへの侵攻を開始して以降はSNSやニュースサービスへのアクセスを遮断していたりと、インターネットの規制・監視を強めて自由なアクセスを制限しています。そのような政府からの検閲を回避して自由なインターネットアクセスを提供するProtonの激しい戦いについて、ニューヨークタイムズ誌がまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWSがLinux関連OSSを特許リスクから守る「Open Invention Network」に加盟。全特許をパテントプールに提供すると表明]]></title>
         <id>https://www.publickey1.jp/blog/22/awslinuxossopen_invention_network.html</id>

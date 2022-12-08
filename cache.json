@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221209-russia-proton/",
+          "author": null,
+          "description": "ロシア政府は2019年に「国内のネットワークをインターネットから切り離す実験」に成功していたり、ウクライナへの侵攻を開始して以降はSNSやニュースサービスへのアクセスを遮断していたりと、インターネットの規制・監視を強めて自由なアクセスを制限しています。そのような政府からの検閲を回避して自由なインターネットアクセスを提供するProtonの激しい戦いについて、ニューヨークタイムズ誌がまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-russia-proton/",
+          "publishedOn": "2022-12-08T21:00:00.000Z",
+          "wordCount": 2675,
+          "title": "ロシアの検閲の標的になってしまったらどうなるのか？VPNサービスと政府とのいたちごっこの実情が明かされる",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/russia-proton/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221208-twitters-rivals-capitalize-musk-induced-chaos/",
           "author": null,
           "description": "イーロン・マスク氏による買収を受けてTwitterが混乱している中、Instagramを所有するMetaが「ネクストTwitter」の構築についてブレインストーミングを行っていたと、海外メディアのニューヨーク・タイムズが報じました。Meta以外にもMastodonやTumblrなどの競合サービスがシェア獲得の機会をうかがっているほか、Hive SocialやPost.といった新興企業も登場しています。\n続きを読む...",

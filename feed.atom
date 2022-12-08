@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T10:15:11.279Z</updated>
+    <updated>2022-12-08T11:11:28.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮のサイバー犯罪グループ「APT37」がInternet Explorerのゼロデイ脆弱性を突く攻撃を行っていたと判明]]></title>
+        <id>https://gigazine.net/news/20221208-north-korean-apt37-internet-explorer-exploit/</id>
+        <link href="https://gigazine.net/news/20221208-north-korean-apt37-internet-explorer-exploit/"/>
+        <updated>2022-12-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleの脅威分析グループ(TAG)が、「APT37」「Reaper」というコードネームで呼ばれる北朝鮮のサイバー犯罪グループが2022年10月にInternet Explorerのゼロデイ脆弱(ぜいじゃく)性を悪用して攻撃していたことを突き止めたと発表しました。この攻撃は、2022年11月のセキュリティ更新プログラムをインストールしていないWindows 7以降あるいはWindows Server 2008以降を搭載したマシンを対象としているとのことです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter、モーメント作成機能を削除　他機能の改善に注力]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/08/news172.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news172.html"/>
+        <updated>2022-12-08T10:04:00.000Z</updated>
+        <summary type="html"><![CDATA[米Twitterは、ほとんどのユーザーからTwitterのモーメント作成機能を削除したと発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白人至上主義者のページなどTwitter広告主が望まない場所に広告が表示され苦情の嵐に]]></title>
         <id>https://gigazine.net/news/20221208-twitter-ads-appear-on-white-nationalists/</id>

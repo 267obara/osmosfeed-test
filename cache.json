@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221208-north-korean-apt37-internet-explorer-exploit/",
+          "author": null,
+          "description": "Googleの脅威分析グループ(TAG)が、「APT37」「Reaper」というコードネームで呼ばれる北朝鮮のサイバー犯罪グループが2022年10月にInternet Explorerのゼロデイ脆弱(ぜいじゃく)性を悪用して攻撃していたことを突き止めたと発表しました。この攻撃は、2022年11月のセキュリティ更新プログラムをインストールしていないWindows 7以降あるいはWindows Server 2008以降を搭載したマシンを対象としているとのことです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221208-north-korean-apt37-internet-explorer-exploit/",
+          "publishedOn": "2022-12-08T11:00:00.000Z",
+          "wordCount": 2530,
+          "title": "北朝鮮のサイバー犯罪グループ「APT37」がInternet Explorerのゼロデイ脆弱性を突く攻撃を行っていたと判明",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/08/north-korean-apt37-internet-explorer-exploit/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221208-twitter-ads-appear-on-white-nationalists/",
           "author": null,
           "description": "不適切なTwitterアカウントページには表示されないようにモデレーションされているはずの広告が、白人至上主義者のアカウントページに表示されていることが明らかになりました。Amazon、Snap、Uberなど主要な広告主の広告が少なくとも2人の白人至上主義者のページで表示されており、広告主は苦情を申し立てました。\n続きを読む...",
@@ -1376,6 +1386,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news172.html",
+          "author": null,
+          "description": "米Twitterは、ほとんどのユーザーからTwitterのモーメント作成機能を削除したと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news172.html",
+          "publishedOn": "2022-12-08T10:04:00.000Z",
+          "wordCount": 2595,
+          "title": "Twitter、モーメント作成機能を削除　他機能の改善に注力",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news172.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/08/news170.html",
           "author": null,

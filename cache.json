@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221208-social-media-good-for-democracy/",
+          "author": null,
+          "description": "ソーシャルメディアは自分の意見を発信したり議論をしたりする言論の場になっている一方で、近年はデマやフェイクニュースなどがまん延し分断の原因になるなど、有害な影響も指摘されるようになりました。こうしたソーシャルメディアと民主主義の在り方について、日本を含む19カ国で調査を行った結果が公開されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221208-social-media-good-for-democracy/",
+          "publishedOn": "2022-12-08T12:00:00.000Z",
+          "wordCount": 2493,
+          "title": "多くの国では「ソーシャルメディアは民主主義に役立つ」と考えられているとの調査結果、日本人はどう思っているのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/08/social-media-good-for-democracy/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221208-north-korean-apt37-internet-explorer-exploit/",
           "author": null,
           "description": "Googleの脅威分析グループ(TAG)が、「APT37」「Reaper」というコードネームで呼ばれる北朝鮮のサイバー犯罪グループが2022年10月にInternet Explorerのゼロデイ脆弱(ぜいじゃく)性を悪用して攻撃していたことを突き止めたと発表しました。この攻撃は、2022年11月のセキュリティ更新プログラムをインストールしていないWindows 7以降あるいはWindows Server 2008以降を搭載したマシンを対象としているとのことです。\n続きを読む...",
@@ -1386,6 +1396,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news181.html",
+          "author": null,
+          "description": "米Googleは、スプレッドシート上に機械学習を導入できるアドオン「Simple ML for Sheets」を発表した。プログラミングや機械学習の専門知識がない人でも、機械学習によるデータ欠損値の予測などを行えるという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news181.html",
+          "publishedOn": "2022-12-08T11:53:00.000Z",
+          "wordCount": 2608,
+          "title": "スプレッドシートでGoogleのAIが使える、公式の機械学習アドオン公開　欠損値の予測など可能",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/l_tm1636144_12083_1_w490.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news180.html",
+          "author": null,
+          "description": "DIESEL（ディーゼル）ブランドの新しいスマートウォッチ「THE GRIFFED GEN 6」が登場しました。最新機能を盛り込みながらしゃれたデザインに仕上げています。発売イベントでじっくり見てきました。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news180.html",
+          "publishedOn": "2022-12-08T11:46:00.000Z",
+          "wordCount": 2391,
+          "title": "DIESELのスマートウォッチ「THE GRIFFED GEN 6」に触れて分かった“市場の成熟”",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news180.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news176.html",
+          "author": null,
+          "description": "米国防総省が、共通クラウド環境を構築するプロジェクト「JWCC」について、米AWS、米Microsoftなど4社と契約を結んだと発表した。米Reuterによれば、契約期間は2028年まで。約90億ドル規模の取引になるという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news176.html",
+          "publishedOn": "2022-12-08T11:05:00.000Z",
+          "wordCount": 2600,
+          "title": "米国防総省がAWSなど“メガクラウド”4社と契約　90億ドル規模か",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news176.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/08/news172.html",
           "author": null,

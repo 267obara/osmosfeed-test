@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221208-headline/",
+          "author": null,
+          "description": "アニメ「文豪ストレイドッグス」の第4シーズンが2023年1月から放送されるということで、第1シーズンから第3シーズンの見どころをまとめた「300秒でわかる『文豪ストレイドッグス』」がYouTubeで公開されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221208-headline/",
+          "publishedOn": "2022-12-08T09:07:00.000Z",
+          "wordCount": 5022,
+          "title": "2022年12月8日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/08/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221208-north-korea-change-names-ideological/",
           "author": null,
           "description": "北朝鮮当局が市民に対し、子どもの名前を「爆弾」「忠誠」「衛星」などのイデオロギー的、または軍国主義的な意味を持つ名前に変更するよう命じていると報じられました。北朝鮮では近年、柔らかい母音で終わる名前の子どもが増えており、当局は中国風・日本風・韓国風の名前を付ける親を非難しているとのことです。\n続きを読む...",
@@ -1356,6 +1366,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news151.html",
+          "author": null,
+          "description": "米Appleが新たなデータ保護機能を3種類発表した。盗聴防止機能、物理認証デバイスを利用できるようにする機能、iCloudの暗号化する範囲の拡張を追加する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news151.html",
+          "publishedOn": "2022-12-08T08:30:00.000Z",
+          "wordCount": 2621,
+          "title": "Apple、著名人や要人向けに高度なセキュリティ機能を提供　盗聴防止、物理認証デバイス追加など",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news151.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/08/news125.html",
           "author": null,

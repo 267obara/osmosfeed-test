@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T08:17:59.044Z</updated>
+    <updated>2022-12-08T09:13:27.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年12月8日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221208-headline/</id>
+        <link href="https://gigazine.net/news/20221208-headline/"/>
+        <updated>2022-12-08T09:07:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメ「文豪ストレイドッグス」の第4シーズンが2023年1月から放送されるということで、第1シーズンから第3シーズンの見どころをまとめた「300秒でわかる『文豪ストレイドッグス』」がYouTubeで公開されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、著名人や要人向けに高度なセキュリティ機能を提供　盗聴防止、物理認証デバイス追加など]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/08/news151.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news151.html"/>
+        <updated>2022-12-08T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米Appleが新たなデータ保護機能を3種類発表した。盗聴防止機能、物理認証デバイスを利用できるようにする機能、iCloudの暗号化する範囲の拡張を追加する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[北朝鮮が子どもの名前を「爆弾」「銃」「衛星」などを意味する愛国的なものに変更するよう命じる]]></title>
         <id>https://gigazine.net/news/20221208-north-korea-change-names-ideological/</id>

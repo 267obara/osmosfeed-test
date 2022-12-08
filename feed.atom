@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T06:18:15.296Z</updated>
+    <updated>2022-12-08T07:12:29.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TikTokが「子どもを薬物とアダルトコンテンツにさらした」と提訴される、中国政府へのデータ漏えい懸念で使用禁止の動きも]]></title>
+        <id>https://gigazine.net/news/20221208-tiktok-lawsuit-targeting-teens-adult-content/</id>
+        <link href="https://gigazine.net/news/20221208-tiktok-lawsuit-targeting-teens-adult-content/"/>
+        <updated>2022-12-08T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TikTokが、子どもの安全と個人情報の取り扱いについてユーザーに誤解を与えたとして、インディアナ州から提訴されていたことが分かりました。アメリカでは、TikTokを運営する中国企業のByteDanceが中国政府にデータを流出させるおそれがあるとの懸念が広がっており、インディアナ州だけでなくテキサス州やメリーランド州など各地でTikTokを禁止したり排除したりする動きが強まっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[返品・交換がビジネスチャンスに？　アメリカで体験した「Happy Returns」のUXがナイスアイデア]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/07/news146.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news146.html"/>
+        <updated>2022-12-08T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[シリコンバレーのIT企業に勤務する五島正浩さんが見た現地のテック動向を紹介する連載「シリコンバレーから見た風景」。第21回は、デメリットが大きそうなネットショッピングの返品・交換をビジネスチャンスにした企業を紹介します。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic Games、メタバースで子どもを守る「機能限定アカウント」提供開始]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/08/news133.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news133.html"/>
+        <updated>2022-12-08T06:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Epic Gamesはプレイヤーが入力した年齢に基づいてゲームの機能を制限する「機能限定アカウント」を発表した。保護者が設定を変更しない限り「フォートナイト」などで機能が制限される。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Instagramでシャドウバンされているかどうか確認できるように]]></title>
         <id>https://gigazine.net/news/20221208-instagram-account-status/</id>
@@ -15,6 +46,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マネフォがDB統合の方針転換、freee意識の新設計　freeeは機能を個別提供へ　インボイス制度が契機に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/08/news110.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news110.html"/>
+        <updated>2022-12-08T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マネーフォワードは、取引先マスターや従業員マスターなど各種のデータベース（DB）を統合していく計画を明らかにした。1つのマスターDBに対し、各プロダクトがアクセスできる形を採る。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T12:26:50.800Z</updated>
+    <updated>2022-12-08T13:21:31.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3種のチーズの味わいがすべてをまろやかに包み込むファーストキッチンの「とろける3種チーズのベーコンエッグバーガー」＆「とろける3種チーズのチキン竜田バーガー」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221208-first-kitchen-cheese-bacon-egg-burger/</id>
+        <link href="https://gigazine.net/news/20221208-first-kitchen-cheese-bacon-egg-burger/"/>
+        <updated>2022-12-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[創業45周年を迎えたファーストキッチンで、チェダーチーズ・ゴーダチーズ・モッツァレラチーズの3種類を使った「とろける」バーガーとして、「とろける3種チーズのベーコンエッグバーガー」「とろける3種チーズのチキン竜田バーガー」が2022年12月6日(火)から登場したので、食べに行ってきました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ナスカの地上絵」新たに168点発見　山形大学が発表　ドローンや航空レーザー測量で現地調査]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/08/news182.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news182.html"/>
+        <updated>2022-12-08T12:09:00.000Z</updated>
+        <summary type="html"><![CDATA[山形大学は12月8日、南米ペルーのナスカ台地とナスカ市街地付近で新たなナスカの地上絵168点を発見したと発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多くの国では「ソーシャルメディアは民主主義に役立つ」と考えられているとの調査結果、日本人はどう思っているのか？]]></title>
         <id>https://gigazine.net/news/20221208-social-media-good-for-democracy/</id>

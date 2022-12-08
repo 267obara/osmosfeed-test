@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221208-apple-csam-scan-canceled/",
+          "author": null,
+          "description": "Appleは、ユーザーがiCloudに保存している写真をスキャンして性的児童虐待のコンテンツ(CSAM)が含まれていないかを検出する計画を発表していましたが、これに対して反対の声が多く挙がりました。AppleがこのCSAM検出システムを導入する計画を破棄したと報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221208-apple-csam-scan-canceled/",
+          "publishedOn": "2022-12-08T03:30:00.000Z",
+          "wordCount": 2513,
+          "title": "Appleが「iCloudフォトに性的児童虐待の画像がないかをチェックするシステム」の実装を破棄",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/08/apple-csam-scan-canceled/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221208-yayoiken-yakiniku-zanmai/",
+          "author": null,
+          "description": "コク深いタレに漬け込まれた牛・豚・鶏の3種の肉を焼き上げた「【牛豚鶏】焼肉ざんまい定食」が、2022年12月6日(火)からやよい軒に登場しています。3種の肉を一気に堪能できるボリュームたっぷりの定食になっているとのことで、どんな味に仕上がっているのか実際に食べて確かめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221208-yayoiken-yakiniku-zanmai/",
+          "publishedOn": "2022-12-08T03:25:00.000Z",
+          "wordCount": 2480,
+          "title": "濃厚な甘辛いタレに漬け込んだ牛・豚・鶏の焼き肉を味変しまくりで堪能できる「【牛豚鶏】焼肉ざんまい定食」を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/08/yayoiken-yakiniku-zanmai/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221208-apple-advanced-security-features/",
+          "author": null,
+          "description": "Appleがセキュリティ向上のため、新たに「iMessage Contact Key Verification」「Security Keys for Apple ID」「Advanced Data Protection for iCloud」という3つのセキュリティ機能を発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221208-apple-advanced-security-features/",
+          "publishedOn": "2022-12-08T03:19:00.000Z",
+          "wordCount": 2684,
+          "title": "Appleが二要素認証へのセキュリティキー追加やiCloudの暗号化対象拡大などセキュリティ機能3つの追加を発表",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/08/apple-advanced-security-features/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221208-germany-coup-plot-arrests/",
           "author": null,
           "description": "ドイツ当局が2022年12月7日(水)に、陰謀論を信じてドイツ政府の転覆を企てたとして、暴力的なクーデターを計画した疑いで極右グループのメンバーとその支持者25人を逮捕したと発表しました。逮捕者の中にはドイツの貴族の子孫や退役した元空挺部隊員、元裁判官などが含まれていました。\n続きを読む...",
@@ -673,6 +703,36 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16991",
+          "author": null,
+          "description": "パイプドビッツは、ローコード開発プラットフォーム「SPIRAL ver.2（スパイラル バージョン２）」の新バージョン2.22を2023年1月24日から提供開始する。また、新バージョンのβ版を12月7日から提供開始する。",
+          "link": "http://codezine.jp/article/detail/16991",
+          "publishedOn": "2022-12-08T03:00:00.000Z",
+          "wordCount": 4312,
+          "title": "ローコード開発プラットフォーム「SPIRAL ver.2」が2023年1月24日に大型アップデート",
+          "imageUrl": "https://codezine.jp/static/images/article/16991/16991_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/16992",
+          "author": null,
+          "description": "UZUZは、ウズウズカレッジのリスキリングサービスを活用し、現在リスキリングを行っている人に対して意識調査を実施し、その結果を12月7日に発表した。",
+          "link": "http://codezine.jp/article/detail/16992",
+          "publishedOn": "2022-12-08T03:00:00.000Z",
+          "wordCount": 4312,
+          "title": "UZUZがリスキリングの意識調査を実施、リスキリングの目的の37.9％が業務スキル向上と業務効率化のため",
+          "imageUrl": "https://codezine.jp/static/images/article/16992/16992_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/16994",
+          "author": null,
+          "description": "チェコJetBrainsは、PHP向けの統合開発環境（IDE）「PhpStorm」の新版「PhpStorm 2022.3」を12月5日（現地時間）に公開した。同社のWebサイトで30日限定の試用版をダウンロードできる。Windows、macOS、Linuxで動作する。",
+          "link": "http://codezine.jp/article/detail/16994",
+          "publishedOn": "2022-12-08T02:40:00.000Z",
+          "wordCount": 4322,
+          "title": "JetBrainsがPHP向け統合開発環境「PhpStorm 2022.3」を公開、PHP 8.2の言語仕様に先行対応",
+          "imageUrl": "https://codezine.jp/static/images/article/16994/13365_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16930",
           "author": null,
           "description": "第2回は、VSCodeの設定について紹介します。基本的な設定、ワークスペース、フォルダー、設定の同期、カラーテーマなどを紹介します。",
@@ -1246,6 +1306,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news109.html",
+          "author": null,
+          "description": "SF漫画「AIの遺電子」が、テレビアニメに。元ITニュース記者の漫画家の作品。人権を持ったヒューマノイドと共に暮らす22世紀後半の社会が舞台だ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news109.html",
+          "publishedOn": "2022-12-08T03:51:00.000Z",
+          "wordCount": 2594,
+          "title": "「AIの遺電子」アニメ化　元IT記者が描く「AIヒューマノイドと共に生きる近未来」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news109.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news107.html",
+          "author": null,
+          "description": "米Microsoftがゲーム開発者向けの支援プログラム「ID＠Azure」を拡充。スタートアップ向け支援プログラムとの併用を可能にした。双方の審査を通った場合、クラウドサービス「Microsoft Azure」のクレジットなどを追加で受け取れる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news107.html",
+          "publishedOn": "2022-12-08T03:45:00.000Z",
+          "wordCount": 2617,
+          "title": "Microsoft、ゲーム開発向け支援を拡充　Azureクレジットや法人向けMicrosoft 365を追加で提供　スタートアップ対象",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news107.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news105.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news105.html",
+          "publishedOn": "2022-12-08T03:30:00.000Z",
+          "wordCount": 2585,
+          "title": "突如終了で批判受けた家族SNS「ウェルノート」、一括ダウンロード提供へ　「みてね」移行も",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news105.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/08/news089.html",
           "author": null,

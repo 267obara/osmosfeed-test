@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221209-paleontologist-accused-dino-killing-asteroid-paper/",
+          "author": null,
+          "description": "「恐竜を絶滅させた小惑星」に関する論文を発表した古生物学者が、実は元同僚の結論をそのまま論文に用いていたという疑惑が持ち上がっています。元同僚は、古生物学者の論文は結論こそ同じながら用いられたデータセットが異なり、そのデータが偽造であると指摘しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-paleontologist-accused-dino-killing-asteroid-paper/",
+          "publishedOn": "2022-12-08T22:00:00.000Z",
+          "wordCount": 2583,
+          "title": "「恐竜を絶滅させた小惑星の衝突時期」の論文にデータ偽造の疑い",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/paleontologist-accused-dino-killing-asteroid-paper/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221209-russia-proton/",
           "author": null,
           "description": "ロシア政府は2019年に「国内のネットワークをインターネットから切り離す実験」に成功していたり、ウクライナへの侵攻を開始して以降はSNSやニュースサービスへのアクセスを遮断していたりと、インターネットの規制・監視を強めて自由なアクセスを制限しています。そのような政府からの検閲を回避して自由なインターネットアクセスを提供するProtonの激しい戦いについて、ニューヨークタイムズ誌がまとめています。\n続きを読む...",

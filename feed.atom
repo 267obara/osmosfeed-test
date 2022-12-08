@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T16:19:41.149Z</updated>
+    <updated>2022-12-08T17:12:39.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWSがLinux関連OSSを特許リスクから守る「Open Invention Network」に加盟。全特許をパテントプールに提供すると表明]]></title>
+        <id>https://www.publickey1.jp/blog/22/awslinuxossopen_invention_network.html</id>
+        <link href="https://www.publickey1.jp/blog/22/awslinuxossopen_invention_network.html"/>
+        <updated>2022-12-08T17:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Servicesは、Linux関連のオープンソースを特許リスクから保護する「Open Invention Network」への加盟を発表し、同社の持つ特許全てをOpen Invention Networkのパテントプー...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヨドバシ.comを支える内製プライベートクラウド／GitHub Codespacesが全ユーザーに無料提供へ／マイクロソフト「.NET 7」正式リリースほか、2022年11月の人気記事]]></title>
+        <id>https://www.publickey1.jp/blog/22/comgithub_codespacesnet_7202211.html</id>
+        <link href="https://www.publickey1.jp/blog/22/comgithub_codespacesnet_7202211.html"/>
+        <updated>2022-12-08T16:56:40.000Z</updated>
+        <summary type="html"><![CDATA[先週のある日、「AWS re:Invent 2022」の基調講演を深夜にストリーミングで見終わって速報記事を書いていたら、ちょうどサッカーワールドカップの日本対スペイン戦が始まる午前4時になりました。 テレビを付けて、記事を書きつつもときど...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日産と三菱の軽EVが「日本カー・オブ・ザ・イヤー」受賞　軽の受賞は初]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/08/news186.html</id>

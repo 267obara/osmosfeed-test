@@ -1240,6 +1240,26 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/awslinuxossopen_invention_network.html",
+          "author": null,
+          "description": "Amazon Web Servicesは、Linux関連のオープンソースを特許リスクから保護する「Open Invention Network」への加盟を発表し、同社の持つ特許全てをOpen Invention Networkのパテントプー...",
+          "link": "https://www.publickey1.jp/blog/22/awslinuxossopen_invention_network.html",
+          "publishedOn": "2022-12-08T17:00:09.000Z",
+          "wordCount": 1303,
+          "title": "AWSがLinux関連OSSを特許リスクから守る「Open Invention Network」に加盟。全特許をパテントプールに提供すると表明",
+          "imageUrl": "https://www.publickey1.jp/2022/aws_oin.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/comgithub_codespacesnet_7202211.html",
+          "author": null,
+          "description": "先週のある日、「AWS re:Invent 2022」の基調講演を深夜にストリーミングで見終わって速報記事を書いていたら、ちょうどサッカーワールドカップの日本対スペイン戦が始まる午前4時になりました。 テレビを付けて、記事を書きつつもときど...",
+          "link": "https://www.publickey1.jp/blog/22/comgithub_codespacesnet_7202211.html",
+          "publishedOn": "2022-12-08T16:56:40.000Z",
+          "wordCount": 1290,
+          "title": "ヨドバシ.comを支える内製プライベートクラウド／GitHub Codespacesが全ユーザーに無料提供へ／マイクロソフト「.NET 7」正式リリースほか、2022年11月の人気記事",
+          "imageUrl": "https://www.publickey1.jp/fbico_pblky.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/lineosscloud_native_telecom_operator_meetup_2022pr.html",
           "author": null,
           "description": "5G時代にむけた通信事業者のネットワークインフラの進化について、技術や標準化、オープンソース、そしてアカデミックなどのさまざまな観点から議論を行うイベント「Cloud Native Telecom Operator Meetup 2022」...",

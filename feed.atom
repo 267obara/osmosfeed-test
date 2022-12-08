@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-08T15:13:57.818Z</updated>
+    <updated>2022-12-08T16:19:41.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日産と三菱の軽EVが「日本カー・オブ・ザ・イヤー」受賞　軽の受賞は初]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/08/news186.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news186.html"/>
+        <updated>2022-12-08T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[日産自動車の軽EV「サクラ」が「2022-2023 日本カー・オブ・ザ・イヤー」と、軽自動車カテゴリーの「K CAR オブ・ザ・イヤー」を受賞した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロン・マスクによるTwitterの混乱に乗じてMetaが「ネクストTwitter」の構築について議論していたと判明]]></title>
         <id>https://gigazine.net/news/20221208-twitters-rivals-capitalize-musk-induced-chaos/</id>

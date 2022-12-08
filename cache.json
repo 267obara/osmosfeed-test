@@ -1417,6 +1417,16 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news186.html",
+          "author": null,
+          "description": "日産自動車の軽EV「サクラ」が「2022-2023 日本カー・オブ・ザ・イヤー」と、軽自動車カテゴリーの「K CAR オブ・ザ・イヤー」を受賞した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news186.html",
+          "publishedOn": "2022-12-08T14:50:00.000Z",
+          "wordCount": 2604,
+          "title": "日産と三菱の軽EVが「日本カー・オブ・ザ・イヤー」受賞　軽の受賞は初",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news186.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/08/news182.html",
           "author": null,
           "description": "山形大学は12月8日、南米ペルーのナスカ台地とナスカ市街地付近で新たなナスカの地上絵168点を発見したと発表した。",

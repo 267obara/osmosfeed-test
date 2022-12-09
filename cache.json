@@ -843,6 +843,36 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16997",
+          "author": null,
+          "description": "米New Relicは、11月29日（現地時間）に行われた、Amazon Web Services（AWS）の年次イベントである「re:Invent 2022」にて、AWS Compute Optimizer、AWS Lambda Extensions、AWS App Runner向けのサポートを発表した。",
+          "link": "http://codezine.jp/article/detail/16997",
+          "publishedOn": "2022-12-09T00:00:00.000Z",
+          "wordCount": 4330,
+          "title": "AWSの「Compute Optimizer」「Lambda Extensions」「App Runner」をNew Relicがサポート",
+          "imageUrl": "https://codezine.jp/static/images/article/16997/13107_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/16998",
+          "author": null,
+          "description": "Web開発エコシステムの今後の傾向を明らかにし、開発者の技術的な選択を支援するための、CSSに関する年次調査「State of CSS」の2022年版が発表された。当調査は、10月1日～11月1日（現地時間）の期間に行われ、14310名から回答を得ている。",
+          "link": "http://codezine.jp/article/detail/16998",
+          "publishedOn": "2022-12-09T00:00:00.000Z",
+          "wordCount": 4294,
+          "title": "CSSに関する年次調査「State of CSS 2022」が発表",
+          "imageUrl": "https://codezine.jp/static/images/article/16998/12540_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/16995",
+          "author": null,
+          "description": "Appleシリコンを搭載したMacで利用可能なLinuxディストリビューションであるAsahi Linuxの開発チームは、AppleシリコンGPUドライバの、最初のアルファ版を12月7日（現地時間）にリリースした。",
+          "link": "http://codezine.jp/article/detail/16995",
+          "publishedOn": "2022-12-08T23:00:00.000Z",
+          "wordCount": 4287,
+          "title": "Asahi Linux、AppleシリコンGPUドライバのアルファ版をリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/16995/12883_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16991",
           "author": null,
           "description": "パイプドビッツは、ローコード開発プラットフォーム「SPIRAL ver.2（スパイラル バージョン２）」の新バージョン2.22を2023年1月24日から提供開始する。また、新バージョンのβ版を12月7日から提供開始する。",
@@ -1466,6 +1496,56 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news088.html",
+          "author": null,
+          "description": "アドビは、ビジネスパーソン600人を対象に、日本でのPDFファイルの利用状況や、認識に関する実態調査の結果を発表した。PDFファイルには、「レイアウトが崩れない」とイメージを持つ人が最も多く、PDF化した後でも加工や修正ができることを6割超が「知らなかった」と回答したことが分かった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news088.html",
+          "publishedOn": "2022-12-09T00:45:00.000Z",
+          "wordCount": 2604,
+          "title": "アドビ、PDF実態調査　PDF化した後に第三者が加工修正できる「知らなかった」6割超",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news088.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news086.html",
+          "author": null,
+          "description": "The Walt Disney Companyは、動画配信サービス「Disney+」に広告付きプラン「Basic」を、まずは米国で追加する。月額料金は7.99ドル。従来のプランは7.99ドルから10.99ドルに値上げする。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news086.html",
+          "publishedOn": "2022-12-09T00:16:00.000Z",
+          "wordCount": 2608,
+          "title": "Disney+も広告付きプラン、既存プランは3ドル値上げ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news086.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news084.html",
+          "author": null,
+          "description": "大阪府豊中市は、ホームページ上の「市民の声の内容と回答等」のコーナーで、市民の個人情報を誤って掲載していたと発表した。掲載は約1週間におよび、通報を受けて削除した。悪用などの報告は現在のところ確認されていないという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news084.html",
+          "publishedOn": "2022-12-09T00:00:00.000Z",
+          "wordCount": 2323,
+          "title": "市Webサイトに個人情報1週間、大阪・豊中市が謝罪",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/l_VEX4OEIIYZMHJG2UOXMXWJIT5Q_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news083.html",
+          "author": null,
+          "description": "eスポーツを不登校や引きこもりの子供たちへの支援に取り入れる事例が広がっている。子供たちが勝利に向かってチームで取り組むことで、協調性や自己肯定感を養う試みで、不登校の人数が過去最多となる中、解決策の一つとして期待されている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news083.html",
+          "publishedOn": "2022-12-09T00:00:00.000Z",
+          "wordCount": 2338,
+          "title": "不登校支援に「eスポーツ」　協調性と社会性を養うゲームの力",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/l_VAWKUMASRVMHLJAFJB3UHOK5ZY_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news082.html",
+          "author": null,
+          "description": "デスクトップ版Chromeブラウザに2つの新機能が追加される。「Memory Saver」は多数のタブを開いた場合、非表示タブのメモリを解放する。「Energy Saver」はPCのバッテリーが少なくなったらWebの視覚効果を制限する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news082.html",
+          "publishedOn": "2022-12-08T23:26:00.000Z",
+          "wordCount": 2605,
+          "title": "Chromeブラウザのデスクトップ版に「メモリセーバー」モード追加",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news082.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/09/news081.html",
           "author": null,

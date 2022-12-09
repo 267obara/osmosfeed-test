@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221209-california-girl-licensed-own-unicorn/",
+          "author": null,
+          "description": "ユニコーンとは、額に1本の角が生えた馬に似ている伝説上の動物です。そんなユニコーンの「飼育ライセンス」を、アメリカ・カリフォルニア州ロサンゼルス郡の動物保護管理局が少女に与えました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-california-girl-licensed-own-unicorn/",
+          "publishedOn": "2022-12-09T10:00:00.000Z",
+          "wordCount": 2491,
+          "title": "「ユニコーンの飼育ライセンス」を規制当局が少女に与える、「角を月に1度磨くこと」「週に1回スイカを食べさせること」が条件",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/california-girl-licensed-own-unicorn/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221209-headline/",
           "author": null,
           "description": "バーガーキングと人気ゲーム「ディアブロⅣ」のコラボバーガーとして、「リリス・スパイシートマトダブルワッパー チーズ」が2022年12月16日(金)から期間限定・数量限定で登場します。コラボバーガーのイメージキャラクターは名前が入ってるとおり、憎悪の帝王メフィストの娘で作品世界「サンクチュアリ」の創造主でもあるリリス。バーガーは、血の儀式によって、永きにわたる追放からサンクチュアリに降臨したリリスの怒りをイメージしているとのこと。価格は単品で税込1420円です。\n続きを読む...",
@@ -1706,6 +1716,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news166.html",
+          "author": null,
+          "description": "TwitterのマスクCEOが今後追加予定の新機能をツイートで予告した。ビューカウンターについてはジェーン・マンチュン・ウォン氏が画像をツイートした。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news166.html",
+          "publishedOn": "2022-12-09T09:08:00.000Z",
+          "wordCount": 2598,
+          "title": "TwitterのマスクCEO、“シャドウバン”理由表示やビューカウンターなどの新機能を予告",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news166.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/09/news150.html",
           "author": null,

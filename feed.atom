@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T09:13:24.078Z</updated>
+    <updated>2022-12-09T10:15:09.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ユニコーンの飼育ライセンス」を規制当局が少女に与える、「角を月に1度磨くこと」「週に1回スイカを食べさせること」が条件]]></title>
+        <id>https://gigazine.net/news/20221209-california-girl-licensed-own-unicorn/</id>
+        <link href="https://gigazine.net/news/20221209-california-girl-licensed-own-unicorn/"/>
+        <updated>2022-12-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ユニコーンとは、額に1本の角が生えた馬に似ている伝説上の動物です。そんなユニコーンの「飼育ライセンス」を、アメリカ・カリフォルニア州ロサンゼルス郡の動物保護管理局が少女に与えました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年12月9日のヘッドラインニュース]]></title>
         <id>https://gigazine.net/news/20221209-headline/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TwitterのマスクCEO、“シャドウバン”理由表示やビューカウンターなどの新機能を予告]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/09/news166.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news166.html"/>
+        <updated>2022-12-09T09:08:00.000Z</updated>
+        <summary type="html"><![CDATA[TwitterのマスクCEOが今後追加予定の新機能をツイートで予告した。ビューカウンターについてはジェーン・マンチュン・ウォン氏が画像をツイートした。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

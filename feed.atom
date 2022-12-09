@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T08:17:41.982Z</updated>
+    <updated>2022-12-09T09:13:24.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年12月9日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221209-headline/</id>
+        <link href="https://gigazine.net/news/20221209-headline/"/>
+        <updated>2022-12-09T09:12:00.000Z</updated>
+        <summary type="html"><![CDATA[バーガーキングと人気ゲーム「ディアブロⅣ」のコラボバーガーとして、「リリス・スパイシートマトダブルワッパー チーズ」が2022年12月16日(金)から期間限定・数量限定で登場します。コラボバーガーのイメージキャラクターは名前が入ってるとおり、憎悪の帝王メフィストの娘で作品世界「サンクチュアリ」の創造主でもあるリリス。バーガーは、血の儀式によって、永きにわたる追放からサンクチュアリに降臨したリリスの怒りをイメージしているとのこと。価格は単品で税込1420円です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter本社に違法な仮眠室が設けられたとして規制当局による調査のメスが入る]]></title>
         <id>https://gigazine.net/news/20221209-twitter-investigation-illegal-bedrooms/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「忘年会お断り文章生成AI」登場　約200文字の欠席理由を自動生成]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/09/news150.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news150.html"/>
+        <updated>2022-12-09T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[文章生成AI「Catchy」などを開発するスタートアップ企業のデジタルレシピは、忘年会を断りたい人のために、欠席理由を代理で考えてくれるAIツール「忘年会お断り文章生成AI」を開発した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

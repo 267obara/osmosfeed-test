@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221209-google-delete-search-result-inaccurate-eu/",
+          "author": null,
+          "description": "欧州連合における最高裁判所に相当する欧州司法裁判所が2022年12月8日に、EUにおいては情報が「明らかに不正確」なことが証明されれば、自分に関する検索結果を削除するようGoogleに要求できるとの判決を下しました。これにより、「忘れられる権利」を行使できる事例がより多くなると報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-google-delete-search-result-inaccurate-eu/",
+          "publishedOn": "2022-12-09T06:00:00.000Z",
+          "wordCount": 2533,
+          "title": "Googleは検索結果が「不正確」なら削除しなければならないとの判決、「忘れられる権利」拡張へ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/google-delete-search-result-inaccurate-eu/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221209-twitter-file-hunter-biden/",
           "author": null,
           "description": "2022年12月3日に、Twitterの内部情報から抜粋した暴露情報「Twitterファイル」がジャーナリストのマット・タイービ氏によって公開されました。この「Twitterファイル」ではジョー・バイデン大統領の息子であるハンター・バイデン氏の汚職疑惑をTwitterが隠していたことが明らかになったのですが、「Twitterファイル」に関する誤った臆測が広がっている現状をテクノロジー関連ブログ「Techdirt」の編集者であるマイク・マズニック氏が指摘しています。\n続きを読む...",

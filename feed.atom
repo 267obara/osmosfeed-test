@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T12:25:46.334Z</updated>
+    <updated>2022-12-09T13:20:34.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ぬれおかきなのにグミのようにやわらかい食感の「グミみたいなおかき!? みたらし団子風味」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221209-gumi-mitaina-okaki-mitarashi-dango-fuumi/</id>
+        <link href="https://gigazine.net/news/20221209-gumi-mitaina-okaki-mitarashi-dango-fuumi/"/>
+        <updated>2022-12-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ローソンから、グミのような食感でありながら国産のもち米を使った一口サイズのぬれおかき「グミみたいなおかき!? みたらし団子風味」が2022年12月13日(火)に登場します。本来であればバリボリと硬い食感が魅力のおかきが、まるでグミのようなやわらか食感に仕上がっているとはどういうことなのか、一足早く食べられる機会を得られたので、実際に食べて確かめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アメリカ軍の宣伝ツイートから「最新ステルス爆撃機」の写真を撮影した位置が特定されてしまう]]></title>
         <id>https://gigazine.net/news/20221209-new-stealth-aircraft-location/</id>

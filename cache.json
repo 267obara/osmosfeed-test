@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221209-invisdefense-coat-china/",
+          "author": null,
+          "description": "AIで人を検出するカメラの目をごまかすことができる特殊なコートが、中国の武漢大学の学生により開発されました。数々の監視システムが導入されている中国において、人々のプライバシーと安全を保護することが期待されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-invisdefense-coat-china/",
+          "publishedOn": "2022-12-09T11:00:00.000Z",
+          "wordCount": 2480,
+          "title": "目に見えるのにAIには見えない「対AI型迷彩コート」を学生が開発",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/invisdefense-coat-china/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221209-california-girl-licensed-own-unicorn/",
           "author": null,
           "description": "ユニコーンとは、額に1本の角が生えた馬に似ている伝説上の動物です。そんなユニコーンの「飼育ライセンス」を、アメリカ・カリフォルニア州ロサンゼルス郡の動物保護管理局が少女に与えました。\n続きを読む...",
@@ -1716,6 +1726,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news158.html",
+          "author": null,
+          "description": "「Amazon Pay」を用いて、タリーズ公式アプリ内のタリーズカードの残高に入金できるようになったと発表した。ただしAmazonギフトカード残高のみ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news158.html",
+          "publishedOn": "2022-12-09T10:10:00.000Z",
+          "wordCount": 2601,
+          "title": "Amazon Payでタリーズカードへの入金が可能に　プリペイドへのチャージは初",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news158.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news169.html",
+          "author": null,
+          "description": "ソフトウェア協会が「医療機関向けサイバーセキュリティ対策研修事業」を始める。経営者、システム管理者、医療従事者など向けに講座を実施する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news169.html",
+          "publishedOn": "2022-12-09T10:00:00.000Z",
+          "wordCount": 2586,
+          "title": "医療機関にセキュリティ知識を　ソフトウェア協会が講習事業スタート",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news169.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news170.html",
+          "author": null,
+          "description": "イラスト制作ソフト「CLIP STUDIO PAINT」などを手掛けるセルシスは、デジタルコンテンツの流通プラットフォーム「DC3」を発表した。運営はセルシス子会社の&DC3が手掛け、あらゆるデジタルデータを唯一無二のものとして扱うことができるという。DC3自体が流通サービスを手掛けるのではなく、あくまでも既存の事業者がコンテンツを流通させるための基盤を提供するものとなる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news170.html",
+          "publishedOn": "2022-12-09T09:50:00.000Z",
+          "wordCount": 2610,
+          "title": "「クリスタ」のセルシスがWeb3向けコンテンツ流通基盤　「投機対象ではなく深くコンテンツを愛する人に」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news170.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/09/news166.html",
           "author": null,

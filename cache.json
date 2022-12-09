@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221209-new-stealth-aircraft-location/",
+          "author": null,
+          "description": "アメリカ空軍がTwitterで、核弾頭と通常弾を搭載可能な「二刀流」の最新鋭ステルス爆撃機である「B-21レイダー」の写真を公開しました。この時、背景に映り込んだ星空から、ステルス爆撃機の位置を高い精度で割り出してしまったTwitterユーザーが登場しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-new-stealth-aircraft-location/",
+          "publishedOn": "2022-12-09T12:00:00.000Z",
+          "wordCount": 3152,
+          "title": "アメリカ軍の宣伝ツイートから「最新ステルス爆撃機」の写真を撮影した位置が特定されてしまう",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/new-stealth-aircraft-location/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221209-invisdefense-coat-china/",
           "author": null,
           "description": "AIで人を検出するカメラの目をごまかすことができる特殊なコートが、中国の武漢大学の学生により開発されました。数々の監視システムが導入されている中国において、人々のプライバシーと安全を保護することが期待されています。\n続きを読む...",
@@ -1726,6 +1736,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news174.html",
+          "author": null,
+          "description": "映画「鬼滅の刃 無限列車編」をフジテレビが12月10日に特別番組としてノーカット放送する。しかし一部地域のファンは録画予約などの際に注意する必要がありそうだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news174.html",
+          "publishedOn": "2022-12-09T11:49:00.000Z",
+          "wordCount": 2352,
+          "title": "映画「鬼滅の刃 無限列車編」10日に特別放送、一部地域は時間に注意　最新情報の動画配信も",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news174.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news139.html",
+          "author": null,
+          "description": "クリスタにAI作画機能搭載が見送られたと聞いて、なるほどなあと思いつつ、では絵が全く描けない筆者が、AIを使って漫画を書くことはできるのか、実際にやってみることにした。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news139.html",
+          "publishedOn": "2022-12-09T11:00:00.000Z",
+          "wordCount": 2636,
+          "title": "AIでどこまでできる？　絵心のないプログラマーが「ChatGPT」と「作画AI」でマンガを描いてみた",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news139.png"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/09/news158.html",
           "author": null,

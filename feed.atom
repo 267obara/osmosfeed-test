@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T11:11:28.763Z</updated>
+    <updated>2022-12-09T12:25:46.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アメリカ軍の宣伝ツイートから「最新ステルス爆撃機」の写真を撮影した位置が特定されてしまう]]></title>
+        <id>https://gigazine.net/news/20221209-new-stealth-aircraft-location/</id>
+        <link href="https://gigazine.net/news/20221209-new-stealth-aircraft-location/"/>
+        <updated>2022-12-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ空軍がTwitterで、核弾頭と通常弾を搭載可能な「二刀流」の最新鋭ステルス爆撃機である「B-21レイダー」の写真を公開しました。この時、背景に映り込んだ星空から、ステルス爆撃機の位置を高い精度で割り出してしまったTwitterユーザーが登場しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映画「鬼滅の刃 無限列車編」10日に特別放送、一部地域は時間に注意　最新情報の動画配信も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/09/news174.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news174.html"/>
+        <updated>2022-12-09T11:49:00.000Z</updated>
+        <summary type="html"><![CDATA[映画「鬼滅の刃 無限列車編」をフジテレビが12月10日に特別番組としてノーカット放送する。しかし一部地域のファンは録画予約などの際に注意する必要がありそうだ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[目に見えるのにAIには見えない「対AI型迷彩コート」を学生が開発]]></title>
         <id>https://gigazine.net/news/20221209-invisdefense-coat-china/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIでどこまでできる？　絵心のないプログラマーが「ChatGPT」と「作画AI」でマンガを描いてみた]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/09/news139.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news139.html"/>
+        <updated>2022-12-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[クリスタにAI作画機能搭載が見送られたと聞いて、なるほどなあと思いつつ、では絵が全く描けない筆者が、AIを使って漫画を書くことはできるのか、実際にやってみることにした。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

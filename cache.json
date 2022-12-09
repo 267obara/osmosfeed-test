@@ -6,6 +6,46 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221209-ftc-microsoft-block-activision-blizzard-purchase/",
+          "author": null,
+          "description": "アメリカにおける公正な取引を監督・監視する連邦取引委員会(FTC)が、Activision Blizzardの買収を阻止するためにMicrosoftを提訴しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-ftc-microsoft-block-activision-blizzard-purchase/",
+          "publishedOn": "2022-12-09T02:29:00.000Z",
+          "wordCount": 2695,
+          "title": "MicrosoftによるActivision Blizzard買収を阻止するため連邦取引委員会が提訴",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/ftc-microsoft-block-activision-blizzard-purchase/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221209-amazon-launches-tiktok-style-feed-inspire/",
+          "author": null,
+          "description": "AmazonがTikTokのように写真や動画のフィードを表示する新機能「Inspire」を、アプリで展開することが明らかになりました。ユーザーはさまざまな製品に関するコンテンツを見て「いいね」を付けることができ、気に入った製品を直接購入できるとのことです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-amazon-launches-tiktok-style-feed-inspire/",
+          "publishedOn": "2022-12-09T02:15:00.000Z",
+          "wordCount": 2530,
+          "title": "AmazonがTikTokスタイルで写真や動画を共有するフィード「Inspire」をアプリで展開、「いいね」や製品購入も可能",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/amazon-launches-tiktok-style-feed-inspire/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221209-google-chrome-memory-saver/",
+          "author": null,
+          "description": "Google Chromeのユーザーの中には、たくさんのタブを開きっぱなしにしているせいでPCのメモリがカツカツになってしまっている人も少なくないはず。そんな場合に役立つ「メモリセーバー」と、ノートPCの消費電力を抑制する「省エネモード」をデスクトップ版Google Chromeに追加したことを、Googleが発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-google-chrome-memory-saver/",
+          "publishedOn": "2022-12-09T01:37:00.000Z",
+          "wordCount": 2508,
+          "title": "Chromeにメモリを節約させる「メモリセーバー」機能が登場、バッテリーを長持ちさせる「省エネモード」も",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/google-chrome-memory-saver/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221209-iphone-usb-c-deadline/",
+          "author": null,
+          "description": "Androidスマートフォンやワイヤレスイヤホン、ノートPCなど数多くのデバイスがUSB Type-Cケーブルでの充電に対応していますが、記事作成時点で流通しているiPhoneシリーズにはUSB Type-C端子は搭載されていません。EUではスマートフォンなどのデバイスにUSB Type-Cでの充電に対応することを義務付ける法案が2022年10月に可決されていたのですが、新たに法案が欧州連合官報に掲載され、USB Type-C対応の期限が2022年12月28日に設定されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-iphone-usb-c-deadline/",
+          "publishedOn": "2022-12-09T01:30:00.000Z",
+          "wordCount": 2666,
+          "title": "iPhoneのUSB-C搭載が2024年12月28日までに行われる可能性が濃厚に",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/iphone-usb-c-deadline/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221209-sony-inzone-m3-unboxing/",
           "author": null,
           "description": "ソニーがフルHDのゲーミングモニター「INZONE M3」を2022年12月1日に発売しました。INZONE M3は240Hzという高いリフレッシュレートで動作する他、NVIDIA G-SYNCやAdaptive-Syncといった可変リフレッシュレート技術に対応。さらに、暗い場所を明るく表示するブラックイコライザーや画面中央にクロスヘアを表示する機能などゲーマーが望む機能が数多く搭載されています。そんなINZONE M3が編集部にやって来たので、まずは組み立て手順や外観をチェックしてみました。\n続きを読む...",
@@ -843,6 +883,56 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16909",
+          "author": null,
+          "description": "CodeZineの連載「Android Studio2で始めるアプリ開発入門」が終了したのが2017年3月です。それからおよそ1年後の2018年5月にAndroid Jetpackがリリースされました。このJetpackのおかげで、一歩進んだAndroidアプリ開発が行えるようになりました。その後、CodeZineの連載をもとに、内容をアップデートした『Androidアプリ開発の教科書』が翔泳社から刊行されますが、入門書という位置付け上、Jetpackの内容までは踏み込んでいません。本連載は、「Android Studio2で始めるアプリ開発入門」連載、および『Androidアプリ開発の教科書』の続編にあたる内容として、Jetpackを取り上げていきます。その第1回として、UIのデータを管理するためのライブラリであるViewModelを紹介します。",
+          "link": "http://codezine.jp/article/detail/16909",
+          "publishedOn": "2022-12-09T02:00:00.000Z",
+          "wordCount": 4473,
+          "title": "【Android開発中級者に贈るJetpack入門】UIのデータを管理するViewModelとは？",
+          "imageUrl": "https://codezine.jp/static/images/article/16909/16909_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17001",
+          "author": null,
+          "description": "コーディング試験サービス「HireRoo」を提供するハイヤールーは、エンジニア採用担当者147名を対象に実施した、エンジニア採用のミスマッチに関する調査の結果を12月8日に発表した。",
+          "link": "http://codezine.jp/article/detail/17001",
+          "publishedOn": "2022-12-09T02:00:00.000Z",
+          "wordCount": 4269,
+          "title": "ハイヤールーがエンジニア採用のミスマッチに関する調査を実施、エンジニア採用で84％はミスマッチを経験",
+          "imageUrl": "https://codezine.jp/static/images/article/17001/17001_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17002",
+          "author": null,
+          "description": "ギークリーは、7月〜9月にギークリーを利用した企業と転職希望者のデータからIT転職市場の動向を調査した結果を12月8日に発表した。",
+          "link": "http://codezine.jp/article/detail/17002",
+          "publishedOn": "2022-12-09T02:00:00.000Z",
+          "wordCount": 4267,
+          "title": "ギークリーが7月～9月のIT転職市場レポートを公開、IT求人数は109％と増加傾向",
+          "imageUrl": "https://codezine.jp/static/images/article/17002/17002_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17003",
+          "author": null,
+          "description": "「Ms.Engineer」を運営するMs.Engineerは、エニグモと女性のリスキリングとダイバーシティ&インクルージョン（以下、D&I）推進を目的としたパートナーシップを締結したことを12月8日に発表した。",
+          "link": "http://codezine.jp/article/detail/17003",
+          "publishedOn": "2022-12-09T02:00:00.000Z",
+          "wordCount": 4275,
+          "title": "Ms. Engineerとエニグモがパートナーシップを締結、女性のリスキリングの加速を目指す",
+          "imageUrl": "https://codezine.jp/static/images/article/17003/17003_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/16999",
+          "author": null,
+          "description": "グローバル・パートナーズ・テクノロジーは、オウンドメディア「IT調達ナビ」を、11月8日にリリースした。",
+          "link": "http://codezine.jp/article/detail/16999",
+          "publishedOn": "2022-12-09T01:00:00.000Z",
+          "wordCount": 4267,
+          "title": "グローバル・パートナーズ・テクノロジー、オウンドメディア「IT調達ナビ」をリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/16999/16999_fig01.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16997",
           "author": null,
           "description": "米New Relicは、11月29日（現地時間）に行われた、Amazon Web Services（AWS）の年次イベントである「re:Invent 2022」にて、AWS Compute Optimizer、AWS Lambda Extensions、AWS App Runner向けのサポートを発表した。",
@@ -1496,6 +1586,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news093.html",
+          "author": null,
+          "description": "AmazonはモバイルショッピングアプリにTikTokのようなショート動画サービス「Inspire」を追加する。動画は商品を紹介するもので、ブランドやインフルエンサーが投稿する。ユーザーは興味のある動画内の商品の概要をその場でチェックし、購入できる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news093.html",
+          "publishedOn": "2022-12-09T01:19:00.000Z",
+          "wordCount": 2594,
+          "title": "Amazon、TikTokのような「Inspire」を米国で開始　動画内の製品をタップで購入",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news093.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news092.html",
+          "author": null,
+          "description": "現在のAI契約レビューはあらかじめ決められた文言を契約書内の文章とマッチングさせるもので、ならば適法の可能性が高い。ただしAIが中身を評価するならグレー。そんなやりとりが内閣府のWGで行われた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news092.html",
+          "publishedOn": "2022-12-09T01:19:00.000Z",
+          "wordCount": 2602,
+          "title": "現在のAI契約書レビューは「適法」の可能性大、ただしAIが中身を評価するならグレー　内閣府WGで",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news092.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/09/news088.html",
           "author": null,

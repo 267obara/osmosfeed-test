@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T07:12:22.664Z</updated>
+    <updated>2022-12-09T08:17:41.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter本社に違法な仮眠室が設けられたとして規制当局による調査のメスが入る]]></title>
+        <id>https://gigazine.net/news/20221209-twitter-investigation-illegal-bedrooms/</id>
+        <link href="https://gigazine.net/news/20221209-twitter-investigation-illegal-bedrooms/"/>
+        <updated>2022-12-09T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterが本社の一部を従業員向けの仮眠室に変えたことが、サンフランシスコの建築基準法に違反しているとして、規制当局の調査を受けていることが明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「マインクラフト」のクリア後に流れる「エンドポエム」がパブリックドメインに、その理由とは？]]></title>
         <id>https://gigazine.net/news/20221209-minecraft-end-poem-public-domain/</id>

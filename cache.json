@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221209-twitter-blue-for-ios/",
+          "author": null,
+          "description": "Twitterが提供している有料サービス「Twitter Blue」の価格について、イーロン・マスクCEOが「ウェブを通じて支払う場合は月額7ドル(約960円)、iOS版アプリを通じて支払う場合は月額11ドル(約1500円)に設定するつもり」と従業員の一部に話したことが報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-twitter-blue-for-ios/",
+          "publishedOn": "2022-12-09T03:00:00.000Z",
+          "wordCount": 2540,
+          "title": "イーロン・マスクがiPhone向けのTwitter Blueのみ月額11ドルに値上げすることを検討中",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/twitter-blue-for-ios/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221209-burgerking-whopper-cheese-winter-arrabbiata/",
+          "author": null,
+          "description": "バーガーキングが新開発した「トマトホットソース」をゴーダチーズといっしょに挟んだ「ワッパーチーズ“ウィンター・アラビアータ”」が2022年12月9日(金)に登場しました。唐辛子のほどよい辛さとガーリックのうま味が特長のトマトホットソースがミルキーでまろやかなゴーダチーズにマッチするとのことで、どんな味なのか実際に食べて確かめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-burgerking-whopper-cheese-winter-arrabbiata/",
+          "publishedOn": "2022-12-09T02:45:00.000Z",
+          "wordCount": 2467,
+          "title": "ピリピリ辛いトマトソースとシャキシャキ野菜でまるでサラダなサッパリ感を楽しめる「ワッパーチーズ“ウィンター・アラビアータ”」試食レビュー",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/burgerking-whopper-cheese-winter-arrabbiata/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221209-ftc-microsoft-block-activision-blizzard-purchase/",
           "author": null,
           "description": "アメリカにおける公正な取引を監督・監視する連邦取引委員会(FTC)が、Activision Blizzardの買収を阻止するためにMicrosoftを提訴しました。\n続きを読む...",
@@ -1586,6 +1606,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news106.html",
+          "author": null,
+          "description": "VRコンテンツの企画開発を手掛けるUNIVRSは8日、漫画「進撃の巨人」を題材としたVR専用アクションゲーム「進撃の巨人VR：Unbreakable」を発表した。2023年夏発売。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news106.html",
+          "publishedOn": "2022-12-09T02:34:00.000Z",
+          "wordCount": 2354,
+          "title": "巨人に喰われる恐怖をVRで　「進撃の巨人VR：Unbreakable」23年夏発売",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news106.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news104.html",
+          "author": null,
+          "description": "NTTドコモは12月9日の午前2時30分頃から「d払い」などの複数のサービスが利用しづらい状態であると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news104.html",
+          "publishedOn": "2022-12-09T02:34:00.000Z",
+          "wordCount": 2590,
+          "title": "ドコモのサービスで障害　d払い、dTVなど利用しづらく　復旧の見通しは「確認中」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news104.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news100.html",
+          "author": null,
+          "description": "総務省が楽天モバイルに行政指導した。同社で9月に発生した通信障害について「社会・経済活動に深刻な影響を及ぼす」として、ネットワーク構成の見直しや定期的なリスク分析などの再発防止を求めた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news100.html",
+          "publishedOn": "2022-12-09T02:30:00.000Z",
+          "wordCount": 2585,
+          "title": "楽天モバイルに行政指導　総務省、ソフトウェア更新情報の確実なチェックなど求める",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news100.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/09/news093.html",
           "author": null,

@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T03:16:41.309Z</updated>
+    <updated>2022-12-09T04:17:01.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「DEATH STRANDING 2」が正式発表、白髪のサムが登場するティザートレーラーも公開される]]></title>
+        <id>https://gigazine.net/news/20221209-death-stranding-2/</id>
+        <link href="https://gigazine.net/news/20221209-death-stranding-2/"/>
+        <updated>2022-12-09T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカで開催されているゲームイベント「The Game Awards 2022」において、コジマプロダクション制作のビデオゲーム「DEATH STRANDING」の続編となる「DEATH STRANDING 2(仮題)」が発表されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney+が広告ありの新プランを展開、広告なしバージョンは3ドルの値上げ]]></title>
+        <id>https://gigazine.net/news/20221209-disney-streaming-plan/</id>
+        <link href="https://gigazine.net/news/20221209-disney-streaming-plan/"/>
+        <updated>2022-12-09T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ディズニーのストリーミングサービス「Disney+」が、2022年12月8日から新しく広告付きの新プランを開始しました。月額料金は、新しい広告付きのプランが従来の価格である月額7.99ドル(約1160円)となり、広告なしのプランは10.99ドル(約1600円)に値上げされています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「アーマードコア」新作　「アーマードコア6」発表　2023年発売]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/09/news117.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news117.html"/>
+        <updated>2022-12-09T03:50:00.000Z</updated>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小島秀夫監督が新作発表　「デススト」続編　さらにもう1作「とんがったのを」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/09/news116.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news116.html"/>
+        <updated>2022-12-09T03:35:00.000Z</updated>
+        <summary type="html"><![CDATA[小島秀夫さんが、新作ゲーム「DEATH STRANDING 2」を発表。現在、開発中という。もう1作「とんがったゲームがある。今は実験と仕込みの最中」とも発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppleによるiCloudの完全暗号化に電子フロンティア財団などから称賛の声、一方でFBIは懸念か]]></title>
+        <id>https://gigazine.net/news/20221209-apple-e2ee-eff/</id>
+        <link href="https://gigazine.net/news/20221209-apple-e2ee-eff/"/>
+        <updated>2022-12-09T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleがセキュリティ向上のために追加した3つの新機能のうち、これまで部分的だったiCloudのエンドツーエンド暗号化対象が拡大して、メモや写真などのバックアップも暗号化されるようになることについて、暗号化を推奨してきた電子フロンティア財団などが称賛の声を寄せています。ただし、元FBI職員からは懸念も聞かれます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google広告で大規模障害発生　広告が表示されない不具合]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/09/news114.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news114.html"/>
+        <updated>2022-12-09T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米Googleの広告配信プラットフォーム「Google Ad Manager」で障害が発生している。日本時間午前10時ごろから、広告配信ができない状態になっている他、管理ページでもエラーが発生するなどの問題が起きている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロン・マスクがiPhone向けのTwitter Blueのみ月額11ドルに値上げすることを検討中]]></title>
         <id>https://gigazine.net/news/20221209-twitter-blue-for-ios/</id>
@@ -15,6 +77,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧州連合、携帯端末でのUSB Type-C採用義務付け期限を2024年12月28日に決定]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/09/news109.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news109.html"/>
+        <updated>2022-12-09T02:56:00.000Z</updated>
+        <summary type="html"><![CDATA[欧州連合によるスマートフォンなどの有線充電でのUSB Type-C採用義務付けの期限が2024年12月28日に決定した。EU加盟国はそれまでに国内法として規則を適用する。ノートPCは2026年4月以降に対象になる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「円安でクラウドのコスト上がった」8割強　上がり幅は？　さくらインターネットが調査]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/09/news108.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news108.html"/>
+        <updated>2022-12-09T02:52:00.000Z</updated>
+        <summary type="html"><![CDATA[円安の影響で、クラウドのコストはいくら高くなったか。さくらインターネットが調査を実施した。回答者の8割が「高くなった」と答えた。中には「100万円以上上がった」という声も。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

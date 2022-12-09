@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221209-death-stranding-2/",
+          "author": null,
+          "description": "アメリカで開催されているゲームイベント「The Game Awards 2022」において、コジマプロダクション制作のビデオゲーム「DEATH STRANDING」の続編となる「DEATH STRANDING 2(仮題)」が発表されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-death-stranding-2/",
+          "publishedOn": "2022-12-09T04:00:00.000Z",
+          "wordCount": 2594,
+          "title": "「DEATH STRANDING 2」が正式発表、白髪のサムが登場するティザートレーラーも公開される",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/death-stranding-2/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221209-disney-streaming-plan/",
+          "author": null,
+          "description": "ディズニーのストリーミングサービス「Disney+」が、2022年12月8日から新しく広告付きの新プランを開始しました。月額料金は、新しい広告付きのプランが従来の価格である月額7.99ドル(約1160円)となり、広告なしのプランは10.99ドル(約1600円)に値上げされています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-disney-streaming-plan/",
+          "publishedOn": "2022-12-09T04:00:00.000Z",
+          "wordCount": 2505,
+          "title": "Disney+が広告ありの新プランを展開、広告なしバージョンは3ドルの値上げ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/disney-streaming-plan/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221209-apple-e2ee-eff/",
+          "author": null,
+          "description": "Appleがセキュリティ向上のために追加した3つの新機能のうち、これまで部分的だったiCloudのエンドツーエンド暗号化対象が拡大して、メモや写真などのバックアップも暗号化されるようになることについて、暗号化を推奨してきた電子フロンティア財団などが称賛の声を寄せています。ただし、元FBI職員からは懸念も聞かれます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221209-apple-e2ee-eff/",
+          "publishedOn": "2022-12-09T03:30:00.000Z",
+          "wordCount": 2699,
+          "title": "AppleによるiCloudの完全暗号化に電子フロンティア財団などから称賛の声、一方でFBIは懸念か",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/09/apple-e2ee-eff/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221209-twitter-blue-for-ios/",
           "author": null,
           "description": "Twitterが提供している有料サービス「Twitter Blue」の価格について、イーロン・マスクCEOが「ウェブを通じて支払う場合は月額7ドル(約960円)、iOS版アプリを通じて支払う場合は月額11ドル(約1500円)に設定するつもり」と従業員の一部に話したことが報じられています。\n続きを読む...",
@@ -1606,6 +1636,56 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news117.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news117.html",
+          "publishedOn": "2022-12-09T03:50:00.000Z",
+          "wordCount": 2353,
+          "title": "「アーマードコア」新作　「アーマードコア6」発表　2023年発売",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news117.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news116.html",
+          "author": null,
+          "description": "小島秀夫さんが、新作ゲーム「DEATH STRANDING 2」を発表。現在、開発中という。もう1作「とんがったゲームがある。今は実験と仕込みの最中」とも発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news116.html",
+          "publishedOn": "2022-12-09T03:35:00.000Z",
+          "wordCount": 2621,
+          "title": "小島秀夫監督が新作発表　「デススト」続編　さらにもう1作「とんがったのを」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news116.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news114.html",
+          "author": null,
+          "description": "米Googleの広告配信プラットフォーム「Google Ad Manager」で障害が発生している。日本時間午前10時ごろから、広告配信ができない状態になっている他、管理ページでもエラーが発生するなどの問題が起きている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news114.html",
+          "publishedOn": "2022-12-09T03:30:00.000Z",
+          "wordCount": 2612,
+          "title": "Google広告で大規模障害発生　広告が表示されない不具合",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news114.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news109.html",
+          "author": null,
+          "description": "欧州連合によるスマートフォンなどの有線充電でのUSB Type-C採用義務付けの期限が2024年12月28日に決定した。EU加盟国はそれまでに国内法として規則を適用する。ノートPCは2026年4月以降に対象になる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news109.html",
+          "publishedOn": "2022-12-09T02:56:00.000Z",
+          "wordCount": 2615,
+          "title": "欧州連合、携帯端末でのUSB Type-C採用義務付け期限を2024年12月28日に決定",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news109.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news108.html",
+          "author": null,
+          "description": "円安の影響で、クラウドのコストはいくら高くなったか。さくらインターネットが調査を実施した。回答者の8割が「高くなった」と答えた。中には「100万円以上上がった」という声も。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news108.html",
+          "publishedOn": "2022-12-09T02:52:00.000Z",
+          "wordCount": 2597,
+          "title": "「円安でクラウドのコスト上がった」8割強　上がり幅は？　さくらインターネットが調査",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news108.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/09/news106.html",
           "author": null,

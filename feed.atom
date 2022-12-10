@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-10T10:13:53.281Z</updated>
+    <updated>2022-12-10T11:10:48.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「寄生虫」がオオカミを群れのリーダーに仕立て上げていることが判明]]></title>
+        <id>https://gigazine.net/news/20221210-wolves-pack-leaders-parasite/</id>
+        <link href="https://gigazine.net/news/20221210-wolves-pack-leaders-parasite/"/>
+        <updated>2022-12-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「トキソプラズマ(Toxoplasma gondii)」という寄生虫に寄生されたオオカミは、そうでないオオカミより群れのリーダーになる確率が高く、群れを離れて一匹オオカミになる可能性も高いことが分かりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[完全無料でボードゲームを物理エンジンによる3D環境でプレイできるオープンソースのシミュレーター「Tabletop Club」]]></title>
         <id>https://gigazine.net/news/20221210-tabletop-club/</id>

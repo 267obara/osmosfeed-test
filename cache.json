@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221210-microsoft-feelings-monster/",
+          "author": null,
+          "description": "オンラインでコミュニケーションを取る場合、自らの感情を文章だけで伝えるのは難しく、絵文字やスタンプを使って感情を表現している人も多いはず。Microsoftが提供する教育現場向けアプリ「Microsoft Reflect」ではカラフルなモンスター「フィーリングモンスター」を用いて感情を表現できるのですが、このフィーリングモンスターが作り出された背景をMicrosoftが解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221210-microsoft-feelings-monster/",
+          "publishedOn": "2022-12-10T12:44:00.000Z",
+          "wordCount": 2484,
+          "title": "Microsoftが感情を簡単に表現できるキャラクター「フィーリングモンスター」を作り上げた経緯とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/10/microsoft-feelings-monster/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221210-wolves-pack-leaders-parasite/",
           "author": null,
           "description": "「トキソプラズマ(Toxoplasma gondii)」という寄生虫に寄生されたオオカミは、そうでないオオカミより群れのリーダーになる確率が高く、群れを離れて一匹オオカミになる可能性も高いことが分かりました。\n続きを読む...",

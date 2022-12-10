@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-10T12:24:24.742Z</updated>
+    <updated>2022-12-10T13:18:01.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoftが感情を簡単に表現できるキャラクター「フィーリングモンスター」を作り上げた経緯とは？]]></title>
+        <id>https://gigazine.net/news/20221210-microsoft-feelings-monster/</id>
+        <link href="https://gigazine.net/news/20221210-microsoft-feelings-monster/"/>
+        <updated>2022-12-10T12:44:00.000Z</updated>
+        <summary type="html"><![CDATA[オンラインでコミュニケーションを取る場合、自らの感情を文章だけで伝えるのは難しく、絵文字やスタンプを使って感情を表現している人も多いはず。Microsoftが提供する教育現場向けアプリ「Microsoft Reflect」ではカラフルなモンスター「フィーリングモンスター」を用いて感情を表現できるのですが、このフィーリングモンスターが作り出された背景をMicrosoftが解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「寄生虫」がオオカミを群れのリーダーに仕立て上げていることが判明]]></title>
         <id>https://gigazine.net/news/20221210-wolves-pack-leaders-parasite/</id>

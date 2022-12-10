@@ -1767,6 +1767,16 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/10/news026.html",
+          "author": null,
+          "description": "シチズン時計は働くZ世代を対象に「時間感覚についてアンケート」を実施した。勤め帰りの「ちょっと一杯」は、どのくらいの時間を指すのか。調査の結果、最も多かった回答は「1時間」（35.1％）で、「2時間」（15.0％）、「1時間30分」（14.3％）の順に続いた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/10/news026.html",
+          "publishedOn": "2022-12-10T01:00:00.000Z",
+          "wordCount": 2601,
+          "title": "Z世代の時間感覚　「ちょっと一杯」は「1時間」、一服するは？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/10/cover_news026.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/10/news044.html",
           "author": null,
           "description": "「X-T5」は予想以上にX-Tだった。動画寄りの「X-H2S」「X-H2」に対し、静止画に軸足を置いたカメラとして設計され、操作系もそっち寄り。写真メインの人にはありがたいのだ。",

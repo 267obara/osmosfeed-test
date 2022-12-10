@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-10T01:05:12.035Z</updated>
+    <updated>2022-12-10T02:37:53.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Z世代の時間感覚　「ちょっと一杯」は「1時間」、一服するは？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/10/news026.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/10/news026.html"/>
+        <updated>2022-12-10T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[シチズン時計は働くZ世代を対象に「時間感覚についてアンケート」を実施した。勤め帰りの「ちょっと一杯」は、どのくらいの時間を指すのか。調査の結果、最も多かった回答は「1時間」（35.1％）で、「2時間」（15.0％）、「1時間30分」（14.3％）の順に続いた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子どもの頃に受けた「いじめ」による心身への悪影響は成人になっても続き社会経済的な面にも悪影響が及ぶ]]></title>
         <id>https://gigazine.net/news/20221210-being-bullied-persistent-pervasive-impact/</id>

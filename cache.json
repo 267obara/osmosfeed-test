@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221210-shinchan-movie-3dcg/",
+          "author": null,
+          "description": "1992年から放送されているアニメ「クレヨンしんちゃん」の劇場版最新作、「しん次元！クレヨンしんちゃん THE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～」が2023年夏に公開されることが発表され、超特報映像が解禁となりました。本作は、シリーズ初の3DCG作品となります。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221210-shinchan-movie-3dcg/",
+          "publishedOn": "2022-12-10T08:00:00.000Z",
+          "wordCount": 2496,
+          "title": "映画クレヨンしんちゃん新作は初の3DCG作品ですべてが「しん次元」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/10/shinchan-movie-cg/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221210-3d-print-metallic-hydrogel/",
           "author": null,
           "description": "従来の3D印刷による金属構造は最小約100ミクロンで構成されていましたが、カリフォルニア工科大学のマックス・サッコーネ氏らの研究チームが金属構造を約40ミクロンで作成する新たな金属成型技術を発表しました。\n続きを読む...",

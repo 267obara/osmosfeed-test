@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-09T23:14:38.819Z</updated>
+    <updated>2022-12-10T01:05:12.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[子どもの頃に受けた「いじめ」による心身への悪影響は成人になっても続き社会経済的な面にも悪影響が及ぶ]]></title>
+        <id>https://gigazine.net/news/20221210-being-bullied-persistent-pervasive-impact/</id>
+        <link href="https://gigazine.net/news/20221210-being-bullied-persistent-pervasive-impact/"/>
+        <updated>2022-12-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学生時代にいじめを受けることで心身に及ぶ悪影響は一時的なものではなく、その後も長年にわたり悪影響を及ぼし続けることがわかっています。そんな学生時代のいじめがもたらす長期的な影響に関するさまざまな研究結果について、キングス・カレッジ・ロンドンの発達心理学教授であるLouise Arseneault氏がまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富士フイルム「X-T5」はスチル撮影に軸足を置いたハイエンド機]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/10/news044.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/10/news044.html"/>
+        <updated>2022-12-09T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「X-T5」は予想以上にX-Tだった。動画寄りの「X-H2S」「X-H2」に対し、静止画に軸足を置いたカメラとして設計され、操作系もそっち寄り。写真メインの人にはありがたいのだ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AppleのM2 Maxチップと思しきベンチマークが登場、M1 Max比較で最大22％のパフォーマンス向上]]></title>
         <id>https://gigazine.net/news/20221209-benchmarks-apple-m2-max-performance/</id>

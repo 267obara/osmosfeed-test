@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221210-being-bullied-persistent-pervasive-impact/",
+          "author": null,
+          "description": "学生時代にいじめを受けることで心身に及ぶ悪影響は一時的なものではなく、その後も長年にわたり悪影響を及ぼし続けることがわかっています。そんな学生時代のいじめがもたらす長期的な影響に関するさまざまな研究結果について、キングス・カレッジ・ロンドンの発達心理学教授であるLouise Arseneault氏がまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221210-being-bullied-persistent-pervasive-impact/",
+          "publishedOn": "2022-12-10T00:00:00.000Z",
+          "wordCount": 2519,
+          "title": "子どもの頃に受けた「いじめ」による心身への悪影響は成人になっても続き社会経済的な面にも悪影響が及ぶ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/10/being-bullied-persistent-pervasive-impact/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221209-benchmarks-apple-m2-max-performance/",
           "author": null,
           "description": "Appleは2020年6月にMacでIntel製のプロセッサから独自開発プロセッサに移行する計画を発表し、2020年11月に「M1」、2021年10月にM1の上位モデルとなる「M1 Pro」および「M1 Max」、2022年3月にはM1 Max2枚分の最上位モデル「M1 Ultra」を発表しました。さらに、Appleは2022年6月にM1シリーズの次世代モデルとなる「M2」を発表しています。このM2シリーズの上位モデルとして「M2 Max」が間もなく登場するのではとウワサされており、このM2 Maxを搭載したMacと思われる端末のベンチマークスコアがGeekbench Browser上で発見されています。\n続きを読む...",
@@ -1756,6 +1766,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/10/news044.html",
+          "author": null,
+          "description": "「X-T5」は予想以上にX-Tだった。動画寄りの「X-H2S」「X-H2」に対し、静止画に軸足を置いたカメラとして設計され、操作系もそっち寄り。写真メインの人にはありがたいのだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/10/news044.html",
+          "publishedOn": "2022-12-09T23:00:00.000Z",
+          "wordCount": 2358,
+          "title": "富士フイルム「X-T5」はスチル撮影に軸足を置いたハイエンド機",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/10/cover_news044.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/09/news174.html",
           "author": null,

@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221210-3d-print-metallic-hydrogel/",
+          "author": null,
+          "description": "従来の3D印刷による金属構造は最小約100ミクロンで構成されていましたが、カリフォルニア工科大学のマックス・サッコーネ氏らの研究チームが金属構造を約40ミクロンで作成する新たな金属成型技術を発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221210-3d-print-metallic-hydrogel/",
+          "publishedOn": "2022-12-10T04:00:00.000Z",
+          "wordCount": 2481,
+          "title": "従来の40％のスケールで金属構造を3Dプリントする技術の開発に成功",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/10/3d-print-metallic-hydrogel/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221210-microsoft-acquires-lumenisity/",
+          "author": null,
+          "description": "Microsoftが次世代の中空コアファイバー(HCF)ソリューションのリーダー企業である「Lumenisity」を買収したことを発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221210-microsoft-acquires-lumenisity/",
+          "publishedOn": "2022-12-10T03:31:00.000Z",
+          "wordCount": 2512,
+          "title": "Microsoftが次世代光ファイバー技術「中空コアファイバー」を開発する「Lumenisity」を買収",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/10/microsoft-acquires-lumenisity/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221210-cognitive-reflection-test/",
           "author": null,
           "description": "「バットとボールを合わせて1万1000円、バットはボールより1万円高い、ではボールの値段は？」などという質問は一見簡単に見えて、ハーバード大学、マサチューセッツ工科大学、プリンストン大学の学生のおよそ50％が答えを間違えてしまったそうです。誤った解を直感的に思い浮かべてしまう原因と対処法、対処法を仕事にも応用する方法について、ビジネス系ライターのハウィー・マン氏が解説しました。\n続きを読む...",

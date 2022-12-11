@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T03:19:34.525Z</updated>
+    <updated>2022-12-11T04:17:15.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazonがアメリカで展開する次世代の電気配送車とは？]]></title>
+        <id>https://gigazine.net/news/20221211-amazon-edv-movie/</id>
+        <link href="https://gigazine.net/news/20221211-amazon-edv-movie/"/>
+        <updated>2022-12-11T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ国内では、Amazonによる配送を行う際にリヴィアン製の電気配送車(EDV)を使用する試みが広まっています。実際のEDVの設備や配達の様子を実際にAmazonの配送業者として働くFriday Adventure Club氏が自身のYouTube動画の中で紹介しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ワインの味は専門家でも正確には判別できない」という説は本当なのか？]]></title>
         <id>https://gigazine.net/news/20221211-is-wine-fake/</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221211-make-review/",
+          "author": null,
+          "description": "「Twitterへの投稿をDiscordに同時投稿」「メールの本文をスプレッドシートにまとめる」など、複数のウェブサービスを連携させると便利な状況は多々あります。複数のウェブサービスを連携させるサービスとしてはIFTTTやZapierなどが有名ですが、それらのサービスには無料で使える機能が少なかったり、対応しているウェブサービスが少なかったりといった問題も存在しています。「Make(旧称：Integromat)」は1000以上のサービスに対応しており、無料プランでもユーザー数無制限で利用可能といった特徴を備えているとのこと。そこで、実際にMakeの会員登録手順や、ウェブサービス同士の連携手順を確かめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221211-make-review/",
+          "publishedOn": "2022-12-11T13:00:00.000Z",
+          "wordCount": 2536,
+          "title": "無料でIFTTTやZapierのようにアプリやサービスを連動させ自動化できる「Make」を実際に使ってみたよレビュー",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/11/make-review/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221211-volkswagen-originalteil/",
           "author": null,
           "description": "1937年に設立された自動車メーカーのフォルクスワーゲンは、「ビートル」などの大衆車を始め、水素自動車や自動運転機能搭載自動車などさまざまな自動車の開発を行っています。しかし、年によっては自動車よりも売れる「自動車とは関係ない部品」があるそうです。\n続きを読む...",

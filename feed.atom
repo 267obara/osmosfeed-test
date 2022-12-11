@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T12:24:50.210Z</updated>
+    <updated>2022-12-11T13:18:24.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無料でIFTTTやZapierのようにアプリやサービスを連動させ自動化できる「Make」を実際に使ってみたよレビュー]]></title>
+        <id>https://gigazine.net/news/20221211-make-review/</id>
+        <link href="https://gigazine.net/news/20221211-make-review/"/>
+        <updated>2022-12-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「Twitterへの投稿をDiscordに同時投稿」「メールの本文をスプレッドシートにまとめる」など、複数のウェブサービスを連携させると便利な状況は多々あります。複数のウェブサービスを連携させるサービスとしてはIFTTTやZapierなどが有名ですが、それらのサービスには無料で使える機能が少なかったり、対応しているウェブサービスが少なかったりといった問題も存在しています。「Make(旧称：Integromat)」は1000以上のサービスに対応しており、無料プランでもユーザー数無制限で利用可能といった特徴を備えているとのこと。そこで、実際にMakeの会員登録手順や、ウェブサービス同士の連携手順を確かめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フォルクスワーゲンが年間700万個も製造する「最も人気のある非車両部品」とは？]]></title>
         <id>https://gigazine.net/news/20221211-volkswagen-originalteil/</id>

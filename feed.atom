@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-10T23:13:35.563Z</updated>
+    <updated>2022-12-11T01:15:21.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ワインの味は専門家でも正確には判別できない」という説は本当なのか？]]></title>
+        <id>https://gigazine.net/news/20221211-is-wine-fake/</id>
+        <link href="https://gigazine.net/news/20221211-is-wine-fake/"/>
+        <updated>2022-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ブドウを原料に作られるワインはブドウの品種や産地などによって味や香りが異なり、ソムリエと呼ばれる専門家はテイスティングによって銘柄を識別できるといわれています。ところが、「ワインの味は専門家でも正確に判別できない」とする説もささやかれており、この説についてウェブメディアのAsteriskでライターを務めるスコット・アレクサンダー氏がまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter Blueは12月12日再開、iOSアプリ経由は月額11ドルに]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/11/news043.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/11/news043.html"/>
+        <updated>2022-12-10T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterは、現在一時停止しているサブスクリプションサービス「Twitter Blue」の提供を12月12日に再開すると発表した。「青いチェックマーク」はアカウントレビュー後に付与する。付与後にユーザー名や表示名を変更すると、再レビュー完了までマークは非表示になる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoftが感情を簡単に表現できるキャラクター「フィーリングモンスター」を作り上げた経緯とは？]]></title>
         <id>https://gigazine.net/news/20221210-microsoft-feelings-monster/</id>

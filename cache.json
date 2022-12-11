@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221211-is-wine-fake/",
+          "author": null,
+          "description": "ブドウを原料に作られるワインはブドウの品種や産地などによって味や香りが異なり、ソムリエと呼ばれる専門家はテイスティングによって銘柄を識別できるといわれています。ところが、「ワインの味は専門家でも正確に判別できない」とする説もささやかれており、この説についてウェブメディアのAsteriskでライターを務めるスコット・アレクサンダー氏がまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221211-is-wine-fake/",
+          "publishedOn": "2022-12-11T00:00:00.000Z",
+          "wordCount": 2497,
+          "title": "「ワインの味は専門家でも正確には判別できない」という説は本当なのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/11/is-wine-fake/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221210-microsoft-feelings-monster/",
           "author": null,
           "description": "オンラインでコミュニケーションを取る場合、自らの感情を文章だけで伝えるのは難しく、絵文字やスタンプを使って感情を表現している人も多いはず。Microsoftが提供する教育現場向けアプリ「Microsoft Reflect」ではカラフルなモンスター「フィーリングモンスター」を用いて感情を表現できるのですが、このフィーリングモンスターが作り出された背景をMicrosoftが解説しています。\n続きを読む...",
@@ -1836,6 +1846,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/11/news043.html",
+          "author": null,
+          "description": "Twitterは、現在一時停止しているサブスクリプションサービス「Twitter Blue」の提供を12月12日に再開すると発表した。「青いチェックマーク」はアカウントレビュー後に付与する。付与後にユーザー名や表示名を変更すると、再レビュー完了までマークは非表示になる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/11/news043.html",
+          "publishedOn": "2022-12-10T23:00:00.000Z",
+          "wordCount": 2614,
+          "title": "Twitter Blueは12月12日再開、iOSアプリ経由は月額11ドルに",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/11/cover_news043.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/09/news120.html",
           "author": null,

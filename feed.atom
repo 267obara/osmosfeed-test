@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T11:10:45.933Z</updated>
+    <updated>2022-12-11T12:24:50.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フォルクスワーゲンが年間700万個も製造する「最も人気のある非車両部品」とは？]]></title>
+        <id>https://gigazine.net/news/20221211-volkswagen-originalteil/</id>
+        <link href="https://gigazine.net/news/20221211-volkswagen-originalteil/"/>
+        <updated>2022-12-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1937年に設立された自動車メーカーのフォルクスワーゲンは、「ビートル」などの大衆車を始め、水素自動車や自動運転機能搭載自動車などさまざまな自動車の開発を行っています。しかし、年によっては自動車よりも売れる「自動車とは関係ない部品」があるそうです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「この映像には暴力的な描写が含まれています」は意味があるのか？]]></title>
         <id>https://gigazine.net/news/20221211-effects-content-warnings-notes/</id>

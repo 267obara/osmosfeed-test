@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T21:11:28.765Z</updated>
+    <updated>2022-12-11T22:12:30.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[男性の精子数が過去40年で半減したのは生活習慣や化学物質によるものという研究結果]]></title>
+        <id>https://gigazine.net/news/20221212-sperm-count-plummeting/</id>
+        <link href="https://gigazine.net/news/20221212-sperm-count-plummeting/"/>
+        <updated>2022-12-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[男性の精子は生殖活動に必要不可欠ですが、近年では男性の精液に含まれる精子数が減少していることが数多く報告されています。新たな研究で、精子数の減少のリスクを高める可能性のある要因について生活習慣や化学物質の摂取などが挙げられています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[デジタル印刷技術を一気に向上させてDTPに革命を起こした「PostScript」が生まれた経緯とは？]]></title>
         <id>https://gigazine.net/news/20221212-postscript-kickstarted-desktop-publishing/</id>

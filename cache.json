@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221212-sperm-count-plummeting/",
+          "author": null,
+          "description": "男性の精子は生殖活動に必要不可欠ですが、近年では男性の精液に含まれる精子数が減少していることが数多く報告されています。新たな研究で、精子数の減少のリスクを高める可能性のある要因について生活習慣や化学物質の摂取などが挙げられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-sperm-count-plummeting/",
+          "publishedOn": "2022-12-11T22:00:00.000Z",
+          "wordCount": 2515,
+          "title": "男性の精子数が過去40年で半減したのは生活習慣や化学物質によるものという研究結果",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/sperm-count-plummeting/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221212-postscript-kickstarted-desktop-publishing/",
           "author": null,
           "description": "印刷技術の発展は学問・政治・商業・芸術など幅広い分野に影響をもたらし、1985年にAdobeがリリースしたページ記述言語の「PostScript」は、印刷データを命令文として記述することを可能にして、コンピューターを使ったデスクトップ・パブリッシング(DTP)の普及に大きな役割を果たしました。そんなPostScriptの初期ソースコードを公開したアメリカ・カリフォルニア州のコンピュータ歴史博物館が、PostScriptが誕生した経緯についてまとめています。\n続きを読む...",

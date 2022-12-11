@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T06:16:54.687Z</updated>
+    <updated>2022-12-11T07:12:01.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソフトクリームよりも濃厚な甘みが流れ込んでくるミニストップの「のむソフトクリーム260gボトル缶」を飲んでみた]]></title>
+        <id>https://gigazine.net/news/20221211-ministop-soft-cream-drink/</id>
+        <link href="https://gigazine.net/news/20221211-ministop-soft-cream-drink/"/>
+        <updated>2022-12-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ミニストップで人気のバニラソフトクリームをリキャップ可能なドリンク化した「のむソフトクリーム260gボトル缶」が登場していたので、買ってきて飲んでみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterが認証済みバッジが買える「Twitter Blue」を12月12日に再開すると発表、iOSアプリからのサブスクは値上がり]]></title>
         <id>https://gigazine.net/news/20221211-twitter-blue-relaunch/</id>

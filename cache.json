@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221212-sony-inzone-m3-hub-kvm/",
+          "author": null,
+          "description": "ソニーから2022年12月に登場したゲーミングモニター「INZONE M3」は、HDMI端子のほかにDisplayPort端子やUSB端子も搭載しており、PlayStationだけでなくPCなどとの接続も意図されています。そんなINZONE M3には、キーボードやマウスなどの入力デバイスを複数のPCで共有できる「オートKVMスイッチ」機能が搭載されています。複数台のPCを使い分ける環境で便利そうだったので、実際にオートKVMスイッチを使ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-sony-inzone-m3-hub-kvm/",
+          "publishedOn": "2022-12-11T23:00:00.000Z",
+          "wordCount": 2579,
+          "title": "ソニー製ゲーミングモニター「INZONE M3」の「1台のキーボードを複数のデバイスで使い回せる機能」を使ってみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/sony-inzone-m3-hub-kvm/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221212-sperm-count-plummeting/",
           "author": null,
           "description": "男性の精子は生殖活動に必要不可欠ですが、近年では男性の精液に含まれる精子数が減少していることが数多く報告されています。新たな研究で、精子数の減少のリスクを高める可能性のある要因について生活習慣や化学物質の摂取などが挙げられています。\n続きを読む...",
@@ -1223,6 +1233,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16836",
+          "author": null,
+          "description": "CodeZineを運営する翔泳社より、書籍『Firebase Authenticationで学ぶ ソーシャルログイン入門 ID管理の原則にそった実装のベストプラクティス』が12月12日（月）に発売となりました。本書は今や多くのアプリで当たり前になった「ソーシャルログイン機能」をどのように実装すればよいのか、Firebase Authenticationの利用を例に解説した書籍です。",
+          "link": "http://codezine.jp/article/detail/16836",
+          "publishedOn": "2022-12-11T22:00:00.000Z",
+          "wordCount": 4357,
+          "title": "ソーシャルログインの実装方法を解説、『Firebase Authenticationで学ぶ ソーシャルログイン入門』発売",
+          "imageUrl": "https://codezine.jp/static/images/article/16836/16836_share.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17006",
           "author": null,
           "description": "米npmは、Node.js向けパッケージマネージャ「npm」で。トークンの権限をより細かく設定できるようにしたと12月6日（現地時間）に発表した。npmはArtistic License 2.0で公開しているオープンソース・ソフトウェアだ。",
@@ -1966,6 +1986,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news049.html",
+          "author": null,
+          "description": "“SF思考”でアイデアを広げる議論ツール「SFプロトタイピング」。対話イベント「100年先の自動運転」から、取り組み方をひもといていきます。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news049.html",
+          "publishedOn": "2022-12-11T22:30:00.000Z",
+          "wordCount": 2637,
+          "title": "“SF思考”でアイデアを発散　議論ツール「SFプロトタイピング」で考える100年後　対話を広げるコツは？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news049.png"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/11/news043.html",
           "author": null,

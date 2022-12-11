@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T22:12:30.522Z</updated>
+    <updated>2022-12-11T23:13:55.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソニー製ゲーミングモニター「INZONE M3」の「1台のキーボードを複数のデバイスで使い回せる機能」を使ってみた]]></title>
+        <id>https://gigazine.net/news/20221212-sony-inzone-m3-hub-kvm/</id>
+        <link href="https://gigazine.net/news/20221212-sony-inzone-m3-hub-kvm/"/>
+        <updated>2022-12-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーから2022年12月に登場したゲーミングモニター「INZONE M3」は、HDMI端子のほかにDisplayPort端子やUSB端子も搭載しており、PlayStationだけでなくPCなどとの接続も意図されています。そんなINZONE M3には、キーボードやマウスなどの入力デバイスを複数のPCで共有できる「オートKVMスイッチ」機能が搭載されています。複数台のPCを使い分ける環境で便利そうだったので、実際にオートKVMスイッチを使ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“SF思考”でアイデアを発散　議論ツール「SFプロトタイピング」で考える100年後　対話を広げるコツは？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news049.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news049.html"/>
+        <updated>2022-12-11T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[“SF思考”でアイデアを広げる議論ツール「SFプロトタイピング」。対話イベント「100年先の自動運転」から、取り組み方をひもといていきます。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[男性の精子数が過去40年で半減したのは生活習慣や化学物質によるものという研究結果]]></title>
         <id>https://gigazine.net/news/20221212-sperm-count-plummeting/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソーシャルログインの実装方法を解説、『Firebase Authenticationで学ぶ ソーシャルログイン入門』発売]]></title>
+        <id>http://codezine.jp/article/detail/16836</id>
+        <link href="http://codezine.jp/article/detail/16836"/>
+        <updated>2022-12-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CodeZineを運営する翔泳社より、書籍『Firebase Authenticationで学ぶ ソーシャルログイン入門 ID管理の原則にそった実装のベストプラクティス』が12月12日（月）に発売となりました。本書は今や多くのアプリで当たり前になった「ソーシャルログイン機能」をどのように実装すればよいのか、Firebase Authenticationの利用を例に解説した書籍です。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

@@ -1720,6 +1720,36 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/uiaiautifypr.html",
+          "author": null,
+          "description": "「エンジニアが不足し、テスト自動化の構築やメンテナンスがなかなかできなくて困っている」。これが多くのIT関連企業において共通した悩みでした、と話すのは、AutifyのCEOである近澤良氏です。 2022年10月に都内で開催されたGartne...",
+          "link": "https://www.publickey1.jp/blog/22/uiaiautifypr.html",
+          "publishedOn": "2022-12-11T15:39:06.000Z",
+          "wordCount": 1257,
+          "title": "高品質なシステム開発を高速に実現するテスト自動化ツール。ノーコードでテストシナリオを作成、UI変更をAIで自動検出しテストを自動メンテしてくれる「Autify」［PR］",
+          "imageUrl": "https://www.publickey1.jp/2022/autify_gt05.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/google_chrome_108passkeygoogle.html",
+          "author": null,
+          "description": "12月2日から配布が開始されている最新のGoogle Chrome 108では、パスワードレスを実現する機能の「Passkey」がWindows 11、macOS、Android版で利用可能になっていることをGoogleが明らかにしました。...",
+          "link": "https://www.publickey1.jp/blog/22/google_chrome_108passkeygoogle.html",
+          "publishedOn": "2022-12-11T15:34:34.000Z",
+          "wordCount": 1245,
+          "title": "最新のGoogle Chrome 108で「Passkey」が利用可能に。Googleアカウントでクレデンシャル同期など",
+          "imageUrl": "https://www.publickey1.jp/2022/chrome108passkey02.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/tauriiosandroidtauri_mobileelectronrust.html",
+          "author": null,
+          "description": "JavaScriptとHTML/CSSを用いてアプリケーションを構築できるElectronの代替を目指し、より軽量なフレームワークとして開発されている「Tauri」のモバイル対応版「Tauri Mobile」の最初のアルファ版公開が発表され...",
+          "link": "https://www.publickey1.jp/blog/22/tauriiosandroidtauri_mobileelectronrust.html",
+          "publishedOn": "2022-12-11T15:27:33.000Z",
+          "wordCount": 1251,
+          "title": "TauriがiOS/Androidに対応「Tauri Mobile」アルファ版登場。Electron代替を目指すRust製の軽量フレームワーク",
+          "imageUrl": "https://www.publickey1.jp/2022/taurimobalpha01.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/awslinuxossopen_invention_network.html",
           "author": null,
           "description": "Amazon Web Servicesは、Linux関連のオープンソースを特許リスクから保護する「Open Invention Network」への加盟を発表し、同社の持つ特許全てをOpen Invention Networkのパテントプー...",

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221212-postscript-kickstarted-desktop-publishing/",
+          "author": null,
+          "description": "印刷技術の発展は学問・政治・商業・芸術など幅広い分野に影響をもたらし、1985年にAdobeがリリースしたページ記述言語の「PostScript」は、印刷データを命令文として記述することを可能にして、コンピューターを使ったデスクトップ・パブリッシング(DTP)の普及に大きな役割を果たしました。そんなPostScriptの初期ソースコードを公開したアメリカ・カリフォルニア州のコンピュータ歴史博物館が、PostScriptが誕生した経緯についてまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-postscript-kickstarted-desktop-publishing/",
+          "publishedOn": "2022-12-11T21:00:00.000Z",
+          "wordCount": 2503,
+          "title": "デジタル印刷技術を一気に向上させてDTPに革命を起こした「PostScript」が生まれた経緯とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/postscript-kickstarted-desktop-publishing/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221211-make-review/",
           "author": null,
           "description": "「Twitterへの投稿をDiscordに同時投稿」「メールの本文をスプレッドシートにまとめる」など、複数のウェブサービスを連携させると便利な状況は多々あります。複数のウェブサービスを連携させるサービスとしてはIFTTTやZapierなどが有名ですが、それらのサービスには無料で使える機能が少なかったり、対応しているウェブサービスが少なかったりといった問題も存在しています。「Make(旧称：Integromat)」は1000以上のサービスに対応しており、無料プランでもユーザー数無制限で利用可能といった特徴を備えているとのこと。そこで、実際にMakeの会員登録手順や、ウェブサービス同士の連携手順を確かめてみました。\n続きを読む...",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T20:14:02.492Z</updated>
+    <updated>2022-12-11T21:11:28.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[デジタル印刷技術を一気に向上させてDTPに革命を起こした「PostScript」が生まれた経緯とは？]]></title>
+        <id>https://gigazine.net/news/20221212-postscript-kickstarted-desktop-publishing/</id>
+        <link href="https://gigazine.net/news/20221212-postscript-kickstarted-desktop-publishing/"/>
+        <updated>2022-12-11T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[印刷技術の発展は学問・政治・商業・芸術など幅広い分野に影響をもたらし、1985年にAdobeがリリースしたページ記述言語の「PostScript」は、印刷データを命令文として記述することを可能にして、コンピューターを使ったデスクトップ・パブリッシング(DTP)の普及に大きな役割を果たしました。そんなPostScriptの初期ソースコードを公開したアメリカ・カリフォルニア州のコンピュータ歴史博物館が、PostScriptが誕生した経緯についてまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[高品質なシステム開発を高速に実現するテスト自動化ツール。ノーコードでテストシナリオを作成、UI変更をAIで自動検出しテストを自動メンテしてくれる「Autify」［PR］]]></title>
         <id>https://www.publickey1.jp/blog/22/uiaiautifypr.html</id>

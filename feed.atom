@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T11:11:39.249Z</updated>
+    <updated>2022-12-12T12:27:31.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「VTuberの声まねした性的コンテンツやめて」　にじさんじが注意喚起]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news179.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news179.html"/>
+        <updated>2022-12-12T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[バーチャルYouTuber（VTuber）事務所「にじさんじ」や「NIJISANJI EN」を運営するANYCOLORが、所属VTuberの声まねに関して注意喚起した。性的なコンテンツを同社所属VTuberと関連付けて配信、投稿、販売する行為を止めるよう呼び掛けている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI開発のテキスト生成AI「GPT-3」がどんな処理を行っているのかを専門家が解説]]></title>
         <id>https://gigazine.net/news/20221212-gpt-3-architecture/</id>

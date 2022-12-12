@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T06:18:40.886Z</updated>
+    <updated>2022-12-12T07:13:11.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「トイレのフタを開けたまま流してはいけない理由」が一発で分かるムービー]]></title>
+        <id>https://gigazine.net/news/20221212-toilets-flush/</id>
+        <link href="https://gigazine.net/news/20221212-toilets-flush/"/>
+        <updated>2022-12-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[外食店などでトイレを利用した際に、「感染症予防のためトイレはフタを閉めて流してください」という内容の張り紙を目にしたことがある人は多いはず。トイレの水を流した際に便器から吹き上がる粒子をレーザー光で可視化したムービーを見ると、なぜフタをせずにトイレを流してはいけないのかが直感的に理解できます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【訃報】アニメソングの帝王・水木一郎さん死去]]></title>
+        <id>https://gigazine.net/news/20221212-ichiro-mizuki-passed-away/</id>
+        <link href="https://gigazine.net/news/20221212-ichiro-mizuki-passed-away/"/>
+        <updated>2022-12-12T06:26:00.000Z</updated>
+        <summary type="html"><![CDATA[「マジンガーZ」をはじめとした数々のアニメソング・特撮ソングの歌唱で知られ、「アニメソング(アニソン)の帝王」と呼ばれた歌手の水木一郎さんが2022年12月6日、肺がんのため亡くなったことを所属事務所のイエローバードが発表しました。74歳でした。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ツイートのファクトチェックをTwitterユーザーみんなの力で行う「コミュニティノート」が日本を含む全世界で利用可能に]]></title>
         <id>https://gigazine.net/news/20221212-twitter-community-notes/</id>

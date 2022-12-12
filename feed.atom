@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T03:19:18.044Z</updated>
+    <updated>2022-12-12T04:17:41.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterに嫌気が差して辞職したTrust＆Safety協議会の元メンバーが辞めた理由を語る、マスク氏も登場して大激論]]></title>
+        <id>https://gigazine.net/news/20221212-twitter-tsc-quit/</id>
+        <link href="https://gigazine.net/news/20221212-twitter-tsc-quit/"/>
+        <updated>2022-12-12T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TwitterのTrust＆Safety協議会(以下、TSC)とは、Twitterのサービス、プログラム、ルールの開発に対して安全性を高めるべく、世界中の独立専門組織で構成されたグループであり、Twitter上の嫌がらせや中傷、いじめなどの不適切な投稿を防止することを目的としています。そんなTSCで7年間務め、イーロン・マスク氏がTwitterのCEOに就任したことをきっかけに「嫌気が差した」として辞任した元TSCメンバーが、辞めた理由や不満などをWebメディアのSLATEに語っています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクが元Twitter幹部批判で過去の論文を引用してミスリード]]></title>
+        <id>https://gigazine.net/news/20221212-elon-musk-attacks-former-twitter-safety-head/</id>
+        <link href="https://gigazine.net/news/20221212-elon-musk-attacks-former-twitter-safety-head/"/>
+        <updated>2022-12-12T03:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterのイーロン・マスクCEOが、かつてTwitterのTrust＆Safety(信頼と安全)担当の最高責任者だったヨエル・ロス氏に対して批判的なツイートを行っています。マスクCEOが誰かに批判的なツイートを行うのは日常茶飯事のようなものですが、このツイートはロス氏が博士課程時に書いた論文を引用しつつ、その内容をあえてミスリードしており、マスク氏に対して多くの批判が集まっていますElon Musk Steps Up Attacks on Twitter’s Former Safety Head - Bloomberghttps://www.bloomberg.com/news/articles/2022-12-11/elon-musk-steps-up-attacks-on-twitter-s-former-safety-headElon Musk Smears Former Twitter Executive Yoel Rothhttps://nymag.com/intelligencer/2022/12/elon-musk-smears-former-twitter-executive-yoel-roth.htmlきっかけとなったのは、人身売買被害者を救う活動をしているというエリザ氏がマスクCEOに対して行った「問題を見つけたと思います」というメンション。エリザ氏が「発見」したのは、2010年にロス氏が行ったツイートです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASAの月探査ミッション「アルテミス計画」が宇宙船「オリオン」の月周回飛行試験を成功させる]]></title>
+        <id>https://gigazine.net/news/20221212-nasa-artemis-orion-capsule-splashes-down/</id>
+        <link href="https://gigazine.net/news/20221212-nasa-artemis-orion-capsule-splashes-down/"/>
+        <updated>2022-12-12T03:47:00.000Z</updated>
+        <summary type="html"><![CDATA[現地時間の2022年12月11日(日)、NASAによる「2024年までに月面に人類を送る」ためのアルテミス計画の一環として、同ミッションで使用予定の宇宙船「オリオン」を月周回軌道で飛行させるテストが無事終了しました。オリオンはマッハ32という音速の32倍の速度で大気圏に突入し、バハ・カリフォルニア半島のグアダルーペ島近くに着水し、無事地球に生還しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter、文字数制限を4000字に拡張か　イーロン・マスクCEO「Yes」と認める]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news109.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news109.html"/>
+        <updated>2022-12-12T03:32:00.000Z</updated>
+        <summary type="html"><![CDATA[米Twitterのイーロン・マスクCEOは12月11日（現地時間）、Twitterの現行の文字数制限280字（全角140文字）を撤廃し、4000字に拡張する考えを示した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepMindが開発したAIの「AlphaCode」がプログラミングコンテストで「平均」評価を獲得]]></title>
+        <id>https://gigazine.net/news/20221212-competition-level-code-generation-alphacode/</id>
+        <link href="https://gigazine.net/news/20221212-competition-level-code-generation-alphacode/"/>
+        <updated>2022-12-12T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[世界最強の囲碁AI「AlphaGo」などを手がけるDeepMindが、プログラミングをこなすことができるAI「AlphaCode」を開発しました。AlphaCodeが書いたコードはコンテストで平均点を獲得し、人間レベルのコードを記述できることが証明されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「USB Type-A」は古すぎ？　大阪メトロ新型車両の設備が話題　採用理由を聞いた]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/10/news064.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/10/news064.html"/>
+        <updated>2022-12-12T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[大阪市高速電気軌道（大阪メトロ）が2023年4月から導入する新型車両400系について、車内に搭載されるUSBポートの種類が一部で話題になっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「第一回 AIアートグランプリ」開催　「シン・ウルトラマン」監督の樋口氏らが審査員に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news080.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news080.html"/>
+        <updated>2022-12-12T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[AIを利用して作られた画像、漫画、動画、音楽、ゲームなどを募集し、審査する「第一回 AIアートグランプリ」が開催される。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪に初出店したゆで太郎で季節の味が楽しめる「ミニ小柱と春菊のかきあげ丼セット」を食べてみた]]></title>
         <id>https://gigazine.net/news/20221212-yudetarou-garland-chrysanthemum-shellfish/</id>
@@ -26,6 +100,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[課題の本質を見抜きお客さまと二人三脚で解決に導きたい──「データコンサルタント」今井ちひろさん]]></title>
+        <id>http://codezine.jp/article/detail/16770</id>
+        <link href="http://codezine.jp/article/detail/16770"/>
+        <updated>2022-12-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[お客さまの課題を明確化し、それを解決するための戦略立案や業務プロセス改善などを支援するコンサルタント。一般的にコンサルタントと聞くと、経営・戦略コンサルタントを思い浮かべるかもしれないが、彼らが実際に活躍する領域は所属する企業によってさまざまだ。今回は新卒でARISE analyticsにデータサイエンティストを目指して入社し、「データコンサルタント」として活躍する今井ちひろ氏が登場。データコンサルタントとして活躍する魅力、キャリア形成のポイントなどについて話を聞いた。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新設デザインチームが挑んだ「歴史あるパッケージアプリのUI/UX向上」奮闘記]]></title>
+        <id>http://codezine.jp/article/detail/16921</id>
+        <link href="http://codezine.jp/article/detail/16921"/>
+        <updated>2022-12-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[総合人事システム「COMPANY」は、1996年の初期リリースから25年以上、約1,200社の大手企業の入社から退職までの人事労務を支えている。そんな歴史あるパッケージアプリを開発するエンジニアたちに、新たなUI/UX向上を取り入れてもらうべく挑んだ新設のデザイナーチームの挑戦をお伝えする。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

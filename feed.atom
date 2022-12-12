@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-11T23:13:55.363Z</updated>
+    <updated>2022-12-12T01:10:40.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter、「コミュニティノート」（旧Birdwatch）をグローバルに展開開始]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news079.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news079.html"/>
+        <updated>2022-12-12T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterは2021年1月に米国でパイロット版を立ち上げた偽情報拡散防止対策「コミュニティノート」（旧「Birdwatch」）のグローバル展開を開始した。日本からもノート寄稿者として参加できる。既に幾つかのツイートにノートが表示されている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWSパートナー6社、「Cloud Native Builders Group」を設立]]></title>
+        <id>http://codezine.jp/article/detail/16996</id>
+        <link href="http://codezine.jp/article/detail/16996"/>
+        <updated>2022-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ギークフィードは、AWSパートナーとともに「Cloud Native Builders Group」を設立したことを、12月6日に発表した。参加企業（50音順）は、Aokumo、クエイル、ギークフィード、シーズ、フォージビジョン、ベンジャミンの6社。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PyTorch with DirectML」最新版でTransformer関連のモデルのトレーニングが可能に]]></title>
+        <id>http://codezine.jp/article/detail/17004</id>
+        <link href="http://codezine.jp/article/detail/17004"/>
+        <updated>2022-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは、機械学習向けの低レベルAPI「DirectML」のPyTorch向け拡張である「PyTorch with DirectML」の最新バージョン「0.1.13」を12月6日（現地時間）に公開した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5G情報持ち出しで有罪　楽天モバイル元社員]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news077.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news077.html"/>
+        <updated>2022-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[勤務先だった携帯電話大手ソフトバンクから高速大容量の第5世代（5G）移動通信システムに関する営業秘密を持ち出したとして、不正競争防止法違反（営業秘密領得）の罪に問われた楽天モバイル元社員、合場邦章被告（47）の判決公判で、東京地裁（鎌倉正和裁判長）は9日、懲役2年、執行猶予4年、罰金100万円（求刑懲役2年、罰金100万円）を言い渡した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[半導体の対中輸出規制　米政府が日本に協力要請　製造装置など]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news076.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news076.html"/>
+        <updated>2022-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[半導体の対中輸出規制を巡り、米政府が日本政府に対して、足並みをそろえるよう要請したことが10日、分かった。複数の関係者によると、レモンド米商務長官が9日に西村康稔経済産業相と電話会談した際に協力を求めたという。日本が高い技術を持つ半導体製造装置などの輸出を規制して、中国の先端半導体の開発を遅らせるのが狙い。閣僚間での直接的な協力要請は初めてとみられる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ソニー製ゲーミングモニター「INZONE M3」の「1台のキーボードを複数のデバイスで使い回せる機能」を使ってみた]]></title>
         <id>https://gigazine.net/news/20221212-sony-inzone-m3-hub-kvm/</id>
@@ -15,6 +65,36 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbnbがベクター動画のレンダリングエンジン「Lottie 4.0 for iOS」を公開、GPUを利用して描画をスムーズに]]></title>
+        <id>http://codezine.jp/article/detail/17005</id>
+        <link href="http://codezine.jp/article/detail/17005"/>
+        <updated>2022-12-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Airbnbは、ベクター動画のレンダリングエンジンの新版「Lottie 4.0 for iOS」を公開した。LottieはApache License 2.0で公開しているオープンソース・ソフトウェアだ。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エアコンの気流と温度変化がARで可視化する技術　最も効率的な設置場所の提案に一役]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news045.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news045.html"/>
+        <updated>2022-12-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[韓国の高麗大学校とLGエレクトロニクスに所属する研究者らは、部屋に設置したエアコンから出る温冷風をARで表現できるシステムを提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[電気で傷を治す「電子バンソウコウ」　マウス実験では通常よりも早期に治癒　回復具合の監視機能も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news044.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news044.html"/>
+        <updated>2022-12-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米スタンフォード大学などに所属する研究者らは、創傷部に貼り付け、治り具合に応じて電気刺激で治癒させる電子バンソウコウを提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

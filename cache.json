@@ -1233,6 +1233,36 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16996",
+          "author": null,
+          "description": "ギークフィードは、AWSパートナーとともに「Cloud Native Builders Group」を設立したことを、12月6日に発表した。参加企業（50音順）は、Aokumo、クエイル、ギークフィード、シーズ、フォージビジョン、ベンジャミンの6社。",
+          "link": "http://codezine.jp/article/detail/16996",
+          "publishedOn": "2022-12-12T00:00:00.000Z",
+          "wordCount": 4260,
+          "title": "AWSパートナー6社、「Cloud Native Builders Group」を設立",
+          "imageUrl": "https://codezine.jp/static/images/article/16996/13249_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17004",
+          "author": null,
+          "description": "米Microsoftは、機械学習向けの低レベルAPI「DirectML」のPyTorch向け拡張である「PyTorch with DirectML」の最新バージョン「0.1.13」を12月6日（現地時間）に公開した。",
+          "link": "http://codezine.jp/article/detail/17004",
+          "publishedOn": "2022-12-12T00:00:00.000Z",
+          "wordCount": 4259,
+          "title": "「PyTorch with DirectML」最新版でTransformer関連のモデルのトレーニングが可能に",
+          "imageUrl": "https://codezine.jp/static/images/article/17004/13359_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17005",
+          "author": null,
+          "description": "米Airbnbは、ベクター動画のレンダリングエンジンの新版「Lottie 4.0 for iOS」を公開した。LottieはApache License 2.0で公開しているオープンソース・ソフトウェアだ。",
+          "link": "http://codezine.jp/article/detail/17005",
+          "publishedOn": "2022-12-11T23:00:00.000Z",
+          "wordCount": 4260,
+          "title": "Airbnbがベクター動画のレンダリングエンジン「Lottie 4.0 for iOS」を公開、GPUを利用して描画をスムーズに",
+          "imageUrl": "https://codezine.jp/static/images/article/17005/12883_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16836",
           "author": null,
           "description": "CodeZineを運営する翔泳社より、書籍『Firebase Authenticationで学ぶ ソーシャルログイン入門 ID管理の原則にそった実装のベストプラクティス』が12月12日（月）に発売となりました。本書は今や多くのアプリで当たり前になった「ソーシャルログイン機能」をどのように実装すればよいのか、Firebase Authenticationの利用を例に解説した書籍です。",
@@ -1986,6 +2016,56 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news079.html",
+          "author": null,
+          "description": "Twitterは2021年1月に米国でパイロット版を立ち上げた偽情報拡散防止対策「コミュニティノート」（旧「Birdwatch」）のグローバル展開を開始した。日本からもノート寄稿者として参加できる。既に幾つかのツイートにノートが表示されている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news079.html",
+          "publishedOn": "2022-12-12T00:10:00.000Z",
+          "wordCount": 2600,
+          "title": "Twitter、「コミュニティノート」（旧Birdwatch）をグローバルに展開開始",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news079.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news077.html",
+          "author": null,
+          "description": "勤務先だった携帯電話大手ソフトバンクから高速大容量の第5世代（5G）移動通信システムに関する営業秘密を持ち出したとして、不正競争防止法違反（営業秘密領得）の罪に問われた楽天モバイル元社員、合場邦章被告（47）の判決公判で、東京地裁（鎌倉正和裁判長）は9日、懲役2年、執行猶予4年、罰金100万円（求刑懲役2年、罰金100万円）を言い渡した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news077.html",
+          "publishedOn": "2022-12-12T00:00:00.000Z",
+          "wordCount": 2324,
+          "title": "5G情報持ち出しで有罪　楽天モバイル元社員",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/l_5HEGKNU7PFOWXFRERR2GP57KDM_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news076.html",
+          "author": null,
+          "description": "半導体の対中輸出規制を巡り、米政府が日本政府に対して、足並みをそろえるよう要請したことが10日、分かった。複数の関係者によると、レモンド米商務長官が9日に西村康稔経済産業相と電話会談した際に協力を求めたという。日本が高い技術を持つ半導体製造装置などの輸出を規制して、中国の先端半導体の開発を遅らせるのが狙い。閣僚間での直接的な協力要請は初めてとみられる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news076.html",
+          "publishedOn": "2022-12-12T00:00:00.000Z",
+          "wordCount": 2328,
+          "title": "半導体の対中輸出規制　米政府が日本に協力要請　製造装置など",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/l_G4MHYVA7YVCC7N4ADIFDLEINC4_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news045.html",
+          "author": null,
+          "description": "韓国の高麗大学校とLGエレクトロニクスに所属する研究者らは、部屋に設置したエアコンから出る温冷風をARで表現できるシステムを提案した研究報告を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news045.html",
+          "publishedOn": "2022-12-11T23:00:00.000Z",
+          "wordCount": 2684,
+          "title": "エアコンの気流と温度変化がARで可視化する技術　最も効率的な設置場所の提案に一役",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news045.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news044.html",
+          "author": null,
+          "description": "米スタンフォード大学などに所属する研究者らは、創傷部に貼り付け、治り具合に応じて電気刺激で治癒させる電子バンソウコウを提案した研究報告を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news044.html",
+          "publishedOn": "2022-12-11T23:00:00.000Z",
+          "wordCount": 2666,
+          "title": "電気で傷を治す「電子バンソウコウ」　マウス実験では通常よりも早期に治癒　回復具合の監視機能も",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news044.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/12/news049.html",
           "author": null,

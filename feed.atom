@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T14:12:55.627Z</updated>
+    <updated>2022-12-12T15:14:50.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[民間初の月着陸へ　国内ベンチャー開発の月着陸船が打ち上げ成功]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news186.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news186.html"/>
+        <updated>2022-12-12T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[月面資源開発に取り組むスタートアップispace（東京都中央区）は、SpaceXのロケット「Falcon9」に同社が開発したランダー（月着陸船）の打ち上げに成功したと発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[観測史上最古となる「134億年前の銀河」がジェイムズ・ウェッブ宇宙望遠鏡で撮影できていたことが明らかに]]></title>
         <id>https://gigazine.net/news/20221212-astronomers-most-ancient-galaxies/</id>

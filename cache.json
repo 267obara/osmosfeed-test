@@ -2247,6 +2247,16 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news186.html",
+          "author": null,
+          "description": "月面資源開発に取り組むスタートアップispace（東京都中央区）は、SpaceXのロケット「Falcon9」に同社が開発したランダー（月着陸船）の打ち上げに成功したと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news186.html",
+          "publishedOn": "2022-12-12T14:30:00.000Z",
+          "wordCount": 2598,
+          "title": "民間初の月着陸へ　国内ベンチャー開発の月着陸船が打ち上げ成功",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news186.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/12/news179.html",
           "author": null,
           "description": "バーチャルYouTuber（VTuber）事務所「にじさんじ」や「NIJISANJI EN」を運営するANYCOLORが、所属VTuberの声まねに関して注意喚起した。性的なコンテンツを同社所属VTuberと関連付けて配信、投稿、販売する行為を止めるよう呼び掛けている。",

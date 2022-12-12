@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T22:13:43.441Z</updated>
+    <updated>2022-12-12T23:14:48.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アニメ雑誌「ニュータイプ」と「ファイブスター物語」誕生の経緯をKADOKAWA・井上伸一郎氏が語ったマチ★アソビ講演まとめレポート]]></title>
+        <id>https://gigazine.net/news/20221213-fss-machiasobi25/</id>
+        <link href="https://gigazine.net/news/20221213-fss-machiasobi25/"/>
+        <updated>2022-12-12T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[月刊ニュータイプの創刊や永野護さんによる漫画「ファイブスター物語」の連載に携わったKADOKAWAの井上伸一郎さんによる講演「月刊Newtypeと私のFSS」が、「マチ★アソビ vol.25」のデジタル人材発掘セミナーとして開催されました。この日、井上さんは永野さんから「何を言ってもOK」と承諾を得て来ていたということで、かなり貴重な話がいくつも飛び出したので、その内容を、ほぼ余すところなくまとめました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elixir上でのニューラルネットワークモデルの使用を可能にする「Bumblebee」が登場]]></title>
+        <id>http://codezine.jp/article/detail/17007</id>
+        <link href="http://codezine.jp/article/detail/17007"/>
+        <updated>2022-12-12T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[インタラクティブなノートブックによって、Elixirコードのワークフローを自動化する「Livebook」の開発チームは、GPT2やStable DiffusionといったさまざまなニューラルネットワークをElixirで利用可能にする、「Bumblebee」を12月9日（現地時間）に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「僕のヒーローアカデミア」（ヒロアカ）をNetflixが実写化へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news078.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news078.html"/>
+        <updated>2022-12-12T22:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Netflixは日本のアニメ「僕のヒーローアカデミア」（ヒロアカ）の実写映画化を発表した。製作総指揮と監督は「キングダム」の佐藤信介氏。日本では東宝が劇場配給する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPTやGoogle検索で使われているAIベースの自然言語処理アルゴリズムをアミノ酸配列に適用してタンパク質言語モデルを作成することで創薬時間を数カ月に短縮]]></title>
         <id>https://gigazine.net/news/20221213-ai-chatbot-discover-drug/</id>

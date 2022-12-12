@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221212-gpt-3-architecture/",
+          "author": null,
+          "description": "AI研究団体・OpenAIが発表して話題を呼んだ対話型AI「ChatGPT」は、テキスト自動生成AI・GPT-3の派生形である「GPT-3.5」をファインチューニングした自然言語処理モデルです。チューリッヒ工科大学で機械学習とロボティクスの博士号課程に進んでいるダニエル・デュガス氏が、GPT-3が行っている数学的処理工程について解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-gpt-3-architecture/",
+          "publishedOn": "2022-12-12T11:00:00.000Z",
+          "wordCount": 2533,
+          "title": "OpenAI開発のテキスト生成AI「GPT-3」がどんな処理を行っているのかを専門家が解説",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/gpt-3-architecture/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221212-japan-eq-locator/",
           "author": null,
           "description": "気象庁が発表しているデータをもとに、2000年以降に発生したマグニチュード2.0以上の地震約60万件以上の震源を3Dマップ上にプロットした「Japan EQ Locator」が公開されています。\n続きを読む...",
@@ -2206,6 +2216,46 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news174.html",
+          "author": null,
+          "description": "通信速度に対する不満の声が相次いだ「NURO 光」。提供元のソニーネットワークコミュニケーションズが、埼玉県、兵庫県、岡山県の一部エリアでネットワーク増強を済ませたと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news174.html",
+          "publishedOn": "2022-12-12T10:26:00.000Z",
+          "wordCount": 2605,
+          "title": "NURO光、埼玉県など一部エリアのネットワーク増強を完了　今後対応する地域もさらに更新",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news174.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news170.html",
+          "author": null,
+          "description": "宇宙産業に関わるスタートアップ企業のデジタルブラストは、日本国内初となる民間主導での宇宙ステーション「民間宇宙ステーション（CSS）構想」を立ち上げると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news170.html",
+          "publishedOn": "2022-12-12T10:04:00.000Z",
+          "wordCount": 2595,
+          "title": "国内初、民間企業による宇宙ステーション構想　スタートアップが発表　「2030年のISS退役後を見据える」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news170.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news164.html",
+          "author": null,
+          "description": "日本中央競馬会が、2023年3月下旬からJRAが開催する全レースの映像をライブ配信する。利用料は無料で会員登録も不要。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news164.html",
+          "publishedOn": "2022-12-12T10:00:00.000Z",
+          "wordCount": 2592,
+          "title": "JRA、競馬の全レースを無料ライブ配信へ　会員登録も不要",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news164.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news139.html",
+          "author": null,
+          "description": "マネーフォワードは12月12日、家計簿アプリ「マネーフォワードME」において、ユーザーが契約しているサブスクリプションサービスを一目で把握できる「サブスクレポート機能」の提供を開始した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news139.html",
+          "publishedOn": "2022-12-12T10:00:00.000Z",
+          "wordCount": 2590,
+          "title": "マネーフォワードMEに「サブスク」の見える化機能",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news139.png"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/12/news167.html",
           "author": null,

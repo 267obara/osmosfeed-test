@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T10:15:33.976Z</updated>
+    <updated>2022-12-12T11:11:39.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI開発のテキスト生成AI「GPT-3」がどんな処理を行っているのかを専門家が解説]]></title>
+        <id>https://gigazine.net/news/20221212-gpt-3-architecture/</id>
+        <link href="https://gigazine.net/news/20221212-gpt-3-architecture/"/>
+        <updated>2022-12-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI研究団体・OpenAIが発表して話題を呼んだ対話型AI「ChatGPT」は、テキスト自動生成AI・GPT-3の派生形である「GPT-3.5」をファインチューニングした自然言語処理モデルです。チューリッヒ工科大学で機械学習とロボティクスの博士号課程に進んでいるダニエル・デュガス氏が、GPT-3が行っている数学的処理工程について解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NURO光、埼玉県など一部エリアのネットワーク増強を完了　今後対応する地域もさらに更新]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news174.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news174.html"/>
+        <updated>2022-12-12T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[通信速度に対する不満の声が相次いだ「NURO 光」。提供元のソニーネットワークコミュニケーションズが、埼玉県、兵庫県、岡山県の一部エリアでネットワーク増強を済ませたと発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内初、民間企業による宇宙ステーション構想　スタートアップが発表　「2030年のISS退役後を見据える」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news170.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news170.html"/>
+        <updated>2022-12-12T10:04:00.000Z</updated>
+        <summary type="html"><![CDATA[宇宙産業に関わるスタートアップ企業のデジタルブラストは、日本国内初となる民間主導での宇宙ステーション「民間宇宙ステーション（CSS）構想」を立ち上げると発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地震約60万件の震源の位置をマップ上に示す「Japan EQ Locator」]]></title>
         <id>https://gigazine.net/news/20221212-japan-eq-locator/</id>
@@ -15,6 +46,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JRA、競馬の全レースを無料ライブ配信へ　会員登録も不要]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news164.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news164.html"/>
+        <updated>2022-12-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本中央競馬会が、2023年3月下旬からJRAが開催する全レースの映像をライブ配信する。利用料は無料で会員登録も不要。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マネーフォワードMEに「サブスク」の見える化機能]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news139.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news139.html"/>
+        <updated>2022-12-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[マネーフォワードは12月12日、家計簿アプリ「マネーフォワードME」において、ユーザーが契約しているサブスクリプションサービスを一目で把握できる「サブスクレポート機能」の提供を開始した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

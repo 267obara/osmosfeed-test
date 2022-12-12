@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221212-photograph-plagiaris-against/",
+          "author": null,
+          "description": "ルクセンブルク政府主催の展覧会でルクセンブルク出身の美術学生のジェフ・ディーシュブルク氏が「第11回現代美術ビエンナーレ賞」を受賞し、賞金1500ユーロ(約21万円)を受け取りました。しかし、アメリカを拠点とするアーティストの張晶娜氏は、この作品は自身の作品の盗作だとして訴訟を起こしました。しかし、2022年12月7日に「写真の独創性が不十分だった」として著作権保護の訴えを退ける判決が下されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-photograph-plagiaris-against/",
+          "publishedOn": "2022-12-12T08:00:00.000Z",
+          "wordCount": 2857,
+          "title": "写真家の撮影した画像を反転した絵が展覧会で入賞、盗作として訴訟されるものの勝訴してしまう",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/photograph-plagiaris-against/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221212-toilets-flush/",
           "author": null,
           "description": "外食店などでトイレを利用した際に、「感染症予防のためトイレはフタを閉めて流してください」という内容の張り紙を目にしたことがある人は多いはず。トイレの水を流した際に便器から吹き上がる粒子をレーザー光で可視化したムービーを見ると、なぜフタをせずにトイレを流してはいけないのかが直感的に理解できます。\n続きを読む...",
@@ -2176,6 +2186,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news140.html",
+          "author": null,
+          "description": "ベネッセが基幹システムをOracle Cloudに移行。すでにAzureに移行したフロントエンドシステムと合わせて、マルチクラウド環境で運用する。コロナ禍によって急増したオンラインサービスの利用に対応するという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news140.html",
+          "publishedOn": "2022-12-12T07:21:00.000Z",
+          "wordCount": 2602,
+          "title": "ベネッセ、基幹システムをOracle Cloud移行　Azureとのマルチクラウドに",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news140.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/12/news121.html",
           "author": null,

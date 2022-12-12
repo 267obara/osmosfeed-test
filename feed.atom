@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T13:24:06.350Z</updated>
+    <updated>2022-12-12T14:12:55.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[観測史上最古となる「134億年前の銀河」がジェイムズ・ウェッブ宇宙望遠鏡で撮影できていたことが明らかに]]></title>
+        <id>https://gigazine.net/news/20221212-astronomers-most-ancient-galaxies/</id>
+        <link href="https://gigazine.net/news/20221212-astronomers-most-ancient-galaxies/"/>
+        <updated>2022-12-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[観測史上最古となる134億年前の銀河をジェイムズ・ウェッブ宇宙望遠鏡で撮影することに成功していたことが明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[とろろ昆布と梅干しでうまみも縁起もたっぷりな「日清のおめでどん兵衛 年明けうどん」試食レビュー]]></title>
         <id>https://gigazine.net/news/20221212-nissin-new-year-udon/</id>

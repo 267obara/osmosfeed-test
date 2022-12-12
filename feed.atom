@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T12:27:31.684Z</updated>
+    <updated>2022-12-12T13:24:06.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[とろろ昆布と梅干しでうまみも縁起もたっぷりな「日清のおめでどん兵衛 年明けうどん」試食レビュー]]></title>
+        <id>https://gigazine.net/news/20221212-nissin-new-year-udon/</id>
+        <link href="https://gigazine.net/news/20221212-nissin-new-year-udon/"/>
+        <updated>2022-12-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[年明けうどん普及委員会が提唱する年明けうどんとして定評の「日清のおめでどん兵衛 年明けうどん」が、2022年12月19日(月)に復活します。2022年の「おめでどん兵衛」は、太くて長い麺が縁起物として好まれているうどんの白に梅干しの赤を添えて紅白を演出し、さらに「よろこぶ」とかけたとろろ昆布でうまみを加えた一品とのことなので、一足先に食べて新年気分を満喫してみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScriptで記述できる物理学ベースのシミュレーションを分かりやすく学べ実際にデモを動かせる「Ten Minute Physics」]]></title>
+        <id>https://gigazine.net/news/20221212-ten-minute-physics/</id>
+        <link href="https://gigazine.net/news/20221212-ten-minute-physics/"/>
+        <updated>2022-12-12T12:52:00.000Z</updated>
+        <summary type="html"><![CDATA[物理学に基づくシミュレーションをコンピューターグラフィックスで仕上げる動画をYouTubeチャンネルのTen Minute Physicsが投稿しています。Ten Minute Physicsがこれまで投稿してきた数多くのシミュレーションのコードや、実際にブラウザで動作するデモについて、運営者でNVIDIAの従業員であるというマルチーズ・ミラー氏が紹介しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「VTuberの声まねした性的コンテンツやめて」　にじさんじが注意喚起]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/12/news179.html</id>

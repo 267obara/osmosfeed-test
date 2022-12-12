@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221212-nissin-new-year-udon/",
+          "author": null,
+          "description": "年明けうどん普及委員会が提唱する年明けうどんとして定評の「日清のおめでどん兵衛 年明けうどん」が、2022年12月19日(月)に復活します。2022年の「おめでどん兵衛」は、太くて長い麺が縁起物として好まれているうどんの白に梅干しの赤を添えて紅白を演出し、さらに「よろこぶ」とかけたとろろ昆布でうまみを加えた一品とのことなので、一足先に食べて新年気分を満喫してみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-nissin-new-year-udon/",
+          "publishedOn": "2022-12-12T13:00:00.000Z",
+          "wordCount": 2519,
+          "title": "とろろ昆布と梅干しでうまみも縁起もたっぷりな「日清のおめでどん兵衛 年明けうどん」試食レビュー",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/nissin-new-year-udon/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221212-ten-minute-physics/",
+          "author": null,
+          "description": "物理学に基づくシミュレーションをコンピューターグラフィックスで仕上げる動画をYouTubeチャンネルのTen Minute Physicsが投稿しています。Ten Minute Physicsがこれまで投稿してきた数多くのシミュレーションのコードや、実際にブラウザで動作するデモについて、運営者でNVIDIAの従業員であるというマルチーズ・ミラー氏が紹介しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-ten-minute-physics/",
+          "publishedOn": "2022-12-12T12:52:00.000Z",
+          "wordCount": 2764,
+          "title": "JavaScriptで記述できる物理学ベースのシミュレーションを分かりやすく学べ実際にデモを動かせる「Ten Minute Physics」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/ten-minute-physics/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221212-gpt-3-architecture/",
           "author": null,
           "description": "AI研究団体・OpenAIが発表して話題を呼んだ対話型AI「ChatGPT」は、テキスト自動生成AI・GPT-3の派生形である「GPT-3.5」をファインチューニングした自然言語処理モデルです。チューリッヒ工科大学で機械学習とロボティクスの博士号課程に進んでいるダニエル・デュガス氏が、GPT-3が行っている数学的処理工程について解説しています。\n続きを読む...",

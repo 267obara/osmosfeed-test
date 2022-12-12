@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T08:18:48.227Z</updated>
+    <updated>2022-12-12T09:14:08.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta、アバターストアを日本でもスタート　プラダなどのバーチャル服を販売]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news152.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news152.html"/>
+        <updated>2022-12-12T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米Metaが、FacebookやVR空間で使えるアバター用の服を販売する「Metaアバターストア」の日本含むアジア太平洋地域での提供を始めた。既存の無料服に加えて、ファッションブランドの服も販売する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[写真家の撮影した画像を反転した絵が展覧会で入賞、盗作として訴訟されるものの勝訴してしまう]]></title>
         <id>https://gigazine.net/news/20221212-photograph-plagiaris-against/</id>

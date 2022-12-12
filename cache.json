@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221213-ai-chatbot-discover-drug/",
+          "author": null,
+          "description": "Google検索やチャットAI「ChatGPT」などでは、人間が書いた文章を機械的に処理するために自然言語処理アルゴリズムが用いられています。そんな自然言語処理アルゴリズムが、創薬分野でも活躍しつつある現状が報告されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-ai-chatbot-discover-drug/",
+          "publishedOn": "2022-12-12T22:00:00.000Z",
+          "wordCount": 2571,
+          "title": "ChatGPTやGoogle検索で使われているAIベースの自然言語処理アルゴリズムをアミノ酸配列に適用してタンパク質言語モデルを作成することで創薬時間を数カ月に短縮",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/ai-chatbot-discover-drug/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221213-openai-chatgpt-disputing-parking-fine/",
           "author": null,
           "description": "AIの研究や開発を行う「OpenAI」によって2022年12月1日にテスト版が一般公開された対話型チャットAI「ChatGPT」は人間が書いた文章と見分けが付かないほどに高精度の文章を書けるとされています。このChatGPTを用いて駐車違反の罰金に異議を唱える試みをレックス・トゥンボロウ氏が行っています。\n続きを読む...",

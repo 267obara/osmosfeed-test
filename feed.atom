@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T21:12:43.140Z</updated>
+    <updated>2022-12-12T22:13:43.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTやGoogle検索で使われているAIベースの自然言語処理アルゴリズムをアミノ酸配列に適用してタンパク質言語モデルを作成することで創薬時間を数カ月に短縮]]></title>
+        <id>https://gigazine.net/news/20221213-ai-chatbot-discover-drug/</id>
+        <link href="https://gigazine.net/news/20221213-ai-chatbot-discover-drug/"/>
+        <updated>2022-12-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google検索やチャットAI「ChatGPT」などでは、人間が書いた文章を機械的に処理するために自然言語処理アルゴリズムが用いられています。そんな自然言語処理アルゴリズムが、創薬分野でも活躍しつつある現状が報告されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[対話型チャットAI「ChatGPT」を使って駐車違反に異議を唱え取り消させることに成功]]></title>
         <id>https://gigazine.net/news/20221213-openai-chatgpt-disputing-parking-fine/</id>

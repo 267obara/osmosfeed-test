@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T02:46:36.791Z</updated>
+    <updated>2022-12-12T03:19:18.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大阪に初出店したゆで太郎で季節の味が楽しめる「ミニ小柱と春菊のかきあげ丼セット」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221212-yudetarou-garland-chrysanthemum-shellfish/</id>
+        <link href="https://gigazine.net/news/20221212-yudetarou-garland-chrysanthemum-shellfish/"/>
+        <updated>2022-12-12T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[そばチェーン店の「ゆで太郎」が2022年12月9日(金)に大阪に初出店しました。また、同日から季節限定メニューとして「小柱と春菊のかきあげそば」と「ミニ小柱と春菊のかきあげ丼セット」が販売されています。小柱のうまみと春菊の香りが癖になる一品とのことなので、実際に注文し食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MicrosoftやAvastなどの人気アンチウイルスソフトがPCのデータを完全破壊してしまう脆弱性「Aikido(合気道)」が見つかる]]></title>
+        <id>https://gigazine.net/news/20221212-antivirus-edr-data-wipers/</id>
+        <link href="https://gigazine.net/news/20221212-antivirus-edr-data-wipers/"/>
+        <updated>2022-12-12T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Defender、Avast、AVG、トレンドマイクロなどの主要なアンチウイルスおよびエンドポイント検出応答(EDR)ソフトに、感染したファイルを削除する機能を悪用してPCのデータを消去し復元できないようにしてしまうゼロデイ脆弱(ぜいじゃく)性があることが分かりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterの大規模内部リークから「トランプ元大統領を永久BANした際」の詳細が明らかに]]></title>
         <id>https://gigazine.net/news/20221212-twitter-file-ban-trump/</id>
@@ -26,6 +48,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Galaxy Z Flip4」に座れる？　「折りたたみスマホ型ベンチ」渋谷に登場]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news100.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news100.html"/>
+        <updated>2022-12-12T02:29:00.000Z</updated>
+        <summary type="html"><![CDATA[サムスン電子ジャパンが、折りたたみスマートフォン型ベンチを渋谷に設置。歩きスマホ”を抑止する取り組みという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

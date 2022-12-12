@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221212-yudetarou-garland-chrysanthemum-shellfish/",
+          "author": null,
+          "description": "そばチェーン店の「ゆで太郎」が2022年12月9日(金)に大阪に初出店しました。また、同日から季節限定メニューとして「小柱と春菊のかきあげそば」と「ミニ小柱と春菊のかきあげ丼セット」が販売されています。小柱のうまみと春菊の香りが癖になる一品とのことなので、実際に注文し食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-yudetarou-garland-chrysanthemum-shellfish/",
+          "publishedOn": "2022-12-12T03:15:00.000Z",
+          "wordCount": 2476,
+          "title": "大阪に初出店したゆで太郎で季節の味が楽しめる「ミニ小柱と春菊のかきあげ丼セット」を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/yudetarou-garland-chrysanthemum-shellfish/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221212-antivirus-edr-data-wipers/",
+          "author": null,
+          "description": "Microsoft Defender、Avast、AVG、トレンドマイクロなどの主要なアンチウイルスおよびエンドポイント検出応答(EDR)ソフトに、感染したファイルを削除する機能を悪用してPCのデータを消去し復元できないようにしてしまうゼロデイ脆弱(ぜいじゃく)性があることが分かりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-antivirus-edr-data-wipers/",
+          "publishedOn": "2022-12-12T03:05:00.000Z",
+          "wordCount": 2519,
+          "title": "MicrosoftやAvastなどの人気アンチウイルスソフトがPCのデータを完全破壊してしまう脆弱性「Aikido(合気道)」が見つかる",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/antivirus-edr-data-wipers/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221212-twitter-file-ban-trump/",
           "author": null,
           "description": "ジャーナリストのマット・タイービ氏らがTwitterの社内文書を「Twitterファイル(THE TWITTER FILES)」としてリークしており、その第3弾＆第4弾としてドナルド・トランプ元大統領がTwitterアカウントを永久凍結された際の出来事が明らかになっています。\n続きを読む...",
@@ -2056,6 +2076,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news100.html",
+          "author": null,
+          "description": "サムスン電子ジャパンが、折りたたみスマートフォン型ベンチを渋谷に設置。歩きスマホ”を抑止する取り組みという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news100.html",
+          "publishedOn": "2022-12-12T02:29:00.000Z",
+          "wordCount": 2602,
+          "title": "「Galaxy Z Flip4」に座れる？　「折りたたみスマホ型ベンチ」渋谷に登場",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news100.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/12/news006.html",
           "author": null,

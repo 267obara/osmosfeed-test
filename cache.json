@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221212-twitter-file-ban-trump/",
+          "author": null,
+          "description": "ジャーナリストのマット・タイービ氏らがTwitterの社内文書を「Twitterファイル(THE TWITTER FILES)」としてリークしており、その第3弾＆第4弾としてドナルド・トランプ元大統領がTwitterアカウントを永久凍結された際の出来事が明らかになっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-twitter-file-ban-trump/",
+          "publishedOn": "2022-12-12T02:40:00.000Z",
+          "wordCount": 3814,
+          "title": "Twitterの大規模内部リークから「トランプ元大統領を永久BANした際」の詳細が明らかに",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/twitter-file-ban-trump/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221212-twitter-file-shadow-ban/",
+          "author": null,
+          "description": "Twitterを買収してCEOに就任したイーロン・マスク氏は、ジャーナリストたちがTwitterの内部情報をまとめて公開しているスレッド「Twitterファイル」の拡散を手助けしており、2022年12月には「Twitter内部では民主党支持層の力が圧倒的に強く、バイデン大統領の息子の汚職を隠していた」ということを示す「Twitterファイル」第1弾が公開されています。新たに、2022年12月9日にはTwitterがひそかに実施しているとされる「シャドウバン」の実態について明かす「Twitterファイル」第2弾が公開されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-twitter-file-shadow-ban/",
+          "publishedOn": "2022-12-12T02:32:00.000Z",
+          "wordCount": 3187,
+          "title": "Twitterの「シャドウバン」の実態を暴露するイーロン・マスクお墨付き社内文書「Twitterファイル」第2弾が公開される",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/twitter-file-shadow-ban/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221212-deepmind-dramatron/",
+          "author": null,
+          "description": "囲碁や将棋でプロ棋士を打ち負かす腕前を持つAI「AlphaZero」やタンパク質の立体構造解析を行うAI「AlphaFold」を開発するGoogleの姉妹企業・DeepMindが、映画や演劇の脚本を「共同執筆」するためのAIツール「Dramatron」を発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-deepmind-dramatron/",
+          "publishedOn": "2022-12-12T01:46:00.000Z",
+          "wordCount": 2659,
+          "title": "DeepMindが映画や演劇の脚本を共同執筆してくれるAI「Dramatron」を発表",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/deepmind-dramatron/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221212-sony-inzone-m3-hub-kvm/",
           "author": null,
           "description": "ソニーから2022年12月に登場したゲーミングモニター「INZONE M3」は、HDMI端子のほかにDisplayPort端子やUSB端子も搭載しており、PlayStationだけでなくPCなどとの接続も意図されています。そんなINZONE M3には、キーボードやマウスなどの入力デバイスを複数のPCで共有できる「オートKVMスイッチ」機能が搭載されています。複数台のPCを使い分ける環境で便利そうだったので、実際にオートKVMスイッチを使ってみました。\n続きを読む...",
@@ -1233,6 +1263,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16904",
+          "author": null,
+          "description": "本連載では、Webブラウザー上でJavaScriptと共に動作できるバイナリ形式のプログラムファイル「WebAssembly」を、Rustプログラミング言語で実装する方法を説明していきます。前回は実際にRust言語でWebAssemblyを実装して、動作速度を検証しました。今回は、本格的な処理に不可欠な、Rust/WebAssemblyとJavaScriptとのデータ交換について説明します。",
+          "link": "http://codezine.jp/article/detail/16904",
+          "publishedOn": "2022-12-12T02:00:00.000Z",
+          "wordCount": 4519,
+          "title": "Rust/WebAssemblyとJavaScriptのデータ交換を使いこなす！",
+          "imageUrl": "https://codezine.jp/static/images/article/16904/1200.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16996",
           "author": null,
           "description": "ギークフィードは、AWSパートナーとともに「Cloud Native Builders Group」を設立したことを、12月6日に発表した。参加企業（50音順）は、Aokumo、クエイル、ギークフィード、シーズ、フォージビジョン、ベンジャミンの6社。",
@@ -2016,6 +2056,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news006.html",
+          "author": null,
+          "description": "HPCが使いたいときに使えない──「ゲノム研究」に当たって課題を抱えていた基礎生物学研究所。解決の糸口はAWSのクラウドサービスだった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news006.html",
+          "publishedOn": "2022-12-12T01:27:00.000Z",
+          "wordCount": 2624,
+          "title": "使いたいときにHPCが使えない──研究者の悩み、クラウドで解決できたワケ　ゲノム解析の現場を救ったAWS活用",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news006.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/12/news079.html",
           "author": null,

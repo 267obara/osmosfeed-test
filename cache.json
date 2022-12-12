@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221212-japan-eq-locator/",
+          "author": null,
+          "description": "気象庁が発表しているデータをもとに、2000年以降に発生したマグニチュード2.0以上の地震約60万件以上の震源を3Dマップ上にプロットした「Japan EQ Locator」が公開されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-japan-eq-locator/",
+          "publishedOn": "2022-12-12T10:00:00.000Z",
+          "wordCount": 2480,
+          "title": "地震約60万件の震源の位置をマップ上に示す「Japan EQ Locator」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/japan-eq-locator/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221212-headline/",
+          "author": null,
+          "description": "JRA(日本中央競馬会)が、2023年3月25日開催分以降の全レース映像をライブ配信することを発表しました。利用にあたっての登録や料金は不要で、配信画質は1Mbps程度が予定されています。なお、本格的なサービス開始に先駆けて、2022年2月25日(土)から3月19日(日)までの競馬開催日に一部のレースでテスト配信が行われます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-headline/",
+          "publishedOn": "2022-12-12T09:32:00.000Z",
+          "wordCount": 12186,
+          "title": "2022年12月12日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/headline/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221212-photograph-plagiaris-against/",
           "author": null,
           "description": "ルクセンブルク政府主催の展覧会でルクセンブルク出身の美術学生のジェフ・ディーシュブルク氏が「第11回現代美術ビエンナーレ賞」を受賞し、賞金1500ユーロ(約21万円)を受け取りました。しかし、アメリカを拠点とするアーティストの張晶娜氏は、この作品は自身の作品の盗作だとして訴訟を起こしました。しかし、2022年12月7日に「写真の独創性が不十分だった」として著作権保護の訴えを退ける判決が下されています。\n続きを読む...",
@@ -2186,6 +2206,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news167.html",
+          "author": null,
+          "description": "Googleは10月に予告していたChromeブラウザでのパスキー利用を「M108」で実現すると発表した。Windows 11、macOS、AndroidのChromeでパスキーでのログインが可能になる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news167.html",
+          "publishedOn": "2022-12-12T09:47:00.000Z",
+          "wordCount": 2603,
+          "title": "Google、Chromeブラウザの「M108」でパスキーのサポート開始",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news167.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news161.html",
+          "author": null,
+          "description": "シャープと東京大学は12日、量子ドットでRGBの画素を形成し、電力により発光させることに成功したと発表した。液晶や有機ELに代わる次世代の自発光ディスプレイを実現するという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news161.html",
+          "publishedOn": "2022-12-12T09:19:00.000Z",
+          "wordCount": 2600,
+          "title": "量子ドットで自発光の「ナノLEDディスプレイ」実用化へ一歩　シャープと東大、RGB画素の形成に成功",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news161.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news157.html",
+          "author": null,
+          "description": "東京国税局がシステム開発会社リンクオフと同社の小池隆志代表を法人税法違反の疑いで告発した。同社は約1億円を脱税したとみられている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news157.html",
+          "publishedOn": "2022-12-12T08:31:00.000Z",
+          "wordCount": 2585,
+          "title": "クラウドシステム開発会社が1億円脱税か　所得隠し・税務申告漏らしで告発",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news157.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/12/news152.html",
           "author": null,

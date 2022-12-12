@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221212-twitter-community-notes/",
+          "author": null,
+          "description": "Twitterのユーザーが誤解を招く可能性のあるツイートに「ノート」を残し、ユーザー同士で評価し合ってファクトチェックを行う機能「コミュニティノート」がTwitterで公開されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-twitter-community-notes/",
+          "publishedOn": "2022-12-12T06:09:00.000Z",
+          "wordCount": 2632,
+          "title": "ツイートのファクトチェックをTwitterユーザーみんなの力で行う「コミュニティノート」が日本を含む全世界で利用可能に",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/twitter-community-notes/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221212-twitter-chinese-activists-accounts/",
           "author": null,
           "description": "2022年10月にTwitterの買収を完了したイーロン・マスク氏は、Twitterの従業員の3分の2を解雇するという大規模な人員整理を行っています。この大規模な人員整理で、Twitterの管理を担当するセキュリティスタッフが大幅に減員されて自動化への依存度が高まることにより、政権批判の活動家が簡単にTwitterで発言できなくなると危惧されています。\n続きを読む...",
@@ -2146,6 +2156,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news121.html",
+          "author": null,
+          "description": "Twitterからの移行先があれば移動したいと感じている日本人ユーザーは、それなりの数はいるだろう。でも日本のベンチャーや個人開発者は沈黙しているように見える。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news121.html",
+          "publishedOn": "2022-12-12T05:20:00.000Z",
+          "wordCount": 2636,
+          "title": "日本人が「Twitterの移行先」を作らないのはなぜ？　「zenlyの移行先」を22歳が作った事実から考える",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news121.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/12/news114.html",
           "author": null,

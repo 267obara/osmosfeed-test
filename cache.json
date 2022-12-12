@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221213-openai-chatgpt-disputing-parking-fine/",
+          "author": null,
+          "description": "AIの研究や開発を行う「OpenAI」によって2022年12月1日にテスト版が一般公開された対話型チャットAI「ChatGPT」は人間が書いた文章と見分けが付かないほどに高精度の文章を書けるとされています。このChatGPTを用いて駐車違反の罰金に異議を唱える試みをレックス・トゥンボロウ氏が行っています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-openai-chatgpt-disputing-parking-fine/",
+          "publishedOn": "2022-12-12T21:00:00.000Z",
+          "wordCount": 2482,
+          "title": "対話型チャットAI「ChatGPT」を使って駐車違反に異議を唱え取り消させることに成功",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/openai-chatgpt-disputing-parking-fine/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221212-astronomers-most-ancient-galaxies/",
           "author": null,
           "description": "観測史上最古となる134億年前の銀河をジェイムズ・ウェッブ宇宙望遠鏡で撮影することに成功していたことが明らかになりました。\n続きを読む...",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T20:13:35.755Z</updated>
+    <updated>2022-12-12T21:12:43.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[対話型チャットAI「ChatGPT」を使って駐車違反に異議を唱え取り消させることに成功]]></title>
+        <id>https://gigazine.net/news/20221213-openai-chatgpt-disputing-parking-fine/</id>
+        <link href="https://gigazine.net/news/20221213-openai-chatgpt-disputing-parking-fine/"/>
+        <updated>2022-12-12T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AIの研究や開発を行う「OpenAI」によって2022年12月1日にテスト版が一般公開された対話型チャットAI「ChatGPT」は人間が書いた文章と見分けが付かないほどに高精度の文章を書けるとされています。このChatGPTを用いて駐車違反の罰金に異議を唱える試みをレックス・トゥンボロウ氏が行っています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScriptランタイム「Bun v0.3.0」リリース。メモリ消費量が3分の1以下に、npmパッケージの自動インストールなど]]></title>
         <id>https://www.publickey1.jp/blog/22/javascriptbun_v03031npm.html</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221212-twitter-chinese-activists-accounts/",
+          "author": null,
+          "description": "2022年10月にTwitterの買収を完了したイーロン・マスク氏は、Twitterの従業員の3分の2を解雇するという大規模な人員整理を行っています。この大規模な人員整理で、Twitterの管理を担当するセキュリティスタッフが大幅に減員されて自動化への依存度が高まることにより、政権批判の活動家が簡単にTwitterで発言できなくなると危惧されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221212-twitter-chinese-activists-accounts/",
+          "publishedOn": "2022-12-12T05:00:00.000Z",
+          "wordCount": 2641,
+          "title": "Twitterセキュリティスタッフの大量解雇と自動化への依存は中国などの政権が批判者を黙らせるのに役立ってしまうと元Twitter従業員が警告",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/12/twitter-chinese-activists-accounts/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221212-twitter-tsc-quit/",
           "author": null,
           "description": "TwitterのTrust＆Safety協議会(以下、TSC)とは、Twitterのサービス、プログラム、ルールの開発に対して安全性を高めるべく、世界中の独立専門組織で構成されたグループであり、Twitter上の嫌がらせや中傷、いじめなどの不適切な投稿を防止することを目的としています。そんなTSCで7年間務め、イーロン・マスク氏がTwitterのCEOに就任したことをきっかけに「嫌気が差した」として辞任した元TSCメンバーが、辞めた理由や不満などをWebメディアのSLATEに語っています。\n続きを読む...",
@@ -2136,6 +2146,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news114.html",
+          "author": null,
+          "description": "さとふるとPayPayは12月12日、「PayPay商品券」を使ったふるさと納税の導入を決定した自治体が、327に達したと発表した。さらに625自治体が導入を検討している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news114.html",
+          "publishedOn": "2022-12-12T04:29:00.000Z",
+          "wordCount": 2594,
+          "title": "「PayPay商品券」のふるさと納税に希望殺到　327自治体で導入決定",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news114.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/12/news109.html",
           "author": null,

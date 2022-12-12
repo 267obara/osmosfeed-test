@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-12T04:17:41.109Z</updated>
+    <updated>2022-12-12T05:13:04.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterセキュリティスタッフの大量解雇と自動化への依存は中国などの政権が批判者を黙らせるのに役立ってしまうと元Twitter従業員が警告]]></title>
+        <id>https://gigazine.net/news/20221212-twitter-chinese-activists-accounts/</id>
+        <link href="https://gigazine.net/news/20221212-twitter-chinese-activists-accounts/"/>
+        <updated>2022-12-12T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年10月にTwitterの買収を完了したイーロン・マスク氏は、Twitterの従業員の3分の2を解雇するという大規模な人員整理を行っています。この大規模な人員整理で、Twitterの管理を担当するセキュリティスタッフが大幅に減員されて自動化への依存度が高まることにより、政権批判の活動家が簡単にTwitterで発言できなくなると危惧されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PayPay商品券」のふるさと納税に希望殺到　327自治体で導入決定]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/12/news114.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news114.html"/>
+        <updated>2022-12-12T04:29:00.000Z</updated>
+        <summary type="html"><![CDATA[さとふるとPayPayは12月12日、「PayPay商品券」を使ったふるさと納税の導入を決定した自治体が、327に達したと発表した。さらに625自治体が導入を検討している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterに嫌気が差して辞職したTrust＆Safety協議会の元メンバーが辞めた理由を語る、マスク氏も登場して大激論]]></title>
         <id>https://gigazine.net/news/20221212-twitter-tsc-quit/</id>

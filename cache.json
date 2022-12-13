@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221213-teradoga/",
+          "author": null,
+          "description": "YouTubeやTikTokなどの普及により動画は多くの人にとって身近なものとなりましたが、プロダクトの製品紹介を動画で行ったり、何かしらのやり方を伝えるためのハウツー動画を作ったりするには、高度な編集テクニックと高価な編集ソフトが必要になります。しかし、無料で使える「テラドーガ」なら、専用ソフトのインストールなしでブラウザから動画に説明文やリンクを追加して、インタラクティブ動画を作成することが可能です。テラドーガを使って作成できるインタラクティブ動画とは一体どんなものなのかを確かめるべく、実際に使ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-teradoga/",
+          "publishedOn": "2022-12-13T00:00:00.000Z",
+          "wordCount": 2524,
+          "title": "無料で動画の好きな位置にリンクや説明文などを追加してインタラクティブ動画の作成・編集ができる「テラドーガ」を使ってみたレビュー",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/teradoga/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221213-fss-machiasobi25/",
           "author": null,
           "description": "月刊ニュータイプの創刊や永野護さんによる漫画「ファイブスター物語」の連載に携わったKADOKAWAの井上伸一郎さんによる講演「月刊Newtypeと私のFSS」が、「マチ★アソビ vol.25」のデジタル人材発掘セミナーとして開催されました。この日、井上さんは永野さんから「何を言ってもOK」と承諾を得て来ていたということで、かなり貴重な話がいくつも飛び出したので、その内容を、ほぼ余すところなくまとめました。\n続きを読む...",
@@ -1463,6 +1473,56 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17009",
+          "author": null,
+          "description": "アルゴ式は、エンジニア派遣・SES企業と受け入れ企業間の“技術力ミスマッチによるトラブル”を未然に防ぐための、エンジニアの技術力を可視化する「アルゴ式 技術力ヘルスチェック」の開発を開始したことを、12月8日に発表した。",
+          "link": "http://codezine.jp/article/detail/17009",
+          "publishedOn": "2022-12-13T01:00:00.000Z",
+          "wordCount": 4298,
+          "title": "アルゴ式、エンジニアの技術力を可視化する「アルゴ式 技術力ヘルスチェック」の開発を開始",
+          "imageUrl": "https://codezine.jp/static/images/article/17009/17009_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17011",
+          "author": null,
+          "description": "インサイトテクノロジーは、インターネットイニシアティブ（以下IIJ）が12月21日より提供開始する、クラウド利用におけるデータ活用を推進するデータ連携サービス「IIJクラウドデータプラットフォームサービス」へデータマスキング製品「Insight Data Masking」のデータマスキングAPIを提供することを12月12日に発表した。",
+          "link": "http://codezine.jp/article/detail/17011",
+          "publishedOn": "2022-12-13T01:00:00.000Z",
+          "wordCount": 4300,
+          "title": "インサイトテクノロジー、インターネットイニシアティブへデータマスキングAPIを提供開始",
+          "imageUrl": "https://codezine.jp/static/images/article/17011/17011_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17012",
+          "author": null,
+          "description": "ヤフーが提供する、プログラミング未経験者からエンジニアへのリスキリングを支援する「Yahoo!テックアカデミー」は、受講生の定員上限を100名から140名に増枠したことを12月9日に発表した。",
+          "link": "http://codezine.jp/article/detail/17012",
+          "publishedOn": "2022-12-13T01:00:00.000Z",
+          "wordCount": 4292,
+          "title": "エンジニアへのリスキリングを支援する「Yahoo!テックアカデミー」、受講生の定員上限を100名から140名に増枠",
+          "imageUrl": "https://codezine.jp/static/images/article/17012/17012_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17013",
+          "author": null,
+          "description": "Engineerforceは、クレジット払いの新機能をリリースしたことを12月9日に発表した。同機能により、未払い問題に頭を悩ませる経営者、フリーランスの負担を減らすことができる。",
+          "link": "http://codezine.jp/article/detail/17013",
+          "publishedOn": "2022-12-13T01:00:00.000Z",
+          "wordCount": 4291,
+          "title": "Engineerforce、未払い問題解決のため新しくクレジット払い機能をリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/17013/17013_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17008",
+          "author": null,
+          "description": "マルチプラットフォーム対応の、フロントエンドに依存しないアプリケーション構築が可能なフレームワークであるTauriの開発チームは、モバイルアプリの開発が可能なTauri Mobileの、最初のアルファリリースとなる「Tauri Mobile 2.0.0-alpha.0」を12月9日（現地時間）にリリースした。",
+          "link": "http://codezine.jp/article/detail/17008",
+          "publishedOn": "2022-12-13T00:00:00.000Z",
+          "wordCount": 4299,
+          "title": "モバイルアプリ開発に対応したフロントエンド開発フレームワーク「Tauri Mobile」の、最初のアルファ版がリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/17008/12694_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17007",
           "author": null,
           "description": "インタラクティブなノートブックによって、Elixirコードのワークフローを自動化する「Livebook」の開発チームは、GPT2やStable DiffusionといったさまざまなニューラルネットワークをElixirで利用可能にする、「Bumblebee」を12月9日（現地時間）に発表した。",
@@ -2296,6 +2356,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news081.html",
+          "author": null,
+          "description": "横浜市は、一般財団法人「ポケモン・ウィズ・ユー財団」（東京・港）と次世代育成を推進する協定を結んだ。ポケモンキャラクターを使ったオリジナルツールを活用し、小学生向けの情報通信技術（ICT）教育や未就学児の防災学習、こども食堂への支援などに共同で取り組む。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news081.html",
+          "publishedOn": "2022-12-13T00:00:00.000Z",
+          "wordCount": 2326,
+          "title": "横浜市とポケモン財団が協定締結　ICT教育などで連携",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/l_DYHDT7ULD5C2PFPQNR7WFVZVRI_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news080.html",
+          "author": null,
+          "description": "ランサム攻撃を受け、システム障害が続いていた大阪急性期・総合医療センターで、電子カルテシステムが再稼働した。システムを使える端末はまだ一部だが、12月下旬にも新規の外来患者の受け入れを再開するという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news080.html",
+          "publishedOn": "2022-12-13T00:00:00.000Z",
+          "wordCount": 2327,
+          "title": "サイバー攻撃受けた大阪の病院で電子カルテが再稼働　近く外来受け入れも",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/l_MNRBVMWRBRPBXLKUFLOWMQIPI4_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news079.html",
+          "author": null,
+          "description": "Microsoftはロンドン証券取引所グループ（LSEG）とクラウド移行に関する10年契約を締結した。MicrosoftはLSEGの株式の約4％を購入する。Microsoftのスコット・ガスリー上級副社長がLSEGの取締役に就任する見込みだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news079.html",
+          "publishedOn": "2022-12-12T23:45:00.000Z",
+          "wordCount": 2599,
+          "title": "Microsoft、ロンドン証券取引所と10年契約で4％株式取得",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news079.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/13/news078.html",
           "author": null,

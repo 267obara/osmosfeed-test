@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221213-haagen-dazs-japonais-opera-hojicha/",
+          "author": null,
+          "description": "ハーゲンダッツとセブン-イレブンが共同開発する和の味わいにこだわったジャポネシリーズに、ほうじ茶を使ってフランス発祥の層構造のケーキ・オペラを再現した「ジャポネ オペラ～ほうじ茶仕立て～」が登場しました。ほうじ茶アイスクリームとバタースカッチアイスクリームが層になってリッチな味わいに仕上がっているということで、実際に食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-haagen-dazs-japonais-opera-hojicha/",
+          "publishedOn": "2022-12-13T13:00:00.000Z",
+          "wordCount": 2497,
+          "title": "ほうじ茶アイスとバタースカッチアイスの層でさらにリッチになったハーゲンダッツ「ジャポネ オペラ～ほうじ茶仕立て～」を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/haagen-dazs-japonais-opera-hojicha/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221213-program-files-delete-windows/",
           "author": null,
           "description": "重要なシステムファイルが格納されている「Program Files」フォルダーを削除したらどうなるのかということについて実際にYouTuberのThioJoe氏が試し、その結果が共有されました。\n続きを読む...",

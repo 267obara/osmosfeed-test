@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T12:27:18.678Z</updated>
+    <updated>2022-12-13T13:21:50.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ほうじ茶アイスとバタースカッチアイスの層でさらにリッチになったハーゲンダッツ「ジャポネ オペラ～ほうじ茶仕立て～」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221213-haagen-dazs-japonais-opera-hojicha/</id>
+        <link href="https://gigazine.net/news/20221213-haagen-dazs-japonais-opera-hojicha/"/>
+        <updated>2022-12-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ハーゲンダッツとセブン-イレブンが共同開発する和の味わいにこだわったジャポネシリーズに、ほうじ茶を使ってフランス発祥の層構造のケーキ・オペラを再現した「ジャポネ オペラ～ほうじ茶仕立て～」が登場しました。ほうじ茶アイスクリームとバタースカッチアイスクリームが層になってリッチな味わいに仕上がっているということで、実際に食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[もし「Program Files」フォルダーをWindowsで消すと何が起きるのか？]]></title>
         <id>https://gigazine.net/news/20221213-program-files-delete-windows/</id>

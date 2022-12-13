@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T20:14:47.529Z</updated>
+    <updated>2022-12-13T21:12:38.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[画像生成AI「Stable Diffusion」などの開発に大きな貢献を果たした超巨大データセット「LAION-5B」とは？]]></title>
+        <id>https://gigazine.net/news/20221214-laion-5b-new-era-datasets/</id>
+        <link href="https://gigazine.net/news/20221214-laion-5b-new-era-datasets/"/>
+        <updated>2022-12-13T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AIを構築する上ではアルゴリズムだけでなく訓練用のデータセットも重要であり、データセットの質によってAIの精度も大きく左右されます。高精度な画像生成AIとして話題のStable Diffusionでは、「LAION-5B」という50億以上もの画像とテキストのペアを含むデータセットを用いています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NewSQLは金融システムのミッションクリティカルで高セキュリティな要件に応えられるか？ TISが評価結果を明らかに［PR］]]></title>
         <id>https://www.publickey1.jp/blog/22/newsql_tispr.html</id>

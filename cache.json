@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221214-laion-5b-new-era-datasets/",
+          "author": null,
+          "description": "AIを構築する上ではアルゴリズムだけでなく訓練用のデータセットも重要であり、データセットの質によってAIの精度も大きく左右されます。高精度な画像生成AIとして話題のStable Diffusionでは、「LAION-5B」という50億以上もの画像とテキストのペアを含むデータセットを用いています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-laion-5b-new-era-datasets/",
+          "publishedOn": "2022-12-13T21:00:00.000Z",
+          "wordCount": 2526,
+          "title": "画像生成AI「Stable Diffusion」などの開発に大きな貢献を果たした超巨大データセット「LAION-5B」とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/laion-5b-new-era-datasets/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221213-internet-during-world-war/",
           "author": null,
           "description": "インターネットの前身と言われているARPANETが1969年に登場してから記事作成時点で半世紀以上が経過していますが、インターネットはまだ世界大戦を経験していません。しかし、2022年2月にウクライナへと侵攻したロシアによる核兵器使用の示唆や米中関係の悪化など、世界大戦の火種になりそうな問題は山積みになっています。もし世界大戦が勃発してしまったら、現代人の暮らしに不可欠なインターネットがどうなってしまうのかについて、専門家が解説しました。\n続きを読む...",

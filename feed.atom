@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T02:49:54.637Z</updated>
+    <updated>2022-12-13T03:21:49.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterで認証済みバッジが買える「Twitter Blue」の企業版「Blue for Business」がスタート、チェックマークは金色]]></title>
+        <id>https://gigazine.net/news/20221213-gold-checkmark/</id>
+        <link href="https://gigazine.net/news/20221213-gold-checkmark/"/>
+        <updated>2022-12-13T03:10:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏がTwitterのCEOに就任してから、Twitterのサブスクリプションサービス「Twitter Blue」で認証済みバッジ(青色のチェックマーク)を取得できるようになりました。なりすましアカウントの問題等を理由に一時販売停止していたTwitter Blueは2022年12月11日に再開が発表されましたが、それに続く12日、新たに「金色のチェックマーク」で見分ける企業向けの「Blue for Business」を発表しました。また合わせて、認証バッジの購入によるなりすましを防止するために利用規約も変更しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ついに核融合で生産エネルギーが投入分を上回る「エネルギーの純増」を確認か]]></title>
+        <id>https://gigazine.net/news/20221213-nuclear-fusion-energy-boost/</id>
+        <link href="https://gigazine.net/news/20221213-nuclear-fusion-energy-boost/"/>
+        <updated>2022-12-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのエネルギー省が運営するローレンス・リバモア国立研究所で行われたレーザー核融合実験で、投入を上回る量のエネルギーの出力を初めて確認できたとFinantial Timesが報じています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[すべてが一点物だから難しい、メルカリのパーソナライズ機能とその開発体制]]></title>
+        <id>http://codezine.jp/article/detail/16872</id>
+        <link href="http://codezine.jp/article/detail/16872"/>
+        <updated>2022-12-13T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一人ひとりお客さまのニーズに合わせてコンテンツを提供するパーソナライズ機能。メルカリのような出品数が多く、かつそのほとんどが一品モノの商品を扱っているC2Cマーケットプレイスの場合、お客さまが「欲しい」と思っている商品を一度の検索で見つけ出すのは、なかなか難しい。そこでメルカリではパーソナライズ機能を提供して、お客さま一人ひとりがニーズを満たせるよう買い物を支援している。どんなパーソナライズ機能を提供しているのか、またその開発体制はどうなっているのか。メルカリでパーソナライズ機能の開発に取り組んでいる、マシンラーニング（ML）エンジニアのalpicola氏が解説した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゆずの風味がが香るだしで1年を締めくくる「神田まつや 鶏南ばんそば」を食べてみた]]></title>
         <id>https://gigazine.net/news/20221213-nissin-chicken-soba/</id>
@@ -15,6 +47,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企業の公式バッジが青→金に　Twitter Blue再開にあわせ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news097.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news097.html"/>
+        <updated>2022-12-13T02:40:00.000Z</updated>
+        <summary type="html"><![CDATA[米Twitterは、サブスクリプションサービス「Twitter Blue」の再開にあわせ、企業の公式アカウントのバッジの色を青から金色に変更した。ITmedia NEWS含むメディアも企業と同じバッジカラーに置き換えられている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

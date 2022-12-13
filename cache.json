@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221213-gold-checkmark/",
+          "author": null,
+          "description": "イーロン・マスク氏がTwitterのCEOに就任してから、Twitterのサブスクリプションサービス「Twitter Blue」で認証済みバッジ(青色のチェックマーク)を取得できるようになりました。なりすましアカウントの問題等を理由に一時販売停止していたTwitter Blueは2022年12月11日に再開が発表されましたが、それに続く12日、新たに「金色のチェックマーク」で見分ける企業向けの「Blue for Business」を発表しました。また合わせて、認証バッジの購入によるなりすましを防止するために利用規約も変更しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-gold-checkmark/",
+          "publishedOn": "2022-12-13T03:10:00.000Z",
+          "wordCount": 2565,
+          "title": "Twitterで認証済みバッジが買える「Twitter Blue」の企業版「Blue for Business」がスタート、チェックマークは金色",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/gold-checkmark/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221213-nuclear-fusion-energy-boost/",
+          "author": null,
+          "description": "アメリカのエネルギー省が運営するローレンス・リバモア国立研究所で行われたレーザー核融合実験で、投入を上回る量のエネルギーの出力を初めて確認できたとFinantial Timesが報じています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-nuclear-fusion-energy-boost/",
+          "publishedOn": "2022-12-13T03:00:00.000Z",
+          "wordCount": 2592,
+          "title": "ついに核融合で生産エネルギーが投入分を上回る「エネルギーの純増」を確認か",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/nuclear-fusion-energy-boost/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221213-nissin-chicken-soba/",
           "author": null,
           "description": "2012年の初登場以降、8回にわたって発売されている、日清食品の「神田まつや 鶏南ばんそば」が2022年12月19日(月)から今年も全国で発売されます。今回はパッケージを一新し、ゆずの風味が香るつゆとまるでお店で食べるような食感の麺が特徴の一品とのことなので、一足先に食べてみました。\n続きを読む...",
@@ -1503,6 +1523,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16872",
+          "author": null,
+          "description": "一人ひとりお客さまのニーズに合わせてコンテンツを提供するパーソナライズ機能。メルカリのような出品数が多く、かつそのほとんどが一品モノの商品を扱っているC2Cマーケットプレイスの場合、お客さまが「欲しい」と思っている商品を一度の検索で見つけ出すのは、なかなか難しい。そこでメルカリではパーソナライズ機能を提供して、お客さま一人ひとりがニーズを満たせるよう買い物を支援している。どんなパーソナライズ機能を提供しているのか、またその開発体制はどうなっているのか。メルカリでパーソナライズ機能の開発に取り組んでいる、マシンラーニング（ML）エンジニアのalpicola氏が解説した。",
+          "link": "http://codezine.jp/article/detail/16872",
+          "publishedOn": "2022-12-13T03:00:00.000Z",
+          "wordCount": 4337,
+          "title": "すべてが一点物だから難しい、メルカリのパーソナライズ機能とその開発体制",
+          "imageUrl": "https://codezine.jp/static/images/article/16872/16872_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17009",
           "author": null,
           "description": "アルゴ式は、エンジニア派遣・SES企業と受け入れ企業間の“技術力ミスマッチによるトラブル”を未然に防ぐための、エンジニアの技術力を可視化する「アルゴ式 技術力ヘルスチェック」の開発を開始したことを、12月8日に発表した。",
@@ -2386,6 +2416,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news097.html",
+          "author": null,
+          "description": "米Twitterは、サブスクリプションサービス「Twitter Blue」の再開にあわせ、企業の公式アカウントのバッジの色を青から金色に変更した。ITmedia NEWS含むメディアも企業と同じバッジカラーに置き換えられている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news097.html",
+          "publishedOn": "2022-12-13T02:40:00.000Z",
+          "wordCount": 2613,
+          "title": "企業の公式バッジが青→金に　Twitter Blue再開にあわせ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news097.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/13/news085.html",
           "author": null,

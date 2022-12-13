@@ -2340,6 +2340,16 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/newsql_tispr.html",
+          "author": null,
+          "description": "「NewSQL」と呼ばれる、新しい世代のデータベース製品が登場してきています。 NewSQLは、現在主流となっているリレーショナルデータベース製品と同様にリレーショナルなデータ構造に対応し高度なオンライントランザクション能力を備えつつ、No...",
+          "link": "https://www.publickey1.jp/blog/22/newsql_tispr.html",
+          "publishedOn": "2022-12-13T15:27:17.000Z",
+          "wordCount": 1287,
+          "title": "NewSQLは金融システムのミッションクリティカルで高セキュリティな要件に応えられるか？ TISが評価結果を明らかに［PR］",
+          "imageUrl": "https://www.publickey1.jp/2022/tidb_tis07.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/javascriptbun_v03031npm.html",
           "author": null,
           "description": "サーバサイドで実行可能なJavaScriptランタイム「Bun」の最新バージョン「Bun v0.3.0」がリリースされました。 BunはJavaScriptランタイムとバンドラ、トランスパイラ、タスクランナーなどの機能が最初から統合されてい...",

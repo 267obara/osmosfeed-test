@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T15:17:46.810Z</updated>
+    <updated>2022-12-13T16:20:09.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NewSQLは金融システムのミッションクリティカルで高セキュリティな要件に応えられるか？ TISが評価結果を明らかに［PR］]]></title>
+        <id>https://www.publickey1.jp/blog/22/newsql_tispr.html</id>
+        <link href="https://www.publickey1.jp/blog/22/newsql_tispr.html"/>
+        <updated>2022-12-13T15:27:17.000Z</updated>
+        <summary type="html"><![CDATA[「NewSQL」と呼ばれる、新しい世代のデータベース製品が登場してきています。 NewSQLは、現在主流となっているリレーショナルデータベース製品と同様にリレーショナルなデータ構造に対応し高度なオンライントランザクション能力を備えつつ、No...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[もし世界大戦が起きたらインターネットはどうなってしまうのか？]]></title>
         <id>https://gigazine.net/news/20221213-internet-during-world-war/</id>

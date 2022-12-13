@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T21:12:38.741Z</updated>
+    <updated>2022-12-13T22:13:14.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[火星を地球のような環境にする「テラフォーミング」を行うには何が必要なのか？]]></title>
+        <id>https://gigazine.net/news/20221214-terraform-mars-laser/</id>
+        <link href="https://gigazine.net/news/20221214-terraform-mars-laser/"/>
+        <updated>2022-12-13T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[火星は地球の隣に位置する惑星であるものの、人間が生活するには適した環境ではありません。火星を地球のような環境に変化させる「テラフォーミング」の方法について、科学系YouTubeチャンネルのKurzgesagtがアニメーションで解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[画像生成AI「Stable Diffusion」などの開発に大きな貢献を果たした超巨大データセット「LAION-5B」とは？]]></title>
         <id>https://gigazine.net/news/20221214-laion-5b-new-era-datasets/</id>

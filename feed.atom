@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T11:11:38.503Z</updated>
+    <updated>2022-12-13T12:27:18.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[もし「Program Files」フォルダーをWindowsで消すと何が起きるのか？]]></title>
+        <id>https://gigazine.net/news/20221213-program-files-delete-windows/</id>
+        <link href="https://gigazine.net/news/20221213-program-files-delete-windows/"/>
+        <updated>2022-12-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[重要なシステムファイルが格納されている「Program Files」フォルダーを削除したらどうなるのかということについて実際にYouTuberのThioJoe氏が試し、その結果が共有されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セブン-イレブン、スマホが“レジ”になるアプリ展開拡大　並ばず手元で決済完了]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news177.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news177.html"/>
+        <updated>2022-12-13T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[セブン-イレブン・ジャパンは、来店者のスマートフォンで商品の決済ができるアプリ「セブンスマホレジ」の展開を、現在の12店舗から39店舗増やし、全国51店舗に拡大する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[忘年会の余興に一役？　「アイスブレイク専用質問出題ツール」Webで無料公開]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news175.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news175.html"/>
+        <updated>2022-12-13T11:33:00.000Z</updated>
+        <summary type="html"><![CDATA[企業向け研修事業などを手掛けるインバイトジャパンは、アイスブレーク用の質問をランダムに表示するツール「アイスブレイク専用質問出題ツール」を無料公開した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Discordに「プレイ済みゲーム」や「ゲームプレイ歴」などの条件でロールを割り振れる「連携ロール」が登場]]></title>
         <id>https://gigazine.net/news/20221213-discord-connections-and-linked-roles/</id>

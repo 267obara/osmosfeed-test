@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221213-program-files-delete-windows/",
+          "author": null,
+          "description": "重要なシステムファイルが格納されている「Program Files」フォルダーを削除したらどうなるのかということについて実際にYouTuberのThioJoe氏が試し、その結果が共有されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-program-files-delete-windows/",
+          "publishedOn": "2022-12-13T12:00:00.000Z",
+          "wordCount": 2548,
+          "title": "もし「Program Files」フォルダーをWindowsで消すと何が起きるのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/program-files-delete-windows/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221213-discord-connections-and-linked-roles/",
           "author": null,
           "description": "Discordは他のサービスとの連携機能が充実していて、たとえばPlayStation Networkと連携することでゲームアクティビティをプロフィール上に表示したり、Spotifyと連携することでフレンドと一緒に音楽を聴いたりすることができます。この機能がさらに拡張され、連携先サービスをどれぐらい利用しているか、サービスでどれぐらいの実績を上げているかといった情報が自動的に取得されプロフィールとして表示できるようになりました。\n続きを読む...",
@@ -2546,6 +2556,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news177.html",
+          "author": null,
+          "description": "セブン-イレブン・ジャパンは、来店者のスマートフォンで商品の決済ができるアプリ「セブンスマホレジ」の展開を、現在の12店舗から39店舗増やし、全国51店舗に拡大する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news177.html",
+          "publishedOn": "2022-12-13T11:45:00.000Z",
+          "wordCount": 2583,
+          "title": "セブン-イレブン、スマホが“レジ”になるアプリ展開拡大　並ばず手元で決済完了",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news177.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news175.html",
+          "author": null,
+          "description": "企業向け研修事業などを手掛けるインバイトジャパンは、アイスブレーク用の質問をランダムに表示するツール「アイスブレイク専用質問出題ツール」を無料公開した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news175.html",
+          "publishedOn": "2022-12-13T11:33:00.000Z",
+          "wordCount": 2598,
+          "title": "忘年会の余興に一役？　「アイスブレイク専用質問出題ツール」Webで無料公開",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news175.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/13/news172.html",
           "author": null,

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T08:18:26.674Z</updated>
+    <updated>2022-12-13T09:14:06.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD、藤井聡太五冠にPC提供　CPUは100万円超えの「Ryzen Threadripper PRO 5995WX」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news147.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news147.html"/>
+        <updated>2022-12-13T08:31:00.000Z</updated>
+        <summary type="html"><![CDATA[米AMDの日本法人であるAMD Japanは、藤井聡太五冠に「AMD Ryzen Threadripper PRO」を搭載したPCを提供したと発表した。藤井五冠は8月、同社のブランド広告に出演。自身もAMDユーザーであり、PCを使い将棋研究に取り組んでいることを明かしていた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11の「将来的に実装されても全くうれしくない機能」5つ]]></title>
         <id>https://gigazine.net/news/20221213-windows-11-not-so-great/</id>

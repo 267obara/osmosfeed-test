@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T07:12:42.492Z</updated>
+    <updated>2022-12-13T08:18:26.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11の「将来的に実装されても全くうれしくない機能」5つ]]></title>
+        <id>https://gigazine.net/news/20221213-windows-11-not-so-great/</id>
+        <link href="https://gigazine.net/news/20221213-windows-11-not-so-great/"/>
+        <updated>2022-12-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Windows関連ニュースサイトのNeowinが、Windows 11の新機能を一足先に体験できるWindows Insider ProgramのDev Channelでプレビュービルドを体験した上で、Windows 11に搭載されるであろう新機能の中で「実装されても全くうれしくない機能」5つをピックアップしています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コラボレーションツール「Notion」の料金プランが改訂、「フリープラン」拡充およびチーム向けの新プランが追加]]></title>
+        <id>http://codezine.jp/article/detail/17019</id>
+        <link href="http://codezine.jp/article/detail/17019"/>
+        <updated>2022-12-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Notionは、コラボレーションツール「Notion」の新料金プランを12月8日に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleのティム・クックCEO、ソニーのイメージセンサー製造現場を訪問]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news138.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news138.html"/>
+        <updated>2022-12-13T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーグループは、イメージセンサーの製造などを行うソニーセミコンダクタソリューションズ熊本テクノロジーセンターを米Appleのティム・クックCEOが訪問したと発表した]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft幹部が「Activision Blizzard買収の主要な反対者はソニーだ」「Call of Dutyにしがみついている」と発言]]></title>
         <id>https://gigazine.net/news/20221213-phil-spencer-sony-xbox/</id>

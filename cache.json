@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221213-windows-11-not-so-great/",
+          "author": null,
+          "description": "Windows関連ニュースサイトのNeowinが、Windows 11の新機能を一足先に体験できるWindows Insider ProgramのDev Channelでプレビュービルドを体験した上で、Windows 11に搭載されるであろう新機能の中で「実装されても全くうれしくない機能」5つをピックアップしています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-windows-11-not-so-great/",
+          "publishedOn": "2022-12-13T08:00:00.000Z",
+          "wordCount": 2523,
+          "title": "Windows 11の「将来的に実装されても全くうれしくない機能」5つ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/windows-11-not-so-great/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221213-phil-spencer-sony-xbox/",
           "author": null,
           "description": "MicrosoftでXbox事業の責任者を務めるフィル・スペンサー氏がポッドキャストで放送されたインタビュー番組で、MicrosoftによるActivision Blizzardの買収に対してソニーが最も強く反対していると述べた上で、「彼らはXboxを縮小させることで成長しようとしている」と発言したことが分かりました。\n続きを読む...",
@@ -1583,6 +1593,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17019",
+          "author": null,
+          "description": "米Notionは、コラボレーションツール「Notion」の新料金プランを12月8日に発表した。",
+          "link": "http://codezine.jp/article/detail/17019",
+          "publishedOn": "2022-12-13T08:00:00.000Z",
+          "wordCount": 4282,
+          "title": "コラボレーションツール「Notion」の料金プランが改訂、「フリープラン」拡充およびチーム向けの新プランが追加",
+          "imageUrl": "https://codezine.jp/static/images/article/17019/13231_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17016",
           "author": null,
           "description": "米Googleは、クロスプラットフォームのUIツールキット「Flutter」の、2022年第3四半期調査の結果を12月9日（現地時間）に発表した。この調査は四半期ごとに実施しているもので、今回は主にFirebase SDK for Flutter、クイック・フィックスとリファクタリング、開発ターゲットについて開発者に尋ねた。",
@@ -2496,6 +2516,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news138.html",
+          "author": null,
+          "description": "ソニーグループは、イメージセンサーの製造などを行うソニーセミコンダクタソリューションズ熊本テクノロジーセンターを米Appleのティム・クックCEOが訪問したと発表した",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news138.html",
+          "publishedOn": "2022-12-13T07:15:00.000Z",
+          "wordCount": 2597,
+          "title": "Appleのティム・クックCEO、ソニーのイメージセンサー製造現場を訪問",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news138.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/13/news120.html",
           "author": null,

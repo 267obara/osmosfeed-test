@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221214-steam-deck-nintendo-switch/",
+          "author": null,
+          "description": "ゲーム配信プラットフォーム「Steam」の全機能を搭載した携帯型ゲーミングPC「Steam Deck」の日本を含めたアジアへの出荷が2022年12月17日に開始します。一足先にSteam Deckを触る機会を得られたので、Steam Deckと似た形状で液晶ディスプレイを搭載した携帯型ゲーム機のNintendo Switchと並べて、その見た目や持ち心地を比べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-steam-deck-nintendo-switch/",
+          "publishedOn": "2022-12-13T23:00:00.000Z",
+          "wordCount": 2550,
+          "title": "いつでもどこでもPCゲームが遊びまくれるモバイルゲーミングPC「Steam Deck」をNintendo Switchと比べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/steam-deck-nintendo-switch/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221214-terraform-mars-laser/",
           "author": null,
           "description": "火星は地球の隣に位置する惑星であるものの、人間が生活するには適した環境ではありません。火星を地球のような環境に変化させる「テラフォーミング」の方法について、科学系YouTubeチャンネルのKurzgesagtがアニメーションで解説しています。\n続きを読む...",
@@ -1673,6 +1683,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17018",
+          "author": null,
+          "description": "オープンソースのプログラミング言語であるPHPの開発チームは、最新バージョンとなる「PHP 8.2.0」を12月8日（現地時間）にリリースした。",
+          "link": "http://codezine.jp/article/detail/17018",
+          "publishedOn": "2022-12-13T23:00:00.000Z",
+          "wordCount": 4286,
+          "title": "プログラミング言語「PHP 8.2.0」がリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/17018/13268_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17023",
+          "author": null,
+          "description": "米Microsoftは、コードエディタ「Visual Studio Code」の2022年11月版（バージョン1.74）を12月7日（現地時間）に公開した。Visual Studio Codeは、MITライセンスで公開しているオープンソース・ソフトウェア。",
+          "link": "http://codezine.jp/article/detail/17023",
+          "publishedOn": "2022-12-13T23:00:00.000Z",
+          "wordCount": 4310,
+          "title": "Microsoft、「Visual Studio Code」にてSSH不要で安全な接続を確立する機能をプレビュー提供",
+          "imageUrl": "https://codezine.jp/static/images/article/17023/13201_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17019",
           "author": null,
           "description": "米Notionは、コラボレーションツール「Notion」の新料金プランを12月8日に発表した。",
@@ -2606,6 +2636,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news004.html",
+          "author": null,
+          "description": "今回は「将棋ウォーズ」をはじめとする、将棋関連のゲームやプラットフォームを開発するAI開発企業、HEROZに、バックオフィスで活用しているSaaSについて聞いた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news004.html",
+          "publishedOn": "2022-12-13T22:00:00.000Z",
+          "wordCount": 2610,
+          "title": "HEROZ編：将棋AI開発の上場企業はどんなバックオフィスSaaSを使っている？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news004.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/13/news177.html",
           "author": null,

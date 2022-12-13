@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T22:13:14.746Z</updated>
+    <updated>2022-12-13T23:14:22.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[いつでもどこでもPCゲームが遊びまくれるモバイルゲーミングPC「Steam Deck」をNintendo Switchと比べてみた]]></title>
+        <id>https://gigazine.net/news/20221214-steam-deck-nintendo-switch/</id>
+        <link href="https://gigazine.net/news/20221214-steam-deck-nintendo-switch/"/>
+        <updated>2022-12-13T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム配信プラットフォーム「Steam」の全機能を搭載した携帯型ゲーミングPC「Steam Deck」の日本を含めたアジアへの出荷が2022年12月17日に開始します。一足先にSteam Deckを触る機会を得られたので、Steam Deckと似た形状で液晶ディスプレイを搭載した携帯型ゲーム機のNintendo Switchと並べて、その見た目や持ち心地を比べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログラミング言語「PHP 8.2.0」がリリース]]></title>
+        <id>http://codezine.jp/article/detail/17018</id>
+        <link href="http://codezine.jp/article/detail/17018"/>
+        <updated>2022-12-13T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースのプログラミング言語であるPHPの開発チームは、最新バージョンとなる「PHP 8.2.0」を12月8日（現地時間）にリリースした。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、「Visual Studio Code」にてSSH不要で安全な接続を確立する機能をプレビュー提供]]></title>
+        <id>http://codezine.jp/article/detail/17023</id>
+        <link href="http://codezine.jp/article/detail/17023"/>
+        <updated>2022-12-13T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは、コードエディタ「Visual Studio Code」の2022年11月版（バージョン1.74）を12月7日（現地時間）に公開した。Visual Studio Codeは、MITライセンスで公開しているオープンソース・ソフトウェア。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[火星を地球のような環境にする「テラフォーミング」を行うには何が必要なのか？]]></title>
         <id>https://gigazine.net/news/20221214-terraform-mars-laser/</id>
@@ -15,6 +46,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HEROZ編：将棋AI開発の上場企業はどんなバックオフィスSaaSを使っている？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/14/news004.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news004.html"/>
+        <updated>2022-12-13T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回は「将棋ウォーズ」をはじめとする、将棋関連のゲームやプラットフォームを開発するAI開発企業、HEROZに、バックオフィスで活用しているSaaSについて聞いた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

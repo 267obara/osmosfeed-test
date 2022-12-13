@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T13:21:50.039Z</updated>
+    <updated>2022-12-13T14:13:25.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[もし世界大戦が起きたらインターネットはどうなってしまうのか？]]></title>
+        <id>https://gigazine.net/news/20221213-internet-during-world-war/</id>
+        <link href="https://gigazine.net/news/20221213-internet-during-world-war/"/>
+        <updated>2022-12-13T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[インターネットの前身と言われているARPANETが1969年に登場してから記事作成時点で半世紀以上が経過していますが、インターネットはまだ世界大戦を経験していません。しかし、2022年2月にウクライナへと侵攻したロシアによる核兵器使用の示唆や米中関係の悪化など、世界大戦の火種になりそうな問題は山積みになっています。もし世界大戦が勃発してしまったら、現代人の暮らしに不可欠なインターネットがどうなってしまうのかについて、専門家が解説しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ほうじ茶アイスとバタースカッチアイスの層でさらにリッチになったハーゲンダッツ「ジャポネ オペラ～ほうじ茶仕立て～」を食べてみた]]></title>
         <id>https://gigazine.net/news/20221213-haagen-dazs-japonais-opera-hojicha/</id>

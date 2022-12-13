@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221213-amd-radeon-rx-7900-benchmark/",
+          "author": null,
+          "description": "AMDから2022年12月13日(火)に次世代GPUアーキテクチャ「RDNA 3」を採用したGPU「Radeon RX 7900 XTX」と「Radeon RX 7900 XT」が発売され、すでにRadeon RX 7900シリーズを入手した海外メディアがそのベンチマーク結果や使用感を報告しています。また、Radeon RX 7900 XTXのライバルとなるNVIDIAの「GeForce RTX 4080」などのGPUとの比較も行われています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-amd-radeon-rx-7900-benchmark/",
+          "publishedOn": "2022-12-13T10:00:00.000Z",
+          "wordCount": 2648,
+          "title": "AMD製GPU「Radeon RX 7900」シリーズのベンチマークの海外レビューまとめ、NVIDIA純正GPUの「GeForce RTX 4080」と比較した結果とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/amd-radeon-rx-7900-benchmark/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221213-headline/",
+          "author": null,
+          "description": "2023年に劇場公開される劇場版「グリッドマン ユニバース」に先駆けて、劇場総集編「SSSS.GRIDMAN」と劇場総集編「SSSS.DYNAZENON」が劇場公開されることが発表されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-headline/",
+          "publishedOn": "2022-12-13T09:30:00.000Z",
+          "wordCount": 7277,
+          "title": "2022年12月13日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221213-windows-11-not-so-great/",
           "author": null,
           "description": "Windows関連ニュースサイトのNeowinが、Windows 11の新機能を一足先に体験できるWindows Insider ProgramのDev Channelでプレビュービルドを体験した上で、Windows 11に搭載されるであろう新機能の中で「実装されても全くうれしくない機能」5つをピックアップしています。\n続きを読む...",
@@ -2516,6 +2536,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news151.html",
+          "author": null,
+          "description": "freeeが、インボイス制度に対応した請求書を作成できるサービス「freee請求書」の提供を始めた。これまでの請求書よりも記載内容が多いインボイス（適格請求書）に対応すると同時に、改正電子帳簿保存法への対策にもなるとしている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news151.html",
+          "publishedOn": "2022-12-13T09:00:00.000Z",
+          "wordCount": 2587,
+          "title": "無料でインボイス請求書を作れる「freee請求書」スタート　電帳法にも一括対応",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news151.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/13/news147.html",
           "author": null,

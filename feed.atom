@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T09:14:06.514Z</updated>
+    <updated>2022-12-13T10:15:14.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD製GPU「Radeon RX 7900」シリーズのベンチマークの海外レビューまとめ、NVIDIA純正GPUの「GeForce RTX 4080」と比較した結果とは？]]></title>
+        <id>https://gigazine.net/news/20221213-amd-radeon-rx-7900-benchmark/</id>
+        <link href="https://gigazine.net/news/20221213-amd-radeon-rx-7900-benchmark/"/>
+        <updated>2022-12-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AMDから2022年12月13日(火)に次世代GPUアーキテクチャ「RDNA 3」を採用したGPU「Radeon RX 7900 XTX」と「Radeon RX 7900 XT」が発売され、すでにRadeon RX 7900シリーズを入手した海外メディアがそのベンチマーク結果や使用感を報告しています。また、Radeon RX 7900 XTXのライバルとなるNVIDIAの「GeForce RTX 4080」などのGPUとの比較も行われています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年12月13日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221213-headline/</id>
+        <link href="https://gigazine.net/news/20221213-headline/"/>
+        <updated>2022-12-13T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年に劇場公開される劇場版「グリッドマン ユニバース」に先駆けて、劇場総集編「SSSS.GRIDMAN」と劇場総集編「SSSS.DYNAZENON」が劇場公開されることが発表されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料でインボイス請求書を作れる「freee請求書」スタート　電帳法にも一括対応]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news151.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news151.html"/>
+        <updated>2022-12-13T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[freeeが、インボイス制度に対応した請求書を作成できるサービス「freee請求書」の提供を始めた。これまでの請求書よりも記載内容が多いインボイス（適格請求書）に対応すると同時に、改正電子帳簿保存法への対策にもなるとしている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD、藤井聡太五冠にPC提供　CPUは100万円超えの「Ryzen Threadripper PRO 5995WX」]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/13/news147.html</id>

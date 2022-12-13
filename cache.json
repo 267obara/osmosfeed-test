@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221213-weighted-blanket-boost-sleep-hormone-melatonin/",
+          "author": null,
+          "description": "近年は「重い毛布(加重ブランケット)をかけて寝ると睡眠が改善する」という研究結果が注目を浴びたことを受けて、寝具メーカーは快眠効果をアピールする重い毛布を販売しており、実際に使う毛布を軽いものから重いものに変えたという人もいるはず。新たにスウェーデン・ウプサラ大学の研究チームが行った実験では、重い毛布で寝ると睡眠ホルモン「メラトニン」の分泌量が増えるという結果が示されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-weighted-blanket-boost-sleep-hormone-melatonin/",
+          "publishedOn": "2022-12-13T05:00:00.000Z",
+          "wordCount": 2538,
+          "title": "「重い毛布」を使うと睡眠ホルモンの分泌がブーストされる可能性",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/weighted-blanket-boost-sleep-hormone-melatonin/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221213-binance-justice-dept-investigation/",
           "author": null,
           "description": "2018年から仮想通貨取引所のBinanceをマネーロンダリングや脱税、制裁違反の疑いで調査しているアメリカ司法省の一部の検察官が、Binanceやその幹部を起訴するに足る証拠があると考えていることが分かりました。しかしながら、証拠は十分だと考える検察官と多くの証拠を検討したい検察官の間で意見が分かれていると伝えられています。\n続きを読む...",
@@ -2446,6 +2456,46 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news120.html",
+          "author": null,
+          "description": "読売テレビは、同社番組スタッフが映像素材の入った記録媒体を紛失したと発表した。番組スタッフは電車内で居眠りをしており、その間に盗難に遭った可能性が高いとしている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news120.html",
+          "publishedOn": "2022-12-13T04:46:00.000Z",
+          "wordCount": 2595,
+          "title": "読売テレビ、記録媒体を紛失　番組スタッフが電車で居眠り、その間に盗難か　放送前の映像素材などを収録",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news120.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news118.html",
+          "author": null,
+          "description": "企業はDX（デジタルトランスフォーメーション）人材の育成にどれだけコストをかけているのか──2位は「50万円以上～100万円未満」。1位は？",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news118.html",
+          "publishedOn": "2022-12-13T04:33:00.000Z",
+          "wordCount": 2593,
+          "title": "DX人材育成にかける予算、2位は「1人当たり50万円以上～100万円未満」　1位は？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news118.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news113.html",
+          "author": null,
+          "description": "シャープは13日、VR／AR市場への参入を検討していることを明らかにした。23年1月の「CES 2023」で「超軽量」をうたうVR用ヘッドマウントディスプレイ試作機を公開する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news113.html",
+          "publishedOn": "2022-12-13T04:09:00.000Z",
+          "wordCount": 2609,
+          "title": "シャープ、VR市場参入か　超軽量ヘッドマウントディスプレイ試作機を1月に公開",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news113.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news111.html",
+          "author": null,
+          "description": "兵庫県尼崎市で発生した個人情報入りUSBメモリの紛失事案を巡り、BIPROGYが、社長をはじめ3人の役員が報酬を自主返納すると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news111.html",
+          "publishedOn": "2022-12-13T03:55:00.000Z",
+          "wordCount": 2585,
+          "title": "BIPROGY役員が報酬を自主返納　尼崎USBメモリ紛失で",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news111.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/13/news106.html",
           "author": null,

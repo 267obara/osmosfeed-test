@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T05:12:53.255Z</updated>
+    <updated>2022-12-13T06:18:19.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterの広告主向けツールのアクセス数が前年比85％減を記録]]></title>
+        <id>https://gigazine.net/news/20221213-twitter-advertising-truth-hurts/</id>
+        <link href="https://gigazine.net/news/20221213-twitter-advertising-truth-hurts/"/>
+        <updated>2022-12-13T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏がTwitterを買収して以来、Twitterから広告主が離れていることがたびたび報じられており、マスク氏自身もTwitterから広告主が離れていることを認めています。そんなTwitterでどれくらい広告主が減少しているのかを示す新たな数字が明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「重い毛布」を使うと睡眠ホルモンの分泌がブーストされる可能性]]></title>
         <id>https://gigazine.net/news/20221213-weighted-blanket-boost-sleep-hormone-melatonin/</id>

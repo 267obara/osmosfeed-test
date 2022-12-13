@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-13T10:15:14.121Z</updated>
+    <updated>2022-12-13T11:11:38.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Discordに「プレイ済みゲーム」や「ゲームプレイ歴」などの条件でロールを割り振れる「連携ロール」が登場]]></title>
+        <id>https://gigazine.net/news/20221213-discord-connections-and-linked-roles/</id>
+        <link href="https://gigazine.net/news/20221213-discord-connections-and-linked-roles/"/>
+        <updated>2022-12-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Discordは他のサービスとの連携機能が充実していて、たとえばPlayStation Networkと連携することでゲームアクティビティをプロフィール上に表示したり、Spotifyと連携することでフレンドと一緒に音楽を聴いたりすることができます。この機能がさらに拡張され、連携先サービスをどれぐらい利用しているか、サービスでどれぐらいの実績を上げているかといった情報が自動的に取得されプロフィールとして表示できるようになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年の電気代、年間で〇円上がっていた]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news172.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news172.html"/>
+        <updated>2022-12-13T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[今回のトピックは「2022年の電気代」。今年は右肩上がりの上昇となり、値上がりを実感している方も多いはずです。では、2022年の1年間に支払う電気料金は、2021年と比べてどのくらい上がっているのでしょう。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼崎市でまた紛失　今度はスマホ　気付いて4日間報告せず　「職場にあると勘違い」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news170.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news170.html"/>
+        <updated>2022-12-13T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[尼崎市は、同市の職員が個人情報入りの公用スマートフォンを紛失したと発表した。スマホには市民の電話番号2件やLINEの連絡先50件程度、講座やイベントの写真・動画複数件入っていたという。13日時点でスマホはまだ見つかっていない。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年最後の天体ショー「ふたご座流星群」は14日が見頃　関東中心に「バッチリ見える」　ライブ配信も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news161.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news161.html"/>
+        <updated>2022-12-13T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[13日の夜から15日未明にかけ、三大流星群のひとつ「ふたご座流星群」が見頃を迎える。ウェザーニュースによると、東日本や西日本の太平洋側では雲が少なく、晴れて「流星観測には好条件」。関東を中心に「バッチリ見える」という。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「刀剣乱舞ONLINE」が位置情報ゲームに　「とうらぶGO」「野生の刀剣男子」トレンド入り]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news159.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news159.html"/>
+        <updated>2022-12-13T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[オンラインゲーム「刀剣乱舞ONLINE」を運営するEXNOAは3日、スマートフォンアプリ版に「散歩」機能を実装。突然の機能追加にファンがざわついた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD製GPU「Radeon RX 7900」シリーズのベンチマークの海外レビューまとめ、NVIDIA純正GPUの「GeForce RTX 4080」と比較した結果とは？]]></title>
         <id>https://gigazine.net/news/20221213-amd-radeon-rx-7900-benchmark/</id>
@@ -15,6 +66,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JR東、ネット銀行に参入　2024年春にスタート　ATMの現金引き出し手数料無料]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news162.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news162.html"/>
+        <updated>2022-12-13T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本は、同社子会社のビューカードとともに、デジタル金融サービス「JRE BANK」を2024年春に開始すると発表した。資産を増やすという金融サービスの価値に加え、JR東日本グループの事業領域を生かした特典の提供などを予定している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GMOあおぞら銀行、Pay-easy対応で税や社会保険料支払いを行いやすく]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/13/news158.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news158.html"/>
+        <updated>2022-12-13T09:47:00.000Z</updated>
+        <summary type="html"><![CDATA[GMOあおぞら銀行は12月13日、要望の多かった「Pay-easy（ペイジー）」へ2023年1月16日から対応すると発表した。まずは国庫金納付と社会保険料支払いに対応する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221213-discord-connections-and-linked-roles/",
+          "author": null,
+          "description": "Discordは他のサービスとの連携機能が充実していて、たとえばPlayStation Networkと連携することでゲームアクティビティをプロフィール上に表示したり、Spotifyと連携することでフレンドと一緒に音楽を聴いたりすることができます。この機能がさらに拡張され、連携先サービスをどれぐらい利用しているか、サービスでどれぐらいの実績を上げているかといった情報が自動的に取得されプロフィールとして表示できるようになりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-discord-connections-and-linked-roles/",
+          "publishedOn": "2022-12-13T11:00:00.000Z",
+          "wordCount": 2505,
+          "title": "Discordに「プレイ済みゲーム」や「ゲームプレイ歴」などの条件でロールを割り振れる「連携ロール」が登場",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/discord-connections-and-linked-roles/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221213-amd-radeon-rx-7900-benchmark/",
           "author": null,
           "description": "AMDから2022年12月13日(火)に次世代GPUアーキテクチャ「RDNA 3」を採用したGPU「Radeon RX 7900 XTX」と「Radeon RX 7900 XT」が発売され、すでにRadeon RX 7900シリーズを入手した海外メディアがそのベンチマーク結果や使用感を報告しています。また、Radeon RX 7900 XTXのライバルとなるNVIDIAの「GeForce RTX 4080」などのGPUとの比較も行われています。\n続きを読む...",
@@ -2536,6 +2546,66 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news172.html",
+          "author": null,
+          "description": "今回のトピックは「2022年の電気代」。今年は右肩上がりの上昇となり、値上がりを実感している方も多いはずです。では、2022年の1年間に支払う電気料金は、2021年と比べてどのくらい上がっているのでしょう。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news172.html",
+          "publishedOn": "2022-12-13T10:50:00.000Z",
+          "wordCount": 2337,
+          "title": "今年の電気代、年間で〇円上がっていた",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news172.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news170.html",
+          "author": null,
+          "description": "尼崎市は、同市の職員が個人情報入りの公用スマートフォンを紛失したと発表した。スマホには市民の電話番号2件やLINEの連絡先50件程度、講座やイベントの写真・動画複数件入っていたという。13日時点でスマホはまだ見つかっていない。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news170.html",
+          "publishedOn": "2022-12-13T10:40:00.000Z",
+          "wordCount": 2591,
+          "title": "尼崎市でまた紛失　今度はスマホ　気付いて4日間報告せず　「職場にあると勘違い」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news170.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news161.html",
+          "author": null,
+          "description": "13日の夜から15日未明にかけ、三大流星群のひとつ「ふたご座流星群」が見頃を迎える。ウェザーニュースによると、東日本や西日本の太平洋側では雲が少なく、晴れて「流星観測には好条件」。関東を中心に「バッチリ見える」という。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news161.html",
+          "publishedOn": "2022-12-13T10:15:00.000Z",
+          "wordCount": 2336,
+          "title": "今年最後の天体ショー「ふたご座流星群」は14日が見頃　関東中心に「バッチリ見える」　ライブ配信も",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news161.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news159.html",
+          "author": null,
+          "description": "オンラインゲーム「刀剣乱舞ONLINE」を運営するEXNOAは3日、スマートフォンアプリ版に「散歩」機能を実装。突然の機能追加にファンがざわついた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news159.html",
+          "publishedOn": "2022-12-13T10:10:00.000Z",
+          "wordCount": 2349,
+          "title": "「刀剣乱舞ONLINE」が位置情報ゲームに　「とうらぶGO」「野生の刀剣男子」トレンド入り",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news159.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news162.html",
+          "author": null,
+          "description": "JR東日本は、同社子会社のビューカードとともに、デジタル金融サービス「JRE BANK」を2024年春に開始すると発表した。資産を増やすという金融サービスの価値に加え、JR東日本グループの事業領域を生かした特典の提供などを予定している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news162.html",
+          "publishedOn": "2022-12-13T09:50:00.000Z",
+          "wordCount": 2597,
+          "title": "JR東、ネット銀行に参入　2024年春にスタート　ATMの現金引き出し手数料無料",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news162.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news158.html",
+          "author": null,
+          "description": "GMOあおぞら銀行は12月13日、要望の多かった「Pay-easy（ペイジー）」へ2023年1月16日から対応すると発表した。まずは国庫金納付と社会保険料支払いに対応する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news158.html",
+          "publishedOn": "2022-12-13T09:47:00.000Z",
+          "wordCount": 2589,
+          "title": "GMOあおぞら銀行、Pay-easy対応で税や社会保険料支払いを行いやすく",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news158.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/13/news151.html",
           "author": null,

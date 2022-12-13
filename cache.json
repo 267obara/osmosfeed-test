@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221213-nissin-chicken-soba/",
+          "author": null,
+          "description": "2012年の初登場以降、8回にわたって発売されている、日清食品の「神田まつや 鶏南ばんそば」が2022年12月19日(月)から今年も全国で発売されます。今回はパッケージを一新し、ゆずの風味が香るつゆとまるでお店で食べるような食感の麺が特徴の一品とのことなので、一足先に食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-nissin-chicken-soba/",
+          "publishedOn": "2022-12-13T02:45:00.000Z",
+          "wordCount": 2514,
+          "title": "ゆずの風味がが香るだしで1年を締めくくる「神田まつや 鶏南ばんそば」を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/nissin-chicken-soba/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221213-raspberry-pi-inventory-improving/",
+          "author": null,
+          "description": "Raspberry Pi財団の創設者であるエベン・アプトン氏が、Raspberry Piの供給が改善しており、在庫状況が2023年第3四半期末までに新型コロナウイルス感染症のパンデミック前にまで復調するとの見通しを発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-raspberry-pi-inventory-improving/",
+          "publishedOn": "2022-12-13T02:00:00.000Z",
+          "wordCount": 2565,
+          "title": "Raspberry Piの在庫が2023年中に新型コロナ前まで回復するとRaspberry Pi財団、半導体不足に解消の兆し",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/raspberry-pi-inventory-improving/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221213-elon-musk-twitter-remove-legacy-verifications/",
+          "author": null,
+          "description": "Twitterがアカウント横に青色チェックマークで表示される認証済みバッジが購入できる新しい「Twitter Blue」を再リリースしました。これに伴い、「数カ月以内に旧来の認証済みバッジを削除する」とTwitterのイーロン・マスクCEOが発言しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221213-elon-musk-twitter-remove-legacy-verifications/",
+          "publishedOn": "2022-12-13T01:31:00.000Z",
+          "wordCount": 2571,
+          "title": "Twitterの旧式認証済みバッジを数カ月以内に削除するとイーロン・マスクが発言",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/13/elon-musk-twitter-remove-legacy-verifications/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221213-teradoga/",
           "author": null,
           "description": "YouTubeやTikTokなどの普及により動画は多くの人にとって身近なものとなりましたが、プロダクトの製品紹介を動画で行ったり、何かしらのやり方を伝えるためのハウツー動画を作ったりするには、高度な編集テクニックと高価な編集ソフトが必要になります。しかし、無料で使える「テラドーガ」なら、専用ソフトのインストールなしでブラウザから動画に説明文やリンクを追加して、インタラクティブ動画を作成することが可能です。テラドーガを使って作成できるインタラクティブ動画とは一体どんなものなのかを確かめるべく、実際に使ってみました。\n続きを読む...",
@@ -2356,6 +2386,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news085.html",
+          "author": null,
+          "description": "投資の運用益が非課税になるNISA（少額投資非課税制度）について、政府与党は投資額、上限枠ともに拡大する方向で最終調整に入った。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news085.html",
+          "publishedOn": "2022-12-13T01:40:00.000Z",
+          "wordCount": 2591,
+          "title": "NISA制度拡大へ　つみたてNISAは3倍の120万円、一般NISAは2倍で最終調整",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news085.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news089.html",
+          "author": null,
+          "description": "TwitterのマスクCEOは、Twitter Blueの更新で混在している2種類の青バッジのうち、従来の認証バッジは数カ月中に削除するとツイートした。「従来のバッジ提供方法は腐っていて無意味だった」とも。また、新たな青いチェックマークを取得するには幾つかの要件が追加された。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news089.html",
+          "publishedOn": "2022-12-13T01:11:00.000Z",
+          "wordCount": 2611,
+          "title": "TwitterのマスクCEO、「認証としての青バッジは数カ月中に削除する」とツイート",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news089.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/13/news081.html",
           "author": null,

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T10:14:54.420Z</updated>
+    <updated>2022-12-14T11:11:39.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「核融合」は一体どんな反応なのか？次世代のクリーンエネルギーとして期待される理由とは]]></title>
+        <id>https://gigazine.net/news/20221214-what-is-nuclear-fusion/</id>
+        <link href="https://gigazine.net/news/20221214-what-is-nuclear-fusion/"/>
+        <updated>2022-12-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[核分裂とは異なり放射性廃棄物をほとんど排出せず、温室効果ガスも排出しないという特性を持っているのが「核融合」です。この核融合とは一体どんな反応なのかを、科学系メディアのLiveScienceが解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VTuber「Yugo Asuma」、退所を事後報告　にじさんじ運営「配信内外で容認できない点多々あった」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/14/news170.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news170.html"/>
+        <updated>2022-12-14T10:35:00.000Z</updated>
+        <summary type="html"><![CDATA[バーチャルYouTuber（VTuber）事務所「にじさんじ」や「NIJISANJI EN」を運営するANYCOLORは、NIJISANJI ENに所属するVTuberのYugo Asuma（遊間ユーゴ ）さんが14日をもって退所したと明かした。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPTで生成された文章がすぐわかるように透かしを入れる試み]]></title>
         <id>https://gigazine.net/news/20221214-chat-gpt-watermark/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雪の日にエアコンが止まった　故障ではなく○の可能性]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/14/news167.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news167.html"/>
+        <updated>2022-12-14T10:05:00.000Z</updated>
+        <summary type="html"><![CDATA[今回のトピックは「雪の日のトラブル」です。富士通ゼネラルによると、雪が降った日の問い合わせは「実は故障でないことも多い」そう。ユーザー側に予備知識があれば慌てずに対処できます。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

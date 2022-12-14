@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T11:11:39.537Z</updated>
+    <updated>2022-12-14T12:27:22.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[発売初日に16万本売れた伝説的コロニー建設シム「Dwarf Fortress」の開発者兄弟を直撃したインタビューが公開中]]></title>
+        <id>https://gigazine.net/news/20221214-dwarf-fortress-indie-game/</id>
+        <link href="https://gigazine.net/news/20221214-dwarf-fortress-indie-game/"/>
+        <updated>2022-12-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年12月6日にSteamとItch.ioでリリースされた「Dwarf Fortress」は、2002年にフリーウェアとして最初に公開され、20年の歳月を経て有料版が発売されるやいなや1日で16万本、1週間を待たずに30万本が売れた人気シミュレーションゲームです。そんなDwarf Fortressをたった2人で開発した兄弟のトーン・アダムズ氏とザック・アダムズ氏に、パソコンゲーム専門ニュースメディアのPC Gamerがインタビューを行いました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleで「えきねっと」検索するとトップに偽サイト　現在は非表示　JR東の対応は]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/14/news169.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news169.html"/>
+        <updated>2022-12-14T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本の切符予約サービス「えきねっと」をGoogle検索で調べると偽のサイトが表示される──。そんな投稿がTwitterで12月11日から12日未明にかけて相次いだ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「核融合」は一体どんな反応なのか？次世代のクリーンエネルギーとして期待される理由とは]]></title>
         <id>https://gigazine.net/news/20221214-what-is-nuclear-fusion/</id>

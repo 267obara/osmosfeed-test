@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221214-dwarf-fortress-indie-game/",
+          "author": null,
+          "description": "2022年12月6日にSteamとItch.ioでリリースされた「Dwarf Fortress」は、2002年にフリーウェアとして最初に公開され、20年の歳月を経て有料版が発売されるやいなや1日で16万本、1週間を待たずに30万本が売れた人気シミュレーションゲームです。そんなDwarf Fortressをたった2人で開発した兄弟のトーン・アダムズ氏とザック・アダムズ氏に、パソコンゲーム専門ニュースメディアのPC Gamerがインタビューを行いました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-dwarf-fortress-indie-game/",
+          "publishedOn": "2022-12-14T12:00:00.000Z",
+          "wordCount": 2639,
+          "title": "発売初日に16万本売れた伝説的コロニー建設シム「Dwarf Fortress」の開発者兄弟を直撃したインタビューが公開中",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/dwarf-fortress-indie-game/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221214-what-is-nuclear-fusion/",
           "author": null,
           "description": "核分裂とは異なり放射性廃棄物をほとんど排出せず、温室効果ガスも排出しないという特性を持っているのが「核融合」です。この核融合とは一体どんな反応なのかを、科学系メディアのLiveScienceが解説しています。\n続きを読む...",
@@ -2926,6 +2936,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news169.html",
+          "author": null,
+          "description": "JR東日本の切符予約サービス「えきねっと」をGoogle検索で調べると偽のサイトが表示される──。そんな投稿がTwitterで12月11日から12日未明にかけて相次いだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news169.html",
+          "publishedOn": "2022-12-14T11:30:00.000Z",
+          "wordCount": 2587,
+          "title": "Googleで「えきねっと」検索するとトップに偽サイト　現在は非表示　JR東の対応は",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news169.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/14/news170.html",
           "author": null,

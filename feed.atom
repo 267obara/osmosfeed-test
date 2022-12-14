@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T22:12:37.976Z</updated>
+    <updated>2022-12-14T23:14:07.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Steam公式携帯ゲーミングPC「Steam Deck」セットアップ編、LinuxベースOS搭載でUIはこんな感じ]]></title>
+        <id>https://gigazine.net/news/20221215-steam-deck-setup/</id>
+        <link href="https://gigazine.net/news/20221215-steam-deck-setup/"/>
+        <updated>2022-12-14T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Valveが開発する「Steam Deck」はLinuxベースのSteamOSを搭載したモバイルゲーミングPCで、ゲーム配信プラットフォーム「Steam」を使っていつでもどこでもPCゲームが遊べるというのが特徴。そんなSteam Deckの日本を含めたアジアへの出荷が2022年12月17日に開始しますが、一足先にSteam Deckを触る機会を得られたので、まずは遊ぶためにいろいろとセットアップをしてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter、ドーシー前CEOの初投稿翌日にニュースレターサービスRevue終了を発表]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news079.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news079.html"/>
+        <updated>2022-12-14T22:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitter傘下のニュースレター配信Revueはサービスを来年1月18日に終了すると発表した。この発表は、マスク現CEOが展開する#Twitter Filesを批判する投稿をドーシー前CEOが行った約17時間後だった。すべての投稿は終了と同時に削除される。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テスラに対して完全自動運転機能対応ハードウェアへの更新を無償で行うよう判決が下る]]></title>
         <id>https://gigazine.net/news/20221215-tesla-ordered-to-upgrade-self-driving-feature-for-free-due/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国で「日本のガソリン車」が再評価、中古市場拡大でリセールバリューに注目]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news038.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news038.html"/>
+        <updated>2022-12-14T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国汽車工業協会が発表した1～11月の自動車販売台数によると、EVなど新エネルギー車の販売台数は600万台を突破。11月単月では新エネ車の販売比率は33.8％に達する。一方、中国の中古車市場の整備が進んでおり、残価率の高さから日本メーカーのガソリン車が再評価されている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

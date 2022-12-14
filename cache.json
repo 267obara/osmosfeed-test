@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-steam-deck-setup/",
+          "author": null,
+          "description": "Valveが開発する「Steam Deck」はLinuxベースのSteamOSを搭載したモバイルゲーミングPCで、ゲーム配信プラットフォーム「Steam」を使っていつでもどこでもPCゲームが遊べるというのが特徴。そんなSteam Deckの日本を含めたアジアへの出荷が2022年12月17日に開始しますが、一足先にSteam Deckを触る機会を得られたので、まずは遊ぶためにいろいろとセットアップをしてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-steam-deck-setup/",
+          "publishedOn": "2022-12-14T23:00:00.000Z",
+          "wordCount": 2601,
+          "title": "Steam公式携帯ゲーミングPC「Steam Deck」セットアップ編、LinuxベースOS搭載でUIはこんな感じ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/steam-deck-setup/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221215-tesla-ordered-to-upgrade-self-driving-feature-for-free-due/",
           "author": null,
           "description": "EVメーカーのテスラは一部で「完全自動運転機能」のベータ版の提供を行っています。機能の利用は「1万5000ドル(約200万円)で買い切り」か「月額最大199ドル(約2万7000円)のサブスクリプション加入」で、当該機能非対応のテスラ車所有者が機能を利用したい場合、有償でのハードウェア更新が求められます。これに対して異を唱える裁判が起こされ、テスラに対してハードウェア更新を無料で行い完全自動運転機能が利用できるようにすることを命じる判決が下りました。\n続きを読む...",
@@ -2986,6 +2996,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news079.html",
+          "author": null,
+          "description": "Twitter傘下のニュースレター配信Revueはサービスを来年1月18日に終了すると発表した。この発表は、マスク現CEOが展開する#Twitter Filesを批判する投稿をドーシー前CEOが行った約17時間後だった。すべての投稿は終了と同時に削除される。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news079.html",
+          "publishedOn": "2022-12-14T22:32:00.000Z",
+          "wordCount": 2604,
+          "title": "Twitter、ドーシー前CEOの初投稿翌日にニュースレターサービスRevue終了を発表",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news079.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news038.html",
+          "author": null,
+          "description": "中国汽車工業協会が発表した1～11月の自動車販売台数によると、EVなど新エネルギー車の販売台数は600万台を突破。11月単月では新エネ車の販売比率は33.8％に達する。一方、中国の中古車市場の整備が進んでおり、残価率の高さから日本メーカーのガソリン車が再評価されている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news038.html",
+          "publishedOn": "2022-12-14T22:00:00.000Z",
+          "wordCount": 2606,
+          "title": "中国で「日本のガソリン車」が再評価、中古市場拡大でリセールバリューに注目",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news038.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/14/news169.html",
           "author": null,

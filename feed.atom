@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T21:12:40.562Z</updated>
+    <updated>2022-12-14T22:12:37.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テスラに対して完全自動運転機能対応ハードウェアへの更新を無償で行うよう判決が下る]]></title>
+        <id>https://gigazine.net/news/20221215-tesla-ordered-to-upgrade-self-driving-feature-for-free-due/</id>
+        <link href="https://gigazine.net/news/20221215-tesla-ordered-to-upgrade-self-driving-feature-for-free-due/"/>
+        <updated>2022-12-14T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[EVメーカーのテスラは一部で「完全自動運転機能」のベータ版の提供を行っています。機能の利用は「1万5000ドル(約200万円)で買い切り」か「月額最大199ドル(約2万7000円)のサブスクリプション加入」で、当該機能非対応のテスラ車所有者が機能を利用したい場合、有償でのハードウェア更新が求められます。これに対して異を唱える裁判が起こされ、テスラに対してハードウェア更新を無料で行い完全自動運転機能が利用できるようにすることを命じる判決が下りました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テロリストや児童ポルノのコンテンツを特定するのに役立つモデレーションツール「Hasher Matcher Actioner」をMetaが無料のオープンソースとしてリリース]]></title>
         <id>https://gigazine.net/news/20221215-meta-hasher-matcher-actioner/</id>

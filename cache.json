@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-tesla-ordered-to-upgrade-self-driving-feature-for-free-due/",
+          "author": null,
+          "description": "EVメーカーのテスラは一部で「完全自動運転機能」のベータ版の提供を行っています。機能の利用は「1万5000ドル(約200万円)で買い切り」か「月額最大199ドル(約2万7000円)のサブスクリプション加入」で、当該機能非対応のテスラ車所有者が機能を利用したい場合、有償でのハードウェア更新が求められます。これに対して異を唱える裁判が起こされ、テスラに対してハードウェア更新を無料で行い完全自動運転機能が利用できるようにすることを命じる判決が下りました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-tesla-ordered-to-upgrade-self-driving-feature-for-free-due/",
+          "publishedOn": "2022-12-14T22:00:00.000Z",
+          "wordCount": 2497,
+          "title": "テスラに対して完全自動運転機能対応ハードウェアへの更新を無償で行うよう判決が下る",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/tesla-ordered-to-upgrade-self-driving-feature-for-free-due/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221215-meta-hasher-matcher-actioner/",
           "author": null,
           "description": "プラットフォームに投稿された複数の画像や動画をまとめて規制するためのモデレーションツール「Hasher-Matcher-Actioner(HMA)」をMetaが公開しました。大規模なリソースや技術を持たない中小企業にとって有用なものとなることが期待されています。\n続きを読む...",

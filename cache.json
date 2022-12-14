@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221214-windows-update/",
+          "author": null,
+          "description": "今月も毎月更新されるWindowsのセキュリティ更新プログラムやバグ修正が配信されるWindows Updateが行われました。早めにアップデートしておきましょう。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-windows-update/",
+          "publishedOn": "2022-12-14T00:55:00.000Z",
+          "wordCount": 2724,
+          "title": "今日は毎月恒例「Windows Update」の日",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/windows-update/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221214-firefox-108/",
+          "author": null,
+          "description": "ウェブブラウザ「Firefox 108」の正式版が公開されました。ICCv4プロファイルによる画像の色補正をサポートした他、さまざまな機能改善が加えられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-firefox-108/",
+          "publishedOn": "2022-12-14T00:43:00.000Z",
+          "wordCount": 2538,
+          "title": "「Firefox 108」正式版リリース、ICCv4プロファイルをサポート",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/firefox-108/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221214-best-chatgpt-examples-learngpt/",
+          "author": null,
+          "description": "OpenAIが発表した対話型AI「ChatGPT」は、まるで人間のようにチャットや議論ができるとして世界的に話題を呼び、大学生レベルのコンピューターサイエンスの自由記述問題に合格したり、駐車違反の罰金に異議を唱える文書を生成したりすることが可能です。そんなChatGPTの秀逸な回答例を集めたデータベースが「LearnGPT」です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-best-chatgpt-examples-learngpt/",
+          "publishedOn": "2022-12-14T00:00:00.000Z",
+          "wordCount": 2747,
+          "title": "対話型チャットAI「ChatGPT」の精度をまざまざと実感させられる秀逸な回答例を集めた「LearnGPT」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/best-chatgpt-examples-learngpt/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221214-steam-deck-nintendo-switch/",
           "author": null,
           "description": "ゲーム配信プラットフォーム「Steam」の全機能を搭載した携帯型ゲーミングPC「Steam Deck」の日本を含めたアジアへの出荷が2022年12月17日に開始します。一足先にSteam Deckを触る機会を得られたので、Steam Deckと似た形状で液晶ディスプレイを搭載した携帯型ゲーム機のNintendo Switchと並べて、その見た目や持ち心地を比べてみました。\n続きを読む...",
@@ -1683,6 +1713,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17014",
+          "author": null,
+          "description": "オープンソース・ソフトウェアの特許を保護する目的で活動している団体である「Open Invention Network」（本部：米ノースカロライナ州ダーラム）は米Amazonが同団体に加盟したと12月6日（現地時間）に発表した。",
+          "link": "http://codezine.jp/article/detail/17014",
+          "publishedOn": "2022-12-14T00:00:00.000Z",
+          "wordCount": 4311,
+          "title": "Amazon、OSS特許保護団体「Open Invention Network」に加盟",
+          "imageUrl": "https://codezine.jp/static/images/article/17014/12702_og.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17024",
+          "author": null,
+          "description": "JavaScript向けWebフレームワーク「Ember」の開発チームは、最新バージョンとなる「Ember 4.9」を12月8日（現地時間）に公開した。EmberはMITライセンスで公開しているオープンソース・ソフトウェア。",
+          "link": "http://codezine.jp/article/detail/17024",
+          "publishedOn": "2022-12-14T00:00:00.000Z",
+          "wordCount": 4296,
+          "title": "JavaScript向けWebフレームワーク「Ember 4.9」が公開",
+          "imageUrl": "https://codezine.jp/static/images/article/17024/13359_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17018",
           "author": null,
           "description": "オープンソースのプログラミング言語であるPHPの開発チームは、最新バージョンとなる「PHP 8.2.0」を12月8日（現地時間）にリリースした。",
@@ -2636,6 +2686,66 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news075.html",
+          "author": null,
+          "description": "米ローレンス・リバモア国立研究所は、核融合で使うエネルギーよりも多いエネルギーの生成に成功したと発表した。温室効果ガス問題のない新たなエネルギー源として期待される。数十年で実用化できると同研究所は予測した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news075.html",
+          "publishedOn": "2022-12-14T00:04:00.000Z",
+          "wordCount": 2605,
+          "title": "米国立研究所、「核融合点火」に成功したと発表　使ったエネルギーを上回るエネルギー生産",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news075.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news074.html",
+          "author": null,
+          "description": "中小事業者向けに経営相談を手がける公的機関の神奈川県よろず支援拠点が、商店の集客を支援しようとインターネット上の仮想商店街、県よろずバーチャル商店街を開設した。画像などで商品を紹介し、店内の雰囲気を体感してもらう。初めての店には入りづらいという人にも気軽に店の情報を知ってもらえるため、県よろず支援拠点は「新規顧客開拓の後押しにつなげたい」と意気込んでいる。（大島直之）",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news074.html",
+          "publishedOn": "2022-12-14T00:00:00.000Z",
+          "wordCount": 2332,
+          "title": "ネット上にバーチャル商店街　神奈川の中小事業者支援機関が開設",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/l_Y7GXUGYNHNKNJMSULEA2HOSWCM_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news073.html",
+          "author": null,
+          "description": "LINEやPayPayと消費者の購入履歴に基づくポイント還元の新販促サービスを発表したヤフーの小沢隆生社長は、新サービスをはじめとする販促事業を、同社の現在の収益の柱であるインターネット広告と並ぶ規模に拡大していく考えを示した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news073.html",
+          "publishedOn": "2022-12-14T00:00:00.000Z",
+          "wordCount": 2331,
+          "title": "ヤフー社長　販促事業の収益「ネット広告と並ぶ柱に」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/l_5TIODCRZU5LCPAJFCMN5ECC3FY_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news059.html",
+          "author": null,
+          "description": "東京工業大学、NTTコミュニケーション科学基礎研究所、京都大学に所属する研究者らは、エアホッケーのパックを「消える魔球」のように意図的に見えなくする手法や、運動方向を「曲がる魔球」のように操作する手法を提案した研究報告を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news059.html",
+          "publishedOn": "2022-12-13T23:00:00.000Z",
+          "wordCount": 2680,
+          "title": "「消える魔球」「曲がる魔球」が打てるエアホッケー　東工大などが技術開発",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news059.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news057.html",
+          "author": null,
+          "description": "米ロチェスター工科大学とカナダのウォータールー大学に所属する研究者らは、PIN（Personal Identification Numbers）コード（パスコード）において、数字を押さずに入力する視覚障害者向けの手法を提案した研究報告を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news057.html",
+          "publishedOn": "2022-12-13T23:00:00.000Z",
+          "wordCount": 2700,
+          "title": "数字を押さずに「ボタン1つ」でパスコードを入力する方法とは？　後ろからのぞき見対策に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news057.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news028.html",
+          "author": null,
+          "description": "中小企業がクラウドとノーコードを活用し、3カ月でシステムを調達。これまで課題だった業務改善を実現した。短期間でのクラウド導入が奏功した理由をキーパーソンに聞く。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news028.html",
+          "publishedOn": "2022-12-13T23:00:00.000Z",
+          "wordCount": 2620,
+          "title": "中小企業がクラウドを“フッ軽”導入　GCP＆ノーコード活用し3カ月でシステム調達　受注3割増につながったワケ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news028.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/14/news004.html",
           "author": null,

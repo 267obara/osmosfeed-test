@@ -2887,6 +2887,16 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news139.html",
+          "author": null,
+          "description": "DMM.comは12月14日、同社初となるブロックチェーンゲーム「かんぱに☆ガールズ RE:BLOOM」を2023年夏頃にリリースすると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news139.html",
+          "publishedOn": "2022-12-14T07:46:00.000Z",
+          "wordCount": 2598,
+          "title": "DMM.com、初のブロックチェーンゲーム「かんぱに☆ガールズ RE:BLOOM」　Oasysチェーンに独自L2構築",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news139.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/14/news120.html",
           "author": null,
           "description": "AIの進化が止まらない。その能力は「人間を超えるかもしれない」と思わせるレベルに高まってきている。だが、現状のAIには限界がある。自分で判断できない“指示待ち”だし、その指示が適切でなければ、良い結果は期待できない。",

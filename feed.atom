@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T08:18:11.490Z</updated>
+    <updated>2022-12-14T09:13:32.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -15,6 +15,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DMM.com、初のブロックチェーンゲーム「かんぱに☆ガールズ RE:BLOOM」　Oasysチェーンに独自L2構築]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/14/news139.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news139.html"/>
+        <updated>2022-12-14T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[DMM.comは12月14日、同社初となるブロックチェーンゲーム「かんぱに☆ガールズ RE:BLOOM」を2023年夏頃にリリースすると発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

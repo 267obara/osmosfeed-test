@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T09:13:32.649Z</updated>
+    <updated>2022-12-14T10:14:54.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTで生成された文章がすぐわかるように透かしを入れる試み]]></title>
+        <id>https://gigazine.net/news/20221214-chat-gpt-watermark/</id>
+        <link href="https://gigazine.net/news/20221214-chat-gpt-watermark/"/>
+        <updated>2022-12-14T10:11:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAIが発表した対話型チャットAI「ChatGPT」は文章生成能力が非常に高い一方で、「それっぽい無意味な文章」を作ってしまうこともあることから、コーディングQ＆AサイトのStack Overflowでは一時的に使用が禁止になっています。こうした状況を踏まえて、OpenAIの技術者スコット・アーロンソン氏が、生成されたテキストに透かしを入れるツールを開発していることを明らかにしました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年12月14日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221214-headline/</id>
+        <link href="https://gigazine.net/news/20221214-headline/"/>
+        <updated>2022-12-14T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年12月20日(火)からNetflixで「七つの大罪 怨嗟のエジンバラ 前編」が配信されるのに先駆けて、メリオダス役・梶裕貴さん、トリスタン役・村瀬歩さん、エリザベス役・雨宮天さんという、親子役3人のトーク映像が公開されました。本作はアニメ化もされた「七つの大罪」と、その続編で連載中の「黙示録の四騎士」をつなぐ物語で、ストーリーは原作者・鈴木央さん描き下ろしです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonで充電ケーブルを買ったら、中身が“土”　販売元はAnker Japan　一体なぜ？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/14/news164.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news164.html"/>
+        <updated>2022-12-14T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[「AmazonからAnkerの充電ケーブル届いて、箱を開けたら変わりに土が入っていた」──Amazon.co.jpを利用したユーザーのツイートが話題になっている。商品の販売元はAnker Japanの直販店「AnkerDirect」で、出荷元はAmazonだった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F5、ReactやTypeScriptなど向けのモジュラ型データ視覚化フレームワーク「Unovis 1.0」をリリース]]></title>
+        <id>http://codezine.jp/article/detail/17028</id>
+        <link href="http://codezine.jp/article/detail/17028"/>
+        <updated>2022-12-14T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米F5は、React、Angular、Svelte、TypeScript、JavaScript用のモジュラ型データ視覚化フレームワーク「Unovis 1.0」を、12月13日（現地時間）にオープンソースでリリースした。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FTXに顧客の資金を流用できるようにするソフトウェアの変更が加えられていたことが明らかに]]></title>
         <id>https://gigazine.net/news/20221214-ftx-secret-software-change/</id>

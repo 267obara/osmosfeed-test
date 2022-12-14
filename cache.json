@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221214-chat-gpt-watermark/",
+          "author": null,
+          "description": "OpenAIが発表した対話型チャットAI「ChatGPT」は文章生成能力が非常に高い一方で、「それっぽい無意味な文章」を作ってしまうこともあることから、コーディングQ＆AサイトのStack Overflowでは一時的に使用が禁止になっています。こうした状況を踏まえて、OpenAIの技術者スコット・アーロンソン氏が、生成されたテキストに透かしを入れるツールを開発していることを明らかにしました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-chat-gpt-watermark/",
+          "publishedOn": "2022-12-14T10:11:00.000Z",
+          "wordCount": 2511,
+          "title": "ChatGPTで生成された文章がすぐわかるように透かしを入れる試み",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/chat-gpt-watermark/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221214-headline/",
+          "author": null,
+          "description": "2022年12月20日(火)からNetflixで「七つの大罪 怨嗟のエジンバラ 前編」が配信されるのに先駆けて、メリオダス役・梶裕貴さん、トリスタン役・村瀬歩さん、エリザベス役・雨宮天さんという、親子役3人のトーク映像が公開されました。本作はアニメ化もされた「七つの大罪」と、その続編で連載中の「黙示録の四騎士」をつなぐ物語で、ストーリーは原作者・鈴木央さん描き下ろしです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-headline/",
+          "publishedOn": "2022-12-14T09:40:00.000Z",
+          "wordCount": 7068,
+          "title": "2022年12月14日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/headline/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221214-ftx-secret-software-change/",
           "author": null,
           "description": "2022年11月11日に破産手続きを申請した仮想通貨取引所「FTX」の創業者であるサム・バンクマンフリード氏は、顧客の資金を不正に流用した詐欺などの疑いで逮捕・起訴されています。アメリカ証券取引委員会(SEC)が提出した訴状から、FTXのシステムに顧客の資金を流用できるようにするソフトウェアの変更が施されていたことが分かりました。\n続きを読む...",
@@ -1843,6 +1863,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17028",
+          "author": null,
+          "description": "米F5は、React、Angular、Svelte、TypeScript、JavaScript用のモジュラ型データ視覚化フレームワーク「Unovis 1.0」を、12月13日（現地時間）にオープンソースでリリースした。",
+          "link": "http://codezine.jp/article/detail/17028",
+          "publishedOn": "2022-12-14T09:30:00.000Z",
+          "wordCount": 4312,
+          "title": "F5、ReactやTypeScriptなど向けのモジュラ型データ視覚化フレームワーク「Unovis 1.0」をリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/17028/13236_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17020",
           "author": null,
           "description": "JavaScriptランタイムであるBunの開発チームは、最新バージョンとなる「Bun 0.3.0」を、12月7日（現地時間）にリリースした。",
@@ -2886,6 +2916,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news164.html",
+          "author": null,
+          "description": "「AmazonからAnkerの充電ケーブル届いて、箱を開けたら変わりに土が入っていた」──Amazon.co.jpを利用したユーザーのツイートが話題になっている。商品の販売元はAnker Japanの直販店「AnkerDirect」で、出荷元はAmazonだった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news164.html",
+          "publishedOn": "2022-12-14T09:39:00.000Z",
+          "wordCount": 2624,
+          "title": "Amazonで充電ケーブルを買ったら、中身が“土”　販売元はAnker Japan　一体なぜ？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news164.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/14/news139.html",
           "author": null,

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T05:13:01.805Z</updated>
+    <updated>2022-12-14T06:18:02.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter創業者ジャック・ドーシーがトランプ元大統領のアカウント凍結を「ビジネスとしては正しかったがネットや社会に間違ったことをした」と表現、開かれたネットの加速のためメッセージングアプリ「Signal」に年間100万ドル提供へ]]></title>
+        <id>https://gigazine.net/news/20221214-twitter-founder-signal/</id>
+        <link href="https://gigazine.net/news/20221214-twitter-founder-signal/"/>
+        <updated>2022-12-14T05:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterの創業者で元CEOのジャック・ドーシー氏が社内文書「Twitterファイル」公開を受けて、ブログで自らの考えを表明しました。この中でドーシー氏はTwitterが進んだ道について「上場企業のビジネスとしては正しいことでしたが、インターネットや社会に対しては間違ったことをしました」とざんげし、ソーシャルメディアの現状と今後に対して警告を発しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2009年以降に生まれた人の「タバコの購入」を生涯禁止する次世代向け禁煙法が世界初成立]]></title>
         <id>https://gigazine.net/news/20221214-world-first-law-to-ban-smoking/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterモーメント作成終了でTogetterユーザー急増　min.t記事作成数は27倍に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/14/news116.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news116.html"/>
+        <updated>2022-12-14T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[トゥギャッター社は、Twitterのモーメント作成機能が削除されたことで、まとめサイト「min.t」でのまとめ記事の作成数が前週比27倍に急増したと発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

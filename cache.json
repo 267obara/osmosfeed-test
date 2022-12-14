@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221214-twitter-stopped-paying-rent-offices/",
+          "author": null,
+          "description": "Twitterが急進的なコスト削減を断行するため、サンフランシスコ本社や世界各地にある支社のオフィスの賃料を数週間にわたって支払っていないことが、報道により判明しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-twitter-stopped-paying-rent-offices/",
+          "publishedOn": "2022-12-14T02:20:00.000Z",
+          "wordCount": 2527,
+          "title": "Twitterがオフィスの家賃を滞納中",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/twitter-stopped-paying-rent-offices/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221214-apple-allow-third-party-app-stores/",
+          "author": null,
+          "description": "AppleはiPhoneで使えるiOSアプリを、公式のアプリストアであるApp Storeからのみインストールできるようにしています。しかし、ライバルのAndroidは公式アプリストア以外からもアプリのインストールが可能であるため、Appleも「App Store以外のアプリストア」を認めるべきという声が長らく存在します。そんな「App Store以外のアプリストア」を許可するべく、Appleは準備を進めているとBloombergが報じました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-apple-allow-third-party-app-stores/",
+          "publishedOn": "2022-12-14T01:39:00.000Z",
+          "wordCount": 2538,
+          "title": "AppleがiPhoneで「App Store以外のアプリストア」を初めて許可するべく準備を進めている",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/apple-allow-third-party-app-stores/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221214-nuclear-fusion-ignition/",
+          "author": null,
+          "description": "アメリカ合衆国エネルギー省と国家核安全保障局(NNSA)は2022年12月13日、ローレンス・リバモア国立研究所で行われたレーザー核融合実験で、投入した分よりも高いエネルギーの出力を得る「核融合点火」に成功したことを正式に発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-nuclear-fusion-ignition/",
+          "publishedOn": "2022-12-14T01:36:00.000Z",
+          "wordCount": 2603,
+          "title": "エネルギー省が正式に核融合実験でエネルギー投入を上回る出力を達成し「点火」を確認したと発表",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/nuclear-fusion-ignition/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221214-windows-update/",
           "author": null,
           "description": "今月も毎月更新されるWindowsのセキュリティ更新プログラムやバグ修正が配信されるWindows Updateが行われました。早めにアップデートしておきましょう。\n続きを読む...",
@@ -1713,6 +1743,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16867",
+          "author": null,
+          "description": "この連載では、開発者の皆様がシステム・アーキテクチャやアプリケーション・コードをより洗練させるのに役立つデータベース・マネジメント・システム（DBMS）の基本を振り返り、実装に合った技術の組み合わせを解説します。今回は今後ますます活用が進むと期待されている空間データについて、ベクターデータを中心にその特徴から実装までを紹介します。",
+          "link": "http://codezine.jp/article/detail/16867",
+          "publishedOn": "2022-12-14T02:00:00.000Z",
+          "wordCount": 4461,
+          "title": "地図データに代表される「空間データ」とは何か？ データベースでの扱い方を紹介",
+          "imageUrl": "https://codezine.jp/static/images/article/16867/db_perfect_guide_og.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17027",
+          "author": null,
+          "description": "TokyoDevは、日本在住のソフトウェア開発者を対象に実施したアンケートの結果を12月8日に発表した。給与、勤務形態、使用している技術、語学力（英語・日本語）など、全42項目について、588名からの回答結果をまとめた。",
+          "link": "http://codezine.jp/article/detail/17027",
+          "publishedOn": "2022-12-14T01:00:00.000Z",
+          "wordCount": 4303,
+          "title": "日本で働くさまざまな国籍のエンジニアの年収の中央値は950万円、TokyoDevが日本在住の開発者を対象にアンケートを実施",
+          "imageUrl": "https://codezine.jp/static/images/article/17027/17027_ogp.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17014",
           "author": null,
           "description": "オープンソース・ソフトウェアの特許を保護する目的で活動している団体である「Open Invention Network」（本部：米ノースカロライナ州ダーラム）は米Amazonが同団体に加盟したと12月6日（現地時間）に発表した。",
@@ -2686,6 +2736,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news080.html",
+          "author": null,
+          "description": "Twitterの共同創業者で前CEOのジャック・ドーシー氏は、マスクCEOが展開中の「#Twitter Files」に関する見解をまとめたブログを投稿した。「元従業員への攻撃は無益だ。非難するなら私を非難せよ」としている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news080.html",
+          "publishedOn": "2022-12-14T01:58:00.000Z",
+          "wordCount": 2612,
+          "title": "Twitterの前CEOドーシー氏、「元従業員への攻撃は無益」と語り、Signal支援を表明",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/l_yu_jack.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news077.html",
+          "author": null,
+          "description": "楽天証券はクレジットカードを使った投信積立について、楽天プレミアムカードおよび楽天ゴールドカードを使った場合に追加還元を行うキャンペーンを実施する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news077.html",
+          "publishedOn": "2022-12-14T01:18:00.000Z",
+          "wordCount": 2334,
+          "title": "楽天証券、楽天ゴールドとプレミアムカードの投信積立で最大1％還元のキャンペーン",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news077.png"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/14/news075.html",
           "author": null,

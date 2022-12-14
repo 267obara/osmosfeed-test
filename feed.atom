@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T12:27:22.679Z</updated>
+    <updated>2022-12-14T13:21:46.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韓国の人気屋台メニュー「ラッポキ」をイメージした辛くて濃い目のミニストップ「ラッポキスナック」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221214-ministop-rappoki-snack/</id>
+        <link href="https://gigazine.net/news/20221214-ministop-rappoki-snack/"/>
+        <updated>2022-12-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ミニストップのオリジナルスナックの新規商品として、ラーメンとトッポギを組み合わせた韓国で人気の屋台メニュー「ラッポキ」をイメージしたスナック「ラッポキスナック」が2022年12月13日(火)から登場しています。パリパリ麺と国産のもち米を使用したあられの生地でラッポキを再現した一品とのことなので、実際に購入し食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[発売初日に16万本売れた伝説的コロニー建設シム「Dwarf Fortress」の開発者兄弟を直撃したインタビューが公開中]]></title>
         <id>https://gigazine.net/news/20221214-dwarf-fortress-indie-game/</id>

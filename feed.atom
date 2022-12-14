@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T04:17:28.237Z</updated>
+    <updated>2022-12-14T05:13:01.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2009年以降に生まれた人の「タバコの購入」を生涯禁止する次世代向け禁煙法が世界初成立]]></title>
+        <id>https://gigazine.net/news/20221214-world-first-law-to-ban-smoking/</id>
+        <link href="https://gigazine.net/news/20221214-world-first-law-to-ban-smoking/"/>
+        <updated>2022-12-14T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ニュージーランド議会で、2009年1月1日以降に生まれた人はタバコの購入が生涯にわたって禁止される禁煙法が2022年12月13日に可決されました。また、タバコの販売許可を得る小売業者が大きく制限され、タバコのニコチン含有量も減らされるとのことです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「TikTok禁止法案」が議会に提出される、中国共産党へのデータ引き渡し阻止が目的]]></title>
+        <id>https://gigazine.net/news/20221214-bytedance-tiktok-ban-bill/</id>
+        <link href="https://gigazine.net/news/20221214-bytedance-tiktok-ban-bill/"/>
+        <updated>2022-12-14T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカのマルコ・ルビオ共和党上院議員らの超党派議員グループが、国内でのTikTokの営業を禁止する法案「ANTI-SOCIAL CCP Act(反社会的中国共産党法)」を議会に提出したことを発表しました。背景には、TikTokを運営している中国企業のByteDanceが中国政府にユーザーのデータを引き渡すことに対する懸念があります。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「年賀状は送らない」4割、「LINEで」2割──BIGLOBE調査]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/14/news107.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news107.html"/>
+        <updated>2022-12-14T04:04:00.000Z</updated>
+        <summary type="html"><![CDATA[ビッグローブは14日、年末年始の行動に関するアンケートで「年賀状を送らない」人が全体の4割を超えたという調査結果を発表した。20代では半数以上に上るとしている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterがユーザーの安全を保護して公共の健全性を向上させるTrust＆Safety協議会を解散]]></title>
         <id>https://gigazine.net/news/20221214-twitter-tsc-dissolve/</id>

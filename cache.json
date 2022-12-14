@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221214-world-first-law-to-ban-smoking/",
+          "author": null,
+          "description": "ニュージーランド議会で、2009年1月1日以降に生まれた人はタバコの購入が生涯にわたって禁止される禁煙法が2022年12月13日に可決されました。また、タバコの販売許可を得る小売業者が大きく制限され、タバコのニコチン含有量も減らされるとのことです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-world-first-law-to-ban-smoking/",
+          "publishedOn": "2022-12-14T05:00:00.000Z",
+          "wordCount": 2508,
+          "title": "2009年以降に生まれた人の「タバコの購入」を生涯禁止する次世代向け禁煙法が世界初成立",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/world-first-law-to-ban-smoking/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221214-bytedance-tiktok-ban-bill/",
+          "author": null,
+          "description": "アメリカのマルコ・ルビオ共和党上院議員らの超党派議員グループが、国内でのTikTokの営業を禁止する法案「ANTI-SOCIAL CCP Act(反社会的中国共産党法)」を議会に提出したことを発表しました。背景には、TikTokを運営している中国企業のByteDanceが中国政府にユーザーのデータを引き渡すことに対する懸念があります。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-bytedance-tiktok-ban-bill/",
+          "publishedOn": "2022-12-14T04:45:00.000Z",
+          "wordCount": 2516,
+          "title": "「TikTok禁止法案」が議会に提出される、中国共産党へのデータ引き渡し阻止が目的",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/bytedance-tiktok-ban-bill/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221214-twitter-tsc-dissolve/",
           "author": null,
           "description": "TwitterのCEOに就任したイーロン・マスク氏は従業員の3分の2を解雇するという大規模な人員整理を行っていますが、その中でもセキュリティスタッフを大量解雇していたり、Twitter上の嫌がらせやいじめなどの不適切な投稿を防止することを目的とするTrust＆Safety協議会(以下、TSC)の元メンバーが突然辞任してその理由を語ったりと、セキュリティやモデレーションを自動化していくことへの懸念も高まっています。そんな中で、Twitterは2022年12月12日に突然TSCを解散することを発表しました。\n続きを読む...",
@@ -2826,6 +2846,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news107.html",
+          "author": null,
+          "description": "ビッグローブは14日、年末年始の行動に関するアンケートで「年賀状を送らない」人が全体の4割を超えたという調査結果を発表した。20代では半数以上に上るとしている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news107.html",
+          "publishedOn": "2022-12-14T04:04:00.000Z",
+          "wordCount": 2592,
+          "title": "「年賀状は送らない」4割、「LINEで」2割──BIGLOBE調査",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news107.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/14/news043.html",
           "author": null,

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T16:19:33.421Z</updated>
+    <updated>2022-12-14T17:12:36.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Virtiofs正式採用でMacのファイルアクセスが高速化、Docker Desktop 4.15リリース。WebAssemblyアプリをcontainerd配下で管理可能に]]></title>
+        <id>https://www.publickey1.jp/blog/22/virtiofsmacdocker_desktop_415webassemblycontainerd.html</id>
+        <link href="https://www.publickey1.jp/blog/22/virtiofsmacdocker_desktop_415webassemblycontainerd.html"/>
+        <updated>2022-12-14T16:52:36.000Z</updated>
+        <summary type="html"><![CDATA[WindowsやMacなどのローカル環境に簡単にDockerコンテナを用いた開発環境を導入できるDocker Desktopの最新版「Docker Desktop 4.15」正式版がリリースされました。 #VirtioFS GA, admi...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最も費用対効果の高いクラウドを自動選択して大幅なコスト削減が可能な「SkyPilot」]]></title>
         <id>https://gigazine.net/news/20221214-skypilot-navigate-cost-effective-cloud/</id>

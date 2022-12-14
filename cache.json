@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-meta-hasher-matcher-actioner/",
+          "author": null,
+          "description": "プラットフォームに投稿された複数の画像や動画をまとめて規制するためのモデレーションツール「Hasher-Matcher-Actioner(HMA)」をMetaが公開しました。大規模なリソースや技術を持たない中小企業にとって有用なものとなることが期待されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-meta-hasher-matcher-actioner/",
+          "publishedOn": "2022-12-14T21:00:00.000Z",
+          "wordCount": 2496,
+          "title": "テロリストや児童ポルノのコンテンツを特定するのに役立つモデレーションツール「Hasher Matcher Actioner」をMetaが無料のオープンソースとしてリリース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/meta-hasher-matcher-actioner/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221214-skypilot-navigate-cost-effective-cloud/",
           "author": null,
           "description": "ビジネスにおけるクラウドコンピューティングサービスの重要性はますます高まっていますが、それに伴ってコストの高騰や可用性の問題、サービス選択の手間などが急増しています。そこで、カリフォルニア大学バークレー校の研究者であるZongheng Yang氏らのチームが、最も費用対効果の高いクラウドを自動的に選択できるオープンソースフレームワーク「SkyPilot」を開発しました。\n続きを読む...",

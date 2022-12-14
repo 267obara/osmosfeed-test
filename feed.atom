@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T20:14:39.226Z</updated>
+    <updated>2022-12-14T21:12:40.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テロリストや児童ポルノのコンテンツを特定するのに役立つモデレーションツール「Hasher Matcher Actioner」をMetaが無料のオープンソースとしてリリース]]></title>
+        <id>https://gigazine.net/news/20221215-meta-hasher-matcher-actioner/</id>
+        <link href="https://gigazine.net/news/20221215-meta-hasher-matcher-actioner/"/>
+        <updated>2022-12-14T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[プラットフォームに投稿された複数の画像や動画をまとめて規制するためのモデレーションツール「Hasher-Matcher-Actioner(HMA)」をMetaが公開しました。大規模なリソースや技術を持たない中小企業にとって有用なものとなることが期待されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtiofs正式採用でMacのファイルアクセスが高速化、Docker Desktop 4.15リリース。WebAssemblyアプリをcontainerd配下で管理可能に]]></title>
         <id>https://www.publickey1.jp/blog/22/virtiofsmacdocker_desktop_415webassemblycontainerd.html</id>

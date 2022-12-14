@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T06:18:02.870Z</updated>
+    <updated>2022-12-14T07:13:06.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterは全ユーザーにパーソナライズされた広告と位置データ共有を強制することを検討中と報じられる]]></title>
+        <id>https://gigazine.net/news/20221214-twitter-personalized-ads-location-data/</id>
+        <link href="https://gigazine.net/news/20221214-twitter-personalized-ads-location-data/"/>
+        <updated>2022-12-14T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏の買収後に次々と広告主が離れているTwitterが、無料ユーザーに対して個人に最適化された広告と位置情報の共有を強制する計画に取り組んでいると、ニュースサイト・PlatformerのZoë Schiffer氏が報じています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yahoo!検索で障害 「現在つながりにくい状況になっております」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/14/news130.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news130.html"/>
+        <updated>2022-12-14T06:34:00.000Z</updated>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windowsハードウェア開発者プログラムの認定を受けたドライバーがマルウェアの署名に悪用されていたことが発覚]]></title>
+        <id>https://gigazine.net/news/20221214-microsoft-malicious-windows-drivers-ransomware/</id>
+        <link href="https://gigazine.net/news/20221214-microsoft-malicious-windows-drivers-ransomware/"/>
+        <updated>2022-12-14T06:26:00.000Z</updated>
+        <summary type="html"><![CDATA[MicrosoftのWindowsハードウェア開発者プログラムの認定を受けたドライバーが、マルウェアの署名に悪用されていたことが明らかになりました。これはランサムウェアを用いたサイバー攻撃などに悪用されており、Microsoft、Mandiant、Sophos、SentinelOneが共同で概要を発表しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter創業者ジャック・ドーシーがトランプ元大統領のアカウント凍結を「ビジネスとしては正しかったがネットや社会に間違ったことをした」と表現、開かれたネットの加速のためメッセージングアプリ「Signal」に年間100万ドル提供へ]]></title>
         <id>https://gigazine.net/news/20221214-twitter-founder-signal/</id>

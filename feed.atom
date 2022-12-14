@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T07:13:06.998Z</updated>
+    <updated>2022-12-14T08:18:11.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FTXに顧客の資金を流用できるようにするソフトウェアの変更が加えられていたことが明らかに]]></title>
+        <id>https://gigazine.net/news/20221214-ftx-secret-software-change/</id>
+        <link href="https://gigazine.net/news/20221214-ftx-secret-software-change/"/>
+        <updated>2022-12-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年11月11日に破産手続きを申請した仮想通貨取引所「FTX」の創業者であるサム・バンクマンフリード氏は、顧客の資金を不正に流用した詐欺などの疑いで逮捕・起訴されています。アメリカ証券取引委員会(SEC)が提出した訴状から、FTXのシステムに顧客の資金を流用できるようにするソフトウェアの変更が施されていたことが分かりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[進化するAI、人間がこの先生きのこるには？　AIが描いた“コレジャナ絵”を改良しながら考えた]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/14/news120.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news120.html"/>
+        <updated>2022-12-14T07:17:00.000Z</updated>
+        <summary type="html"><![CDATA[AIの進化が止まらない。その能力は「人間を超えるかもしれない」と思わせるレベルに高まってきている。だが、現状のAIには限界がある。自分で判断できない“指示待ち”だし、その指示が適切でなければ、良い結果は期待できない。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterは全ユーザーにパーソナライズされた広告と位置データ共有を強制することを検討中と報じられる]]></title>
         <id>https://gigazine.net/news/20221214-twitter-personalized-ads-location-data/</id>

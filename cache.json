@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221214-ftx-secret-software-change/",
+          "author": null,
+          "description": "2022年11月11日に破産手続きを申請した仮想通貨取引所「FTX」の創業者であるサム・バンクマンフリード氏は、顧客の資金を不正に流用した詐欺などの疑いで逮捕・起訴されています。アメリカ証券取引委員会(SEC)が提出した訴状から、FTXのシステムに顧客の資金を流用できるようにするソフトウェアの変更が施されていたことが分かりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-ftx-secret-software-change/",
+          "publishedOn": "2022-12-14T08:00:00.000Z",
+          "wordCount": 2504,
+          "title": "FTXに顧客の資金を流用できるようにするソフトウェアの変更が加えられていたことが明らかに",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/ftx-secret-software-change/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221214-twitter-personalized-ads-location-data/",
           "author": null,
           "description": "イーロン・マスク氏の買収後に次々と広告主が離れているTwitterが、無料ユーザーに対して個人に最適化された広告と位置情報の共有を強制する計画に取り組んでいると、ニュースサイト・PlatformerのZoë Schiffer氏が報じています。\n続きを読む...",
@@ -2876,6 +2886,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news120.html",
+          "author": null,
+          "description": "AIの進化が止まらない。その能力は「人間を超えるかもしれない」と思わせるレベルに高まってきている。だが、現状のAIには限界がある。自分で判断できない“指示待ち”だし、その指示が適切でなければ、良い結果は期待できない。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news120.html",
+          "publishedOn": "2022-12-14T07:17:00.000Z",
+          "wordCount": 2639,
+          "title": "進化するAI、人間がこの先生きのこるには？　AIが描いた“コレジャナ絵”を改良しながら考えた",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news120.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/14/news130.html",
           "author": null,

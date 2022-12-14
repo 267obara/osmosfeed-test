@@ -1743,6 +1743,36 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16924",
+          "author": null,
+          "description": "エンジニアとしてのキャリアを考えるとき、「技術力を突き詰めるべきか」「チームの牽引力を伸ばすべきか」など方向性について悩むもの。株式会社ウエディングパークでは、プロダクトも技術も、そしてチームも幅広く見ることができる「チーフエンジニア」という役割が設置されており、多くのエンジニアが生き生きと働いているという。セッションでは、同社でチーフエンジニアとして活躍中の若宮奈々氏、高嶋葵氏、永井美波氏に加え、ファシリテーターとして新卒社員の野村吏璃星（りりほ）氏が登壇。働き方や施策、成功事例、キャリアのあり方などについて語り合った。",
+          "link": "http://codezine.jp/article/detail/16924",
+          "publishedOn": "2022-12-14T03:00:00.000Z",
+          "wordCount": 4343,
+          "title": "個人や組織の成長にもつながるサイクルを生み出す「チーフエンジニア」という働き方",
+          "imageUrl": "https://codezine.jp/static/images/article/16924/16924_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17025",
+          "author": null,
+          "description": "AWSは、調査レポート「Demystifying Data 2022 - データ活用の最新動向」を12月12日に公開した。同レポートでは、データを活用する日本の組織は平均8.5％の年間収益増を見込める可能性を示した。",
+          "link": "http://codezine.jp/article/detail/17025",
+          "publishedOn": "2022-12-14T03:00:00.000Z",
+          "wordCount": 4305,
+          "title": "AWS、データ活用で平均8.5％の年間収益増が見込める可能性を示す最新の調査結果を発表",
+          "imageUrl": "https://codezine.jp/static/images/article/17025/16497_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17026",
+          "author": null,
+          "description": "Flatt Securityは、セキュリティとプロダクト開発の今を伝えるオウンドメディア「#FlattSecurityMagazine」を、12月8日にリリースした。",
+          "link": "http://codezine.jp/article/detail/17026",
+          "publishedOn": "2022-12-14T03:00:00.000Z",
+          "wordCount": 4316,
+          "title": "セキュリティとプロダクト開発の今を伝えるメディア「#FlattSecurityMagazine」がスタート",
+          "imageUrl": "https://codezine.jp/static/images/article/17026/17026_ogp.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16867",
           "author": null,
           "description": "この連載では、開発者の皆様がシステム・アーキテクチャやアプリケーション・コードをより洗練させるのに役立つデータベース・マネジメント・システム（DBMS）の基本を振り返り、実装に合った技術の組み合わせを解説します。今回は今後ますます活用が進むと期待されている空間データについて、ベクターデータを中心にその特徴から実装までを紹介します。",
@@ -2736,6 +2766,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news089.html",
+          "author": null,
+          "description": "米Cloudflareが、中小企業向けセキュリティ支援プログラムを日本やドイツなど5カ国で始めた。WAFやDDoS攻撃対策といったセキュリティサービスを無料提供する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news089.html",
+          "publishedOn": "2022-12-14T02:43:00.000Z",
+          "wordCount": 2596,
+          "title": "Cloudflare、WAFやDDoS攻撃対策を無料提供　中小企業向けにセキュリティ支援",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news089.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/14/news080.html",
           "author": null,

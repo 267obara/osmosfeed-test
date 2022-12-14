@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-14T13:21:46.524Z</updated>
+    <updated>2022-12-14T14:12:44.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最も費用対効果の高いクラウドを自動選択して大幅なコスト削減が可能な「SkyPilot」]]></title>
+        <id>https://gigazine.net/news/20221214-skypilot-navigate-cost-effective-cloud/</id>
+        <link href="https://gigazine.net/news/20221214-skypilot-navigate-cost-effective-cloud/"/>
+        <updated>2022-12-14T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビジネスにおけるクラウドコンピューティングサービスの重要性はますます高まっていますが、それに伴ってコストの高騰や可用性の問題、サービス選択の手間などが急増しています。そこで、カリフォルニア大学バークレー校の研究者であるZongheng Yang氏らのチームが、最も費用対効果の高いクラウドを自動的に選択できるオープンソースフレームワーク「SkyPilot」を開発しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[韓国の人気屋台メニュー「ラッポキ」をイメージした辛くて濃い目のミニストップ「ラッポキスナック」を食べてみた]]></title>
         <id>https://gigazine.net/news/20221214-ministop-rappoki-snack/</id>

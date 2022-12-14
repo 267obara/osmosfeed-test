@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221214-skypilot-navigate-cost-effective-cloud/",
+          "author": null,
+          "description": "ビジネスにおけるクラウドコンピューティングサービスの重要性はますます高まっていますが、それに伴ってコストの高騰や可用性の問題、サービス選択の手間などが急増しています。そこで、カリフォルニア大学バークレー校の研究者であるZongheng Yang氏らのチームが、最も費用対効果の高いクラウドを自動的に選択できるオープンソースフレームワーク「SkyPilot」を開発しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221214-skypilot-navigate-cost-effective-cloud/",
+          "publishedOn": "2022-12-14T14:00:00.000Z",
+          "wordCount": 2571,
+          "title": "最も費用対効果の高いクラウドを自動選択して大幅なコスト削減が可能な「SkyPilot」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/14/skypilot-navigate-cost-effective-cloud/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221214-ministop-rappoki-snack/",
           "author": null,
           "description": "ミニストップのオリジナルスナックの新規商品として、ラーメンとトッポギを組み合わせた韓国で人気の屋台メニュー「ラッポキ」をイメージしたスナック「ラッポキスナック」が2022年12月13日(火)から登場しています。パリパリ麺と国産のもち米を使用したあられの生地でラッポキを再現した一品とのことなので、実際に購入し食べてみました。\n続きを読む...",

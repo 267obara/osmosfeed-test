@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T16:20:00.025Z</updated>
+    <updated>2022-12-15T17:12:48.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud、エンタープライズ向け高性能DB「AlloyDB for PostgreSQL」正式サービスとして提供開始、Amazon Aurora対抗の位置づけ]]></title>
+        <id>https://www.publickey1.jp/blog/22/google_clouddballoydb_for_postgresqlamazon_aurora.html</id>
+        <link href="https://www.publickey1.jp/blog/22/google_clouddballoydb_for_postgresqlamazon_aurora.html"/>
+        <updated>2022-12-15T16:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Google Cloudは、エンタープライズ向けの高性能データベースサービス「AlloyDB for PostgreSQL」を正式サービスとして提供開始しました。 AlloyDB for PostgreSQL is generally av...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[留学志望の中国人学生を助けるカンニングサービスは一大ビジネスと化している]]></title>
         <id>https://gigazine.net/news/20221215-chinese-cheat-exams/</id>

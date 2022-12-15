@@ -3020,6 +3020,16 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/google_clouddballoydb_for_postgresqlamazon_aurora.html",
+          "author": null,
+          "description": "Google Cloudは、エンタープライズ向けの高性能データベースサービス「AlloyDB for PostgreSQL」を正式サービスとして提供開始しました。 AlloyDB for PostgreSQL is generally av...",
+          "link": "https://www.publickey1.jp/blog/22/google_clouddballoydb_for_postgresqlamazon_aurora.html",
+          "publishedOn": "2022-12-15T16:48:10.000Z",
+          "wordCount": 1312,
+          "title": "Google Cloud、エンタープライズ向け高性能DB「AlloyDB for PostgreSQL」正式サービスとして提供開始、Amazon Aurora対抗の位置づけ",
+          "imageUrl": "https://www.publickey1.jp/2022/vSPu7G5O.jpg"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/virtiofsmacdocker_desktop_415webassemblycontainerd.html",
           "author": null,
           "description": "WindowsやMacなどのローカル環境に簡単にDockerコンテナを用いた開発環境を導入できるDocker Desktopの最新版「Docker Desktop 4.15」正式版がリリースされました。 #VirtioFS GA, admi...",

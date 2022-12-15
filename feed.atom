@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T09:13:47.250Z</updated>
+    <updated>2022-12-15T10:15:32.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[話題のチャットAI「ChatGPT」のセーフガードを回避して「不適切な回答」を聞き出す手法とは？]]></title>
+        <id>https://gigazine.net/news/20221215-chatgpt-safeguard/</id>
+        <link href="https://gigazine.net/news/20221215-chatgpt-safeguard/"/>
+        <updated>2022-12-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI開発団体のOpenAIが開発するチャットAI「ChatGPT」は、大学レベルの自由記述試験に合格したり、駐車違反の異議申し立てに有効活用されたりと、その高い能力に注目が集まっています。そんなChatGPTには不適切な質問への回答を拒否する機能が搭載されているのですが、あの手この手でChatGPTのセーフガードを突破する手法をAI研究者のデイビス・ブレイロック氏がまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte上にWebアプリケーションを構築するためのフレームワーク「SvelteKit 1.0」がリリース]]></title>
+        <id>http://codezine.jp/article/detail/17044</id>
+        <link href="http://codezine.jp/article/detail/17044"/>
+        <updated>2022-12-15T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[JavaScriptフレームワークSvelteの開発チームは、Svelte上にWebアプリケーションを構築するためのフレームワークであるSvelteKitの最新バージョンとなる「SvelteKit 1.0」を、12月14日（現地時間）にリリースした。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年12月15日のヘッドラインニュース]]></title>
         <id>https://gigazine.net/news/20221215-headline/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポイント投資の利用者が急拡大　投資家の48％が利用　スパークス調査]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news158.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news158.html"/>
+        <updated>2022-12-15T09:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Tポイント、dポイント、Pontaポイントなどのポイントを使って投資できる「ポイント投資」の利用が拡大している。投資顧問会社スパークス・アセット・マネジメントが実施した調査によると、投資家のうち48.1%がポイント投資を行っている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

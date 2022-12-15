@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-glass-break-faster-than-bullet/",
+          "author": null,
+          "description": "薄いガラスが割れる際、たった一点に衝撃が入っただけでも人の目では確認できないくらいに一瞬でひび割れが全体に広がり、粉々に割れてしまいます。このガラスの割れる速度を、銃弾の速度と比較する動画を、数々のスローモーション動画を撮影しまくってきたThe Slow Mo Guysが公開しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-glass-break-faster-than-bullet/",
+          "publishedOn": "2022-12-15T11:00:00.000Z",
+          "wordCount": 2464,
+          "title": "「ガラスが割れる速度」と「弾丸の速度」はどちらが速いのかをスローモーション動画で検証",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/glass-break-faster-than-bullet/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221215-chatgpt-safeguard/",
           "author": null,
           "description": "AI開発団体のOpenAIが開発するチャットAI「ChatGPT」は、大学レベルの自由記述試験に合格したり、駐車違反の異議申し立てに有効活用されたりと、その高い能力に注目が集まっています。そんなChatGPTには不適切な質問への回答を拒否する機能が搭載されているのですが、あの手この手でChatGPTのセーフガードを突破する手法をAI研究者のデイビス・ブレイロック氏がまとめています。\n続きを読む...",
@@ -3236,6 +3246,56 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news186.html",
+          "author": null,
+          "description": "NHKが受信契約を促す文書を送る際、郵便法に違反する行為があったとして総務省が行政指導を行った。これを受けNHKは謝罪。現状の説明と再発防止策を示した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news186.html",
+          "publishedOn": "2022-12-15T10:37:00.000Z",
+          "wordCount": 2599,
+          "title": "NHK、郵便法違反で謝罪　今後は「特別あて所配達郵便」活用へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news186.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news185.html",
+          "author": null,
+          "description": "アリババクラウドが東京圏にデータセンターを新設した。同社の国内データセンターは3カ所目。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news185.html",
+          "publishedOn": "2022-12-15T10:20:00.000Z",
+          "wordCount": 2594,
+          "title": "アリババクラウド、東京圏にデータセンター新設　国内3カ所目",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news185.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news184.html",
+          "author": null,
+          "description": "任天堂は、ゲーム機「Nintendo Switch」用のコントローラーなどの同社の商品で不正な偽装品が販売されているとして注意喚起した。任天堂の商標などを利用し、純正品と偽っているという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news184.html",
+          "publishedOn": "2022-12-15T10:20:00.000Z",
+          "wordCount": 2612,
+          "title": "Switch用コントローラーに不正な偽装品　任天堂が注意喚起　「並行輸入品」として純正品装う",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news184.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news155.html",
+          "author": null,
+          "description": "1年間の脅威や“ヒヤリハット”を忘れず、気を引き締める催しとして「本当にあったIT怖い話大賞2022」を開催します。読者の皆さまから、2022年にあった「ITに関する恐怖体験」を募集。編集部で協議し、最も気が引き締まったものに“大賞”を送ります。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news155.html",
+          "publishedOn": "2022-12-15T10:19:00.000Z",
+          "wordCount": 2590,
+          "title": "「本当にあったIT怖い話大賞2022」開催　教えて！　みんなの恐怖体験",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news155.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news180.html",
+          "author": null,
+          "description": "VTuberグループ「にじさんじ」などを運営するANYCOLORは12月15日、東証プライム市場への変更申請に向けた準備を進めていることを明らかにした。併せて売上高、営業利益、経常利益、当期純利益ともに業績予想の上方修正を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news180.html",
+          "publishedOn": "2022-12-15T09:36:00.000Z",
+          "wordCount": 2604,
+          "title": "「にじさんじ」のANYCOLOR、東証プライムへ変更申請準備　業績予想も上方修正",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news180.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/15/news158.html",
           "author": null,

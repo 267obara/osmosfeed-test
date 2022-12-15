@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T10:15:32.356Z</updated>
+    <updated>2022-12-15T11:11:28.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ガラスが割れる速度」と「弾丸の速度」はどちらが速いのかをスローモーション動画で検証]]></title>
+        <id>https://gigazine.net/news/20221215-glass-break-faster-than-bullet/</id>
+        <link href="https://gigazine.net/news/20221215-glass-break-faster-than-bullet/"/>
+        <updated>2022-12-15T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[薄いガラスが割れる際、たった一点に衝撃が入っただけでも人の目では確認できないくらいに一瞬でひび割れが全体に広がり、粉々に割れてしまいます。このガラスの割れる速度を、銃弾の速度と比較する動画を、数々のスローモーション動画を撮影しまくってきたThe Slow Mo Guysが公開しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHK、郵便法違反で謝罪　今後は「特別あて所配達郵便」活用へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news186.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news186.html"/>
+        <updated>2022-12-15T10:37:00.000Z</updated>
+        <summary type="html"><![CDATA[NHKが受信契約を促す文書を送る際、郵便法に違反する行為があったとして総務省が行政指導を行った。これを受けNHKは謝罪。現状の説明と再発防止策を示した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アリババクラウド、東京圏にデータセンター新設　国内3カ所目]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news185.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news185.html"/>
+        <updated>2022-12-15T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[アリババクラウドが東京圏にデータセンターを新設した。同社の国内データセンターは3カ所目。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch用コントローラーに不正な偽装品　任天堂が注意喚起　「並行輸入品」として純正品装う]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news184.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news184.html"/>
+        <updated>2022-12-15T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[任天堂は、ゲーム機「Nintendo Switch」用のコントローラーなどの同社の商品で不正な偽装品が販売されているとして注意喚起した。任天堂の商標などを利用し、純正品と偽っているという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「本当にあったIT怖い話大賞2022」開催　教えて！　みんなの恐怖体験]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news155.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news155.html"/>
+        <updated>2022-12-15T10:19:00.000Z</updated>
+        <summary type="html"><![CDATA[1年間の脅威や“ヒヤリハット”を忘れず、気を引き締める催しとして「本当にあったIT怖い話大賞2022」を開催します。読者の皆さまから、2022年にあった「ITに関する恐怖体験」を募集。編集部で協議し、最も気が引き締まったものに“大賞”を送ります。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[話題のチャットAI「ChatGPT」のセーフガードを回避して「不適切な回答」を聞き出す手法とは？]]></title>
         <id>https://gigazine.net/news/20221215-chatgpt-safeguard/</id>
@@ -15,6 +66,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「にじさんじ」のANYCOLOR、東証プライムへ変更申請準備　業績予想も上方修正]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news180.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news180.html"/>
+        <updated>2022-12-15T09:36:00.000Z</updated>
+        <summary type="html"><![CDATA[VTuberグループ「にじさんじ」などを運営するANYCOLORは12月15日、東証プライム市場への変更申請に向けた準備を進めていることを明らかにした。併せて売上高、営業利益、経常利益、当期純利益ともに業績予想の上方修正を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

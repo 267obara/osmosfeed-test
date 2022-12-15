@@ -6,6 +6,56 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-doutor-white-mont-blanc/",
+          "author": null,
+          "description": "ドトールコーヒーのスイーツメニューに、2022年12月15日(木)から「ホワイトモンブラン」が加わっています。さつまいもの「ほくほく生地」やマロンホイップクリーム、ホワイトチョコ風味のモンブランクリームで仕上げた数量限定の新作モンブランが気になったので、ドトールコーヒーで買って確かめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-doutor-white-mont-blanc/",
+          "publishedOn": "2022-12-15T02:45:00.000Z",
+          "wordCount": 2442,
+          "title": "マロンクリームとさつまいも風味の相性が抜群なドトールコーヒーの「ホワイトモンブラン」試食レビュー",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/doutor-white-mont-blanc/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221215-steam-on-tesla/",
+          "author": null,
+          "description": "イーロン・マスク氏がCEOを務める電気自動車メーカーのテスラの車内には中央コンソールディスプレイが設置されており、さまざまな情報をタッチパネルで一括管理できます。そのタッチパネルではいくつかのゲームを遊ぶことも可能で、新たにSteam対応タイトルの一部が遊べるようになりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-steam-on-tesla/",
+          "publishedOn": "2022-12-15T02:20:00.000Z",
+          "wordCount": 2704,
+          "title": "テスラの電気自動車でSteamのゲームをプレイ可能に、キーボードとマウスにも対応",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/steam-on-tesla/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221215-twitter-ban-tracks-elon-musk-jet/",
+          "author": null,
+          "description": "イーロン・マスク氏が所有するプライベートジェットの離着陸情報を逐一ツイートするTwitterアカウントのElonJet(@ElonJet)が、現地時間の2022年12月14日(水)の朝頃にBANされています。BANされる直前のタイミングで、ElonJetは50万人以上のフォロワーを抱えていました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-twitter-ban-tracks-elon-musk-jet/",
+          "publishedOn": "2022-12-15T01:52:00.000Z",
+          "wordCount": 3031,
+          "title": "イーロン・マスクのプライベートジェットを追跡するTwitterアカウントがBANされる",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/twitter-ban-tracks-elon-musk-jet/00_m.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221215-twitter-discord-manipulation-scheme/",
+          "author": null,
+          "description": "2022年12月14日に、連邦捜査局(FBI)と米国証券取引委員会(SEC)が「TwitterとDiscordで偽情報を拡散し、合計1億1400万ドル(約154億円)を不正に得ていた」として8人のインフルエンサーを起訴しました。8人の合計Twitterフォロワー数は150万人を超えており、SNSを用いた詐欺の実態が浮き彫りになっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-twitter-discord-manipulation-scheme/",
+          "publishedOn": "2022-12-15T01:43:00.000Z",
+          "wordCount": 2465,
+          "title": "150億円以上をTwitterとDiscordを使った株式操作で得ていた8人のインフルエンサーが起訴される",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/twitter-discord-manipulation-scheme/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221215-twitter-shuts-down-revue/",
+          "author": null,
+          "description": "Twitterが有料・無料のどちらでもニュースレターを配信できるサービス「Revue」を2023年1月18日に終了することを発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-twitter-shuts-down-revue/",
+          "publishedOn": "2022-12-15T01:35:00.000Z",
+          "wordCount": 2630,
+          "title": "Twitterがニュースレター配信サービス「Revue」終了を決定",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/twitter-shuts-down-revue/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221215-interlink-islanddomains-gg/",
           "author": null,
           "description": "これまで犯罪多発都市や沈みかけの絶海の孤島、人よりホッキョクグマが多い世界最北の町などに弾丸現地取材してきた「ドメイン島巡り」の第30回目となる今回は、チャネル諸島で2番目に大きな島であるガーンジー島を訪れました。ガーンジー島は、フランスの印象派画家ルノワールをも魅了した美しい自然が観光客に人気な島。また、以前訪れたヴァージン諸島、モーリシャス、マルタと同様に、タックスヘイブン(租税回避地)として外国人に対して優遇税制を実施しています。\n続きを読む...",
@@ -1943,6 +1993,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17040",
+          "author": null,
+          "description": ".NETで動作するPython実装である「IronPython」の開発チームは、最新バージョンである「IronPython 3.4.0」を12月12日（現地時間）に公開した。IronPythonはApache License 2.0で公開しているオープンソース・ソフトウェアだ。",
+          "link": "http://codezine.jp/article/detail/17040",
+          "publishedOn": "2022-12-15T02:35:00.000Z",
+          "wordCount": 4332,
+          "title": ".NETで動作するPython実装「IronPython」、バージョン3.4.0が公開",
+          "imageUrl": "https://codezine.jp/static/images/article/17040/12694_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17030",
+          "author": null,
+          "description": "ヒューマンリソシアは、「2022年度版：データで見る世界のITエンジニアレポートvol.5」を12月13日に発表した。",
+          "link": "http://codezine.jp/article/detail/17030",
+          "publishedOn": "2022-12-15T01:00:00.000Z",
+          "wordCount": 4310,
+          "title": "「2022年度版：データで見る世界のITエンジニアレポートvol.5」が発表、世界109か国のIT技術者数は約2517万人",
+          "imageUrl": "https://codezine.jp/static/images/article/17030/17030_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17015",
           "author": null,
           "description": "米Microsoftは、コードエディタVisual Studio Codeの、Python/Jupyter向け拡張機能の2022年12月版を、12月8日（現地時間）に公開した。",
@@ -3026,6 +3096,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news098.html",
+          "author": null,
+          "description": "J.Scoreは各種サービスを終了し、事業を同業のLINE Creditと統合する。事業統合後、J.Score社は清算する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news098.html",
+          "publishedOn": "2022-12-15T02:07:00.000Z",
+          "wordCount": 2616,
+          "title": "AIスコアリングのJ.Score、サービス終了へ　事業はLINE Creditに統合",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news098.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/15/news082.html",
           "author": null,

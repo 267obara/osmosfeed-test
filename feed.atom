@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T01:11:29.259Z</updated>
+    <updated>2022-12-15T02:45:49.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マロンクリームとさつまいも風味の相性が抜群なドトールコーヒーの「ホワイトモンブラン」試食レビュー]]></title>
+        <id>https://gigazine.net/news/20221215-doutor-white-mont-blanc/</id>
+        <link href="https://gigazine.net/news/20221215-doutor-white-mont-blanc/"/>
+        <updated>2022-12-15T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ドトールコーヒーのスイーツメニューに、2022年12月15日(木)から「ホワイトモンブラン」が加わっています。さつまいもの「ほくほく生地」やマロンホイップクリーム、ホワイトチョコ風味のモンブランクリームで仕上げた数量限定の新作モンブランが気になったので、ドトールコーヒーで買って確かめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.NETで動作するPython実装「IronPython」、バージョン3.4.0が公開]]></title>
+        <id>http://codezine.jp/article/detail/17040</id>
+        <link href="http://codezine.jp/article/detail/17040"/>
+        <updated>2022-12-15T02:35:00.000Z</updated>
+        <summary type="html"><![CDATA[.NETで動作するPython実装である「IronPython」の開発チームは、最新バージョンである「IronPython 3.4.0」を12月12日（現地時間）に公開した。IronPythonはApache License 2.0で公開しているオープンソース・ソフトウェアだ。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスラの電気自動車でSteamのゲームをプレイ可能に、キーボードとマウスにも対応]]></title>
+        <id>https://gigazine.net/news/20221215-steam-on-tesla/</id>
+        <link href="https://gigazine.net/news/20221215-steam-on-tesla/"/>
+        <updated>2022-12-15T02:20:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏がCEOを務める電気自動車メーカーのテスラの車内には中央コンソールディスプレイが設置されており、さまざまな情報をタッチパネルで一括管理できます。そのタッチパネルではいくつかのゲームを遊ぶことも可能で、新たにSteam対応タイトルの一部が遊べるようになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIスコアリングのJ.Score、サービス終了へ　事業はLINE Creditに統合]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news098.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news098.html"/>
+        <updated>2022-12-15T02:07:00.000Z</updated>
+        <summary type="html"><![CDATA[J.Scoreは各種サービスを終了し、事業を同業のLINE Creditと統合する。事業統合後、J.Score社は清算する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクのプライベートジェットを追跡するTwitterアカウントがBANされる]]></title>
+        <id>https://gigazine.net/news/20221215-twitter-ban-tracks-elon-musk-jet/</id>
+        <link href="https://gigazine.net/news/20221215-twitter-ban-tracks-elon-musk-jet/"/>
+        <updated>2022-12-15T01:52:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏が所有するプライベートジェットの離着陸情報を逐一ツイートするTwitterアカウントのElonJet(@ElonJet)が、現地時間の2022年12月14日(水)の朝頃にBANされています。BANされる直前のタイミングで、ElonJetは50万人以上のフォロワーを抱えていました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[150億円以上をTwitterとDiscordを使った株式操作で得ていた8人のインフルエンサーが起訴される]]></title>
+        <id>https://gigazine.net/news/20221215-twitter-discord-manipulation-scheme/</id>
+        <link href="https://gigazine.net/news/20221215-twitter-discord-manipulation-scheme/"/>
+        <updated>2022-12-15T01:43:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年12月14日に、連邦捜査局(FBI)と米国証券取引委員会(SEC)が「TwitterとDiscordで偽情報を拡散し、合計1億1400万ドル(約154億円)を不正に得ていた」として8人のインフルエンサーを起訴しました。8人の合計Twitterフォロワー数は150万人を超えており、SNSを用いた詐欺の実態が浮き彫りになっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterがニュースレター配信サービス「Revue」終了を決定]]></title>
+        <id>https://gigazine.net/news/20221215-twitter-shuts-down-revue/</id>
+        <link href="https://gigazine.net/news/20221215-twitter-shuts-down-revue/"/>
+        <updated>2022-12-15T01:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterが有料・無料のどちらでもニュースレターを配信できるサービス「Revue」を2023年1月18日に終了することを発表しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「2022年度版：データで見る世界のITエンジニアレポートvol.5」が発表、世界109か国のIT技術者数は約2517万人]]></title>
+        <id>http://codezine.jp/article/detail/17030</id>
+        <link href="http://codezine.jp/article/detail/17030"/>
+        <updated>2022-12-15T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンリソシアは、「2022年度版：データで見る世界のITエンジニアレポートvol.5」を12月13日に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter、マスクCEOの自家用ジェット追跡botとその作者のアカウントを凍結]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/15/news082.html</id>

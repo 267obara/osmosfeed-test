@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T12:27:13.586Z</updated>
+    <updated>2022-12-15T13:22:27.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[入れすぎレベルの魚粉とごまをこれでもかと堪能できる「スーパーカップ 1.5倍×EDGE 魚粉入れすぎ中華そば／ごま入れすぎ担担麺」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221215-acecook-super-cup-edge-gyofun-tantanmen/</id>
+        <link href="https://gigazine.net/news/20221215-acecook-super-cup-edge-gyofun-tantanmen/"/>
+        <updated>2022-12-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[エースコックの「スーパーカップ1.5倍」シリーズと驚き＆やりすぎがコンセプトの「EDGE」シリーズがコラボした、「スーパーカップ 1.5倍×EDGE 魚粉入れすぎ中華そば」「スーパーカップ 1.5倍×EDGE ごま入れすぎ担担麺」が2022年12月12日(月)から登場しています。魚粉入れすぎ＆ごま入れすぎでインパクトたっぷりのカップ麺に仕上がっているとのことで、どんな味になっているのか実際に食べてたしかめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[昆虫が「痛み」を感じているという証拠の増加が動物福祉にもたらす影響とは？]]></title>
         <id>https://gigazine.net/news/20221215-insect-pain-animal-welfare/</id>

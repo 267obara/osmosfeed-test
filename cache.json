@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-youtube-spam-ai/",
+          "author": null,
+          "description": "YouTubeの動画やライブ配信には、視聴者が感想や意見をコメントすることができますが、しばしば心ない悪口や「荒らし」と呼ばれるコメントが現れます。そのようなスパムコメントをAIで検出して除去する取り組みや、複数の不正なコメントを残し続けたユーザーは最大24時間コメントができなくなる新機能などを、YouTubeが発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-youtube-spam-ai/",
+          "publishedOn": "2022-12-15T04:00:00.000Z",
+          "wordCount": 2445,
+          "title": "YouTubeがAIでスパムコメントを取り締まり、違反者は24時間BANされコメント禁止",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/youtube-spam-ai/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221215-arms-advanced-chip-designs-china-limited/",
+          "author": null,
+          "description": "ソフトバンクグループ傘下の半導体設計企業・Armホールディングスは、スマートフォンからスーパーコンピューターまで、さまざまなデバイスのチップに採用されているArmアーキテクチャを開発しています。そんなArmの最先端チップ技術である「Neoverse V」シリーズが、アメリカとイギリスの規制によって中国へ輸出できないことが報じられました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-arms-advanced-chip-designs-china-limited/",
+          "publishedOn": "2022-12-15T03:30:00.000Z",
+          "wordCount": 2493,
+          "title": "Armの最先端チップ技術はアメリカとイギリスが承認しないため中国に輸出できない、アリババなどのハイテク企業に大打撃",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/arms-advanced-chip-designs-china-limited/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221215-students-against-heat-sensing-monitor/",
           "author": null,
           "description": "公共スペースや施設内などでカメラを見かけることも多くなりましたが、カメラ以外にも、企業は個人を監視するためのあらゆるデバイスを開発しています。新たに「熱感知デバイス」が学校に設置されたため、学生が突然の監視に怒りの声を上げました。\n続きを読む...",
@@ -2023,6 +2043,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16929",
+          "author": null,
+          "description": "稼働停止が多大な影響を与える可能性のあるデジタルサービスにおいて、24時間対応や即応性などのオンコールを採用する企業は多い。だが同時に、オンコール対応に関する軽視できない問題点も少なくない。信頼性の高いサービスをサポートする鍵ともなるオンコール管理のベストプラクティスとはどのようなものか。PagerDutyのDevOps Advocate、Mandi Walls氏が解説してくれた。",
+          "link": "http://codezine.jp/article/detail/16929",
+          "publishedOn": "2022-12-15T03:00:00.000Z",
+          "wordCount": 4350,
+          "title": "DevOps/SREチームの睡眠時間を守る！ オンコールのベストプラクティス",
+          "imageUrl": "https://codezine.jp/static/images/article/16929/16929_og.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17039",
+          "author": null,
+          "description": "分散型バージョン管理システム「Git」の開発チームは、最新版となる「Git 2.39」を12月12日（現地時間）に公開した。GitはGNU General Public License 2.0で公開しているオープンソース・ソフトウェアだ。",
+          "link": "http://codezine.jp/article/detail/17039",
+          "publishedOn": "2022-12-15T02:40:00.000Z",
+          "wordCount": 4320,
+          "title": "分散型バージョン管理システム「Git 2.39」が公開",
+          "imageUrl": "https://codezine.jp/static/images/article/17039/13201_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17040",
           "author": null,
           "description": ".NETで動作するPython実装である「IronPython」の開発チームは、最新バージョンである「IronPython 3.4.0」を12月12日（現地時間）に公開した。IronPythonはApache License 2.0で公開しているオープンソース・ソフトウェアだ。",
@@ -3126,6 +3166,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news116.html",
+          "author": null,
+          "description": "IT技術者の給与水準が最も高い国・地域は？──人材事業を手掛けるヒューマンリソシアが調査結果を発表。最も平均年収が高いのはスイスだった。日本の順位は。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news116.html",
+          "publishedOn": "2022-12-15T03:36:00.000Z",
+          "wordCount": 2686,
+          "title": "IT技術者の平均年収、一番高い国は？　米国は2位　日本は……",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news116.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news114.html",
+          "author": null,
+          "description": "Tesla Motorsは車載ソフトの最新アップデートでSteamのゲームをサポートする。「Cyberpunk」などを車内でプレイできる。「Apple Music」もサポートした。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news114.html",
+          "publishedOn": "2022-12-15T03:20:00.000Z",
+          "wordCount": 2618,
+          "title": "Tesla、ホリデーアップデートでSteamとApple Musicをサポート",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news114.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/15/news049.html",
           "author": null,

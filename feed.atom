@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T03:18:29.701Z</updated>
+    <updated>2022-12-15T04:17:34.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YouTubeがAIでスパムコメントを取り締まり、違反者は24時間BANされコメント禁止]]></title>
+        <id>https://gigazine.net/news/20221215-youtube-spam-ai/</id>
+        <link href="https://gigazine.net/news/20221215-youtube-spam-ai/"/>
+        <updated>2022-12-15T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[YouTubeの動画やライブ配信には、視聴者が感想や意見をコメントすることができますが、しばしば心ない悪口や「荒らし」と呼ばれるコメントが現れます。そのようなスパムコメントをAIで検出して除去する取り組みや、複数の不正なコメントを残し続けたユーザーは最大24時間コメントができなくなる新機能などを、YouTubeが発表しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT技術者の平均年収、一番高い国は？　米国は2位　日本は……]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news116.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news116.html"/>
+        <updated>2022-12-15T03:36:00.000Z</updated>
+        <summary type="html"><![CDATA[IT技術者の給与水準が最も高い国・地域は？──人材事業を手掛けるヒューマンリソシアが調査結果を発表。最も平均年収が高いのはスイスだった。日本の順位は。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Armの最先端チップ技術はアメリカとイギリスが承認しないため中国に輸出できない、アリババなどのハイテク企業に大打撃]]></title>
+        <id>https://gigazine.net/news/20221215-arms-advanced-chip-designs-china-limited/</id>
+        <link href="https://gigazine.net/news/20221215-arms-advanced-chip-designs-china-limited/"/>
+        <updated>2022-12-15T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクグループ傘下の半導体設計企業・Armホールディングスは、スマートフォンからスーパーコンピューターまで、さまざまなデバイスのチップに採用されているArmアーキテクチャを開発しています。そんなArmの最先端チップ技術である「Neoverse V」シリーズが、アメリカとイギリスの規制によって中国へ輸出できないことが報じられました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla、ホリデーアップデートでSteamとApple Musicをサポート]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news114.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news114.html"/>
+        <updated>2022-12-15T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Tesla Motorsは車載ソフトの最新アップデートでSteamのゲームをサポートする。「Cyberpunk」などを車内でプレイできる。「Apple Music」もサポートした。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[熱を感知する股間センサーが学校に設置され学生が激怒]]></title>
         <id>https://gigazine.net/news/20221215-students-against-heat-sensing-monitor/</id>
@@ -15,6 +57,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps/SREチームの睡眠時間を守る！ オンコールのベストプラクティス]]></title>
+        <id>http://codezine.jp/article/detail/16929</id>
+        <link href="http://codezine.jp/article/detail/16929"/>
+        <updated>2022-12-15T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[稼働停止が多大な影響を与える可能性のあるデジタルサービスにおいて、24時間対応や即応性などのオンコールを採用する企業は多い。だが同時に、オンコール対応に関する軽視できない問題点も少なくない。信頼性の高いサービスをサポートする鍵ともなるオンコール管理のベストプラクティスとはどのようなものか。PagerDutyのDevOps Advocate、Mandi Walls氏が解説してくれた。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>
@@ -48,6 +100,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分散型バージョン管理システム「Git 2.39」が公開]]></title>
+        <id>http://codezine.jp/article/detail/17039</id>
+        <link href="http://codezine.jp/article/detail/17039"/>
+        <updated>2022-12-15T02:40:00.000Z</updated>
+        <summary type="html"><![CDATA[分散型バージョン管理システム「Git」の開発チームは、最新版となる「Git 2.39」を12月12日（現地時間）に公開した。GitはGNU General Public License 2.0で公開しているオープンソース・ソフトウェアだ。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

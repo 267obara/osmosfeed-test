@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-insect-pain-animal-welfare/",
+          "author": null,
+          "description": "世界では毎年1兆匹以上の昆虫が、食物や動物の餌として命を奪われています。これまでは昆虫を除く多くの動物が痛みを感じることができると認識されていましたが、近年は昆虫も痛みを感じていることが研究により明らかになっています。さらに、最新の調査結果を受け、研究者の中には農薬や化学実験などから昆虫を保護すべきという声も上がっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-insect-pain-animal-welfare/",
+          "publishedOn": "2022-12-15T12:00:00.000Z",
+          "wordCount": 2449,
+          "title": "昆虫が「痛み」を感じているという証拠の増加が動物福祉にもたらす影響とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/insect-pain-animal-welfare/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221215-glass-break-faster-than-bullet/",
           "author": null,
           "description": "薄いガラスが割れる際、たった一点に衝撃が入っただけでも人の目では確認できないくらいに一瞬でひび割れが全体に広がり、粉々に割れてしまいます。このガラスの割れる速度を、銃弾の速度と比較する動画を、数々のスローモーション動画を撮影しまくってきたThe Slow Mo Guysが公開しています。\n続きを読む...",
@@ -3246,6 +3256,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news189.html",
+          "author": null,
+          "description": "今回のトピックは「空気清浄機やサーキュレーターの置き場所」です。室内の温度ムラをなくせば無駄な電気の消費を抑えられます。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news189.html",
+          "publishedOn": "2022-12-15T11:35:00.000Z",
+          "wordCount": 2341,
+          "title": "空気清浄機やサーキュレーター、エアコンの○に置くと効果的",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news189.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/15/news186.html",
           "author": null,

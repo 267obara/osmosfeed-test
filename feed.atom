@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T07:12:46.150Z</updated>
+    <updated>2022-12-15T08:18:47.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自動運転車は突然飛び出してくる歩行者や自転車との衝突を避けるためのテストを何度も繰り返している]]></title>
+        <id>https://gigazine.net/news/20221215-waymo-driver-vs-nieon/</id>
+        <link href="https://gigazine.net/news/20221215-waymo-driver-vs-nieon/"/>
+        <updated>2022-12-15T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[車を運転していると突然進路上に車や人間が飛び出してきて、急にブレーキをかけたりハンドルを切ったりしたことのある人は多いはず。Googleと同じAlhabet傘下の自動運転車開発企業であるWaymoが、赤信号を無視して走る人間や突然車線変更をする車など、潜在的危険に対する衝突回避能力を評価するためのテスト手法「Collision Avoidance Testing(CAT)」について解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テスラの完全自動運転ベータ版は改善するどころか「悪化」していることが判明、競合他社との差が歴然に]]></title>
         <id>https://gigazine.net/news/20221215-tesla-full-self-driving-data/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire TV化した「Echo Show 15」は、スマートスピーカー“終わりの始まり”か]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news159.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news159.html"/>
+        <updated>2022-12-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米国で大規模レイオフが始まっている。Amazonは1万人規模のレイオフを計画していると報じられており、音声アシスタント「Alexa」を含むハードウェア部門が大半だ。音声アシスタントはGoogleも収益化に苦しんでいるというが、Amazon Echoも無事では済まなかったという事だろう。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

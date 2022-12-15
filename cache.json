@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-waymo-driver-vs-nieon/",
+          "author": null,
+          "description": "車を運転していると突然進路上に車や人間が飛び出してきて、急にブレーキをかけたりハンドルを切ったりしたことのある人は多いはず。Googleと同じAlhabet傘下の自動運転車開発企業であるWaymoが、赤信号を無視して走る人間や突然車線変更をする車など、潜在的危険に対する衝突回避能力を評価するためのテスト手法「Collision Avoidance Testing(CAT)」について解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-waymo-driver-vs-nieon/",
+          "publishedOn": "2022-12-15T08:00:00.000Z",
+          "wordCount": 2484,
+          "title": "自動運転車は突然飛び出してくる歩行者や自転車との衝突を避けるためのテストを何度も繰り返している",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/waymo-driver-vs-nieon/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221215-tesla-full-self-driving-data/",
           "author": null,
           "description": "テスラは2022年11月に「完全自動運転(FSD)ベータ版」を北米でリリースしました。しかし、「完全」との名前を冠していながらドライバーによる常時監視が必要な「レベル2」に近いと位置づけられているテスラのFSD機能には改善が見られず、Waymoなどに大きく水をあけられてしまっている状態だと、EV専門ニュースサイト・Electrekが報じました。\n続きを読む...",
@@ -3196,6 +3206,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news159.html",
+          "author": null,
+          "description": "米国で大規模レイオフが始まっている。Amazonは1万人規模のレイオフを計画していると報じられており、音声アシスタント「Alexa」を含むハードウェア部門が大半だ。音声アシスタントはGoogleも収益化に苦しんでいるというが、Amazon Echoも無事では済まなかったという事だろう。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news159.html",
+          "publishedOn": "2022-12-15T07:00:00.000Z",
+          "wordCount": 2637,
+          "title": "Fire TV化した「Echo Show 15」は、スマートスピーカー“終わりの始まり”か",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news159.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/15/news139.html",
           "author": null,

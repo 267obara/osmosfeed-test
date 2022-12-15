@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221216-sony-inzone-m3-game/",
+          "author": null,
+          "description": "ソニーが2022年12月に発売したフルHDゲーミングモニター「INZONE M3」には、PlayStation 5との強力な連携機能や、シューティングゲームで役立つ標準(クロスヘア)表示機能、暗い部分を明るく表示する「ブラックイコライザー」などが搭載されており、ゲームを有利に進めることができます。そんなINZONE M3の各種便利機能を実際に使ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-sony-inzone-m3-game/",
+          "publishedOn": "2022-12-15T23:00:00.000Z",
+          "wordCount": 2512,
+          "title": "ゲームに勝つための機能が満載のソニー製フルHD・240Hzゲーミングモニター「INZONE M3」はPlayStation 5と相性バツグンのモニターでした",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/sony-inzone-m3-game/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221216-steam-deck-play/",
           "author": null,
           "description": "PCゲームのダウンロード販売・ストリーミングプレイのプラットフォームであるSteamを運営するValveの携帯型ゲーミングPC「Steam Deck」が、日本を含めたアジア向けに2022年12月17日から出荷されます。小型の液晶ディスプレイ搭載型ゲーム機のデザインで、どこにでも持ち歩きできていつでもPCゲームが遊べるというので、一足先に遊んでみました。\n続きを読む...",
@@ -3306,6 +3316,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news083.html",
+          "author": null,
+          "description": "TeslaとTwitterのCEO、イーロン・マスク氏がTesla株式36億ドル相当を売却した。4月に「もう売却しない」とツイートした後、8月と11月にも売却している。Twitter買収に合意してから累計で約230億ドル相当のTesla株を売却した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news083.html",
+          "publishedOn": "2022-12-15T22:41:00.000Z",
+          "wordCount": 2593,
+          "title": "イーロン・マスク氏、Teslaの株式をまた売却（もう売らない宣言後3回目）",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/l_yu_sec.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/15/news189.html",
           "author": null,

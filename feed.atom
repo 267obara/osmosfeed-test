@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T22:12:30.909Z</updated>
+    <updated>2022-12-15T23:14:18.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゲームに勝つための機能が満載のソニー製フルHD・240Hzゲーミングモニター「INZONE M3」はPlayStation 5と相性バツグンのモニターでした]]></title>
+        <id>https://gigazine.net/news/20221216-sony-inzone-m3-game/</id>
+        <link href="https://gigazine.net/news/20221216-sony-inzone-m3-game/"/>
+        <updated>2022-12-15T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーが2022年12月に発売したフルHDゲーミングモニター「INZONE M3」には、PlayStation 5との強力な連携機能や、シューティングゲームで役立つ標準(クロスヘア)表示機能、暗い部分を明るく表示する「ブラックイコライザー」などが搭載されており、ゲームを有利に進めることができます。そんなINZONE M3の各種便利機能を実際に使ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスク氏、Teslaの株式をまた売却（もう売らない宣言後3回目）]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news083.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news083.html"/>
+        <updated>2022-12-15T22:41:00.000Z</updated>
+        <summary type="html"><![CDATA[TeslaとTwitterのCEO、イーロン・マスク氏がTesla株式36億ドル相当を売却した。4月に「もう売却しない」とツイートした後、8月と11月にも売却している。Twitter買収に合意してから累計で約230億ドル相当のTesla株を売却した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エルデンリングや塊魂をいつでもどこでも遊べる「Steam Deck」でいろんなゲームをプレイしてみた]]></title>
         <id>https://gigazine.net/news/20221216-steam-deck-play/</id>

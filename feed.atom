@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T13:22:27.068Z</updated>
+    <updated>2022-12-15T14:13:09.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[留学志望の中国人学生を助けるカンニングサービスは一大ビジネスと化している]]></title>
+        <id>https://gigazine.net/news/20221215-chinese-cheat-exams/</id>
+        <link href="https://gigazine.net/news/20221215-chinese-cheat-exams/"/>
+        <updated>2022-12-15T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近年発展が目覚ましい中国からは、毎年何十万人もの学生がアメリカなどの海外へと留学していますが、その中には金を払ってプロのカンニング業者を雇い不正にテストに合格している中国人学生もいます。こうしたカンニングサービスを提供している業者10人以上に非営利の報道団体・Rest of Worldが取材を行い、中国で横行しているカンニングビジネスの実態に迫りました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[入れすぎレベルの魚粉とごまをこれでもかと堪能できる「スーパーカップ 1.5倍×EDGE 魚粉入れすぎ中華そば／ごま入れすぎ担担麺」を食べてみた]]></title>
         <id>https://gigazine.net/news/20221215-acecook-super-cup-edge-gyofun-tantanmen/</id>

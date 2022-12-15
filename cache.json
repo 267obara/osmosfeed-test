@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-tesla-full-self-driving-data/",
+          "author": null,
+          "description": "テスラは2022年11月に「完全自動運転(FSD)ベータ版」を北米でリリースしました。しかし、「完全」との名前を冠していながらドライバーによる常時監視が必要な「レベル2」に近いと位置づけられているテスラのFSD機能には改善が見られず、Waymoなどに大きく水をあけられてしまっている状態だと、EV専門ニュースサイト・Electrekが報じました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-tesla-full-self-driving-data/",
+          "publishedOn": "2022-12-15T07:00:00.000Z",
+          "wordCount": 2617,
+          "title": "テスラの完全自動運転ベータ版は改善するどころか「悪化」していることが判明、競合他社との差が歴然に",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/tesla-full-self-driving-data/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221215-life-universe/",
           "author": null,
           "description": "イギリスの数学者ジョン・ホートン・コンウェイが考案した、生命の誕生と死をシミュレートする「ライフゲーム」の宇宙を再帰的に探索し続けられるようにしたインタラクティブコンテンツ「Life Universe」が公開されています。無限に広がる大宇宙に、どこまでも生命の営みが続いています。\n続きを読む...",

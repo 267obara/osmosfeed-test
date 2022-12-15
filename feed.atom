@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T06:17:58.548Z</updated>
+    <updated>2022-12-15T07:12:46.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テスラの完全自動運転ベータ版は改善するどころか「悪化」していることが判明、競合他社との差が歴然に]]></title>
+        <id>https://gigazine.net/news/20221215-tesla-full-self-driving-data/</id>
+        <link href="https://gigazine.net/news/20221215-tesla-full-self-driving-data/"/>
+        <updated>2022-12-15T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テスラは2022年11月に「完全自動運転(FSD)ベータ版」を北米でリリースしました。しかし、「完全」との名前を冠していながらドライバーによる常時監視が必要な「レベル2」に近いと位置づけられているテスラのFSD機能には改善が見られず、Waymoなどに大きく水をあけられてしまっている状態だと、EV専門ニュースサイト・Electrekが報じました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無限に生命の誕生・進化・死を再帰し続ける恐るべきインタラクティブシミュレーション「Life Universe」]]></title>
         <id>https://gigazine.net/news/20221215-life-universe/</id>

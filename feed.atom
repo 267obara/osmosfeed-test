@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T20:13:36.093Z</updated>
+    <updated>2022-12-15T21:11:36.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人気の人工甘味料アスパルテームが不安を増加させることがマウス実験で確認される]]></title>
+        <id>https://gigazine.net/news/20221216-aspartame-induced-anxiety-generations-mice/</id>
+        <link href="https://gigazine.net/news/20221216-aspartame-induced-anxiety-generations-mice/"/>
+        <updated>2022-12-15T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人工甘味料はダイエット食品や飲料などによく使われており、現代人が飲料から摂取する人工甘味料は2007年～2019年にかけて36％も増加しています。ところが、人工甘味料は健康に悪影響を及ぼす可能性も指摘されており、新たな研究では人気の高い人工甘味料の1つであるアスパルテームが「不安」を増加させ、さらにその影響が子孫にまで受け継がれることがマウス実験で確認されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud、エンタープライズ向け高性能DB「AlloyDB for PostgreSQL」正式サービスとして提供開始、Amazon Aurora対抗の位置づけ]]></title>
         <id>https://www.publickey1.jp/blog/22/google_clouddballoydb_for_postgresqlamazon_aurora.html</id>

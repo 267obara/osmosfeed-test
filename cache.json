@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-headline/",
+          "author": null,
+          "description": "史上初・全プリキュアシリーズのキセキをたどる展覧会「全プリキュア展 ～20th Anniversary Memories～」の開催が発表されました。会期は2023年2月1日(水)から19日(日)で、会場は池袋・サンシャインシティのワールドインポートマートビル4F・展示ホールA。チケットは全日程日時指定で、前売りは大人2300円・大学生1900円・高校生～3歳1300円、当日は大人2500円・大学生2100円・高校生～3歳1500円。インターネット予約が2022年12月18日10時からスタートです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-headline/",
+          "publishedOn": "2022-12-15T09:08:00.000Z",
+          "wordCount": 7962,
+          "title": "2022年12月15日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221215-waymo-driver-vs-nieon/",
           "author": null,
           "description": "車を運転していると突然進路上に車や人間が飛び出してきて、急にブレーキをかけたりハンドルを切ったりしたことのある人は多いはず。Googleと同じAlhabet傘下の自動運転車開発企業であるWaymoが、赤信号を無視して走る人間や突然車線変更をする車など、潜在的危険に対する衝突回避能力を評価するためのテスト手法「Collision Avoidance Testing(CAT)」について解説しています。\n続きを読む...",

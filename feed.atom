@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T21:11:36.539Z</updated>
+    <updated>2022-12-15T22:12:30.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エルデンリングや塊魂をいつでもどこでも遊べる「Steam Deck」でいろんなゲームをプレイしてみた]]></title>
+        <id>https://gigazine.net/news/20221216-steam-deck-play/</id>
+        <link href="https://gigazine.net/news/20221216-steam-deck-play/"/>
+        <updated>2022-12-15T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PCゲームのダウンロード販売・ストリーミングプレイのプラットフォームであるSteamを運営するValveの携帯型ゲーミングPC「Steam Deck」が、日本を含めたアジア向けに2022年12月17日から出荷されます。小型の液晶ディスプレイ搭載型ゲーム機のデザインで、どこにでも持ち歩きできていつでもPCゲームが遊べるというので、一足先に遊んでみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人気の人工甘味料アスパルテームが不安を増加させることがマウス実験で確認される]]></title>
         <id>https://gigazine.net/news/20221216-aspartame-induced-anxiety-generations-mice/</id>

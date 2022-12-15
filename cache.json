@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-students-against-heat-sensing-monitor/",
+          "author": null,
+          "description": "公共スペースや施設内などでカメラを見かけることも多くなりましたが、カメラ以外にも、企業は個人を監視するためのあらゆるデバイスを開発しています。新たに「熱感知デバイス」が学校に設置されたため、学生が突然の監視に怒りの声を上げました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-students-against-heat-sensing-monitor/",
+          "publishedOn": "2022-12-15T03:00:00.000Z",
+          "wordCount": 2614,
+          "title": "熱を感知する股間センサーが学校に設置され学生が激怒",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/students-against-heat-sensing-monitor/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221215-child-law-tech-industry-group/",
+          "author": null,
+          "description": "アメリカ・カリフォルニア州で2024年から施行されるオンラインで子どもを保護することを目的とした「児童安全法」は言論の自由に反する法律だとして、テクノロジー業界団体のNetChoiceがカリフォルニア州に対して訴訟を提起しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-child-law-tech-industry-group/",
+          "publishedOn": "2022-12-15T02:57:00.000Z",
+          "wordCount": 2439,
+          "title": "GoogleやFacebookなどが参加するテクノロジー業界団体が「子どもを守るための児童安全法が子どもに害を及ぼす」として訴訟を提起",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/child-law-tech-industry-group/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221215-us-add-30-chinese-trade-blacklist/",
+          "author": null,
+          "description": "アメリカ商務省が、中国企業30社以上を貿易禁止リストに追加することを計画していることが明らかになりました。貿易禁止リストに追加される企業の筆頭には中国の国有半導体統合デバイスメーカーである「長江メモリ(YMTC)」の名前が挙げられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-us-add-30-chinese-trade-blacklist/",
+          "publishedOn": "2022-12-15T02:50:00.000Z",
+          "wordCount": 2469,
+          "title": "中国の半導体メーカー「YMTC」など30社以上を貿易禁止リストに追加することをアメリカ商務省が計画中",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/us-add-30-chinese-trade-blacklist/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221215-doutor-white-mont-blanc/",
           "author": null,
           "description": "ドトールコーヒーのスイーツメニューに、2022年12月15日(木)から「ホワイトモンブラン」が加わっています。さつまいもの「ほくほく生地」やマロンホイップクリーム、ホワイトチョコ風味のモンブランクリームで仕上げた数量限定の新作モンブランが気になったので、ドトールコーヒーで買って確かめてみました。\n続きを読む...",
@@ -3096,6 +3126,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news049.html",
+          "author": null,
+          "description": "IT企業で働く人のデスク環境を写真や本人のコメント付きで紹介。転職先の雰囲気を把握したい人に向け、さまざまな職種の社員がどんな環境で働いているかをチェックする。今回は同人誌などのダウンロード販売サイト「DLsite」に携わる人のデスク周りを探る。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news049.html",
+          "publishedOn": "2022-12-15T02:30:00.000Z",
+          "wordCount": 2705,
+          "title": "「DLsite」に携わるみんなのデスク環境　机の上には“推し”多数？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news049.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/15/news098.html",
           "author": null,

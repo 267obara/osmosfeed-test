@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-life-universe/",
+          "author": null,
+          "description": "イギリスの数学者ジョン・ホートン・コンウェイが考案した、生命の誕生と死をシミュレートする「ライフゲーム」の宇宙を再帰的に探索し続けられるようにしたインタラクティブコンテンツ「Life Universe」が公開されています。無限に広がる大宇宙に、どこまでも生命の営みが続いています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-life-universe/",
+          "publishedOn": "2022-12-15T06:06:00.000Z",
+          "wordCount": 2452,
+          "title": "無限に生命の誕生・進化・死を再帰し続ける恐るべきインタラクティブシミュレーション「Life Universe」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/life-universe/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221215-musk-twitter-ownership/",
           "author": null,
           "description": "テスラなどを創業した実業家のイーロン・マスク氏は2022年10月末に大手SNSのTwitterを買収してCEOに就任しましたが、買収直後に前CEOやCFOを解雇し、加えて従業員の約半数を解雇するなど、強権とも取れる統治を行いTwitterの大規模な改革を進めています。Twitterの買収から今日に至るまでのマスク氏の振る舞いについて、数々の従業員がBloombergのインタビューに答えています。\n続きを読む...",
@@ -3176,6 +3186,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news139.html",
+          "author": null,
+          "description": "スイッチサイエンスがポータブル量子コンピュータ「Gemini Mini」を発売した。量子ビット数は2で、価格は118万8000円。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news139.html",
+          "publishedOn": "2022-12-15T05:30:00.000Z",
+          "wordCount": 2612,
+          "title": "ポータブル量子コンピュータを119万円で発売　消費電力は60W、常温動作　スイッチサイエンスから",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news139.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news129.html",
+          "author": null,
+          "description": "米国のIT企業を中心に増えているレイオフ。その対象になってしまった従業員はその後どういうフローを経る必要があるのか、日本からは見えてこない実態について、現地のITエンジニアが紹介する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news129.html",
+          "publishedOn": "2022-12-15T05:00:00.000Z",
+          "wordCount": 2694,
+          "title": "米国でレイオフされるとどうなる？　生活や転職先は？　現地のITエンジニアが解説",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news129.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/15/news123.html",
           "author": null,

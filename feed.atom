@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T05:12:57.270Z</updated>
+    <updated>2022-12-15T06:17:58.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無限に生命の誕生・進化・死を再帰し続ける恐るべきインタラクティブシミュレーション「Life Universe」]]></title>
+        <id>https://gigazine.net/news/20221215-life-universe/</id>
+        <link href="https://gigazine.net/news/20221215-life-universe/"/>
+        <updated>2022-12-15T06:06:00.000Z</updated>
+        <summary type="html"><![CDATA[イギリスの数学者ジョン・ホートン・コンウェイが考案した、生命の誕生と死をシミュレートする「ライフゲーム」の宇宙を再帰的に探索し続けられるようにしたインタラクティブコンテンツ「Life Universe」が公開されています。無限に広がる大宇宙に、どこまでも生命の営みが続いています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ポータブル量子コンピュータを119万円で発売　消費電力は60W、常温動作　スイッチサイエンスから]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news139.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news139.html"/>
+        <updated>2022-12-15T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[スイッチサイエンスがポータブル量子コンピュータ「Gemini Mini」を発売した。量子ビット数は2で、価格は118万8000円。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロン・マスクのTwitter運営はシェイクスピアも真っ青の悲劇であり大惨事に近いものだという指摘]]></title>
         <id>https://gigazine.net/news/20221215-musk-twitter-ownership/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国でレイオフされるとどうなる？　生活や転職先は？　現地のITエンジニアが解説]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news129.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news129.html"/>
+        <updated>2022-12-15T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米国のIT企業を中心に増えているレイオフ。その対象になってしまった従業員はその後どういうフローを経る必要があるのか、日本からは見えてこない実態について、現地のITエンジニアが紹介する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T04:17:34.834Z</updated>
+    <updated>2022-12-15T05:12:57.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクのTwitter運営はシェイクスピアも真っ青の悲劇であり大惨事に近いものだという指摘]]></title>
+        <id>https://gigazine.net/news/20221215-musk-twitter-ownership/</id>
+        <link href="https://gigazine.net/news/20221215-musk-twitter-ownership/"/>
+        <updated>2022-12-15T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テスラなどを創業した実業家のイーロン・マスク氏は2022年10月末に大手SNSのTwitterを買収してCEOに就任しましたが、買収直後に前CEOやCFOを解雇し、加えて従業員の約半数を解雇するなど、強権とも取れる統治を行いTwitterの大規模な改革を進めています。Twitterの買収から今日に至るまでのマスク氏の振る舞いについて、数々の従業員がBloombergのインタビューに答えています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIが作った画像が喋る　動画生成サービス「Creative Reality Studio」登場　「GPT-3」「Stable Diffusion」を利用]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/15/news123.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/15/news123.html"/>
+        <updated>2022-12-15T04:44:00.000Z</updated>
+        <summary type="html"><![CDATA[生成系AIの開発などに取り組むイスラエルのD-IDは、アバターが喋る動画を生成できるサービス「Creative Reality Studio」を開発したと発表した。プロンプトを基に、AIが画像や喋らせたい内容を生成。それらを自動合成し、動画として出力する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTubeがAIでスパムコメントを取り締まり、違反者は24時間BANされコメント禁止]]></title>
         <id>https://gigazine.net/news/20221215-youtube-spam-ai/</id>

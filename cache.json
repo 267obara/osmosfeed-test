@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221215-musk-twitter-ownership/",
+          "author": null,
+          "description": "テスラなどを創業した実業家のイーロン・マスク氏は2022年10月末に大手SNSのTwitterを買収してCEOに就任しましたが、買収直後に前CEOやCFOを解雇し、加えて従業員の約半数を解雇するなど、強権とも取れる統治を行いTwitterの大規模な改革を進めています。Twitterの買収から今日に至るまでのマスク氏の振る舞いについて、数々の従業員がBloombergのインタビューに答えています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221215-musk-twitter-ownership/",
+          "publishedOn": "2022-12-15T05:00:00.000Z",
+          "wordCount": 2469,
+          "title": "イーロン・マスクのTwitter運営はシェイクスピアも真っ青の悲劇であり大惨事に近いものだという指摘",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/15/musk-twitter-ownership/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221215-youtube-spam-ai/",
           "author": null,
           "description": "YouTubeの動画やライブ配信には、視聴者が感想や意見をコメントすることができますが、しばしば心ない悪口や「荒らし」と呼ばれるコメントが現れます。そのようなスパムコメントをAIで検出して除去する取り組みや、複数の不正なコメントを残し続けたユーザーは最大24時間コメントができなくなる新機能などを、YouTubeが発表しました。\n続きを読む...",
@@ -3166,6 +3176,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/15/news123.html",
+          "author": null,
+          "description": "生成系AIの開発などに取り組むイスラエルのD-IDは、アバターが喋る動画を生成できるサービス「Creative Reality Studio」を開発したと発表した。プロンプトを基に、AIが画像や喋らせたい内容を生成。それらを自動合成し、動画として出力する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/15/news123.html",
+          "publishedOn": "2022-12-15T04:44:00.000Z",
+          "wordCount": 2638,
+          "title": "AIが作った画像が喋る　動画生成サービス「Creative Reality Studio」登場　「GPT-3」「Stable Diffusion」を利用",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/15/cover_news123.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/15/news116.html",
           "author": null,

@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T02:31:45.947Z</updated>
+    <updated>2022-12-16T03:14:22.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[文章に沿った楽曲を自動生成してくれるAI「Riffusion」登場、画像生成AI「Stable Diffusion」ベースで誰でも自由に利用可能]]></title>
+        <id>https://gigazine.net/news/20221216-stable-diffusion-riffusion-music/</id>
+        <link href="https://gigazine.net/news/20221216-stable-diffusion-riffusion-music/"/>
+        <updated>2022-12-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[入力した文章(プロンプト)に沿って画像を生成してくれるAI「Stable Diffusion」は、モデルデータが一般公開されていることから多くの人にカスタマイズを施されています。そんなStable Diffusionのモデルを調整して、文章を入力するだけで楽曲を生成してくれるAI「Riffusion」が開発されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スパイシーなトマトホットソースが肉の旨味と絡み合うバーガーキング「リリス・スパイシートマトダブルワッパーチーズ」を食べてきた]]></title>
+        <id>https://gigazine.net/news/20221216-burgerking-lilith-spicy-tomato-double-whopper-cheese/</id>
+        <link href="https://gigazine.net/news/20221216-burgerking-lilith-spicy-tomato-double-whopper-cheese/"/>
+        <updated>2022-12-16T02:52:00.000Z</updated>
+        <summary type="html"><![CDATA[バーガーキングが人気ゲームシリーズ「ディアブロ」の最新作「ディアブロⅣ」とのコラボ商品として、2022年12月16日(金)から「リリス・スパイシートマトダブルワッパーチーズ」の販売を開始したので、食べに行ってきました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドナルド・トランプが自分を題材にしたデジタルトレーディングカードを発売、トランプ氏とのディナーチケットが当たるキャンペーンも同時開催]]></title>
+        <id>https://gigazine.net/news/20221216-donald-trump-digital-trading-card-nft/</id>
+        <link href="https://gigazine.net/news/20221216-donald-trump-digital-trading-card-nft/"/>
+        <updated>2022-12-16T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年の大統領選に出馬する意向を表明している第45代アメリカ合衆国大統領のドナルド・トランプ氏が、自身を題材にしたデジタルトレーディングカードを発売することを明らかにしました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LegalForce、「就業規則」の自動レビューに対応]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news103.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news103.html"/>
+        <updated>2022-12-16T02:24:00.000Z</updated>
+        <summary type="html"><![CDATA[AI契約書レビューサービス「LegalForce」において就業規則のレビューが可能に]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロン・マスクがTwitterの損失穴埋めのためか約4950億円相当のテスラ株を売却、Twitter買収を発表してからこれで4回目]]></title>
         <id>https://gigazine.net/news/20221216-musk-offloads-tesla-stock/</id>

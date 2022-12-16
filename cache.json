@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221216-stable-diffusion-riffusion-music/",
+          "author": null,
+          "description": "入力した文章(プロンプト)に沿って画像を生成してくれるAI「Stable Diffusion」は、モデルデータが一般公開されていることから多くの人にカスタマイズを施されています。そんなStable Diffusionのモデルを調整して、文章を入力するだけで楽曲を生成してくれるAI「Riffusion」が開発されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-stable-diffusion-riffusion-music/",
+          "publishedOn": "2022-12-16T03:00:00.000Z",
+          "wordCount": 2482,
+          "title": "文章に沿った楽曲を自動生成してくれるAI「Riffusion」登場、画像生成AI「Stable Diffusion」ベースで誰でも自由に利用可能",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/stable-diffusion-riffusion-music/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221216-burgerking-lilith-spicy-tomato-double-whopper-cheese/",
+          "author": null,
+          "description": "バーガーキングが人気ゲームシリーズ「ディアブロ」の最新作「ディアブロⅣ」とのコラボ商品として、2022年12月16日(金)から「リリス・スパイシートマトダブルワッパーチーズ」の販売を開始したので、食べに行ってきました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-burgerking-lilith-spicy-tomato-double-whopper-cheese/",
+          "publishedOn": "2022-12-16T02:52:00.000Z",
+          "wordCount": 2434,
+          "title": "スパイシーなトマトホットソースが肉の旨味と絡み合うバーガーキング「リリス・スパイシートマトダブルワッパーチーズ」を食べてきた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/burgerking-lilith-spicy-tomato-double-whopper-cheese/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221216-donald-trump-digital-trading-card-nft/",
+          "author": null,
+          "description": "2024年の大統領選に出馬する意向を表明している第45代アメリカ合衆国大統領のドナルド・トランプ氏が、自身を題材にしたデジタルトレーディングカードを発売することを明らかにしました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-donald-trump-digital-trading-card-nft/",
+          "publishedOn": "2022-12-16T02:50:00.000Z",
+          "wordCount": 2590,
+          "title": "ドナルド・トランプが自分を題材にしたデジタルトレーディングカードを発売、トランプ氏とのディナーチケットが当たるキャンペーンも同時開催",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/donald-trump-digital-trading-card-nft/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221216-musk-offloads-tesla-stock/",
           "author": null,
           "description": "テスラやSpaceXを創業した実業家のイーロン・マスク氏が、約36億ドル(約4950億円)相当のテスラ株を新たに売り払ったことが分かりました。マスク氏が2022年4月に「これ以上テスラ株を売却する予定はない」とツイートして以降、実に3回目の売却となりました。\n続きを読む...",
@@ -3416,6 +3446,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news103.html",
+          "author": null,
+          "description": "AI契約書レビューサービス「LegalForce」において就業規則のレビューが可能に",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news103.html",
+          "publishedOn": "2022-12-16T02:24:00.000Z",
+          "wordCount": 2595,
+          "title": "LegalForce、「就業規則」の自動レビューに対応",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news103.png"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/16/news094.html",
           "author": null,

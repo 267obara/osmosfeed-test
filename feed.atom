@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T03:14:22.430Z</updated>
+    <updated>2022-12-16T04:16:14.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterがイーロン・マスクのプライベートジェット騒動について報じたジャーナリストたちのアカウントを次々と凍結]]></title>
+        <id>https://gigazine.net/news/20221216-elon-musk-jet-journalist-ban/</id>
+        <link href="https://gigazine.net/news/20221216-elon-musk-jet-journalist-ban/"/>
+        <updated>2022-12-16T04:03:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏は、Twitterを買収してCEOに就任して以降、ドナルド・トランプ元大統領のアカウントを含む数万件にのぼるアカウントの凍結を解除しています。そんな中「マスク氏のプライベートジェットを追跡するTwitterアカウントが凍結された」というニュースを報じた複数のジャーナリストのTwitterアカウントが次々と凍結される事態が発生しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterの元従業員が「サウジアラビアのスパイ」として反政府的なユーザーの情報を漏らした罪で懲役3年半の刑を宣告される]]></title>
+        <id>https://gigazine.net/news/20221216-former-twitter-employee-saudi-arabia-spy/</id>
+        <link href="https://gigazine.net/news/20221216-former-twitter-employee-saudi-arabia-spy/"/>
+        <updated>2022-12-16T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterの元従業員である男が、サウジアラビア政府に批判的なユーザーの電話番号や生年月日といった個人情報を政府のエージェントに流し、見返りに賄賂を受け取った罪で3年半の実刑判決を言い渡されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAIが対話AIや画像生成AIに使われる「埋め込みモデル」を刷新、性能当たりの価格が99.8％も安価に]]></title>
+        <id>https://gigazine.net/news/20221216-openai-ambedding-ada/</id>
+        <link href="https://gigazine.net/news/20221216-openai-ambedding-ada/"/>
+        <updated>2022-12-16T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[AI開発団体のOpenAIが、テキストや画像を数字に変換するEmbedding(埋め込み)モデル「text-embedding-ada-002」を発表しました。text-embedding-ada-002は従来のモデルよりも大幅に機能が向上し、コストパフォーマンスも高くなり、より使いやすくなっているとのことです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年末年始はいつも以上にご用心！　IPAの「情報セキュリティ注意喚起」で万全な仕事納めを]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news119.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news119.html"/>
+        <updated>2022-12-16T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[年末年始の長期休暇では、システム管理者が不在になるなど平時とは異なる状況になるため、IPAの注意事項を確認していつも以上に情報セキュリティ対策には気を付けないといけない。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram、乗っ取られたアカウント復旧ツールの提供開始]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news117.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news117.html"/>
+        <updated>2022-12-16T03:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Instagramは、アカウントをハッキングされてログインできなくなったユーザーのための復旧ツールを公開した。ツールのページでログインできない理由を選択すると、ケースごとの解決法に誘導される。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文章に沿った楽曲を自動生成してくれるAI「Riffusion」登場、画像生成AI「Stable Diffusion」ベースで誰でも自由に利用可能]]></title>
         <id>https://gigazine.net/news/20221216-stable-diffusion-riffusion-music/</id>
@@ -15,6 +68,56 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移行作業は？ 人材育成はどうする？ TypeScriptを導入して分かったリアルなメリットと課題とは]]></title>
+        <id>http://codezine.jp/article/detail/16905</id>
+        <link href="http://codezine.jp/article/detail/16905"/>
+        <updated>2022-12-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[フロントエンド領域の開発言語としてデファクトスタンダードになりつつある「TypeScript」。サービス開発において、標準のJavaScriptが抱える問題の解決を念頭に、導入を検討している現場も多いのではないでしょうか。しかし「導入はどう進めればいいのか」「移行のメリットが対応コストに見合うのか」「エンジニアはどうすれば育成できるのか」といった懸念から、本格的な導入に踏み切れていないケースもあるようです。今回は、ヤフーとSansanで、開発現場へのTypeScript導入を主導してきた二人のエンジニアに、導入して分かったメリットや注意点、社内での普及に向けた取り組みなどをお話しいただきました。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[91.7％が自社のDX推進において課題を実感、クラウドエースが大手企業のDX推進に関する調査を実施]]></title>
+        <id>http://codezine.jp/article/detail/17036</id>
+        <link href="http://codezine.jp/article/detail/17036"/>
+        <updated>2022-12-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[クラウドエースは、大企業（従業員数1000名以上）のDX推進担当者109名を対象に実施した、大手企業のDX推進に関する調査の結果を12月14日に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヒューマンリソシが世界の大学等におけるIT教育について調査を実施、日本のIT卒業者数は3.2万人で6位だが減少傾向]]></title>
+        <id>http://codezine.jp/article/detail/17050</id>
+        <link href="http://codezine.jp/article/detail/17050"/>
+        <updated>2022-12-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンリソシは、世界の大学等におけるIT分野の卒業者について調査を実施し、「2022年度版：データで見る世界のITエンジニアレポートvol.7」として12月15日に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[忘年会シーズンに気を付けること──尼崎USBメモリ紛失事案の報告書から学ぶ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news106.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news106.html"/>
+        <updated>2022-12-16T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[忘年会シーズンになり飲み会の機会が増えているが、情報機器の扱いには注意が必要だ。尼崎市USB紛失事案の二の舞にならないよう、同件の報告書を見て振り返る。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型ラズパイ登場か？　英Raspberry Pi財団、「Pi 5」とつぶやく]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news114.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news114.html"/>
+        <updated>2022-12-16T02:57:00.000Z</updated>
+        <summary type="html"><![CDATA[英Raspberry Pi財団は、公式Twitterアカウント（＠Raspberry_Pi）で「Pi 5」と投稿した。ツイートを見たユーザーからはRaspberry Piシリーズの新型に期待する声が上がっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221216-mirrorface-targeting-japanese-political-entities/",
+          "author": null,
+          "description": "2022年7月に行われた日本の参議院議員選挙に合わせて、「MirrorFace」と呼ばれるハッカーグループが日本の政治家を標的にフィッシングメールキャンペーンを展開していたことを、セキュリティソフトを開発するESETの研究者が報告しました。MirrorFaceは日本の企業や組織を標的とするハッカーグループであり、中国語を使用することが知られています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-mirrorface-targeting-japanese-political-entities/",
+          "publishedOn": "2022-12-16T07:00:00.000Z",
+          "wordCount": 2512,
+          "title": "中国語を使うハッカーグループが日本の参院選を狙って議員にフィッシング攻撃を仕掛けたことが判明、自民党が標的か",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/mirrorface-targeting-japanese-political-entities/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221216-tiktok-eating-disorders-suicide/",
           "author": null,
           "description": "ショート動画共有SNSのTikTokのアルゴリズムは10代のユーザーに自傷行為や摂食障害に関するコンテンツを短い頻度で何度も表示することがあると最新の調査で報告され、ソーシャルメディアによる若者のメンタルヘルスへの影響が懸念されています。\n続きを読む...",
@@ -2303,6 +2313,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17035",
+          "author": null,
+          "description": "Hexabaseは、日本発のバックエンドクラウドサービス「Hexabase」についてシステムエンジニア向けワークショップの参加者が開催1年で延べ50社200名を突破したことを12月13日に発表した。",
+          "link": "http://codezine.jp/article/detail/17035",
+          "publishedOn": "2022-12-16T07:00:00.000Z",
+          "wordCount": 4288,
+          "title": "Hexabase、エンジニア向けワークショップ参加者が1年で50社200名を突破",
+          "imageUrl": "https://codezine.jp/static/images/article/17035/17035_ogp.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16905",
           "author": null,
           "description": "フロントエンド領域の開発言語としてデファクトスタンダードになりつつある「TypeScript」。サービス開発において、標準のJavaScriptが抱える問題の解決を念頭に、導入を検討している現場も多いのではないでしょうか。しかし「導入はどう進めればいいのか」「移行のメリットが対応コストに見合うのか」「エンジニアはどうすれば育成できるのか」といった懸念から、本格的な導入に踏み切れていないケースもあるようです。今回は、ヤフーとSansanで、開発現場へのTypeScript導入を主導してきた二人のエンジニアに、導入して分かったメリットや注意点、社内での普及に向けた取り組みなどをお話しいただきました。",
@@ -3526,6 +3546,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news073.html",
+          "author": null,
+          "description": "改ざんや著作権侵害など、デジタルコンテンツでは避けて通れない課題を解決しようとする取り組みが、米Adobeを中心に複数社が加盟するCAIだ。このコンテンツ来歴記録機能をカメラに搭載しようと動いたのがニコンだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news073.html",
+          "publishedOn": "2022-12-16T06:00:00.000Z",
+          "wordCount": 2606,
+          "title": "改ざんされても撮影者が分かる“追跡”機能をカメラに　ニコンが「Z 9」ベースのテスト機を作った理由",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news073.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/16/news139.html",
           "author": null,

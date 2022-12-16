@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T06:16:55.098Z</updated>
+    <updated>2022-12-16T07:11:45.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中国語を使うハッカーグループが日本の参院選を狙って議員にフィッシング攻撃を仕掛けたことが判明、自民党が標的か]]></title>
+        <id>https://gigazine.net/news/20221216-mirrorface-targeting-japanese-political-entities/</id>
+        <link href="https://gigazine.net/news/20221216-mirrorface-targeting-japanese-political-entities/"/>
+        <updated>2022-12-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年7月に行われた日本の参議院議員選挙に合わせて、「MirrorFace」と呼ばれるハッカーグループが日本の政治家を標的にフィッシングメールキャンペーンを展開していたことを、セキュリティソフトを開発するESETの研究者が報告しました。MirrorFaceは日本の企業や組織を標的とするハッカーグループであり、中国語を使用することが知られています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hexabase、エンジニア向けワークショップ参加者が1年で50社200名を突破]]></title>
+        <id>http://codezine.jp/article/detail/17035</id>
+        <link href="http://codezine.jp/article/detail/17035"/>
+        <updated>2022-12-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hexabaseは、日本発のバックエンドクラウドサービス「Hexabase」についてシステムエンジニア向けワークショップの参加者が開催1年で延べ50社200名を突破したことを12月13日に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTokのアルゴリズムは自殺に至る自傷行為や摂食障害に関する動画を10代のユーザーにオススメしてしまうことが調査で発覚、39秒に1回の頻度で有害コンテンツをユーザーにプッシュしている]]></title>
         <id>https://gigazine.net/news/20221216-tiktok-eating-disorders-suicide/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改ざんされても撮影者が分かる“追跡”機能をカメラに　ニコンが「Z 9」ベースのテスト機を作った理由]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news073.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news073.html"/>
+        <updated>2022-12-16T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[改ざんや著作権侵害など、デジタルコンテンツでは避けて通れない課題を解決しようとする取り組みが、米Adobeを中心に複数社が加盟するCAIだ。このコンテンツ来歴記録機能をカメラに搭載しようと動いたのがニコンだ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

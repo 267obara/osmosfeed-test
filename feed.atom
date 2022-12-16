@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T12:24:04.084Z</updated>
+    <updated>2022-12-16T13:17:32.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[フライドポテト＆ナゲット＆オニオンリング＆チーズバイツ合計900g超にドリンクがついて2000円に収まるバーガーキングの「キングストイボックス」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221216-burgerking-kings-toybox/</id>
+        <link href="https://gigazine.net/news/20221216-burgerking-kings-toybox/"/>
+        <updated>2022-12-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[バーガーキングから、サイドメニューの「フライドポテト」「チーズバイツ」「チキンナゲット」「オニオンリング」がすべて入った上でドリンクもついた盛り合わせセット「キングストイボックス」が登場したので、買って食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[画像生成AIに抗議するため著作権に厳しいディズニー・任天堂・マーベルなどのキャラクターのAIによる自動生成画像をばらまく]]></title>
         <id>https://gigazine.net/news/20221216-copy-right-disney-nintendo-ai-image/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドンキの看板「ドンペン」引退“撤回”　一時Twitterトレンド1位、社長も参戦などSNSでは騒動に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news150.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news150.html"/>
+        <updated>2022-12-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[小売大手「ドン・キホーテ」を運営するパン・パシフィック・インターナショナルホールディングスは、同社の公式キャラクターを巡る騒動について声明を発表した。これまで公式キャラクターを務めてきたドンペンの引退を発表していたが、これを撤回した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

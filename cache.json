@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221216-burgerking-kings-toybox/",
+          "author": null,
+          "description": "バーガーキングから、サイドメニューの「フライドポテト」「チーズバイツ」「チキンナゲット」「オニオンリング」がすべて入った上でドリンクもついた盛り合わせセット「キングストイボックス」が登場したので、買って食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-burgerking-kings-toybox/",
+          "publishedOn": "2022-12-16T13:00:00.000Z",
+          "wordCount": 2439,
+          "title": "フライドポテト＆ナゲット＆オニオンリング＆チーズバイツ合計900g超にドリンクがついて2000円に収まるバーガーキングの「キングストイボックス」を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/burgerking-kings-toybox/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221216-copy-right-disney-nintendo-ai-image/",
           "author": null,
           "description": "Stable DiffusionやMidjourneyのような画像生成AIは、学習時に使われるデータセットに含まれる画像が著作権を無視して収集されているという問題があり、議論の対象となっています。そんな画像生成AIに抗議するため、あえてディズニーや任天堂などの著作権に厳しいキャラクターの画像を生成して疑問を呈する人が登場したと話題になっています。\n続きを読む...",
@@ -3616,6 +3626,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news150.html",
+          "author": null,
+          "description": "小売大手「ドン・キホーテ」を運営するパン・パシフィック・インターナショナルホールディングスは、同社の公式キャラクターを巡る騒動について声明を発表した。これまで公式キャラクターを務めてきたドンペンの引退を発表していたが、これを撤回した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news150.html",
+          "publishedOn": "2022-12-16T12:00:00.000Z",
+          "wordCount": 2618,
+          "title": "ドンキの看板「ドンペン」引退“撤回”　一時Twitterトレンド1位、社長も参戦などSNSでは騒動に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news150.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/16/news187.html",
           "author": null,

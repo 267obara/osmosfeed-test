@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221216-aliens-fermi-paradox-technological-signals/",
+          "author": null,
+          "description": "宇宙は想像を絶するほど広大なため、地球と同じかそれより優れた文明があってもおかしくはないように思えますが、これまでのところ地球外知的生命体からのコンタクトはおろか、地球外文明が存在する兆候すら確認されていません。この謎に対する答えとして、「宇宙人には地球に知的な生命体がいるようには見えないので、わざわざ連絡をよこさないのではないか」との仮説が提唱されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-aliens-fermi-paradox-technological-signals/",
+          "publishedOn": "2022-12-16T10:00:00.000Z",
+          "wordCount": 2461,
+          "title": "エイリアンが地球に来訪しないのは「知的じゃない」と思われているから",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/aliens-fermi-paradox-technological-signals/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221216-headline/",
+          "author": null,
+          "description": "少年ジャンプ＋連載中の漫画を原作としたアニメ「怪獣8号」の放送が2024年に決定し、ティザーPVが公開されています。怪獣デザイン＆ワークスは「ヱヴァンゲリヲン新劇場版」シリーズのスタジオカラー、アニメーション制作は「攻殻機動隊」「PSYCHO-PASS サイコパス」のProduction I.Gが手がけます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-headline/",
+          "publishedOn": "2022-12-16T09:39:00.000Z",
+          "wordCount": 6519,
+          "title": "2022年12月16日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/headline/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221216-yuki-hijiri-passed-away/",
+          "author": null,
+          "description": "SF超巨編漫画「超人ロック」の作者として知られる漫画家の聖悠紀(ひじり・ゆき)さんが2022年10月30日(日)に肺炎のため亡くなっていたことがわかりました。72歳でした。聖さんは2020年にパーキンソン病で闘病中であることを明かしていました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-yuki-hijiri-passed-away/",
+          "publishedOn": "2022-12-16T09:16:00.000Z",
+          "wordCount": 2643,
+          "title": "【訃報】SF漫画「超人ロック」作者の聖悠紀さん死去",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/yuki-hijiri-passed-away/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221216-stability-ai-opt-out/",
           "author": null,
           "description": "画像生成AI「Stable Diffusion」を開発するスタートアップ・Stability AIの設立者であるEmad Mostaque氏がTwitterで、来たるStable Diffusion 3.0のトレーニングデータセットから、アーティストが自分の作品を削除できるようにすると発表しました。この動きは、Spawningというアーティスト支援団体が、画像生成AIに自分の作品が勝手に使われたかどうかを検索できるサイト「Have I Been Trained?」で収集したオプトアウト要求を尊重するとツイートしたことに由来しています。\n続きを読む...",
@@ -3566,6 +3596,46 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news179.html",
+          "author": null,
+          "description": "インボイス制度に登録しない免税事業者との取引について、「取引しない」と回答した企業が10.2%に。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news179.html",
+          "publishedOn": "2022-12-16T09:28:00.000Z",
+          "wordCount": 2595,
+          "title": "インボイス制度、1割強が免税事業者と「取引しない」　東京商工リサーチ調査",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news179.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news177.html",
+          "author": null,
+          "description": "Android版LINEアプリで提供している「Keep機能」に脆弱性が見つかった。特定の条件を満たすと、Android端末を譲渡した場合に、LINEアカウントをログアウトしても、別アカウントでログインすれば過去のデータを閲覧できる状態になっていた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news177.html",
+          "publishedOn": "2022-12-16T09:00:00.000Z",
+          "wordCount": 2591,
+          "title": "LINEに7年越しの脆弱性　別アカウントからデータを閲覧される恐れ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news177.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news175.html",
+          "author": null,
+          "description": "岸田首相は、来日中の米Appleのティム・クックCEOとの面会のなかで、iPhoneへのマイナンバーカード機能搭載の協力を要請したと、TBSや日本経済新聞が報じている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news175.html",
+          "publishedOn": "2022-12-16T09:00:00.000Z",
+          "wordCount": 2599,
+          "title": "岸田首相、iPhoneへのマイナカード搭載をティム・クックCEOに要請　TBSなど報じる",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news175.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news173.html",
+          "author": null,
+          "description": "自民党および公明党は12月16日、「令和5年度税制改正大綱」を取りまとめてWebページで公開した",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news173.html",
+          "publishedOn": "2022-12-16T08:35:00.000Z",
+          "wordCount": 2595,
+          "title": "インボイス制度に2つの負担軽減策　与党の「令和5年度税制改正大綱」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news173.png"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/16/news169.html",
           "author": null,

@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T09:12:39.405Z</updated>
+    <updated>2022-12-16T10:14:15.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[エイリアンが地球に来訪しないのは「知的じゃない」と思われているから]]></title>
+        <id>https://gigazine.net/news/20221216-aliens-fermi-paradox-technological-signals/</id>
+        <link href="https://gigazine.net/news/20221216-aliens-fermi-paradox-technological-signals/"/>
+        <updated>2022-12-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[宇宙は想像を絶するほど広大なため、地球と同じかそれより優れた文明があってもおかしくはないように思えますが、これまでのところ地球外知的生命体からのコンタクトはおろか、地球外文明が存在する兆候すら確認されていません。この謎に対する答えとして、「宇宙人には地球に知的な生命体がいるようには見えないので、わざわざ連絡をよこさないのではないか」との仮説が提唱されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年12月16日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221216-headline/</id>
+        <link href="https://gigazine.net/news/20221216-headline/"/>
+        <updated>2022-12-16T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[少年ジャンプ＋連載中の漫画を原作としたアニメ「怪獣8号」の放送が2024年に決定し、ティザーPVが公開されています。怪獣デザイン＆ワークスは「ヱヴァンゲリヲン新劇場版」シリーズのスタジオカラー、アニメーション制作は「攻殻機動隊」「PSYCHO-PASS サイコパス」のProduction I.Gが手がけます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インボイス制度、1割強が免税事業者と「取引しない」　東京商工リサーチ調査]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news179.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news179.html"/>
+        <updated>2022-12-16T09:28:00.000Z</updated>
+        <summary type="html"><![CDATA[インボイス制度に登録しない免税事業者との取引について、「取引しない」と回答した企業が10.2%に。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【訃報】SF漫画「超人ロック」作者の聖悠紀さん死去]]></title>
+        <id>https://gigazine.net/news/20221216-yuki-hijiri-passed-away/</id>
+        <link href="https://gigazine.net/news/20221216-yuki-hijiri-passed-away/"/>
+        <updated>2022-12-16T09:16:00.000Z</updated>
+        <summary type="html"><![CDATA[SF超巨編漫画「超人ロック」の作者として知られる漫画家の聖悠紀(ひじり・ゆき)さんが2022年10月30日(日)に肺炎のため亡くなっていたことがわかりました。72歳でした。聖さんは2020年にパーキンソン病で闘病中であることを明かしていました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Developers Summit 2023が来年2月9、10日にオンライン開催、事前登録受付開始]]></title>
         <id>http://codezine.jp/article/detail/17056</id>
@@ -14,6 +57,36 @@
         <summary type="html"><![CDATA[翔泳社 CodeZine編集部は、ソフトウェア開発者向けカンファレンス「Developers Summit 2023」（以下、デブサミ2023）を2023年2月9日・10日に、オンラインにて開催する。公式サイトにてタイムテーブルを公開し、併せて事前登録も開始した。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEに7年越しの脆弱性　別アカウントからデータを閲覧される恐れ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news177.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news177.html"/>
+        <updated>2022-12-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Android版LINEアプリで提供している「Keep機能」に脆弱性が見つかった。特定の条件を満たすと、Android端末を譲渡した場合に、LINEアカウントをログアウトしても、別アカウントでログインすれば過去のデータを閲覧できる状態になっていた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相、iPhoneへのマイナカード搭載をティム・クックCEOに要請　TBSなど報じる]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news175.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news175.html"/>
+        <updated>2022-12-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[岸田首相は、来日中の米Appleのティム・クックCEOとの面会のなかで、iPhoneへのマイナンバーカード機能搭載の協力を要請したと、TBSや日本経済新聞が報じている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インボイス制度に2つの負担軽減策　与党の「令和5年度税制改正大綱」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news173.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news173.html"/>
+        <updated>2022-12-16T08:35:00.000Z</updated>
+        <summary type="html"><![CDATA[自民党および公明党は12月16日、「令和5年度税制改正大綱」を取りまとめてWebページで公開した]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

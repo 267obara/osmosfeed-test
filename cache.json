@@ -6,6 +6,46 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221216-musk-offloads-tesla-stock/",
+          "author": null,
+          "description": "テスラやSpaceXを創業した実業家のイーロン・マスク氏が、約36億ドル(約4950億円)相当のテスラ株を新たに売り払ったことが分かりました。マスク氏が2022年4月に「これ以上テスラ株を売却する予定はない」とツイートして以降、実に3回目の売却となりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-musk-offloads-tesla-stock/",
+          "publishedOn": "2022-12-16T02:15:00.000Z",
+          "wordCount": 2511,
+          "title": "イーロン・マスクがTwitterの損失穴埋めのためか約4950億円相当のテスラ株を売却、Twitter買収を発表してからこれで4回目",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/musk-offloads-tesla-stock/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221216-death-stranding-movie/",
+          "author": null,
+          "description": "小島秀夫監督率いるコジマプロダクションが手がけたオープンワールド・アクション・アドベンチャーゲーム「DEATH STRANDING」が映画化されることが分かりました。本作はコジマプロダクションが直接制作に携わる、同スタジオ初の長編映画として注目されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-death-stranding-movie/",
+          "publishedOn": "2022-12-16T02:10:00.000Z",
+          "wordCount": 2496,
+          "title": "「DEATH STRANDING」の映画化が決定、小島監督と「アンチャーテッド」の実写映画化を指揮した監督がタッグ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/death-stranding-movie/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221216-instagram-account-hacking-recovery/",
+          "author": null,
+          "description": "2022年12月15日(木)、 Instagramはユーザーが「不正アクセスやパスワードを忘れたことが原因でアカウントにアクセスできないケース」や「なりすましアカウントが作成されているケース」に遭遇した際、アカウントの回復や問題の報告を行うためのサポート機能を発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-instagram-account-hacking-recovery/",
+          "publishedOn": "2022-12-16T01:59:00.000Z",
+          "wordCount": 2463,
+          "title": "Instagramが不正アクセスされたアカウントの回復・パスワードを忘れた後のアカウントへのアクセス・なりすましアカウントの報告を支援するための機能を提供開始",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/instagram-account-hacking-recovery/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221216-senate-votes-ban-tiktok-government-devices/",
+          "author": null,
+          "description": "アメリカでは長らく中国発のソーシャルメディアであるTikTokに対するセキュリティ上の懸念の声が上がっています。現地時間の2022年12月14日には上院で「政府のデバイスでTikTokの使用を禁止する法案」が全会一致で承認されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-senate-votes-ban-tiktok-government-devices/",
+          "publishedOn": "2022-12-16T01:51:00.000Z",
+          "wordCount": 2585,
+          "title": "「TikTokを政府のスマホなどで使うことを禁止する法案」が上院で全会一致で承認、アメリカでは既に13州がTikTok禁止措置を講じている",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/senate-votes-ban-tiktok-government-devices/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221216-ddos-site-charge/",
           "author": null,
           "description": "攻撃対象に膨大なトラフィックを送信し処理不能に陥らせるDDoS攻撃は、これまでに多数の企業や政府機関に被害を与えています。そんなDDoS攻撃の代行サービスを運営していた6人の人物がアメリカ司法省に起訴されました。今回起訴された人物らはアメリカおよび海外の教育機関や政府機関、ゲームプラットフォーム、何百万人もの個人にDDoS攻撃を実行したとされています。\n続きを読む...",
@@ -2183,6 +2223,36 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17051",
+          "author": null,
+          "description": "ハイヤールーが提供するコーディング試験サービス「HireRoo」は、バッチ機能の追加と問題数の100問突破したことを12月15日に発表した。バッチ機能の活用と未経験者向けの問題追加により、新卒採用・ポテンシャル採用にも活用しやすくなった。",
+          "link": "http://codezine.jp/article/detail/17051",
+          "publishedOn": "2022-12-16T02:00:00.000Z",
+          "wordCount": 4279,
+          "title": "コーディング試験サービス「HireRoo」、バッチ機能の追加と問題数の100問突破したことを発表",
+          "imageUrl": "https://codezine.jp/static/images/article/17051/17051_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17047",
+          "author": null,
+          "description": "米Googleは、Google CloudにおけるフルマネージドのPostgreSQL互換データベースサービス「AlloyDB for PostgreSQL」の一般提供を、12月15日（現地時間）に開始した。",
+          "link": "http://codezine.jp/article/detail/17047",
+          "publishedOn": "2022-12-16T01:00:00.000Z",
+          "wordCount": 4292,
+          "title": "Google、フルマネージドのPostgreSQL互換データベースサービス「AlloyDB for PostgreSQL」を一般提供",
+          "imageUrl": "https://codezine.jp/static/images/article/17047/12603_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17048",
+          "author": null,
+          "description": "ヒューマンリソシアは、世界のIT技術者を対象にした給与動向の調査に基づく「2022年度版：データで見る世界のITエンジニアレポートvol.6」を、12月14日に発表した。同レポートでは、国際労働機関（ILO）や各国の統計データ、および公表データに基づく独自分析によって、世界98か国におけるIT技術者の給与を調査している。",
+          "link": "http://codezine.jp/article/detail/17048",
+          "publishedOn": "2022-12-16T01:00:00.000Z",
+          "wordCount": 4276,
+          "title": "世界のIT技術者、給与額1位はスイス、2位はアメリカ。日本は20位に留まる",
+          "imageUrl": "https://codezine.jp/static/images/article/17048/17048_og.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17045",
           "author": null,
           "description": "情報処理推進機構（IPA）は、年末年始の長期休暇における情報セキュリティ対策を、12月13日に呼びかけた。",
@@ -3346,6 +3416,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news094.html",
+          "author": null,
+          "description": "MicrosoftはAzureを含むオンラインサービス共通ライセンス条項を更新し、事前承認のない暗号通貨マイニングを禁止した。AWSやGoogle Cloudは2018年から禁止している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news094.html",
+          "publishedOn": "2022-12-16T01:42:00.000Z",
+          "wordCount": 2606,
+          "title": "Microsoft、Azureなどでの無断仮想通貨マイニングを禁止",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news094.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/16/news087.html",
           "author": null,

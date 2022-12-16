@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T01:06:07.128Z</updated>
+    <updated>2022-12-16T02:31:45.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクがTwitterの損失穴埋めのためか約4950億円相当のテスラ株を売却、Twitter買収を発表してからこれで4回目]]></title>
+        <id>https://gigazine.net/news/20221216-musk-offloads-tesla-stock/</id>
+        <link href="https://gigazine.net/news/20221216-musk-offloads-tesla-stock/"/>
+        <updated>2022-12-16T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[テスラやSpaceXを創業した実業家のイーロン・マスク氏が、約36億ドル(約4950億円)相当のテスラ株を新たに売り払ったことが分かりました。マスク氏が2022年4月に「これ以上テスラ株を売却する予定はない」とツイートして以降、実に3回目の売却となりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「DEATH STRANDING」の映画化が決定、小島監督と「アンチャーテッド」の実写映画化を指揮した監督がタッグ]]></title>
+        <id>https://gigazine.net/news/20221216-death-stranding-movie/</id>
+        <link href="https://gigazine.net/news/20221216-death-stranding-movie/"/>
+        <updated>2022-12-16T02:10:00.000Z</updated>
+        <summary type="html"><![CDATA[小島秀夫監督率いるコジマプロダクションが手がけたオープンワールド・アクション・アドベンチャーゲーム「DEATH STRANDING」が映画化されることが分かりました。本作はコジマプロダクションが直接制作に携わる、同スタジオ初の長編映画として注目されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コーディング試験サービス「HireRoo」、バッチ機能の追加と問題数の100問突破したことを発表]]></title>
+        <id>http://codezine.jp/article/detail/17051</id>
+        <link href="http://codezine.jp/article/detail/17051"/>
+        <updated>2022-12-16T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ハイヤールーが提供するコーディング試験サービス「HireRoo」は、バッチ機能の追加と問題数の100問突破したことを12月15日に発表した。バッチ機能の活用と未経験者向けの問題追加により、新卒採用・ポテンシャル採用にも活用しやすくなった。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagramが不正アクセスされたアカウントの回復・パスワードを忘れた後のアカウントへのアクセス・なりすましアカウントの報告を支援するための機能を提供開始]]></title>
+        <id>https://gigazine.net/news/20221216-instagram-account-hacking-recovery/</id>
+        <link href="https://gigazine.net/news/20221216-instagram-account-hacking-recovery/"/>
+        <updated>2022-12-16T01:59:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年12月15日(木)、 Instagramはユーザーが「不正アクセスやパスワードを忘れたことが原因でアカウントにアクセスできないケース」や「なりすましアカウントが作成されているケース」に遭遇した際、アカウントの回復や問題の報告を行うためのサポート機能を発表しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「TikTokを政府のスマホなどで使うことを禁止する法案」が上院で全会一致で承認、アメリカでは既に13州がTikTok禁止措置を講じている]]></title>
+        <id>https://gigazine.net/news/20221216-senate-votes-ban-tiktok-government-devices/</id>
+        <link href="https://gigazine.net/news/20221216-senate-votes-ban-tiktok-government-devices/"/>
+        <updated>2022-12-16T01:51:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカでは長らく中国発のソーシャルメディアであるTikTokに対するセキュリティ上の懸念の声が上がっています。現地時間の2022年12月14日には上院で「政府のデバイスでTikTokの使用を禁止する法案」が全会一致で承認されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、Azureなどでの無断仮想通貨マイニングを禁止]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news094.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news094.html"/>
+        <updated>2022-12-16T01:42:00.000Z</updated>
+        <summary type="html"><![CDATA[MicrosoftはAzureを含むオンラインサービス共通ライセンス条項を更新し、事前承認のない暗号通貨マイニングを禁止した。AWSやGoogle Cloudは2018年から禁止している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、フルマネージドのPostgreSQL互換データベースサービス「AlloyDB for PostgreSQL」を一般提供]]></title>
+        <id>http://codezine.jp/article/detail/17047</id>
+        <link href="http://codezine.jp/article/detail/17047"/>
+        <updated>2022-12-16T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Googleは、Google CloudにおけるフルマネージドのPostgreSQL互換データベースサービス「AlloyDB for PostgreSQL」の一般提供を、12月15日（現地時間）に開始した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界のIT技術者、給与額1位はスイス、2位はアメリカ。日本は20位に留まる]]></title>
+        <id>http://codezine.jp/article/detail/17048</id>
+        <link href="http://codezine.jp/article/detail/17048"/>
+        <updated>2022-12-16T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒューマンリソシアは、世界のIT技術者を対象にした給与動向の調査に基づく「2022年度版：データで見る世界のITエンジニアレポートvol.6」を、12月14日に発表した。同レポートでは、国際労働機関（ILO）や各国の統計データ、および公表データに基づく独自分析によって、世界98か国におけるIT技術者の給与を調査している。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon Games、「トゥームレイダー」新作をグローバル公開へ]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/16/news087.html</id>

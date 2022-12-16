@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T04:16:14.023Z</updated>
+    <updated>2022-12-16T05:12:17.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドライバーすら不要で簡単にバラバラ分解可能なDellのノートPC「Luna」]]></title>
+        <id>https://gigazine.net/news/20221216-dell-luna/</id>
+        <link href="https://gigazine.net/news/20221216-dell-luna/"/>
+        <updated>2022-12-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年、Dellはパーツを簡単にバラバラに分解することができるノートPCのコンセプトとして「Luna」を発表しました。Lunaは故障したパーツを簡単に交換することができるというノートPCで、パーツの交換＆再利用を推進することで、新たな資源の使用量を削減し、製品全体のカーボンフットプリントを削減することを目指したものです。このLunaの新しいプロトタイプがメディア向けにお披露目され、ドライバーすら不要でさらに細かくバラバラ分解できるよう進化していることが明らかになっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三井住友カード、電気料金の3％を還元する「Vポイントでんき」提供開始　ただし燃料調整額の上限設定なし]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news126.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news126.html"/>
+        <updated>2022-12-16T04:09:00.000Z</updated>
+        <summary type="html"><![CDATA[三井住友カードは12月15日から、同社カード会員向けの新サービス「Vポイントでんき」の申込み受付を開始した。電気料金を三井住友カードで支払うと、料金の3％をVポイントで還元する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterがイーロン・マスクのプライベートジェット騒動について報じたジャーナリストたちのアカウントを次々と凍結]]></title>
         <id>https://gigazine.net/news/20221216-elon-musk-jet-journalist-ban/</id>

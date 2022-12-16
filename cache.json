@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221216-dell-luna/",
+          "author": null,
+          "description": "2021年、Dellはパーツを簡単にバラバラに分解することができるノートPCのコンセプトとして「Luna」を発表しました。Lunaは故障したパーツを簡単に交換することができるというノートPCで、パーツの交換＆再利用を推進することで、新たな資源の使用量を削減し、製品全体のカーボンフットプリントを削減することを目指したものです。このLunaの新しいプロトタイプがメディア向けにお披露目され、ドライバーすら不要でさらに細かくバラバラ分解できるよう進化していることが明らかになっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-dell-luna/",
+          "publishedOn": "2022-12-16T05:00:00.000Z",
+          "wordCount": 2463,
+          "title": "ドライバーすら不要で簡単にバラバラ分解可能なDellのノートPC「Luna」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/dell-luna/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221216-elon-musk-jet-journalist-ban/",
           "author": null,
           "description": "イーロン・マスク氏は、Twitterを買収してCEOに就任して以降、ドナルド・トランプ元大統領のアカウントを含む数万件にのぼるアカウントの凍結を解除しています。そんな中「マスク氏のプライベートジェットを追跡するTwitterアカウントが凍結された」というニュースを報じた複数のジャーナリストのTwitterアカウントが次々と凍結される事態が発生しました。\n続きを読む...",
@@ -3506,6 +3516,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news126.html",
+          "author": null,
+          "description": "三井住友カードは12月15日から、同社カード会員向けの新サービス「Vポイントでんき」の申込み受付を開始した。電気料金を三井住友カードで支払うと、料金の3％をVポイントで還元する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news126.html",
+          "publishedOn": "2022-12-16T04:09:00.000Z",
+          "wordCount": 2339,
+          "title": "三井住友カード、電気料金の3％を還元する「Vポイントでんき」提供開始　ただし燃料調整額の上限設定なし",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news126.png"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/16/news119.html",
           "author": null,

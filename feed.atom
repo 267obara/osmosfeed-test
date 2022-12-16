@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T05:12:17.107Z</updated>
+    <updated>2022-12-16T06:16:55.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TikTokのアルゴリズムは自殺に至る自傷行為や摂食障害に関する動画を10代のユーザーにオススメしてしまうことが調査で発覚、39秒に1回の頻度で有害コンテンツをユーザーにプッシュしている]]></title>
+        <id>https://gigazine.net/news/20221216-tiktok-eating-disorders-suicide/</id>
+        <link href="https://gigazine.net/news/20221216-tiktok-eating-disorders-suicide/"/>
+        <updated>2022-12-16T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ショート動画共有SNSのTikTokのアルゴリズムは10代のユーザーに自傷行為や摂食障害に関するコンテンツを短い頻度で何度も表示することがあると最新の調査で報告され、ソーシャルメディアによる若者のメンタルヘルスへの影響が懸念されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter、ElonJet関連記事を書いた複数の記者のアカウントを凍結]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news139.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news139.html"/>
+        <updated>2022-12-16T05:08:00.000Z</updated>
+        <summary type="html"><![CDATA[TwitterはNew York Timesのライアン・マック記者を含む複数の著名ジャーナリストのアカウントを凍結した。その多くは前日、イーロン・マスクCEOの自家用ジェット位置情報をツイートして凍結されたElonJetについての記事を書いた。マスク氏は「ジャーナリストにもドキシングルールが適用される」とツイートした。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドライバーすら不要で簡単にバラバラ分解可能なDellのノートPC「Luna」]]></title>
         <id>https://gigazine.net/news/20221216-dell-luna/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JCBカードの「App Store」利用で20％キャッシュバック　アカウントチャージも対象]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news134.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news134.html"/>
+        <updated>2022-12-16T04:38:00.000Z</updated>
+        <summary type="html"><![CDATA[JCBは12月16日から、JCBカードで「App Store」などAppleの各サービスを利用すると、代金の20％をキャッシュバックするキャンペーンを開始した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

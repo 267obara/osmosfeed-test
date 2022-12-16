@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221216-tiktok-eating-disorders-suicide/",
+          "author": null,
+          "description": "ショート動画共有SNSのTikTokのアルゴリズムは10代のユーザーに自傷行為や摂食障害に関するコンテンツを短い頻度で何度も表示することがあると最新の調査で報告され、ソーシャルメディアによる若者のメンタルヘルスへの影響が懸念されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-tiktok-eating-disorders-suicide/",
+          "publishedOn": "2022-12-16T06:00:00.000Z",
+          "wordCount": 2710,
+          "title": "TikTokのアルゴリズムは自殺に至る自傷行為や摂食障害に関する動画を10代のユーザーにオススメしてしまうことが調査で発覚、39秒に1回の頻度で有害コンテンツをユーザーにプッシュしている",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/tiktok-eating-disorders-suicide/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221216-dell-luna/",
           "author": null,
           "description": "2021年、Dellはパーツを簡単にバラバラに分解することができるノートPCのコンセプトとして「Luna」を発表しました。Lunaは故障したパーツを簡単に交換することができるというノートPCで、パーツの交換＆再利用を推進することで、新たな資源の使用量を削減し、製品全体のカーボンフットプリントを削減することを目指したものです。このLunaの新しいプロトタイプがメディア向けにお披露目され、ドライバーすら不要でさらに細かくバラバラ分解できるよう進化していることが明らかになっています。\n続きを読む...",
@@ -3516,6 +3526,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news139.html",
+          "author": null,
+          "description": "TwitterはNew York Timesのライアン・マック記者を含む複数の著名ジャーナリストのアカウントを凍結した。その多くは前日、イーロン・マスクCEOの自家用ジェット位置情報をツイートして凍結されたElonJetについての記事を書いた。マスク氏は「ジャーナリストにもドキシングルールが適用される」とツイートした。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news139.html",
+          "publishedOn": "2022-12-16T05:08:00.000Z",
+          "wordCount": 2616,
+          "title": "Twitter、ElonJet関連記事を書いた複数の記者のアカウントを凍結",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news139.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news134.html",
+          "author": null,
+          "description": "JCBは12月16日から、JCBカードで「App Store」などAppleの各サービスを利用すると、代金の20％をキャッシュバックするキャンペーンを開始した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news134.html",
+          "publishedOn": "2022-12-16T04:38:00.000Z",
+          "wordCount": 2373,
+          "title": "JCBカードの「App Store」利用で20％キャッシュバック　アカウントチャージも対象",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news134.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/16/news126.html",
           "author": null,

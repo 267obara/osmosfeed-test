@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221216-copy-right-disney-nintendo-ai-image/",
+          "author": null,
+          "description": "Stable DiffusionやMidjourneyのような画像生成AIは、学習時に使われるデータセットに含まれる画像が著作権を無視して収集されているという問題があり、議論の対象となっています。そんな画像生成AIに抗議するため、あえてディズニーや任天堂などの著作権に厳しいキャラクターの画像を生成して疑問を呈する人が登場したと話題になっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-copy-right-disney-nintendo-ai-image/",
+          "publishedOn": "2022-12-16T12:00:00.000Z",
+          "wordCount": 2911,
+          "title": "画像生成AIに抗議するため著作権に厳しいディズニー・任天堂・マーベルなどのキャラクターのAIによる自動生成画像をばらまく",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/copy-right-disney-nintendo-ai-image/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221216-ancient-grammatical-puzzle-solved/",
           "author": null,
           "description": "紀元前5世紀頃のインドの文法学者であり、「言語学の父」とも呼ばれるサンスクリット文法学者・パーニニが作成した文法規則を解読することに研究者が成功しました。\n続きを読む...",
@@ -3606,6 +3616,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news187.html",
+          "author": null,
+          "description": "Twitterの音声コミュニティ機能「スペース」が12月16日午後あたりから「使えなくなっている」とTwitter上で話題になっている。それに対し、イーロン・マスク氏は「レガシーなバグを修正しています。明日には使えるはず」と明かした。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news187.html",
+          "publishedOn": "2022-12-16T11:20:00.000Z",
+          "wordCount": 2601,
+          "title": "Twitterの「スペース」が消えた？　イーロン・マスク氏「バグを修正中」と明かす",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news187.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/16/news179.html",
           "author": null,

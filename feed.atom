@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T11:10:55.951Z</updated>
+    <updated>2022-12-16T12:24:04.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[画像生成AIに抗議するため著作権に厳しいディズニー・任天堂・マーベルなどのキャラクターのAIによる自動生成画像をばらまく]]></title>
+        <id>https://gigazine.net/news/20221216-copy-right-disney-nintendo-ai-image/</id>
+        <link href="https://gigazine.net/news/20221216-copy-right-disney-nintendo-ai-image/"/>
+        <updated>2022-12-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Stable DiffusionやMidjourneyのような画像生成AIは、学習時に使われるデータセットに含まれる画像が著作権を無視して収集されているという問題があり、議論の対象となっています。そんな画像生成AIに抗議するため、あえてディズニーや任天堂などの著作権に厳しいキャラクターの画像を生成して疑問を呈する人が登場したと話題になっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterの「スペース」が消えた？　イーロン・マスク氏「バグを修正中」と明かす]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news187.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news187.html"/>
+        <updated>2022-12-16T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterの音声コミュニティ機能「スペース」が12月16日午後あたりから「使えなくなっている」とTwitter上で話題になっている。それに対し、イーロン・マスク氏は「レガシーなバグを修正しています。明日には使えるはず」と明かした。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「言語学の父」が生み出した文法の謎が2500年の時を経てついに解き明かされる]]></title>
         <id>https://gigazine.net/news/20221216-ancient-grammatical-puzzle-solved/</id>

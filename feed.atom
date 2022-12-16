@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T07:11:45.758Z</updated>
+    <updated>2022-12-16T08:16:39.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[画像生成AI「Stable Diffusion」バージョン3では自分の画像を学習させないように指示することが可能になる]]></title>
+        <id>https://gigazine.net/news/20221216-stability-ai-opt-out/</id>
+        <link href="https://gigazine.net/news/20221216-stability-ai-opt-out/"/>
+        <updated>2022-12-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[画像生成AI「Stable Diffusion」を開発するスタートアップ・Stability AIの設立者であるEmad Mostaque氏がTwitterで、来たるStable Diffusion 3.0のトレーニングデータセットから、アーティストが自分の作品を削除できるようにすると発表しました。この動きは、Spawningというアーティスト支援団体が、画像生成AIに自分の作品が勝手に使われたかどうかを検索できるサイト「Have I Been Trained?」で収集したオプトアウト要求を尊重するとツイートしたことに由来しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マスク氏、TwitterからMastodon排除か　URL投稿禁止、リンクに有害判定、公式アカ凍結]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news161.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news161.html"/>
+        <updated>2022-12-16T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[TwitterがMastodonへのアクセスを制限しているとする報告が相次いでいる。Mastodon関連のURLを記載したツイートができなくなっている他、投稿済みのリンクを開こうとすると有害なリンクと表示されるようになっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NHKに聞く「人間のアナがいるのにAIがニュースを読む」理由]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news141.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news141.html"/>
+        <updated>2022-12-16T07:09:00.000Z</updated>
+        <summary type="html"><![CDATA[人間のアナがいるのに、なぜわざわざ、AIにニュースを読んでもらうのか？　NHKに聞いた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国語を使うハッカーグループが日本の参院選を狙って議員にフィッシング攻撃を仕掛けたことが判明、自民党が標的か]]></title>
         <id>https://gigazine.net/news/20221216-mirrorface-targeting-japanese-political-entities/</id>

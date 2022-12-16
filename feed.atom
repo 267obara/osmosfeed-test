@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T14:11:52.694Z</updated>
+    <updated>2022-12-16T15:15:27.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ポケモンGOの総決算“まとめコミュデイ”、17日から　過去最多33種に限定わざ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news195.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news195.html"/>
+        <updated>2022-12-16T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ポケモンGOで17日と18日、過去2年間の「コミュニティ・デイ」に登場したポケモンが一堂に会する“まとめコミュデイ”が開催されます。期間中に進化させると33種ものポケモンが限定わざを覚えます。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[フライドポテト＆ナゲット＆オニオンリング＆チーズバイツ合計900g超にドリンクがついて2000円に収まるバーガーキングの「キングストイボックス」を食べてみた]]></title>
         <id>https://gigazine.net/news/20221216-burgerking-kings-toybox/</id>

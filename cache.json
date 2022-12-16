@@ -3627,6 +3627,16 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news195.html",
+          "author": null,
+          "description": "ポケモンGOで17日と18日、過去2年間の「コミュニティ・デイ」に登場したポケモンが一堂に会する“まとめコミュデイ”が開催されます。期間中に進化させると33種ものポケモンが限定わざを覚えます。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news195.html",
+          "publishedOn": "2022-12-16T14:00:00.000Z",
+          "wordCount": 2388,
+          "title": "ポケモンGOの総決算“まとめコミュデイ”、17日から　過去最多33種に限定わざ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news195.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/16/news150.html",
           "author": null,
           "description": "小売大手「ドン・キホーテ」を運営するパン・パシフィック・インターナショナルホールディングスは、同社の公式キャラクターを巡る騒動について声明を発表した。これまで公式キャラクターを務めてきたドンペンの引退を発表していたが、これを撤回した。",

@@ -2323,6 +2323,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17056",
+          "author": null,
+          "description": "翔泳社 CodeZine編集部は、ソフトウェア開発者向けカンファレンス「Developers Summit 2023」（以下、デブサミ2023）を2023年2月9日・10日に、オンラインにて開催する。公式サイトにてタイムテーブルを公開し、併せて事前登録も開始した。",
+          "link": "http://codezine.jp/article/detail/17056",
+          "publishedOn": "2022-12-16T09:00:00.000Z",
+          "wordCount": 4289,
+          "title": "Developers Summit 2023が来年2月9、10日にオンライン開催、事前登録受付開始",
+          "imageUrl": "https://codezine.jp/static/images/article/17056/17056_ogp.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17035",
           "author": null,
           "description": "Hexabaseは、日本発のバックエンドクラウドサービス「Hexabase」についてシステムエンジニア向けワークショップの参加者が開催1年で延べ50社200名を突破したことを12月13日に発表した。",
@@ -3556,6 +3566,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news169.html",
+          "author": null,
+          "description": "江崎グリコは、お菓子「ポッキー」でプログラミングが学べる「GLICODE」（グリコ―ド）の学校授業向け教材をPCサイト上で無償公開した。小学校の教員向けの指導案や授業教材、基本操作などを説明する動画を公開している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news169.html",
+          "publishedOn": "2022-12-16T08:09:00.000Z",
+          "wordCount": 2594,
+          "title": "「ポッキー」でプログラミングを学べるGLICODE　グリコが授業用教材を無償公開",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news169.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/16/news161.html",
           "author": null,

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T08:16:39.702Z</updated>
+    <updated>2022-12-16T09:12:39.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Developers Summit 2023が来年2月9、10日にオンライン開催、事前登録受付開始]]></title>
+        <id>http://codezine.jp/article/detail/17056</id>
+        <link href="http://codezine.jp/article/detail/17056"/>
+        <updated>2022-12-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[翔泳社 CodeZine編集部は、ソフトウェア開発者向けカンファレンス「Developers Summit 2023」（以下、デブサミ2023）を2023年2月9日・10日に、オンラインにて開催する。公式サイトにてタイムテーブルを公開し、併せて事前登録も開始した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ポッキー」でプログラミングを学べるGLICODE　グリコが授業用教材を無償公開]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news169.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news169.html"/>
+        <updated>2022-12-16T08:09:00.000Z</updated>
+        <summary type="html"><![CDATA[江崎グリコは、お菓子「ポッキー」でプログラミングが学べる「GLICODE」（グリコ―ド）の学校授業向け教材をPCサイト上で無償公開した。小学校の教員向けの指導案や授業教材、基本操作などを説明する動画を公開している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[画像生成AI「Stable Diffusion」バージョン3では自分の画像を学習させないように指示することが可能になる]]></title>
         <id>https://gigazine.net/news/20221216-stability-ai-opt-out/</id>

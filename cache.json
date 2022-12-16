@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221216-ddos-site-charge/",
+          "author": null,
+          "description": "攻撃対象に膨大なトラフィックを送信し処理不能に陥らせるDDoS攻撃は、これまでに多数の企業や政府機関に被害を与えています。そんなDDoS攻撃の代行サービスを運営していた6人の人物がアメリカ司法省に起訴されました。今回起訴された人物らはアメリカおよび海外の教育機関や政府機関、ゲームプラットフォーム、何百万人もの個人にDDoS攻撃を実行したとされています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221216-ddos-site-charge/",
+          "publishedOn": "2022-12-16T00:00:00.000Z",
+          "wordCount": 2468,
+          "title": "お金を払えば好きなサイトにDDoS攻撃できる代行サイトを運営した6人の男たちが起訴される",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/16/ddos-site-charge/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221216-sony-inzone-m3-game/",
           "author": null,
           "description": "ソニーが2022年12月に発売したフルHDゲーミングモニター「INZONE M3」には、PlayStation 5との強力な連携機能や、シューティングゲームで役立つ標準(クロスヘア)表示機能、暗い部分を明るく表示する「ブラックイコライザー」などが搭載されており、ゲームを有利に進めることができます。そんなINZONE M3の各種便利機能を実際に使ってみました。\n続きを読む...",
@@ -2173,6 +2183,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17045",
+          "author": null,
+          "description": "情報処理推進機構（IPA）は、年末年始の長期休暇における情報セキュリティ対策を、12月13日に呼びかけた。",
+          "link": "http://codezine.jp/article/detail/17045",
+          "publishedOn": "2022-12-16T00:00:00.000Z",
+          "wordCount": 4295,
+          "title": "IPA、年末年始の長期休暇を前に情報セキュリティに関する注意を喚起",
+          "imageUrl": "https://codezine.jp/static/images/article/17045/12729_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17046",
+          "author": null,
+          "description": "米Datadogは、「ユニバーサルサービスモニタリング」の一般提供を、12月14日に開始した。",
+          "link": "http://codezine.jp/article/detail/17046",
+          "publishedOn": "2022-12-16T00:00:00.000Z",
+          "wordCount": 4291,
+          "title": "Datadog、コードを変更することなく社内のマイクロサービスを検出・可視化できる「ユニバーサルサービスモニタリング」を一般提供",
+          "imageUrl": "https://codezine.jp/static/images/article/17046/16798_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17044",
           "author": null,
           "description": "JavaScriptフレームワークSvelteの開発チームは、Svelte上にWebアプリケーションを構築するためのフレームワークであるSvelteKitの最新バージョンとなる「SvelteKit 1.0」を、12月14日（現地時間）にリリースした。",
@@ -3316,6 +3346,46 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news087.html",
+          "author": null,
+          "description": "Amazon Gamesは人気ゲーム「トゥームレイダー」の新作をマルチプラットフォームで公開すると発表した。公開時期やゲームの詳細はまだ不明。制作はスクエニが手放したCrystal Dynamicsが引き続き行う。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news087.html",
+          "publishedOn": "2022-12-16T00:12:00.000Z",
+          "wordCount": 2617,
+          "title": "Amazon Games、「トゥームレイダー」新作をグローバル公開へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news087.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news081.html",
+          "author": null,
+          "description": "神奈川県海老名市のスタートアップが撮影した作品の画像からCGで保存し、端末上に表示させるサービスを開始した。最新のデジタル技術で成長の軌跡を親子で楽しむだけでなく、新たな創作意欲を育むことへの期待も高まっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news081.html",
+          "publishedOn": "2022-12-16T00:00:00.000Z",
+          "wordCount": 2329,
+          "title": "子供の工作CG化、メタバースで展示　神奈川のスタートアップ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/l_YCPK24YKFBJKDM4F6ULTCYU63A_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news080.html",
+          "author": null,
+          "description": "現実空間をネット上の仮想空間に再現する「デジタルツイン」の活用が広がっている。製造業や都市開発、農業など幅広い分野で利用されており、海外に比べて普及が遅れた日本でも、導入する企業は増え始めている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news080.html",
+          "publishedOn": "2022-12-16T00:00:00.000Z",
+          "wordCount": 2338,
+          "title": "「デジタルツイン」　仮想空間で最適化、導入広がる",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/l_HV4CWJAHXJNY7NWETI6WCZ7IBI_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news079.html",
+          "author": null,
+          "description": "松本剛明総務相は、マイナンバーカードの交付や申請を郵便局でも可能とする法改正を検討していることを正式に明らかにした。自治体職員が本人確認する前提は変えずにオンラインで本人確認する法改正を検討することで決着した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news079.html",
+          "publishedOn": "2022-12-16T00:00:00.000Z",
+          "wordCount": 2326,
+          "title": "オンラインで本人確認　郵便局でのマイナカード交付",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/l_KBKTQJPEZVJ5VGC7WOPMDPLJAQ_1.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/16/news083.html",
           "author": null,

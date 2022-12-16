@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-15T23:14:18.951Z</updated>
+    <updated>2022-12-16T01:06:07.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon Games、「トゥームレイダー」新作をグローバル公開へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news087.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news087.html"/>
+        <updated>2022-12-16T00:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Gamesは人気ゲーム「トゥームレイダー」の新作をマルチプラットフォームで公開すると発表した。公開時期やゲームの詳細はまだ不明。制作はスクエニが手放したCrystal Dynamicsが引き続き行う。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お金を払えば好きなサイトにDDoS攻撃できる代行サイトを運営した6人の男たちが起訴される]]></title>
+        <id>https://gigazine.net/news/20221216-ddos-site-charge/</id>
+        <link href="https://gigazine.net/news/20221216-ddos-site-charge/"/>
+        <updated>2022-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[攻撃対象に膨大なトラフィックを送信し処理不能に陥らせるDDoS攻撃は、これまでに多数の企業や政府機関に被害を与えています。そんなDDoS攻撃の代行サービスを運営していた6人の人物がアメリカ司法省に起訴されました。今回起訴された人物らはアメリカおよび海外の教育機関や政府機関、ゲームプラットフォーム、何百万人もの個人にDDoS攻撃を実行したとされています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPA、年末年始の長期休暇を前に情報セキュリティに関する注意を喚起]]></title>
+        <id>http://codezine.jp/article/detail/17045</id>
+        <link href="http://codezine.jp/article/detail/17045"/>
+        <updated>2022-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[情報処理推進機構（IPA）は、年末年始の長期休暇における情報セキュリティ対策を、12月13日に呼びかけた。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Datadog、コードを変更することなく社内のマイクロサービスを検出・可視化できる「ユニバーサルサービスモニタリング」を一般提供]]></title>
+        <id>http://codezine.jp/article/detail/17046</id>
+        <link href="http://codezine.jp/article/detail/17046"/>
+        <updated>2022-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Datadogは、「ユニバーサルサービスモニタリング」の一般提供を、12月14日に開始した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[子供の工作CG化、メタバースで展示　神奈川のスタートアップ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news081.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news081.html"/>
+        <updated>2022-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[神奈川県海老名市のスタートアップが撮影した作品の画像からCGで保存し、端末上に表示させるサービスを開始した。最新のデジタル技術で成長の軌跡を親子で楽しむだけでなく、新たな創作意欲を育むことへの期待も高まっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「デジタルツイン」　仮想空間で最適化、導入広がる]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news080.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news080.html"/>
+        <updated>2022-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現実空間をネット上の仮想空間に再現する「デジタルツイン」の活用が広がっている。製造業や都市開発、農業など幅広い分野で利用されており、海外に比べて普及が遅れた日本でも、導入する企業は増え始めている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オンラインで本人確認　郵便局でのマイナカード交付]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/16/news079.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/16/news079.html"/>
+        <updated>2022-12-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[松本剛明総務相は、マイナンバーカードの交付や申請を郵便局でも可能とする法改正を検討していることを正式に明らかにした。自治体職員が本人確認する前提は変えずにオンラインで本人確認する法改正を検討することで決着した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲームに勝つための機能が満載のソニー製フルHD・240Hzゲーミングモニター「INZONE M3」はPlayStation 5と相性バツグンのモニターでした]]></title>
         <id>https://gigazine.net/news/20221216-sony-inzone-m3-game/</id>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T10:14:15.569Z</updated>
+    <updated>2022-12-16T11:10:55.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「言語学の父」が生み出した文法の謎が2500年の時を経てついに解き明かされる]]></title>
+        <id>https://gigazine.net/news/20221216-ancient-grammatical-puzzle-solved/</id>
+        <link href="https://gigazine.net/news/20221216-ancient-grammatical-puzzle-solved/"/>
+        <updated>2022-12-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[紀元前5世紀頃のインドの文法学者であり、「言語学の父」とも呼ばれるサンスクリット文法学者・パーニニが作成した文法規則を解読することに研究者が成功しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[エイリアンが地球に来訪しないのは「知的じゃない」と思われているから]]></title>
         <id>https://gigazine.net/news/20221216-aliens-fermi-paradox-technological-signals/</id>

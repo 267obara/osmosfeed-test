@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-17T02:29:51.347Z</updated>
+    <updated>2022-12-17T03:13:44.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[銀行口座のお金はカジノのチップと同じ]]></title>
+        <id>https://gigazine.net/news/20221217-currency-casino-chip/</id>
+        <link href="https://gigazine.net/news/20221217-currency-casino-chip/"/>
+        <updated>2022-12-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[多くの人は「一万円札と銀行口座に入った1万円は同じで、形が違うだけ」「デジタルマネーは現金を使いやすくしたものに過ぎず、同じものをより現代的にしただけ」と考えています。このように、現金とそれ以外のものが「同じ価値のお金が違う形になっているだけ」と信じ込むのは「OTOMI(One-Type-Of-Money-Illusion：お金の形態は1種類だけという錯覚)」であり、金融における多くの重要なテーマを理解する妨げになっていると元金融ブローカーのブレット・スコット氏が指摘しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1万円切りのコスパ最強低温調理器で極限柔らかローストビーフを作ってみたよレビュー]]></title>
+        <id>https://gigazine.net/news/20221217-low-temperature-cooker-iris-ohyama/</id>
+        <link href="https://gigazine.net/news/20221217-low-temperature-cooker-iris-ohyama/"/>
+        <updated>2022-12-17T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[低温調理器は、肉や魚を100度未満のお湯で一定時間加熱することで、焼く場合とも煮る場合とも異なる絶妙な火加減の料理を楽しめる調理器具です。そんな低温調理器の中でも、アイリスオーヤマが展開している低温調理器「スリム低温調理器(LTC-02-T)」は1万円を切る低価格で購入可能というコスパの良さが光っていたので、実際に使って低温調理ローストビーフを作ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お城が巨大ロボットに変形＆合体する「城郭合体オシロボッツ」ショートアニメ映像公開]]></title>
         <id>https://gigazine.net/news/20221217-oshirobots/</id>

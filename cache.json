@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221217-elon-musk-twitter-suspending-journalists/",
+          "author": null,
+          "description": "2022年10月末にTwitterを買収したイーロン・マスク氏は、12月中旬に突如自身のプライベートジェットの行方を追跡する「ElonJet」というTwitterアカウントを永久凍結(BAN)しました。この一連の騒動で、マスク氏が欧州連合(EU)の法律に違反した可能性があると欧州委員会が指摘しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221217-elon-musk-twitter-suspending-journalists/",
+          "publishedOn": "2022-12-17T10:00:00.000Z",
+          "wordCount": 2629,
+          "title": "イーロン・マスクによるジャーナリストのTwitterアカウント強制BANはEUの制裁対象になる可能性",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/17/elon-musk-twitter-suspending-journalists/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221217-steam-deck-temperature/",
           "author": null,
           "description": "ゲーム配信プラットフォーム「Steam」を運営するValveが開発したモバイルゲーミングPC「Steam Deck」は、本来なら自宅のPCでなければ遊べないゲームをいつでもどこでも遊べるというのが特徴。しかし、手に持って外で使う上で気になるのが排熱やバッテリー消費。日本を含めたアジアへの出荷が2022年12月17日に開始するSteam Deckを一足先に触る機会を得られたので、温度やバッテリー消費などをチェックしてみました。\n続きを読む...",

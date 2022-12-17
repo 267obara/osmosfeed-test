@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-17T03:13:44.363Z</updated>
+    <updated>2022-12-17T04:15:43.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[携帯型ゲーミングPC「Steam Deck」は本当にいつでもどこでも遊べるのか？温度とバッテリー消費を測ってみた]]></title>
+        <id>https://gigazine.net/news/20221217-steam-deck-temperature/</id>
+        <link href="https://gigazine.net/news/20221217-steam-deck-temperature/"/>
+        <updated>2022-12-17T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム配信プラットフォーム「Steam」を運営するValveが開発したモバイルゲーミングPC「Steam Deck」は、本来なら自宅のPCでなければ遊べないゲームをいつでもどこでも遊べるというのが特徴。しかし、手に持って外で使う上で気になるのが排熱やバッテリー消費。日本を含めたアジアへの出荷が2022年12月17日に開始するSteam Deckを一足先に触る機会を得られたので、温度やバッテリー消費などをチェックしてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[銀行口座のお金はカジノのチップと同じ]]></title>
         <id>https://gigazine.net/news/20221217-currency-casino-chip/</id>
@@ -15,6 +26,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vercel、React向けのデータ取得ライブラリ「SWR 2.0」を公開]]></title>
+        <id>http://codezine.jp/article/detail/17037</id>
+        <link href="http://codezine.jp/article/detail/17037"/>
+        <updated>2022-12-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米VercelはReact向けのデータ取得ライブラリ「SWR」の新版「SWR 2.0」を12月9日（現地時間）に公開した。SWRはMITライセンスで公開しているオープンソース・ソフトウェア。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust向けGUIツールキット「KAS」の作者が、RustのGUI対応状況を振り返る]]></title>
+        <id>http://codezine.jp/article/detail/17053</id>
+        <link href="http://codezine.jp/article/detail/17053"/>
+        <updated>2022-12-17T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rust向けGUIツールキット「KAS」の作者が、自身のブログでRust言語で使用できるGUI関連ライブラリの発展具合を振り返った。KASはApache License 2.0で公開しているオープンソース・ソフトウェアだが、少人数で開発しているためバージョンアップのペースは遅く、当初の目標としている機能をすべて実装できているわけではない。現時点での最新バージョンは0.12.0と、バージョン1にも到達していない。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

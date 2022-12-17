@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-16T23:12:55.340Z</updated>
+    <updated>2022-12-17T01:03:50.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アイコンタクトが会話を進める上で果たす「意外な役割」とは？]]></title>
+        <id>https://gigazine.net/news/20221217-eye-contact-makes-conversation-engaging/</id>
+        <link href="https://gigazine.net/news/20221217-eye-contact-makes-conversation-engaging/"/>
+        <updated>2022-12-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[適度なアイコンタクトは他人に良い印象を与えると言われており、会話をスムーズに進めるためにもアイコンタクトは重要とされています。自然な会話において発生するアイコンタクトについての研究では、アイコンタクトが会話を進めるために果たす意外な役割が明らかになっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、Google、Mozillaがブラウザベンチマーク「Speedometer 3」で協力]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/17/news053.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/17/news053.html"/>
+        <updated>2022-12-16T23:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple、Google、MozillaがWebブラウザベンチーマーク「Speedometer 3」の開発で協力。完成すれば、Safari、Chrome、Firefoxを同じ条件で比較できることになる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「子どもが携帯電話をいつ持ったか」と睡眠・うつ病には関連性がないことが明らかに]]></title>
         <id>https://gigazine.net/news/20221217-kids-mobile-phone-age/</id>

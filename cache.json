@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221217-eye-contact-makes-conversation-engaging/",
+          "author": null,
+          "description": "適度なアイコンタクトは他人に良い印象を与えると言われており、会話をスムーズに進めるためにもアイコンタクトは重要とされています。自然な会話において発生するアイコンタクトについての研究では、アイコンタクトが会話を進めるために果たす意外な役割が明らかになっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221217-eye-contact-makes-conversation-engaging/",
+          "publishedOn": "2022-12-17T00:00:00.000Z",
+          "wordCount": 2474,
+          "title": "アイコンタクトが会話を進める上で果たす「意外な役割」とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/17/eye-contact-makes-conversation-engaging/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221217-kids-mobile-phone-age/",
           "author": null,
           "description": "子どもが初めて携帯電話を手にした年齢と睡眠パターン、うつ病には関連性がないことがスタンフォード大学の研究で明らかになりました。従来の研究で示されたことのある「携帯電話を持つと成績が下がる」「睡眠の質が下がる」といった結論を覆す内容となります。\n続きを読む...",
@@ -3636,6 +3646,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/17/news053.html",
+          "author": null,
+          "description": "Apple、Google、MozillaがWebブラウザベンチーマーク「Speedometer 3」の開発で協力。完成すれば、Safari、Chrome、Firefoxを同じ条件で比較できることになる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/17/news053.html",
+          "publishedOn": "2022-12-16T23:03:00.000Z",
+          "wordCount": 2622,
+          "title": "Apple、Google、Mozillaがブラウザベンチマーク「Speedometer 3」で協力",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/17/cover_news053.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/16/news195.html",
           "author": null,

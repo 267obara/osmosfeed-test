@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221217-concrete-barriers/",
+          "author": null,
+          "description": "高速道路や大きな道路には、中央分離帯や車止めとしてコンクリート製の車両用防護柵が設置されています。一見ただのコンクリートブロックに見えるこの防護柵ですが、実は車両事故をできるだけ軽減させるために計算された形状だと、アメリカの連邦道路管理局のエンジニアであるチャールズ・マクデヴィット氏が語っています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221217-concrete-barriers/",
+          "publishedOn": "2022-12-17T11:00:00.000Z",
+          "wordCount": 2453,
+          "title": "一見シンプルな「道路のコンクリート製防護柵」には高度な安全対策メカニズムがある",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/17/concrete-barriers/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221217-elon-musk-twitter-suspending-journalists/",
           "author": null,
           "description": "2022年10月末にTwitterを買収したイーロン・マスク氏は、12月中旬に突如自身のプライベートジェットの行方を追跡する「ElonJet」というTwitterアカウントを永久凍結(BAN)しました。この一連の騒動で、マスク氏が欧州連合(EU)の法律に違反した可能性があると欧州委員会が指摘しています。\n続きを読む...",

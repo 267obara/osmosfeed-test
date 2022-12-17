@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-17T10:12:39.843Z</updated>
+    <updated>2022-12-17T11:10:00.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一見シンプルな「道路のコンクリート製防護柵」には高度な安全対策メカニズムがある]]></title>
+        <id>https://gigazine.net/news/20221217-concrete-barriers/</id>
+        <link href="https://gigazine.net/news/20221217-concrete-barriers/"/>
+        <updated>2022-12-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高速道路や大きな道路には、中央分離帯や車止めとしてコンクリート製の車両用防護柵が設置されています。一見ただのコンクリートブロックに見えるこの防護柵ですが、実は車両事故をできるだけ軽減させるために計算された形状だと、アメリカの連邦道路管理局のエンジニアであるチャールズ・マクデヴィット氏が語っています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロン・マスクによるジャーナリストのTwitterアカウント強制BANはEUの制裁対象になる可能性]]></title>
         <id>https://gigazine.net/news/20221217-elon-musk-twitter-suspending-journalists/</id>

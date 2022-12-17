@@ -3707,6 +3707,26 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/17/news064.html",
+          "author": null,
+          "description": "今回はゲーム好きマンガ家のサダタローさんが22年に発売されたゲームの中から個人的ベストチョイスをご紹介。定番の人気シリーズからチャレンジングな新作まで盛りだくさん。年末年始の休暇にプレイしてみては？",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/17/news064.html",
+          "publishedOn": "2022-12-17T05:15:00.000Z",
+          "wordCount": 2353,
+          "title": "今年一番面白かったゲームは？　ゲームばかりしてるマンガ家の個人的ゲームオブザイヤー！",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/17/cover_news064.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/17/news068.html",
+          "author": null,
+          "description": "いやあ、とうとう出ましたソニーの「α7R V」。α7シリーズの製品サイクルとしては長いわけじゃないのだけど、より待望感が強かったのは昨今のラインアップが映像に力を入れたモデルばかりだったからだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/17/news068.html",
+          "publishedOn": "2022-12-17T04:55:00.000Z",
+          "wordCount": 2381,
+          "title": "見せてもらおうか、ソニー「α7R V」の実力とやらを　待望のスチル機が超レベルアップ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/17/cover_news068.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/17/news003.html",
           "author": null,
           "description": "ユーキャンは、2023年に武器になると思う資格に関する調査を実施し、ランキングを発表した。1位は「ファイナンシャルプランナー（FP）」（18.7％）で、10年連続でトップ3にランクイン、5年ぶりの1位となった。",

@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-17T05:11:22.811Z</updated>
+    <updated>2022-12-17T06:15:36.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[今年一番面白かったゲームは？　ゲームばかりしてるマンガ家の個人的ゲームオブザイヤー！]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/17/news064.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/17/news064.html"/>
+        <updated>2022-12-17T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[今回はゲーム好きマンガ家のサダタローさんが22年に発売されたゲームの中から個人的ベストチョイスをご紹介。定番の人気シリーズからチャレンジングな新作まで盛りだくさん。年末年始の休暇にプレイしてみては？]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[見せてもらおうか、ソニー「α7R V」の実力とやらを　待望のスチル機が超レベルアップ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/17/news068.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/17/news068.html"/>
+        <updated>2022-12-17T04:55:00.000Z</updated>
+        <summary type="html"><![CDATA[いやあ、とうとう出ましたソニーの「α7R V」。α7シリーズの製品サイクルとしては長いわけじゃないのだけど、より待望感が強かったのは昨今のラインアップが映像に力を入れたモデルばかりだったからだ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[携帯型ゲーミングPC「Steam Deck」は本当にいつでもどこでも遊べるのか？温度とバッテリー消費を測ってみた]]></title>
         <id>https://gigazine.net/news/20221217-steam-deck-temperature/</id>

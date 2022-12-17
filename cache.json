@@ -3727,6 +3727,16 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/17/news083.html",
+          "author": null,
+          "description": "TwitterのマスクCEOは、前日凍結した複数の著名ジャーナリストのアカウントの凍結を解除した。自ら行った投票の結果、「すぐに凍結解除すべし」という意見が多かったことを受けての決定だ。この凍結についてはEUと国連が懸念を表明していた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/17/news083.html",
+          "publishedOn": "2022-12-17T13:41:00.000Z",
+          "wordCount": 2629,
+          "title": "TwitterのマスクCEO、凍結した複数記者のアカウントを投票結果を受けしぶしぶ復活",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/17/cover_news083.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/17/news064.html",
           "author": null,
           "description": "今回はゲーム好きマンガ家のサダタローさんが22年に発売されたゲームの中から個人的ベストチョイスをご紹介。定番の人気シリーズからチャレンジングな新作まで盛りだくさん。年末年始の休暇にプレイしてみては？",

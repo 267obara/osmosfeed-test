@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221217-oshirobots/",
+          "author": null,
+          "description": "「実在するお城がロボットになったら？」という、誰もが空想して憧れるシチュエーションを本当に実現したプロジェクト「城郭合体オシロボッツ」が“参城”し、ショートアニメ映像が公開されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221217-oshirobots/",
+          "publishedOn": "2022-12-17T02:26:00.000Z",
+          "wordCount": 2487,
+          "title": "お城が巨大ロボットに変形＆合体する「城郭合体オシロボッツ」ショートアニメ映像公開",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/17/oshirobots/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221217-eye-contact-makes-conversation-engaging/",
           "author": null,
           "description": "適度なアイコンタクトは他人に良い印象を与えると言われており、会話をスムーズに進めるためにもアイコンタクトは重要とされています。自然な会話において発生するアイコンタクトについての研究では、アイコンタクトが会話を進めるために果たす意外な役割が明らかになっています。\n続きを読む...",
@@ -3646,6 +3656,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/17/news003.html",
+          "author": null,
+          "description": "ユーキャンは、2023年に武器になると思う資格に関する調査を実施し、ランキングを発表した。1位は「ファイナンシャルプランナー（FP）」（18.7％）で、10年連続でトップ3にランクイン、5年ぶりの1位となった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/17/news003.html",
+          "publishedOn": "2022-12-17T01:00:00.000Z",
+          "wordCount": 2607,
+          "title": "2023年武器になる資格　2位「行政書士」、1位は？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/17/cover_news003.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/17/news053.html",
           "author": null,

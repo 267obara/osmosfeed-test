@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-17T01:03:50.756Z</updated>
+    <updated>2022-12-17T02:29:51.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お城が巨大ロボットに変形＆合体する「城郭合体オシロボッツ」ショートアニメ映像公開]]></title>
+        <id>https://gigazine.net/news/20221217-oshirobots/</id>
+        <link href="https://gigazine.net/news/20221217-oshirobots/"/>
+        <updated>2022-12-17T02:26:00.000Z</updated>
+        <summary type="html"><![CDATA[「実在するお城がロボットになったら？」という、誰もが空想して憧れるシチュエーションを本当に実現したプロジェクト「城郭合体オシロボッツ」が“参城”し、ショートアニメ映像が公開されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年武器になる資格　2位「行政書士」、1位は？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/17/news003.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/17/news003.html"/>
+        <updated>2022-12-17T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ユーキャンは、2023年に武器になると思う資格に関する調査を実施し、ランキングを発表した。1位は「ファイナンシャルプランナー（FP）」（18.7％）で、10年連続でトップ3にランクイン、5年ぶりの1位となった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アイコンタクトが会話を進める上で果たす「意外な役割」とは？]]></title>
         <id>https://gigazine.net/news/20221217-eye-contact-makes-conversation-engaging/</id>

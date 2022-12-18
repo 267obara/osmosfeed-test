@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T02:32:20.462Z</updated>
+    <updated>2022-12-18T03:14:20.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[経済紙のFinancial Timesが18カ月間にわたってNTTの情報を誤掲載しているという指摘]]></title>
+        <id>https://gigazine.net/news/20221218-financial-times-printing-error/</id>
+        <link href="https://gigazine.net/news/20221218-financial-times-printing-error/"/>
+        <updated>2022-12-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イギリスで発行されている経済紙「Financial Times」が、日本の通信会社「NTT」について18カ月間も間違った情報を掲載していると、ブロガーのベンジャミン・マコ・ヒル氏が指摘しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linuxカーネルのバージョン6.1が公開、カーネル記述にRust言語を一部採用した最初のバージョン]]></title>
+        <id>http://codezine.jp/article/detail/17038</id>
+        <link href="http://codezine.jp/article/detail/17038"/>
+        <updated>2022-12-18T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds氏は、Linux OSのカーネルの最新バージョンである「バージョン6.1」を公開したと12月11日に明らかにした。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「カフェオレ」「カフェラテ」、「御社」「貴社」は何が違う？　検索ワード分析から探る分かりにくいコトバ]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/18/news006.html</id>

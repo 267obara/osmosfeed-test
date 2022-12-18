@@ -3550,6 +3550,26 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/awsmsmetaoverture_mpas_foundation2023.html",
+          "author": null,
+          "description": "オープンソースを推進する非営利団体のLinux Foundationは、AWS、マイクロソフト、Meta、TomTomの4社がオープンな地図データを実現する「Overture Maps Foudation」を同団体の傘下に設立したと発表しま...",
+          "link": "https://www.publickey1.jp/blog/22/awsmsmetaoverture_mpas_foundation2023.html",
+          "publishedOn": "2022-12-18T15:07:19.000Z",
+          "wordCount": 1297,
+          "title": "AWS、MS、Metaらがオープンな地図データを実現する「Overture Mpas Foundation」結成。2023年前半にはデータ公開へ",
+          "imageUrl": "https://www.publickey1.jp/2022/overturemapsfoundation_top.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/linux_foundation_webassembly.html",
+          "author": null,
+          "description": "Linux FoundationはWebAssemblyに関するドキュメント「法律専門家のための WebAssembly ～ ライセンス・コンプライアンスにおける現在のパラメータを探る」の日本語版を公開しています。 日本語版を公開「法律専門...",
+          "link": "https://www.publickey1.jp/blog/22/linux_foundation_webassembly.html",
+          "publishedOn": "2022-12-18T15:03:58.000Z",
+          "wordCount": 1282,
+          "title": "Linux Foundationが「法律専門家のための WebAssembly ～ ライセンス・コンプライアンスにおける現在のパラメータを探る」日本語版ドキュメント公開",
+          "imageUrl": "https://www.publickey1.jp/2022/webassembly_compliance_lf01.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/google_clouddballoydb_for_postgresqlamazon_aurora.html",
           "author": null,
           "description": "Google Cloudは、エンタープライズ向けの高性能データベースサービス「AlloyDB for PostgreSQL」を正式サービスとして提供開始しました。 AlloyDB for PostgreSQL is generally av...",

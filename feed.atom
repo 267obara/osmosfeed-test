@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T11:10:09.835Z</updated>
+    <updated>2022-12-18T12:23:08.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[約1000円でGoogleから買ったドメインの使用料が10万円超えに突然値上がりしたという恐怖の報告]]></title>
+        <id>https://gigazine.net/news/20221218-domain-dev/</id>
+        <link href="https://gigazine.net/news/20221218-domain-dev/"/>
+        <updated>2022-12-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「gigazine.net」などのインターネット上の住所を示すドメインは、一般的に更新料を継続的に支払う必要があります。そんなドメインについて、「forum.dev」というドメインを取得した結果、当初は12ドル(約1600円)だった料金が突然850ドル(約11万6200円)に跳ね上がったという恐怖の体験談が報告されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[異世界を簡単操作の爽快魔法バトルとパルクールで駆け抜けるアクションRPG「FORSPOKEN」体験版レビュー]]></title>
         <id>https://gigazine.net/news/20221218-forspoken-trial/</id>

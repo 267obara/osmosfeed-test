@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221219-worlds-biggest-cultured-meat-factory/",
+          "author": null,
+          "description": "「食肉を培養肉などに切り替えると二酸化炭素排出量を80％削減できる」と見積もられていることから、近年培養肉には多くの注目が集まっています。そんな中、イスラエルの培養肉企業であるBeliever Meatsが、アメリカのノースカロライナ州に世界最大の培養肉工場を建設することを発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-worlds-biggest-cultured-meat-factory/",
+          "publishedOn": "2022-12-18T23:00:00.000Z",
+          "wordCount": 2567,
+          "title": "世界最大の「培養肉工場」の建設がスタート、動物を1頭も殺さず1万トンの培養肉を生産可能",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/worlds-biggest-cultured-meat-factory/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221219-black-hole-star-exist/",
           "author": null,
           "description": "ブラックホールは活発な議論や発見が行われる天体ですが、宇宙が誕生した初期には、「ブラックホール星」と呼ばれる超巨大な天体が存在したとされています。そんなブラックホール星の成り立ちや性質について科学系YouTubeチャンネルのKurzgesagtがアニメーションで解説しています。\n続きを読む...",
@@ -2563,6 +2573,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16916",
+          "author": null,
+          "description": "CodeZineを運営する翔泳社より、12月19日（月）に書籍『Python2年生 デスクトップアプリ開発のしくみ 体験してわかる！会話でまなべる！』が発売となりました。本書はプログラミングに初めて触れる人でも基本から学んでいける「Python1年生」シリーズの最新刊です。",
+          "link": "http://codezine.jp/article/detail/16916",
+          "publishedOn": "2022-12-18T22:00:00.000Z",
+          "wordCount": 4371,
+          "title": "初心者でもデスクトップアプリを作れる。書籍『Python2年生 デスクトップアプリ開発のしくみ』発売",
+          "imageUrl": "https://codezine.jp/static/images/article/16916/16916_share.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17038",
           "author": null,
           "description": "Linus Torvalds氏は、Linux OSのカーネルの最新バージョンである「バージョン6.1」を公開したと12月11日に明らかにした。",
@@ -3856,6 +3876,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/19/news069.html",
+          "author": null,
+          "description": "TwitterはユーザーがMastodonなどのアカウントをツイートすることをポリシーで正式に禁じた。違反ツイートは削除され、アカウントは一時凍結される。マスクCEOは「Twitterは使いやすいものであるべきだが、競合他社のしつこい無料広告は不要だ」とツイートした。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/19/news069.html",
+          "publishedOn": "2022-12-18T22:02:00.000Z",
+          "wordCount": 2605,
+          "title": "Twitter、Mastodon他のSNSへのリンクツイートをポリシー変更で禁止（SNSの有料広告ならOK）",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/19/cover_news069.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/16/news165.html",
+          "author": null,
+          "description": "インボイス制度が誰のためかといえば話は簡単で、この制度で2480億円の税収増が見込まれている。要するに増税の一つというわけだ。では免税事業者はどう考えて対応していけばいいのだろうか。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/16/news165.html",
+          "publishedOn": "2022-12-18T22:00:00.000Z",
+          "wordCount": 2604,
+          "title": "「インボイス賛成」と話すTOKIUM社長と考える、免税事業者はどうするべきか",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/16/cover_news165.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/18/news006.html",
           "author": null,

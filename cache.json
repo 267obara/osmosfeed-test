@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221219-exposure-daylight-predicts-when-fall-asleep/",
+          "author": null,
+          "description": "人間の睡眠習慣はさまざまな要因によって左右されており、特に「光」を浴びることが睡眠に影響することがわかっています。500人を超える大学生の睡眠パターンを2015年～2018年にかけて追跡した新たな研究では、人間の睡眠パターンは季節によって変動し、「日中に光を浴びるほど就寝時間が早くなる」という傾向が明らかになりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-exposure-daylight-predicts-when-fall-asleep/",
+          "publishedOn": "2022-12-18T21:00:00.000Z",
+          "wordCount": 2494,
+          "title": "「光を浴びた量」から就寝時間を予測できる、夏より冬の方が就寝時間が遅くなる理由も判明",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/exposure-daylight-predicts-when-fall-asleep/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221218-domain-dev/",
           "author": null,
           "description": "「gigazine.net」などのインターネット上の住所を示すドメインは、一般的に更新料を継続的に支払う必要があります。そんなドメインについて、「forum.dev」というドメインを取得した結果、当初は12ドル(約1600円)だった料金が突然850ドル(約11万6200円)に跳ね上がったという恐怖の体験談が報告されました。\n続きを読む...",

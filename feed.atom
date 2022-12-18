@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T20:12:53.266Z</updated>
+    <updated>2022-12-18T21:10:36.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「光を浴びた量」から就寝時間を予測できる、夏より冬の方が就寝時間が遅くなる理由も判明]]></title>
+        <id>https://gigazine.net/news/20221219-exposure-daylight-predicts-when-fall-asleep/</id>
+        <link href="https://gigazine.net/news/20221219-exposure-daylight-predicts-when-fall-asleep/"/>
+        <updated>2022-12-18T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人間の睡眠習慣はさまざまな要因によって左右されており、特に「光」を浴びることが睡眠に影響することがわかっています。500人を超える大学生の睡眠パターンを2015年～2018年にかけて追跡した新たな研究では、人間の睡眠パターンは季節によって変動し、「日中に光を浴びるほど就寝時間が早くなる」という傾向が明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS、MS、Metaらがオープンな地図データを実現する「Overture Mpas Foundation」結成。2023年前半にはデータ公開へ]]></title>
         <id>https://www.publickey1.jp/blog/22/awsmsmetaoverture_mpas_foundation2023.html</id>

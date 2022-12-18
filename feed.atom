@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T01:06:08.347Z</updated>
+    <updated>2022-12-18T02:32:20.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「カフェオレ」「カフェラテ」、「御社」「貴社」は何が違う？　検索ワード分析から探る分かりにくいコトバ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/18/news006.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/18/news006.html"/>
+        <updated>2022-12-18T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヤフーは、提供する事業者向けデータソリューションサービスで「カフェオレ カフェラテ 違い」や、「伯母 叔母 違い」といった“違い”を調べる検索ワードを分析し、レポートを公開した。「違いが分かりにくいワード」の、ランキング1位となったのは「PCR（検査）」「抗体検査」だった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界初の高レベル放射性廃棄物の貯蔵施設「オンカロ」がフィンランドで稼働予定、貯蔵期間は約10万年]]></title>
         <id>https://gigazine.net/news/20221218-finland-nuclear-waste-store/</id>

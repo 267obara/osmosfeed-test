@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221218-finland-nuclear-waste-store/",
+          "author": null,
+          "description": "高レベル放射性廃棄物の処分は世界的な問題となっており、日本でも放射性廃棄物の処分に「地層処分」が検討されています。フィンランドでは高レベル放射性廃棄物を地層処分するための施設が2024年から稼働する予定で、オンカロと呼ばれる高レベル放射性廃棄物の貯蔵施設について、Scienceが解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221218-finland-nuclear-waste-store/",
+          "publishedOn": "2022-12-18T00:00:00.000Z",
+          "wordCount": 2459,
+          "title": "世界初の高レベル放射性廃棄物の貯蔵施設「オンカロ」がフィンランドで稼働予定、貯蔵期間は約10万年",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/18/finland-nuclear-waste-store/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221217-concrete-barriers/",
           "author": null,
           "description": "高速道路や大きな道路には、中央分離帯や車止めとしてコンクリート製の車両用防護柵が設置されています。一見ただのコンクリートブロックに見えるこの防護柵ですが、実は車両事故をできるだけ軽減させるために計算された形状だと、アメリカの連邦道路管理局のエンジニアであるチャールズ・マクデヴィット氏が語っています。\n続きを読む...",

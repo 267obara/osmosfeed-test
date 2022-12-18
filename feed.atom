@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-17T23:12:21.862Z</updated>
+    <updated>2022-12-18T01:06:08.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界初の高レベル放射性廃棄物の貯蔵施設「オンカロ」がフィンランドで稼働予定、貯蔵期間は約10万年]]></title>
+        <id>https://gigazine.net/news/20221218-finland-nuclear-waste-store/</id>
+        <link href="https://gigazine.net/news/20221218-finland-nuclear-waste-store/"/>
+        <updated>2022-12-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高レベル放射性廃棄物の処分は世界的な問題となっており、日本でも放射性廃棄物の処分に「地層処分」が検討されています。フィンランドでは高レベル放射性廃棄物を地層処分するための施設が2024年から稼働する予定で、オンカロと呼ばれる高レベル放射性廃棄物の貯蔵施設について、Scienceが解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TwitterのマスクCEO、凍結した複数記者のアカウントを投票結果を受けしぶしぶ復活]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/17/news083.html</id>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T10:12:52.096Z</updated>
+    <updated>2022-12-18T11:10:09.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[異世界を簡単操作の爽快魔法バトルとパルクールで駆け抜けるアクションRPG「FORSPOKEN」体験版レビュー]]></title>
+        <id>https://gigazine.net/news/20221218-forspoken-trial/</id>
+        <link href="https://gigazine.net/news/20221218-forspoken-trial/"/>
+        <updated>2022-12-18T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ニューヨークから異世界「アーシア」へと転移してしまった女性が、魔法を駆使して冒険を繰り広げる新作アクションRPG「FORSPOKEN」の体験版がPlayStation 5向けに配信されています。2023年1月24日(火)にPlayStation 5とPCでリリースされる本作は、大作RPG「ファイナルファンタジーXV」に携わったスタッフを中心としたメンバーが手がける新規IPとのこと。そんなFORSPOKENを無料で遊べる体験版をさっそくプレイして、ボタン押しっぱなしで美麗な異世界を駆け抜けられる魔法パルクールや、多彩な攻撃魔法を簡単操作で使いこなせる戦闘を楽しんでみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windowsの「System32」からランダムにファイルを選んで削除し再起動できるかどうかを試し続ける恐るべき飲み会「System32ルーレット」]]></title>
         <id>https://gigazine.net/news/20221218-system32-roulette/</id>

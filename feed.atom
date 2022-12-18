@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T21:10:36.930Z</updated>
+    <updated>2022-12-18T22:11:45.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[宇宙誕生初期に存在したとされる「ブラックホール星」とは？]]></title>
+        <id>https://gigazine.net/news/20221219-black-hole-star-exist/</id>
+        <link href="https://gigazine.net/news/20221219-black-hole-star-exist/"/>
+        <updated>2022-12-18T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ブラックホールは活発な議論や発見が行われる天体ですが、宇宙が誕生した初期には、「ブラックホール星」と呼ばれる超巨大な天体が存在したとされています。そんなブラックホール星の成り立ちや性質について科学系YouTubeチャンネルのKurzgesagtがアニメーションで解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「光を浴びた量」から就寝時間を予測できる、夏より冬の方が就寝時間が遅くなる理由も判明]]></title>
         <id>https://gigazine.net/news/20221219-exposure-daylight-predicts-when-fall-asleep/</id>

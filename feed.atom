@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T08:15:44.564Z</updated>
+    <updated>2022-12-18T09:11:55.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windowsの「System32」からランダムにファイルを選んで削除し再起動できるかどうかを試し続ける恐るべき飲み会「System32ルーレット」]]></title>
+        <id>https://gigazine.net/news/20221218-system32-roulette/</id>
+        <link href="https://gigazine.net/news/20221218-system32-roulette/"/>
+        <updated>2022-12-18T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Windowsの「System32」は、Windowsが正常に動作するために必要なプログラムファイルが格納されるディレクトリで、このディレクトリや以下にあるファイルが壊れるとWindowsそのものが正常に動作しなくなる恐れがあります。そんなSystem32からランダムにファイルを選んで削除し、再起動できるかどうかを試して遊ぶという度胸試し、その名も「System32ルーレット」を敢行したという報告が、ソーシャルニュースサイトのHacker Newsに上がっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【訃報】「Romanticが止まらない」などで知られる元C-C-B・笠浩二さん死去]]></title>
+        <id>https://gigazine.net/news/20221218-ccb-kohji-ryu-passed-away/</id>
+        <link href="https://gigazine.net/news/20221218-ccb-kohji-ryu-passed-away/"/>
+        <updated>2022-12-18T08:17:00.000Z</updated>
+        <summary type="html"><![CDATA[1985年の大ヒット曲「Romanticが止まらない」や「ないものねだりのI Want You」「原色したいね」などの楽曲で知られるC-C-Bで、ドラムやボーカルとして活躍したミュージシャンの笠浩二さんが、脳梗塞のため熊本市内の病院で亡くなったことがわかりました。60歳でした。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[習近平はどのように中国のハッカーをレベルアップしたのか？]]></title>
         <id>https://gigazine.net/news/20221218-how-leveled-up-chinas-hacking-teams/</id>

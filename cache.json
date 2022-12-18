@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221218-system32-roulette/",
+          "author": null,
+          "description": "Windowsの「System32」は、Windowsが正常に動作するために必要なプログラムファイルが格納されるディレクトリで、このディレクトリや以下にあるファイルが壊れるとWindowsそのものが正常に動作しなくなる恐れがあります。そんなSystem32からランダムにファイルを選んで削除し、再起動できるかどうかを試して遊ぶという度胸試し、その名も「System32ルーレット」を敢行したという報告が、ソーシャルニュースサイトのHacker Newsに上がっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221218-system32-roulette/",
+          "publishedOn": "2022-12-18T09:00:00.000Z",
+          "wordCount": 2462,
+          "title": "Windowsの「System32」からランダムにファイルを選んで削除し再起動できるかどうかを試し続ける恐るべき飲み会「System32ルーレット」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/18/system32-roulette/00_m.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221218-ccb-kohji-ryu-passed-away/",
+          "author": null,
+          "description": "1985年の大ヒット曲「Romanticが止まらない」や「ないものねだりのI Want You」「原色したいね」などの楽曲で知られるC-C-Bで、ドラムやボーカルとして活躍したミュージシャンの笠浩二さんが、脳梗塞のため熊本市内の病院で亡くなったことがわかりました。60歳でした。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221218-ccb-kohji-ryu-passed-away/",
+          "publishedOn": "2022-12-18T08:17:00.000Z",
+          "wordCount": 2494,
+          "title": "【訃報】「Romanticが止まらない」などで知られる元C-C-B・笠浩二さん死去",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/18/ccb-kohji-ryu-passed-away/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221218-how-leveled-up-chinas-hacking-teams/",
           "author": null,
           "description": "近年は「中国のハッキングチームが外国企業や政府機関をサイバー攻撃した」といったニュースを頻繁に聞くようになりました。この裏には習近平国家主席により主導された国家的なハッカー育成計画があったとのことで、セキュリティ研究者のDakota Caryがその政策についてまとめています。\n続きを読む...",

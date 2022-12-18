@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T05:11:38.325Z</updated>
+    <updated>2022-12-18T06:15:50.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[習近平はどのように中国のハッカーをレベルアップしたのか？]]></title>
+        <id>https://gigazine.net/news/20221218-how-leveled-up-chinas-hacking-teams/</id>
+        <link href="https://gigazine.net/news/20221218-how-leveled-up-chinas-hacking-teams/"/>
+        <updated>2022-12-18T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近年は「中国のハッキングチームが外国企業や政府機関をサイバー攻撃した」といったニュースを頻繁に聞くようになりました。この裏には習近平国家主席により主導された国家的なハッカー育成計画があったとのことで、セキュリティ研究者のDakota Caryがその政策についてまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Tinderの次のメタはChatGPT」女性の口説き方をチャットAIにご教授願う猛者現る]]></title>
         <id>https://gigazine.net/news/20221218-tinder-chatgpt/</id>

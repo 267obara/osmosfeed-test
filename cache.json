@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221218-how-leveled-up-chinas-hacking-teams/",
+          "author": null,
+          "description": "近年は「中国のハッキングチームが外国企業や政府機関をサイバー攻撃した」といったニュースを頻繁に聞くようになりました。この裏には習近平国家主席により主導された国家的なハッカー育成計画があったとのことで、セキュリティ研究者のDakota Caryがその政策についてまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221218-how-leveled-up-chinas-hacking-teams/",
+          "publishedOn": "2022-12-18T06:00:00.000Z",
+          "wordCount": 2462,
+          "title": "習近平はどのように中国のハッカーをレベルアップしたのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/18/how-leveled-up-chinas-hacking-teams/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221218-tinder-chatgpt/",
           "author": null,
           "description": "人間との高度な対話が可能なチャットAI「ChatGPT」を駆使することで、マッチングアプリの「Tinder」で女性と出会うことに成功したという事例が報告されています。\n続きを読む...",

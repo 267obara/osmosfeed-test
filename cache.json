@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221218-tinder-chatgpt/",
+          "author": null,
+          "description": "人間との高度な対話が可能なチャットAI「ChatGPT」を駆使することで、マッチングアプリの「Tinder」で女性と出会うことに成功したという事例が報告されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221218-tinder-chatgpt/",
+          "publishedOn": "2022-12-18T04:00:00.000Z",
+          "wordCount": 2445,
+          "title": "「Tinderの次のメタはChatGPT」女性の口説き方をチャットAIにご教授願う猛者現る",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/18/tinder-chatgpt/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221218-financial-times-printing-error/",
           "author": null,
           "description": "イギリスで発行されている経済紙「Financial Times」が、日本の通信会社「NTT」について18カ月間も間違った情報を掲載していると、ブロガーのベンジャミン・マコ・ヒル氏が指摘しています。\n続きを読む...",

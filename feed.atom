@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T03:14:20.888Z</updated>
+    <updated>2022-12-18T04:15:26.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Tinderの次のメタはChatGPT」女性の口説き方をチャットAIにご教授願う猛者現る]]></title>
+        <id>https://gigazine.net/news/20221218-tinder-chatgpt/</id>
+        <link href="https://gigazine.net/news/20221218-tinder-chatgpt/"/>
+        <updated>2022-12-18T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人間との高度な対話が可能なチャットAI「ChatGPT」を駆使することで、マッチングアプリの「Tinder」で女性と出会うことに成功したという事例が報告されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[経済紙のFinancial Timesが18カ月間にわたってNTTの情報を誤掲載しているという指摘]]></title>
         <id>https://gigazine.net/news/20221218-financial-times-printing-error/</id>

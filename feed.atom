@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T20:15:09.708Z</updated>
+    <updated>2022-12-19T21:12:22.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ドナルド・トランプ公式トレカ」は想像以上に闇が深いと識者]]></title>
+        <id>https://gigazine.net/news/20221220-trumps-trading-card-grift/</id>
+        <link href="https://gigazine.net/news/20221220-trumps-trading-card-grift/"/>
+        <updated>2022-12-19T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドナルド・トランプ元大統領が2022年12月に発表した、非代替性トークン(NFT)の公式トレーディングカードの関連企業について調べたところ、過去のさまざまな不正とのつながりが疑われる事実が発覚したと、The New York Timesの元記者でベストセラー作家のカート・アイヘンヴァルト氏が指摘しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Webアプリケーションフレームワーク「SvelteKit 1.0」正式リリース。SSR/SSG/SPAなど対応]]></title>
         <id>https://www.publickey1.jp/blog/22/websveltekit_10ssrssgspa.html</id>

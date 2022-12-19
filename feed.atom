@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-18T23:12:48.139Z</updated>
+    <updated>2022-12-19T01:03:56.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[汚れた空気は死を招くが「空気清浄機を使えばいい」わけでもない、その理由とは？]]></title>
+        <id>https://gigazine.net/news/20221219-air-cleaning-device/</id>
+        <link href="https://gigazine.net/news/20221219-air-cleaning-device/"/>
+        <updated>2022-12-19T00:32:00.000Z</updated>
+        <summary type="html"><![CDATA[「汚れた空気」による死者数は年間700万人に上ります。その多くは、固形燃料を換気不良の場所で使用する機会が多い発展途上国の事例ですが、イギリスでも年間2万6000人から3万8000人が亡くなっているとのこと。新型コロナウイルスの世界的パンデミックもあり、空気清浄機の需要が高まっていますが、必ずしもいいことばかりではないという指摘があります。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TwitterのマスクCEO、「辞任した方がいい？」投票開始]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news075.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news075.html"/>
+        <updated>2022-12-19T00:23:00.000Z</updated>
+        <summary type="html"><![CDATA[TwitterのマスクCEOが「私はTwitterの責任者を辞めるべきや否や？　私はこの投票結果に従う」と新たな投票をツイートした。ツイートの数十分後、「Yes」が優勢だ。同氏はこれまで実施したほぼすべての投票結果に従ってきた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、「iOS 16.2」と「iPadOS 16.2」の提供を開始]]></title>
+        <id>http://codezine.jp/article/detail/17052</id>
+        <link href="http://codezine.jp/article/detail/17052"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Appleは、スマートフォン向けオペレーティング・システムの新版「iOS 16.2」と、タブレット型端末向けオペレーティング・システムの新版「iPadOS 16.2」の提供を12月13日（現地時間）に始めた。合わせて、同OSで動作するアプリを開発するためのSDKの提供も始めている。SDKは統合開発環境「Xcode 14.2」に付属しており、Mac App Storeから入手できる。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebKit開発チーム、Safari 16.2に搭載した新機能を紹介]]></title>
+        <id>http://codezine.jp/article/detail/17054</id>
+        <link href="http://codezine.jp/article/detail/17054"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Appleを中心とする、オープンソースのHTMLレンダリングエンジン群であるWebKitの開発チームは、iOS／macOS／iPad OS向けのWebブラウザ「Safari 16.2」の配布が12月13日（現地時間）に始まったことを受けて、WebKit公式ブログの同日付投稿で、「Safari 16.2」で新たに加わったWebKitの機能について解説している。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人情報保護委のツールキットがヒット　初の企業向け]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news072.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news072.html"/>
+        <updated>2022-12-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[企業が扱う個人情報を適切に管理するため、個人情報保護委員会が作成したツールキットが、予想を上回るヒットになっている。ダウンロード数はこれまでに約7000件。企業側の危機管理の意識も高まっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界最大の「培養肉工場」の建設がスタート、動物を1頭も殺さず1万トンの培養肉を生産可能]]></title>
         <id>https://gigazine.net/news/20221219-worlds-biggest-cultured-meat-factory/</id>
@@ -15,6 +66,36 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScriptライブラリ「jQuery 3.6.2」が公開]]></title>
+        <id>http://codezine.jp/article/detail/17055</id>
+        <link href="http://codezine.jp/article/detail/17055"/>
+        <updated>2022-12-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenJS Foundationは、JavaScriptライブラリ「jQuery」の最新版「jQuery 3.6.2」を12月13日（現地時間）に公開した。jQueryはMITライセンスで公開しているオープンソース・ソフトウェアだ。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ネット接続していないPCをスマホでハッキング　壁越しでも2m離れた場所から無線で攻撃]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news048.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news048.html"/>
+        <updated>2022-12-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イスラエルのBen-Gurion University of the Negevに所属する研究者は、ネットに接続していないコンピュータ（エアギャップPC）を離れた場所から無線でハッキングするサイバー攻撃を提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「動画閲覧中は高く、タッチで検索中は低く」　自動で高さや角度が変わる三角形型タブレットスタンド]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news047.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news047.html"/>
+        <updated>2022-12-18T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東北大学北村・高嶋研究室に所属する研究者らは、三角形が変形することで取り付けたモバイル機器（スマートフォンやタブレットなど）の高さや傾きが変えるデスクトップスタンド装置を提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

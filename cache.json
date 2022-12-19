@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221219-anker-eufy-delete-camera-privacy/",
+          "author": null,
+          "description": "Ankerのスマートホームブランド「Eufy」のカメラ付きインターホンが、撮影した映像をユーザーの許可なく、暗号化していない状態でアップロードしていたことが、2022年11月に発覚しました。さらに、問題が明るみに出た後に、Eufyのページからプライバシーに関する文言が削除されていることが分かりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-anker-eufy-delete-camera-privacy/",
+          "publishedOn": "2022-12-19T07:00:00.000Z",
+          "wordCount": 2469,
+          "title": "Ankerの家電ブランド「Eufy」がプライバシーに関する約束をウェブページからこっそり削除、勝手に監視カメラ映像をアップロードしていた問題発覚の直後",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/anker-eufy-delete-camera-privacy/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221219-apple-decoy-labor-group/",
           "author": null,
           "description": "アメリカ通信労働組合(CWA)は、Appleが不当な労働慣行について全米労働関係委員会(NLRB)に苦情を申し立てました。CWAが提出した訴状によると、Appleはオハイオ州コロンバスにあるApple Storeで「おとり労働組合」を作成したと記されています。\n続きを読む...",

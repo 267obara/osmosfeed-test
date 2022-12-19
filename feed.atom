@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T06:17:10.117Z</updated>
+    <updated>2022-12-19T07:12:04.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ankerの家電ブランド「Eufy」がプライバシーに関する約束をウェブページからこっそり削除、勝手に監視カメラ映像をアップロードしていた問題発覚の直後]]></title>
+        <id>https://gigazine.net/news/20221219-anker-eufy-delete-camera-privacy/</id>
+        <link href="https://gigazine.net/news/20221219-anker-eufy-delete-camera-privacy/"/>
+        <updated>2022-12-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ankerのスマートホームブランド「Eufy」のカメラ付きインターホンが、撮影した映像をユーザーの許可なく、暗号化していない状態でアップロードしていたことが、2022年11月に発覚しました。さらに、問題が明るみに出た後に、Eufyのページからプライバシーに関する文言が削除されていることが分かりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Appleが労働組合結成を妨害するために「おとり労働組合」を作ったことが暴露される]]></title>
         <id>https://gigazine.net/news/20221219-apple-decoy-labor-group/</id>

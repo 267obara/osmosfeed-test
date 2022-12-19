@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T03:14:20.648Z</updated>
+    <updated>2022-12-19T04:16:08.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[元Oculus最高技術責任者のジョン・カーマック氏が「戦いにもう疲れた」と言葉を残してMetaを辞任]]></title>
+        <id>https://gigazine.net/news/20221219-john-carmack-left-meta-vr/</id>
+        <link href="https://gigazine.net/news/20221219-john-carmack-left-meta-vr/"/>
+        <updated>2022-12-19T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「DOOM」「Quake」などのFPSゲームの開発で知られるid Softwareの共同設立者で、Oculus(現MetaのVR部門)の最高技術責任者としても知られるジョン・カーマック氏がMetaを退職することを社内フォーラムへのメッセージとFacebookへの投稿で明らかにしました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT技術職の平均年収はいくら？　年収額アップ2位は「サーバエンジニア」、1位は？　doda調べ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news107.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news107.html"/>
+        <updated>2022-12-19T03:46:00.000Z</updated>
+        <summary type="html"><![CDATA[IT技術職の平均年収はいくらか。転職サービス「doda」などを提供するパーソルキャリアは、正社員の平均年収ランキングを発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TwitterがFacebook・Instagram・Mastodon・Truth Social・Tribel・Nostr・Postの自アカウント宣伝ツイートを削除しアカBANができるようポリシー改定するも即撤回]]></title>
+        <id>https://gigazine.net/news/20221219-twitter-disallow-promoting-other-social-platforms/</id>
+        <link href="https://gigazine.net/news/20221219-twitter-disallow-promoting-other-social-platforms/"/>
+        <updated>2022-12-19T03:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterが「他のソーシャルプラットフォームの宣伝に関するポリシー」を改定し、競合となるSNSの自アカウントを宣伝することを主目的とした利用を禁止することを発表しましたが、短時間でこれを撤回しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter、他のSNSリンクの投稿禁止を撤回か？　新ポリシーに関するツイートとヘルプページが削除される]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news106.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news106.html"/>
+        <updated>2022-12-19T03:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterが12月18日（現地時間）に発表した新しいポリシーについて、同社は関連する一連のツイートとヘルプページを削除した。新ポリシーでは、プロモーションを目的にTwitter以外のSNSのアカウントやリンクを投稿することを禁止するとしていた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マインクラフトのサーバーを狙ってDDoS攻撃を仕掛けるマルウェア「MCCrash」をMicrosoftが発見]]></title>
+        <id>https://gigazine.net/news/20221219-mccrash-ddos-minecraft-servers/</id>
+        <link href="https://gigazine.net/news/20221219-mccrash-ddos-minecraft-servers/"/>
+        <updated>2022-12-19T03:35:00.000Z</updated>
+        <summary type="html"><![CDATA[世界で最も売れているゲームである「マインクラフト」では、多くのプレイヤーがサーバーを使ってマルチプレイを楽しんでいます。そんなマインクラフトのサーバーを狙って分散型サービス拒否(DDoS)攻撃を行うマルウェアが、WindowsとLinuxの両方で見つかりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterで選挙やワクチンの誤情報拡散者・白人至上主義者・Qアノン支持者などの極右アカウントが続々復活中]]></title>
+        <id>https://gigazine.net/news/20221219-twitter-reinstated-account/</id>
+        <link href="https://gigazine.net/news/20221219-twitter-reinstated-account/"/>
+        <updated>2022-12-19T03:16:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏がTwitterのCEOに就任して以降、Twitterではドナルド・トランプ元大統領のアカウントを含む数万件に及ぶアカウントの凍結が解除された一方で、イーロン・マスク氏のプライベートジェット追跡アカウント「ElonJet」が凍結されたり、ElonJetの凍結を報じたジャーナリストのアカウントが大量凍結されたりとマスク氏の意向と思われるアカウントの凍結や凍結解除が実施されています。新たに、上述の「ジャーナリストのアカウント大量凍結」の翌日に白人至上主義者や偽情報インフルエンサーのアカウントの凍結解除が実施されていたことが明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロン・マスクは世論調査の結果ElonJetの凍結を報じたジャーナリストのアカウントを復活、同時に極右アカウントも大量復活し「自由の金曜日」を宣言]]></title>
         <id>https://gigazine.net/news/20221219-twitter-journalist-lifted/</id>
@@ -26,6 +90,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[なぜ運用とスクラムは組み合わせにくいと言われるのか──スクラムで運用業務をうまく扱うための4つのトライ]]></title>
+        <id>http://codezine.jp/article/detail/16920</id>
+        <link href="http://codezine.jp/article/detail/16920"/>
+        <updated>2022-12-19T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スクラム関連のイベントでは、運用業務とスクラムが組み合わせにくいという話を耳にするという。だが本当にスクラムと運用業務は組み合わせにくいのか、そこに疑問を持っている人も意外に多い。ヤフーでプロダクト開発を担当している中井菜子氏もその一人である。中井氏が担当しているプロダクトでは、業務の約7割を運用業務が占めている。その運用業務をスクラム内で扱うために試行錯誤を行い、うまくいったこともあるという。なぜ運用業務はスクラムとうまく組み合わせにくいのか。その理由を探り、どのようにすればうまくスクラムと組み合わせられるのか、その試行錯誤の様子を紹介した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

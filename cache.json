@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221219-apple-decoy-labor-group/",
+          "author": null,
+          "description": "アメリカ通信労働組合(CWA)は、Appleが不当な労働慣行について全米労働関係委員会(NLRB)に苦情を申し立てました。CWAが提出した訴状によると、Appleはオハイオ州コロンバスにあるApple Storeで「おとり労働組合」を作成したと記されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-apple-decoy-labor-group/",
+          "publishedOn": "2022-12-19T06:00:00.000Z",
+          "wordCount": 2460,
+          "title": "Appleが労働組合結成を妨害するために「おとり労働組合」を作ったことが暴露される",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/apple-decoy-labor-group/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221219-overture-maps-foundation-open-map-data/",
           "author": null,
           "description": "非営利の技術コンソーシアムであるLinux Foundationが、オープンで相互運用可能な地図データ構築を目指す団体「Overture Maps Foundation」の設立を発表しました。Overture Maps Foundationのメンバーには、クラウドサービス大手のAmazon Web Services(AWS)、Facebookの運営主でメタバースにも注力しているMeta、OSを中核とするソフトウェア大手のMicrosoft、ナビゲーションやロケーションテクノロジーを手がけるTomTomが名を連ねており、マップ市場で地位を確立するGoogleへの対抗ともみられています。\n続きを読む...",

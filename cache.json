@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221219-many-japanese-never-travel-again/",
+          "author": null,
+          "description": "新型コロナウイルス感染症(COVID-19)のパンデミックを受けて世界的に旅行する人々の数は急減しましたが、その後の規制緩和に伴って旅行需要は拡大しつつあります。ところが、世界15カ国に住む1万6000人を対象にしたアンケートで、「日本人の旅行離れ」が浮き彫りになったことを海外メディアのCNBCが報じています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-many-japanese-never-travel-again/",
+          "publishedOn": "2022-12-19T08:00:00.000Z",
+          "wordCount": 2464,
+          "title": "「日本人の旅行離れ」を海外メディアが報じる、なんと35％が「二度と旅行しない」と回答して圧倒的に他国を上回る",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/many-japanese-never-travel-again/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221219-anker-eufy-delete-camera-privacy/",
           "author": null,
           "description": "Ankerのスマートホームブランド「Eufy」のカメラ付きインターホンが、撮影した映像をユーザーの許可なく、暗号化していない状態でアップロードしていたことが、2022年11月に発覚しました。さらに、問題が明るみに出た後に、Eufyのページからプライバシーに関する文言が削除されていることが分かりました。\n続きを読む...",
@@ -2702,6 +2712,26 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/17058",
+          "author": null,
+          "description": "Vue.jsやReactなどに対応したフロントエンドのビルドツールであるViteの開発チームは、最新バージョンとなる「Vite 4.0」をリリースしている。",
+          "link": "http://codezine.jp/article/detail/17058",
+          "publishedOn": "2022-12-19T06:45:00.000Z",
+          "wordCount": 4323,
+          "title": "フロントエンドのビルドツール「Vite 4.0」がリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/17058/13165_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17059",
+          "author": null,
+          "description": "デジタルハリウッドは、同社の運営する起業家・エンジニア養成スクール「G's ACADEMY（ジーズアカデミー）」が、自分らしいキャリアの形成を目指す大学生・大学院生・高専生など学生を対象にしたオンライン短期集中プログラム「G's U PROGRAM（ジーズ ユー プログラム）」を2023年1月に開講することを発表した。",
+          "link": "http://codezine.jp/article/detail/17059",
+          "publishedOn": "2022-12-19T06:45:00.000Z",
+          "wordCount": 4336,
+          "title": "自分らしいキャリアの形成を目指す大学生などを対象にしたオンライン短期集中プログラム「G's U PROGRAM」が2023年1月に開講",
+          "imageUrl": "https://codezine.jp/static/images/article/17059/17059_fig01.png"
+        },
         {
           "id": "http://codezine.jp/article/detail/16920",
           "author": null,

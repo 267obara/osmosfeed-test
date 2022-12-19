@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T07:12:04.897Z</updated>
+    <updated>2022-12-19T08:17:31.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「日本人の旅行離れ」を海外メディアが報じる、なんと35％が「二度と旅行しない」と回答して圧倒的に他国を上回る]]></title>
+        <id>https://gigazine.net/news/20221219-many-japanese-never-travel-again/</id>
+        <link href="https://gigazine.net/news/20221219-many-japanese-never-travel-again/"/>
+        <updated>2022-12-19T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症(COVID-19)のパンデミックを受けて世界的に旅行する人々の数は急減しましたが、その後の規制緩和に伴って旅行需要は拡大しつつあります。ところが、世界15カ国に住む1万6000人を対象にしたアンケートで、「日本人の旅行離れ」が浮き彫りになったことを海外メディアのCNBCが報じています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ankerの家電ブランド「Eufy」がプライバシーに関する約束をウェブページからこっそり削除、勝手に監視カメラ映像をアップロードしていた問題発覚の直後]]></title>
         <id>https://gigazine.net/news/20221219-anker-eufy-delete-camera-privacy/</id>
@@ -15,6 +26,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フロントエンドのビルドツール「Vite 4.0」がリリース]]></title>
+        <id>http://codezine.jp/article/detail/17058</id>
+        <link href="http://codezine.jp/article/detail/17058"/>
+        <updated>2022-12-19T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Vue.jsやReactなどに対応したフロントエンドのビルドツールであるViteの開発チームは、最新バージョンとなる「Vite 4.0」をリリースしている。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自分らしいキャリアの形成を目指す大学生などを対象にしたオンライン短期集中プログラム「G's U PROGRAM」が2023年1月に開講]]></title>
+        <id>http://codezine.jp/article/detail/17059</id>
+        <link href="http://codezine.jp/article/detail/17059"/>
+        <updated>2022-12-19T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[デジタルハリウッドは、同社の運営する起業家・エンジニア養成スクール「G's ACADEMY（ジーズアカデミー）」が、自分らしいキャリアの形成を目指す大学生・大学院生・高専生など学生を対象にしたオンライン短期集中プログラム「G's U PROGRAM（ジーズ ユー プログラム）」を2023年1月に開講することを発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

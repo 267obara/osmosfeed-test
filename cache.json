@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221219-steam-valve-support-proton-mesa/",
+          "author": null,
+          "description": "ゲーム配信プラットフォーム「Steam」の開発元であるValveはモバイルゲーミングPC「Steam Deck」の開発にあたってProtonやMesaなどの開発に取り組む100人以上のオープンソース開発者に開発費を支払っているとSteam DeckのデザイナーであるPierre-Loup Griffais氏が明かしています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-steam-valve-support-proton-mesa/",
+          "publishedOn": "2022-12-19T11:00:00.000Z",
+          "wordCount": 2479,
+          "title": "ValveはSteam Deckの開発時に100人以上のオープンソースデベロッパーに開発費を支払っていたことが明らかに",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/steam-valve-support-proton-mesa/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221219-medical-ultrasound-scanner-doom/",
           "author": null,
           "description": "1993年に発表されたFPSゲームの「DOOM」は1997年にLinux版のソースコードが公開されると、有志によって瞬く間にバグが修正された上でさまざまなバージョンが開発され、ゲーム機やPCだけではなくプリンター・トラクター・妊娠検査キットなどの画面がついた電子機器、果てはTwitterや「DOOM」の中など、プラットフォームや場所を選ばないDOOMの非公式な移植作業が日々行われています。中古やジャンク品の電子機器を買って修理するYouTubeチャンネル・Buy it Fix itが、医療用の超音波スキャナーを修理して改造することでDOOMを動作させることに成功しています。\n続きを読む...",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T10:16:16.283Z</updated>
+    <updated>2022-12-19T11:11:04.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ValveはSteam Deckの開発時に100人以上のオープンソースデベロッパーに開発費を支払っていたことが明らかに]]></title>
+        <id>https://gigazine.net/news/20221219-steam-valve-support-proton-mesa/</id>
+        <link href="https://gigazine.net/news/20221219-steam-valve-support-proton-mesa/"/>
+        <updated>2022-12-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム配信プラットフォーム「Steam」の開発元であるValveはモバイルゲーミングPC「Steam Deck」の開発にあたってProtonやMesaなどの開発に取り組む100人以上のオープンソース開発者に開発費を支払っているとSteam DeckのデザイナーであるPierre-Loup Griffais氏が明かしています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[医療用超音波スキャナーを修理してDOOMをプレイすることに成功]]></title>
         <id>https://gigazine.net/news/20221219-medical-ultrasound-scanner-doom/</id>

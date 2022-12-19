@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T15:16:17.402Z</updated>
+    <updated>2022-12-19T16:20:10.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Webアプリケーションフレームワーク「SvelteKit 1.0」正式リリース。SSR/SSG/SPAなど対応]]></title>
+        <id>https://www.publickey1.jp/blog/22/websveltekit_10ssrssgspa.html</id>
+        <link href="https://www.publickey1.jp/blog/22/websveltekit_10ssrssgspa.html"/>
+        <updated>2022-12-19T15:49:58.000Z</updated>
+        <summary type="html"><![CDATA[Webアプリケーションフレームワーク「SvelteKit 1.0」が正式リリースとなりました。 SvelteKitは、Web UIフレームワークの「Svelte」と、ビルドツールの「Vite」を基盤としたWebアプリケーションフレームワーク...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ヘビにもクリトリスがあることが判明し研究者は大興奮、メスに関する研究が少なすぎるという指摘も]]></title>
         <id>https://gigazine.net/news/20221219-snake-clitoris/</id>

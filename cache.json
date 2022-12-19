@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221219-medical-ultrasound-scanner-doom/",
+          "author": null,
+          "description": "1993年に発表されたFPSゲームの「DOOM」は1997年にLinux版のソースコードが公開されると、有志によって瞬く間にバグが修正された上でさまざまなバージョンが開発され、ゲーム機やPCだけではなくプリンター・トラクター・妊娠検査キットなどの画面がついた電子機器、果てはTwitterや「DOOM」の中など、プラットフォームや場所を選ばないDOOMの非公式な移植作業が日々行われています。中古やジャンク品の電子機器を買って修理するYouTubeチャンネル・Buy it Fix itが、医療用の超音波スキャナーを修理して改造することでDOOMを動作させることに成功しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-medical-ultrasound-scanner-doom/",
+          "publishedOn": "2022-12-19T10:03:00.000Z",
+          "wordCount": 2474,
+          "title": "医療用超音波スキャナーを修理してDOOMをプレイすることに成功",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/medical-ultrasound-scanner-doom/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221219-headline/",
+          "author": null,
+          "description": "「明星 チャルメラ しょうゆラーメン」「明星 チャルメラ 宮崎辛麺」」に「ちいかわ」のコラボデザインパッケージが登場します。出荷は2023年1月末からで、限定デザインは合計12種類。なお、「チャルメラ しょうゆラーメン」のパッケージは、「ちいかわ」作中でハチワレが言い間違えた通り「チャリメラ」表記となっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-headline/",
+          "publishedOn": "2022-12-19T09:27:00.000Z",
+          "wordCount": 10436,
+          "title": "2022年12月19日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/headline/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221219-many-japanese-never-travel-again/",
           "author": null,
           "description": "新型コロナウイルス感染症(COVID-19)のパンデミックを受けて世界的に旅行する人々の数は急減しましたが、その後の規制緩和に伴って旅行需要は拡大しつつあります。ところが、世界15カ国に住む1万6000人を対象にしたアンケートで、「日本人の旅行離れ」が浮き彫りになったことを海外メディアのCNBCが報じています。\n続きを読む...",
@@ -2713,6 +2733,46 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17063",
+          "author": null,
+          "description": "日本ネットワーク技術者協会は、「Pythonとネットワーク自動化基礎検定」試験を、2023年1月16日から全国350か所で実施することを発表した。12月19日から申し込みを受け付けている。",
+          "link": "http://codezine.jp/article/detail/17063",
+          "publishedOn": "2022-12-19T09:30:00.000Z",
+          "wordCount": 4303,
+          "title": "「Pythonとネットワーク自動化基礎検定」試験を2023年1月16日から実施。全国350か所で通年受験が可能",
+          "imageUrl": "https://codezine.jp/static/images/article/17063/15473_og.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17060",
+          "author": null,
+          "description": "デジタルハーツホールディングスの子会社であるAGESTは、エンジニアリングを進化させる品質メディア「Sqripts」を12月15日に開設した。",
+          "link": "http://codezine.jp/article/detail/17060",
+          "publishedOn": "2022-12-19T09:00:00.000Z",
+          "wordCount": 4298,
+          "title": "AGEST、エンジニアリングを進化させる品質メディア「Sqripts」を12月15日に開設",
+          "imageUrl": "https://codezine.jp/static/images/article/17060/17060_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17061",
+          "author": null,
+          "description": "サポーターズは、自主的に開発した制作物を保有するエンジニア学生（以降、トップエンジニア学生）を対象に実施したアンケート調査の結果を12月15日に公開した。",
+          "link": "http://codezine.jp/article/detail/17061",
+          "publishedOn": "2022-12-19T09:00:00.000Z",
+          "wordCount": 4303,
+          "title": "これから挑戦してみたいプログラミング言語は「Go」で43.8％、サポーターズがトップエンジニア学生「最新トレンド調査2022」を公開",
+          "imageUrl": "https://codezine.jp/static/images/article/17061/17061_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17064",
+          "author": null,
+          "description": "Pythonで数値計算を高速に行うためのライブラリであるNumPyの開発チームは、最新バージョンである「NumPy 1.24.0」を、12月19日（現地時間）にリリースした。",
+          "link": "http://codezine.jp/article/detail/17064",
+          "publishedOn": "2022-12-19T09:00:00.000Z",
+          "wordCount": 4305,
+          "title": "Python向け数値計算ライブラリ「NumPy 1.24.0」がリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/17064/13749_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17058",
           "author": null,
           "description": "Vue.jsやReactなどに対応したフロントエンドのビルドツールであるViteの開発チームは、最新バージョンとなる「Vite 4.0」をリリースしている。",
@@ -4086,6 +4146,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/19/news157.html",
+          "author": null,
+          "description": "Visaなどクレジットカード国際ブランドが推進している「タッチ決済」の普及が加速している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/19/news157.html",
+          "publishedOn": "2022-12-19T09:05:00.000Z",
+          "wordCount": 2590,
+          "title": "Visaのタッチ決済、コンビニで利用増　2021年の2.3倍に　「クレカ決済の2件に1件」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/19/cover_news157.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/19/news153.html",
           "author": null,

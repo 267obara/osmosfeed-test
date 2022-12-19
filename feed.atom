@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T09:13:16.072Z</updated>
+    <updated>2022-12-19T10:16:16.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[医療用超音波スキャナーを修理してDOOMをプレイすることに成功]]></title>
+        <id>https://gigazine.net/news/20221219-medical-ultrasound-scanner-doom/</id>
+        <link href="https://gigazine.net/news/20221219-medical-ultrasound-scanner-doom/"/>
+        <updated>2022-12-19T10:03:00.000Z</updated>
+        <summary type="html"><![CDATA[1993年に発表されたFPSゲームの「DOOM」は1997年にLinux版のソースコードが公開されると、有志によって瞬く間にバグが修正された上でさまざまなバージョンが開発され、ゲーム機やPCだけではなくプリンター・トラクター・妊娠検査キットなどの画面がついた電子機器、果てはTwitterや「DOOM」の中など、プラットフォームや場所を選ばないDOOMの非公式な移植作業が日々行われています。中古やジャンク品の電子機器を買って修理するYouTubeチャンネル・Buy it Fix itが、医療用の超音波スキャナーを修理して改造することでDOOMを動作させることに成功しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Pythonとネットワーク自動化基礎検定」試験を2023年1月16日から実施。全国350か所で通年受験が可能]]></title>
+        <id>http://codezine.jp/article/detail/17063</id>
+        <link href="http://codezine.jp/article/detail/17063"/>
+        <updated>2022-12-19T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[日本ネットワーク技術者協会は、「Pythonとネットワーク自動化基礎検定」試験を、2023年1月16日から全国350か所で実施することを発表した。12月19日から申し込みを受け付けている。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年12月19日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221219-headline/</id>
+        <link href="https://gigazine.net/news/20221219-headline/"/>
+        <updated>2022-12-19T09:27:00.000Z</updated>
+        <summary type="html"><![CDATA[「明星 チャルメラ しょうゆラーメン」「明星 チャルメラ 宮崎辛麺」」に「ちいかわ」のコラボデザインパッケージが登場します。出荷は2023年1月末からで、限定デザインは合計12種類。なお、「チャルメラ しょうゆラーメン」のパッケージは、「ちいかわ」作中でハチワレが言い間違えた通り「チャリメラ」表記となっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Visaのタッチ決済、コンビニで利用増　2021年の2.3倍に　「クレカ決済の2件に1件」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news157.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news157.html"/>
+        <updated>2022-12-19T09:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Visaなどクレジットカード国際ブランドが推進している「タッチ決済」の普及が加速している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AGEST、エンジニアリングを進化させる品質メディア「Sqripts」を12月15日に開設]]></title>
+        <id>http://codezine.jp/article/detail/17060</id>
+        <link href="http://codezine.jp/article/detail/17060"/>
+        <updated>2022-12-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デジタルハーツホールディングスの子会社であるAGESTは、エンジニアリングを進化させる品質メディア「Sqripts」を12月15日に開設した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これから挑戦してみたいプログラミング言語は「Go」で43.8％、サポーターズがトップエンジニア学生「最新トレンド調査2022」を公開]]></title>
+        <id>http://codezine.jp/article/detail/17061</id>
+        <link href="http://codezine.jp/article/detail/17061"/>
+        <updated>2022-12-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サポーターズは、自主的に開発した制作物を保有するエンジニア学生（以降、トップエンジニア学生）を対象に実施したアンケート調査の結果を12月15日に公開した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python向け数値計算ライブラリ「NumPy 1.24.0」がリリース]]></title>
+        <id>http://codezine.jp/article/detail/17064</id>
+        <link href="http://codezine.jp/article/detail/17064"/>
+        <updated>2022-12-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pythonで数値計算を高速に行うためのライブラリであるNumPyの開発チームは、最新バージョンである「NumPy 1.24.0」を、12月19日（現地時間）にリリースした。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDDI、スマホのデータ容量を共有できる「タブレットシェアプラン」復活]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/19/news153.html</id>

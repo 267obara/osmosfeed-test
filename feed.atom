@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T04:16:08.345Z</updated>
+    <updated>2022-12-19T05:12:25.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Googleマップへの対抗としてオープンソースの地図データ構築を目指しAmazon・Meta・Microsoft・TomTom・Linux Foundationが「Overture Maps Foundation」を立ち上げ]]></title>
+        <id>https://gigazine.net/news/20221219-overture-maps-foundation-open-map-data/</id>
+        <link href="https://gigazine.net/news/20221219-overture-maps-foundation-open-map-data/"/>
+        <updated>2022-12-19T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[非営利の技術コンソーシアムであるLinux Foundationが、オープンで相互運用可能な地図データ構築を目指す団体「Overture Maps Foundation」の設立を発表しました。Overture Maps Foundationのメンバーには、クラウドサービス大手のAmazon Web Services(AWS)、Facebookの運営主でメタバースにも注力しているMeta、OSを中核とするソフトウェア大手のMicrosoft、ナビゲーションやロケーションテクノロジーを手がけるTomTomが名を連ねており、マップ市場で地位を確立するGoogleへの対抗ともみられています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、Slackで相談できる有償サポート「AWS Support App」が日本語に対応]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news115.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news115.html"/>
+        <updated>2022-12-19T04:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Slackを介してAWSのサポートを受けられるサービス「AWS Support APP in Slack」が日本語に対応。これまでは英語のみに対応していた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元Oculus最高技術責任者のジョン・カーマック氏が「戦いにもう疲れた」と言葉を残してMetaを辞任]]></title>
         <id>https://gigazine.net/news/20221219-john-carmack-left-meta-vr/</id>

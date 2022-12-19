@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221219-overture-maps-foundation-open-map-data/",
+          "author": null,
+          "description": "非営利の技術コンソーシアムであるLinux Foundationが、オープンで相互運用可能な地図データ構築を目指す団体「Overture Maps Foundation」の設立を発表しました。Overture Maps Foundationのメンバーには、クラウドサービス大手のAmazon Web Services(AWS)、Facebookの運営主でメタバースにも注力しているMeta、OSを中核とするソフトウェア大手のMicrosoft、ナビゲーションやロケーションテクノロジーを手がけるTomTomが名を連ねており、マップ市場で地位を確立するGoogleへの対抗ともみられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-overture-maps-foundation-open-map-data/",
+          "publishedOn": "2022-12-19T05:00:00.000Z",
+          "wordCount": 2644,
+          "title": "Googleマップへの対抗としてオープンソースの地図データ構築を目指しAmazon・Meta・Microsoft・TomTom・Linux Foundationが「Overture Maps Foundation」を立ち上げ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/overture-maps-foundation-open-map-data/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221219-john-carmack-left-meta-vr/",
           "author": null,
           "description": "「DOOM」「Quake」などのFPSゲームの開発で知られるid Softwareの共同設立者で、Oculus(現MetaのVR部門)の最高技術責任者としても知られるジョン・カーマック氏がMetaを退職することを社内フォーラムへのメッセージとFacebookへの投稿で明らかにしました。\n続きを読む...",
@@ -4026,6 +4036,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/19/news115.html",
+          "author": null,
+          "description": "Slackを介してAWSのサポートを受けられるサービス「AWS Support APP in Slack」が日本語に対応。これまでは英語のみに対応していた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/19/news115.html",
+          "publishedOn": "2022-12-19T04:49:00.000Z",
+          "wordCount": 2620,
+          "title": "AWS、Slackで相談できる有償サポート「AWS Support App」が日本語に対応",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/19/cover_news115.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/19/news107.html",
           "author": null,

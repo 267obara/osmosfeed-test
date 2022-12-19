@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T08:17:31.391Z</updated>
+    <updated>2022-12-19T09:13:16.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KDDI、スマホのデータ容量を共有できる「タブレットシェアプラン」復活]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news153.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news153.html"/>
+        <updated>2022-12-19T08:44:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは12月22日から、auスマートフォンの月間データ容量をタブレットと共有できる料金プラン「タブレットシェアプラン」を復活する。月額料金は1100円。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「IT流行語アワード」を決めよう！　2022年を振り返って投票を]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news136.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news136.html"/>
+        <updated>2022-12-19T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ITmedia NEWS編集部と読者でIT流行語を選ぶ「IT流行語アワード」を開催します。2022年に話題になったIT用語やイベント、事件などの中から「今年一番話題になったのはこれだ！」というワードを教えてください。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「日本人の旅行離れ」を海外メディアが報じる、なんと35％が「二度と旅行しない」と回答して圧倒的に他国を上回る]]></title>
         <id>https://gigazine.net/news/20221219-many-japanese-never-travel-again/</id>
@@ -15,6 +35,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史上初、SFマガジンの表紙がAIイラストに　特集は「AIとの距離感」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news148.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news148.html"/>
+        <updated>2022-12-19T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[ハヤカワ書房の月間SF専門誌「SFマガジン」の2月号（12月23日発売／1320円）の表紙に、同誌史上初めて、AIイラストが載ることが発表された。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

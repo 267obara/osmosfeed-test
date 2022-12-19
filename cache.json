@@ -4087,6 +4087,36 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/19/news153.html",
+          "author": null,
+          "description": "KDDIは12月22日から、auスマートフォンの月間データ容量をタブレットと共有できる料金プラン「タブレットシェアプラン」を復活する。月額料金は1100円。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/19/news153.html",
+          "publishedOn": "2022-12-19T08:44:00.000Z",
+          "wordCount": 2588,
+          "title": "KDDI、スマホのデータ容量を共有できる「タブレットシェアプラン」復活",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/19/cover_news153.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/19/news136.html",
+          "author": null,
+          "description": "ITmedia NEWS編集部と読者でIT流行語を選ぶ「IT流行語アワード」を開催します。2022年に話題になったIT用語やイベント、事件などの中から「今年一番話題になったのはこれだ！」というワードを教えてください。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/19/news136.html",
+          "publishedOn": "2022-12-19T08:30:00.000Z",
+          "wordCount": 2594,
+          "title": "「IT流行語アワード」を決めよう！　2022年を振り返って投票を",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/19/cover_news136.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/19/news148.html",
+          "author": null,
+          "description": "ハヤカワ書房の月間SF専門誌「SFマガジン」の2月号（12月23日発売／1320円）の表紙に、同誌史上初めて、AIイラストが載ることが発表された。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/19/news148.html",
+          "publishedOn": "2022-12-19T07:56:00.000Z",
+          "wordCount": 2640,
+          "title": "史上初、SFマガジンの表紙がAIイラストに　特集は「AIとの距離感」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/19/cover_news148.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/19/news115.html",
           "author": null,
           "description": "Slackを介してAWSのサポートを受けられるサービス「AWS Support APP in Slack」が日本語に対応。これまでは英語のみに対応していた。",

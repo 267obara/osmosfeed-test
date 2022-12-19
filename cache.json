@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221219-twitter-journalist-lifted/",
+          "author": null,
+          "description": "イーロン・マスク氏はTwitterのCEOに就任して以降、言論の自由を掲げて数万件のアカウントを凍結から解除している一方で、マスク氏のプライベートジェットの離着陸情報を発信するアカウント「ElonJet(@ElonJet)」を凍結したり、そのニュースを報じた複数のジャーナリストのアカウントを次々と凍結したりと、その不安定さが懸念されていました。その数日後、Twitterユーザーの投票にしたがってマスク氏はジャーナリストのアカウントを凍結解除しましたが、一部のアカウントは凍結したままであったり、この件とは関係なく過去に凍結されていた政治系アカウントが大量に復活したりと、さまざまな問題が指摘されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-twitter-journalist-lifted/",
+          "publishedOn": "2022-12-19T03:10:00.000Z",
+          "wordCount": 2903,
+          "title": "イーロン・マスクは世論調査の結果ElonJetの凍結を報じたジャーナリストのアカウントを復活、同時に極右アカウントも大量復活し「自由の金曜日」を宣言",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/twitter-journalist-lifted/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221219-fit-boxing-hokuto-no-ken/",
+          "author": null,
+          "description": "両手にJoy-Conを握って北斗の拳のキャラクターと一緒にエクササイズを楽しめるNintendo Switch専用ゲーム「Fit Boxing 北斗の拳 ～お前はもう痩せている～」が2022年12月22日に登場します。本作では、ケンシロウやラオウなどの北斗の拳のキャラクターたちがプレイヤーにエクササイズを指南してくれるだけでなく、ケンシロウに成り代わって強敵たちとの対決を楽しむこともできるとのこと。そんな「Fit Boxing 北斗の拳 ～お前はもう痩せている～」を一足早く体験する機会を得られたので、実際にプレイして楽しく運動できるのか確かめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-fit-boxing-hokuto-no-ken/",
+          "publishedOn": "2022-12-19T03:00:00.000Z",
+          "wordCount": 2524,
+          "title": "北斗百烈拳も放てる全身筋肉痛不可避なエクササイズゲーム「Fit Boxing 北斗の拳 ～お前はもう痩せている～」プレイレビュー",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/fit-boxing-hokuto-no-ken/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221219-ministop-go-go-curry/",
+          "author": null,
+          "description": "金沢カレーのチェーン店・ゴーゴーカレーが監修した「ゴーゴーカレーまん」が2022年12月16日(金)から登場しています。2022年12月16日(金)からミニストップに登場しています。デミグラス&ウスターソースが配合されたゴーゴーカレーのような濃厚でうまみ・甘みのある味わいが楽しめる中華まんになっているとのことなので、実際に購入し、食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-ministop-go-go-curry/",
+          "publishedOn": "2022-12-19T02:45:00.000Z",
+          "wordCount": 2420,
+          "title": "ゴーゴーカレーの濃厚なうまみをデミグラス&amp;ウスターソース配合のカレーで再現したミニストップの「ゴーゴーカレーまん」を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/ministop-go-go-curry/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221219-apple-mac-pro-m2-ultra/",
           "author": null,
           "description": "Bloombergの記者でありApple関連のリーク情報でおなじみのマーク・ガーマン氏が、Appleが計画していたApple Sillicon「M2」シリーズの最上位モデルとなる「M2 Extreme」の製造をキャンセルしたと報じています。\n続きを読む...",
@@ -3946,6 +3976,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/19/news093.html",
+          "author": null,
+          "description": "米AWS、米Microsoft、米Meta、オランダTomTomの4社がオープンな地図データを実現する「Overture Maps Foudation」を設立。先行して地図データを蓄積してきた米Googleや米Appleに対抗する動きとみられる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/19/news093.html",
+          "publishedOn": "2022-12-19T02:22:00.000Z",
+          "wordCount": 2632,
+          "title": "AWS、MS、Metaらがオープンな地図データを実現する「Overture Maps Foundation」結成　2023年前半にはデータ公開へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/19/cover_news093.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/19/news082.html",
           "author": null,

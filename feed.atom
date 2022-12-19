@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T12:25:58.233Z</updated>
+    <updated>2022-12-19T13:19:20.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[うどんを埋め尽くす大盛牛肉で白ご飯も進むはなまるうどんの「倍盛り牛すきぶっかけ」を食べてきた]]></title>
+        <id>https://gigazine.net/news/20221219-hanamaruudon-gyu-suki-bukkake/</id>
+        <link href="https://gigazine.net/news/20221219-hanamaruudon-gyu-suki-bukkake/"/>
+        <updated>2022-12-19T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[うどんチェーン・はなまるうどんで、冬の新商品として2022年12月8日(木)から「牛すきぶっかけ」が登場しました。この「牛すきぶっかけ」には肉が2倍量でうどんが見えないほどのボリュームだという「倍盛り牛すきぶっかけ」があるということなので、山盛りの肉を食べてきました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナは感染後に脳組織で増殖し最大230日間も体内に残り続けるという研究結果が発表される]]></title>
         <id>https://gigazine.net/news/20221219-sars-cov-2-infection-brain/</id>

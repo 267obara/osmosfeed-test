@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221219-apple-mac-pro-m2-ultra/",
+          "author": null,
+          "description": "Bloombergの記者でありApple関連のリーク情報でおなじみのマーク・ガーマン氏が、Appleが計画していたApple Sillicon「M2」シリーズの最上位モデルとなる「M2 Extreme」の製造をキャンセルしたと報じています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-apple-mac-pro-m2-ultra/",
+          "publishedOn": "2022-12-19T01:59:00.000Z",
+          "wordCount": 2653,
+          "title": "AppleがM2 Ultra2枚分の超ハイスペックチップ「M2 Extreme」の製造をキャンセル、Mac Proは中国ではなくベトナムで生産される可能性",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/apple-mac-pro-m2-ultra/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221219-elon-musk-ceo-vote/",
+          "author": null,
+          "description": "イーロン・マスク氏は、Twitterを買収してCEOに就任して以降、Twitterアカウントの大量凍結解除を実施したり、ジャーナリストのアカウントを一斉凍結したりと、連日インターネットを騒がせています。そんなマスク氏が「Twitterの責任者を退くべきか否か」というアンケートを2022年12月19日に開始しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-elon-musk-ceo-vote/",
+          "publishedOn": "2022-12-19T01:29:00.000Z",
+          "wordCount": 2490,
+          "title": "イーロン・マスクが「TwitterのCEOを辞めるべきか否か」2択のアンケートを実施中、2022年12月19日夜まで",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/elon-musk-ceo-vote/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221219-air-cleaning-device/",
           "author": null,
           "description": "「汚れた空気」による死者数は年間700万人に上ります。その多くは、固形燃料を換気不良の場所で使用する機会が多い発展途上国の事例ですが、イギリスでも年間2万6000人から3万8000人が亡くなっているとのこと。新型コロナウイルスの世界的パンデミックもあり、空気清浄機の需要が高まっていますが、必ずしもいいことばかりではないという指摘があります。\n続きを読む...",
@@ -2583,6 +2603,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17033",
+          "author": null,
+          "description": "「データは新しい石油である（Data is the new oil）」と言われて久しく、日本においてもその価値は急速に高まっている。昨今ではデジタル変革（DX）に向けて、「データドリブン」を体現するためにデータサイエンティストのような専門家はもちろん、ローコード／ノーコードツールの活用によって事業部門側でも積極的な活用が叫ばれていることはご承知の通りだろう。今後は、「ESG：（環境：Environment、社会：Social、ガバナンス：Governance）」が重要視されていく中で、データ活用によるグローバル課題解消に、社会人や学生を問わずに挑んでいく必要がある。そこで、注目を集めているのが、SAS主催のグローバルハッカソン「SAS Hackathon（SASハッカソン）」だ。",
+          "link": "http://codezine.jp/article/detail/17033",
+          "publishedOn": "2022-12-19T01:00:00.000Z",
+          "wordCount": 4343,
+          "title": "「SASハッカソン2023」受付開始！　若手育成にもつながる世界で人気のハッカソンは何が面白いのか",
+          "imageUrl": "https://codezine.jp/static/images/article/17033/17033_1200.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17052",
           "author": null,
           "description": "米Appleは、スマートフォン向けオペレーティング・システムの新版「iOS 16.2」と、タブレット型端末向けオペレーティング・システムの新版「iPadOS 16.2」の提供を12月13日（現地時間）に始めた。合わせて、同OSで動作するアプリを開発するためのSDKの提供も始めている。SDKは統合開発環境「Xcode 14.2」に付属しており、Mac App Storeから入手できる。",
@@ -3916,6 +3946,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/19/news082.html",
+          "author": null,
+          "description": "GoogleのWorkspace版Gmailでクライアント側暗号化（CSE）のβテストが始まった。データがサーバに送信される前にクライアントのWebブラウザで暗号化するため、Googleでも復号できない。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/19/news082.html",
+          "publishedOn": "2022-12-19T01:33:00.000Z",
+          "wordCount": 2604,
+          "title": "Google、Workspace版Gmailのクライアント側暗号化のβ版をリリース",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/19/cover_news082.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/19/news075.html",
           "author": null,

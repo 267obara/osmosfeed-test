@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221219-sars-cov-2-infection-brain/",
+          "author": null,
+          "description": "新型コロナウイルス(SARS-CoV-2)の人体組織における組織向性・複製能力・持続性などを調査した論文が、2022年12月14日に科学ジャーナルのNatureに掲載されました。新型コロナウイルス感染症(COVID-19)は主に呼吸器系において障害を引き起こすことが明らかになっていますが、呼吸器系以外の組織でもSARS-CoV-2が増殖していることが明らかになっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221219-sars-cov-2-infection-brain/",
+          "publishedOn": "2022-12-19T12:00:00.000Z",
+          "wordCount": 2453,
+          "title": "新型コロナは感染後に脳組織で増殖し最大230日間も体内に残り続けるという研究結果が発表される",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/19/sars-cov-2-infection-brain/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221219-steam-valve-support-proton-mesa/",
           "author": null,
           "description": "ゲーム配信プラットフォーム「Steam」の開発元であるValveはモバイルゲーミングPC「Steam Deck」の開発にあたってProtonやMesaなどの開発に取り組む100人以上のオープンソース開発者に開発費を支払っているとSteam DeckのデザイナーであるPierre-Loup Griffais氏が明かしています。\n続きを読む...",
@@ -4156,6 +4166,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/19/news169.html",
+          "author": null,
+          "description": "米Twitterのイーロン・マスクCEOが投稿した自身の進退を問うTwitterアンケートの結果、辞めるべきが57％となり、多数派となった。全投票数は約1750万票。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/19/news169.html",
+          "publishedOn": "2022-12-19T11:23:00.000Z",
+          "wordCount": 2595,
+          "title": "TwitterのマスクCEO、アンケート結果「辞めるべき」が57％で多数派に　全投票数は約1750万票",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/19/cover_news169.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/19/news166.html",
+          "author": null,
+          "description": "デジタル庁は12月19日、「マイナポータル」のサイト設計や表現を見直したWebサイト「マイナポータル実証アルファ版」を公開した。スマートフォンから利用できる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/19/news166.html",
+          "publishedOn": "2022-12-19T10:40:00.000Z",
+          "wordCount": 2590,
+          "title": "デジタル庁、マイナポータルの実証アルファ版提供　シンプルなデザインに再設計",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/19/cover_news166.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/19/news157.html",
           "author": null,

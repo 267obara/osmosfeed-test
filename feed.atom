@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T21:11:55.314Z</updated>
+    <updated>2022-12-20T22:12:41.350Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intelの第11世代Coreプロセッサ「Rocket Lake」はそんなにダメだったのか？]]></title>
+        <id>https://gigazine.net/news/20221221-rocket-lake-power-efficiency/</id>
+        <link href="https://gigazine.net/news/20221221-rocket-lake-power-efficiency/"/>
+        <updated>2022-12-20T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intelは2021年9月発売の第12世代Coreプロセッサ「Alder Lake」で高性能コアと高効率コアを組み合わせたハイブリッドアーキテクチャを採用し、前世代以前と比べて「卓越したパフォーマンス」を実現しました。ここで比較対象とされた「前世代」こと第11世代Coreプロセッサ「Rocket Lake」がそこまでひどいものなのか、情報サイトのChips and Cheeseが調査を行っています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ポケットモンスター スカーレット・バイオレットにNintendo Switchエミュレーター「Ryujinx」はどう対応しているのか？]]></title>
         <id>https://gigazine.net/news/20221221-ryujinx-pokemon-scarlet-violet/</id>

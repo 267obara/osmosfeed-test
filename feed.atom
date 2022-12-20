@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T01:07:24.146Z</updated>
+    <updated>2022-12-20T02:35:36.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ankerの「Eufy」がプライバシー問題で謝罪声明を発表するも「論点があっていないテンプレ回答」と批判されてしまう]]></title>
+        <id>https://gigazine.net/news/20221220-anker-eufy-security-camera-statement/</id>
+        <link href="https://gigazine.net/news/20221220-anker-eufy-security-camera-statement/"/>
+        <updated>2022-12-20T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ankerの家電ブランドであるEufyでは、セキュリティカメラの映像が無許可でアップロードされていたことや、問題発覚後にウェブサイトからプライバシーの保証に関する記述が削除されたことが発覚しており、ユーザーの間で波紋が広がっています。これを受けて、Eufyが釈明を行う声明を送信しましたが、メディアからは「用意された文章で、消費者にとって重要な疑問に答えていない」との厳しい評価がなされています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無償デスクトップ自動化ツール「Power Automate Desktop」とAI機能作成サービスを組み合わせてみる]]></title>
+        <id>http://codezine.jp/article/detail/16939</id>
+        <link href="http://codezine.jp/article/detail/16939"/>
+        <updated>2022-12-20T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Power Automate for Desktopは、自動化可能な作業の流れ（フロー）をデザインし、実行するためのソフトウェアです。第15回では、UIオートメーションアクションでUI操作やキーボード操作を自動化するサンプルを説明しました。第16回はAzureコグニティブサービスとの連携をするサンプルを作成します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクのTwitterCEO退任投票は退任賛成が過半数に達したものの「投票はボットによるもの」「投票権はTwitter有料会員に限定すべき」という意見にイーロン・マスクが賛同]]></title>
+        <id>https://gigazine.net/news/20221220-elon-musk-vote-result/</id>
+        <link href="https://gigazine.net/news/20221220-elon-musk-vote-result/"/>
+        <updated>2022-12-20T01:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterのイーロン・マスクCEOは、2022年12月19日にCEO退任の是非を問う投票を実施しました。投票の結果マスク氏のCEO退任を望む声が過半数に達したものの、マスク氏は「TwitterにはディープステートのBOTが大量に存在しており、今回の投票結果はBOTに操作されたものだ」「投票権をTwitterの有料会員にのみ与えるべきだ」といった意見に賛同を示しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクを批判した2人の従業員を不法に解雇したとしてテスラが訴えられる]]></title>
+        <id>https://gigazine.net/news/20221220-tesla-illegally-firing-criticized-elon-musk/</id>
+        <link href="https://gigazine.net/news/20221220-tesla-illegally-firing-criticized-elon-musk/"/>
+        <updated>2022-12-20T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[電気自動車メーカー・テスラの創設者であり、Twitterを買収したことでも話題となっているイーロン・マスク氏を公に批判する組織的な取り組みに参加したというテスラ社員が、会社から不法に解雇されたとして、アメリカの労使関係を担当する行政機関である全米労働関係委員会(NLRB)に苦情を申し立てました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Twitterは他のSNSの宣伝禁止という新ポリシーを設ける必要があるか？」に87％のユーザーが「NO」を突きつける]]></title>
+        <id>https://gigazine.net/news/20221220-twitter-new-policy-survey/</id>
+        <link href="https://gigazine.net/news/20221220-twitter-new-policy-survey/"/>
+        <updated>2022-12-20T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterで他SNSの宣伝を禁止するポリシーが発表後即撤回された件について、Twitterのセキュリティを担当するTwitter Safetyが、Twitter上で「他のソーシャル メディア プラットフォームの宣伝を主な目的とした既存のアカウントの作成または使用を禁止するポリシーを設ける必要がありますか？」と、ユーザーにアンケート機能で問いかけました。その結果、アンケートに答えたユーザーの87％が「NO」を選択しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野村総研のIaaSが“政府認定クラウド”入り]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/20/news102.html</id>
@@ -7247,6 +7301,16 @@
         <id>https://www.itmedia.co.jp/news/articles/2211/25/news004.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2211/25/news004.html"/>
         <updated>2022-11-25T01:00:00.000Z</updated>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PR: 企業人のための「ITmedia エグゼクティブ」入会のご案内]]></title>
+        <id>https://mag.executive.itmedia.co.jp/executive/articles/2211/02/news086.html</id>
+        <link href="https://mag.executive.itmedia.co.jp/executive/articles/2211/02/news086.html"/>
+        <updated>2022-11-24T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ITmedia エグゼクティブは約6000人が参加する企業人のための会員制コミュニティーです。1月の勉強会は、何でも話してしまう心理カウンセラーのすごい聞く技術について、山根洋士さんに話していただきます。この機会にどうぞ入会ください。※条件：上場相当企業の課長職以上（入会無料）詳細はこちらから。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

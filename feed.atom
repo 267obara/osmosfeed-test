@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T20:14:09.437Z</updated>
+    <updated>2022-12-20T21:11:55.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ポケットモンスター スカーレット・バイオレットにNintendo Switchエミュレーター「Ryujinx」はどう対応しているのか？]]></title>
+        <id>https://gigazine.net/news/20221221-ryujinx-pokemon-scarlet-violet/</id>
+        <link href="https://gigazine.net/news/20221221-ryujinx-pokemon-scarlet-violet/"/>
+        <updated>2022-12-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[C＃で記述されるオープンソースのNintendo Switchエミュレーター「Ryujinx」の開発者が、自身のブログで開発の進捗(しんちょく)についてまとめています。その中で、2022年11月に発売された「ポケットモンスター スカーレット・バイオレット(ポケモンSV)」にどう対応しているのかについて記しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub、無料のパブリックリポジトリユーザーにも、コード内のシークレットを検知してくれる「Secret scanning」を無料提供へ]]></title>
         <id>https://www.publickey1.jp/blog/22/githubsecret_scanning_1.html</id>

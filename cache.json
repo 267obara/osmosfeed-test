@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221221-ryujinx-pokemon-scarlet-violet/",
+          "author": null,
+          "description": "C＃で記述されるオープンソースのNintendo Switchエミュレーター「Ryujinx」の開発者が、自身のブログで開発の進捗(しんちょく)についてまとめています。その中で、2022年11月に発売された「ポケットモンスター スカーレット・バイオレット(ポケモンSV)」にどう対応しているのかについて記しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-ryujinx-pokemon-scarlet-violet/",
+          "publishedOn": "2022-12-20T21:00:00.000Z",
+          "wordCount": 2440,
+          "title": "ポケットモンスター スカーレット・バイオレットにNintendo Switchエミュレーター「Ryujinx」はどう対応しているのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/ryujinx-pokemon-scarlet-violet/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221220-memory-forget-dementia/",
           "author": null,
           "description": "「携帯や鍵をどこに置いたのか忘れた」「昨日の夕飯を忘れた」といった物忘れは誰にでも起こりうることです。しかし、私たちは時折「この物忘れは正常なのか」や「認知症の兆候なのか」と疑問に思うことがあります。こうした記憶に関する問題をボンド大学のオリバー・バウマン氏とシンディ・ジョーンズ氏が解説しています。\n続きを読む...",

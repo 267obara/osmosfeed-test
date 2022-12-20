@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221220-right-to-repair/",
+          "author": null,
+          "description": "近年発売されているスマートフォンやPCは、部品の入手が困難なことや回路図が公開されていないことから自力での修理やメーカー以外の修理業者に依頼することが難しくなっています。この状況を変えるべく「修理する権利」の確立を求める動きが世界中で活発になっており、2022年6月にはニューヨーク州議会で修理する権利を認める法案が可決しました。しかし、法案の可決から6カ月が経過した時点でも州知事による署名が行われていない現状が報告されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-right-to-repair/",
+          "publishedOn": "2022-12-20T06:00:00.000Z",
+          "wordCount": 2453,
+          "title": "AppleやGoogleが圧倒的多数の賛成で可決した「修理する権利」を認める法案に反対し施行を阻止しようとしている",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/right-to-repair/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221220-meta-breaching-eu-antitrust-laws/",
+          "author": null,
+          "description": "欧州委員会がMetaに対し、「ソーシャルメディアのFacebookと、Facebookの広告サービスを抱き合わせることが競争をゆがめており、反トラスト法違反にあたる」との見解を示しました。Metaがこの問題を改善しなかった場合、同社は全世界における年間売上高の10％に相当する罰金が科される可能性があります。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-meta-breaching-eu-antitrust-laws/",
+          "publishedOn": "2022-12-20T05:30:00.000Z",
+          "wordCount": 2463,
+          "title": "Metaが1兆6000億円の罰金に直面、欧州委員会から独占禁止法違反の警告で",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/meta-breaching-eu-antitrust-laws/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221220-france-bans-disposable-packaging/",
           "author": null,
           "description": "フランスで2020年に成立した法律によって、ファストフード店で使い捨ての容器や皿、カップを2023年1月1日から使用できなくなります。この規制ではプラスチック製の容器だけではなく、紙容器までも使用禁止となり、イートインの容器はセラミックや樹脂、ガラスといった素材が使われるようになります。\n続きを読む...",
@@ -4406,6 +4426,46 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news144.html",
+          "author": null,
+          "description": "Ｓｋｙが、クラウド型仮想デスクトップの提供基盤にOracle Cloudを採用した。これまで他社クラウドを活用していたが、従来比で約62％のコスト削減効果を見込んで乗り換えたという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news144.html",
+          "publishedOn": "2022-12-20T05:33:00.000Z",
+          "wordCount": 2607,
+          "title": "Ｓｋｙ、クラウド型仮想デスクトップの提供基盤を乗り換え　Olacle Cloud化でコスト削減見込み",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news144.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news141.html",
+          "author": null,
+          "description": "リコーイメージンが「PENTAX」ブランドでフィルムカメラの開発検討を開始する。若年層を中心にフィルムカメラの人気が再燃しつつあり、リコーとPENTAXが長年培ってきた技術を製品として継承することで、国内外のフィルムカメラファンに新たな選択肢を提供したいとしている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news141.html",
+          "publishedOn": "2022-12-20T05:20:00.000Z",
+          "wordCount": 2602,
+          "title": "リコー、「PENTAX」ブランドでフィルムカメラ復刻へ　開発機をチラ見せ？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news141.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news139.html",
+          "author": null,
+          "description": "Revolutは12月20日、手書きのイラストや文章、絵文字やステッカーを組み合わせてオリジナルのデビットカードをデザインできるサービスを開始した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news139.html",
+          "publishedOn": "2022-12-20T05:15:00.000Z",
+          "wordCount": 2590,
+          "title": "自分でデビットカードをデザインできる　Revolutが新サービス",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news139.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news138.html",
+          "author": null,
+          "description": "Apple、Googleに続きAmazomもEchoデバイスでの「Matter」対応を発表。Wi-Fi接続のスマートホーム製品のコントロールにEchoを利用できる。既存の多くのEchoシリーズが対応する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news138.html",
+          "publishedOn": "2022-12-20T05:13:00.000Z",
+          "wordCount": 2680,
+          "title": "Amazon Echoシリーズ、Matter対応開始（ただしWi-Fiのみ）",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news138.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/20/news134.html",
           "author": null,

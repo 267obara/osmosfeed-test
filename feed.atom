@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T05:12:37.224Z</updated>
+    <updated>2022-12-20T06:18:22.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AppleやGoogleが圧倒的多数の賛成で可決した「修理する権利」を認める法案に反対し施行を阻止しようとしている]]></title>
+        <id>https://gigazine.net/news/20221220-right-to-repair/</id>
+        <link href="https://gigazine.net/news/20221220-right-to-repair/"/>
+        <updated>2022-12-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近年発売されているスマートフォンやPCは、部品の入手が困難なことや回路図が公開されていないことから自力での修理やメーカー以外の修理業者に依頼することが難しくなっています。この状況を変えるべく「修理する権利」の確立を求める動きが世界中で活発になっており、2022年6月にはニューヨーク州議会で修理する権利を認める法案が可決しました。しかし、法案の可決から6カ月が経過した時点でも州知事による署名が行われていない現状が報告されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ｓｋｙ、クラウド型仮想デスクトップの提供基盤を乗り換え　Olacle Cloud化でコスト削減見込み]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news144.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news144.html"/>
+        <updated>2022-12-20T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Ｓｋｙが、クラウド型仮想デスクトップの提供基盤にOracle Cloudを採用した。これまで他社クラウドを活用していたが、従来比で約62％のコスト削減効果を見込んで乗り換えたという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaが1兆6000億円の罰金に直面、欧州委員会から独占禁止法違反の警告で]]></title>
+        <id>https://gigazine.net/news/20221220-meta-breaching-eu-antitrust-laws/</id>
+        <link href="https://gigazine.net/news/20221220-meta-breaching-eu-antitrust-laws/"/>
+        <updated>2022-12-20T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[欧州委員会がMetaに対し、「ソーシャルメディアのFacebookと、Facebookの広告サービスを抱き合わせることが競争をゆがめており、反トラスト法違反にあたる」との見解を示しました。Metaがこの問題を改善しなかった場合、同社は全世界における年間売上高の10％に相当する罰金が科される可能性があります。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リコー、「PENTAX」ブランドでフィルムカメラ復刻へ　開発機をチラ見せ？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news141.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news141.html"/>
+        <updated>2022-12-20T05:20:00.000Z</updated>
+        <summary type="html"><![CDATA[リコーイメージンが「PENTAX」ブランドでフィルムカメラの開発検討を開始する。若年層を中心にフィルムカメラの人気が再燃しつつあり、リコーとPENTAXが長年培ってきた技術を製品として継承することで、国内外のフィルムカメラファンに新たな選択肢を提供したいとしている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自分でデビットカードをデザインできる　Revolutが新サービス]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news139.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news139.html"/>
+        <updated>2022-12-20T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Revolutは12月20日、手書きのイラストや文章、絵文字やステッカーを組み合わせてオリジナルのデビットカードをデザインできるサービスを開始した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Echoシリーズ、Matter対応開始（ただしWi-Fiのみ）]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news138.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news138.html"/>
+        <updated>2022-12-20T05:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple、Googleに続きAmazomもEchoデバイスでの「Matter」対応を発表。Wi-Fi接続のスマートホーム製品のコントロールにEchoを利用できる。既存の多くのEchoシリーズが対応する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ファストフード店での使い捨て容器使用をフランスが禁止、プラスチック製だけではなく紙製もアウト]]></title>
         <id>https://gigazine.net/news/20221220-france-bans-disposable-packaging/</id>

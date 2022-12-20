@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221220-ministop-mitsuimo-caramelized/",
+          "author": null,
+          "description": "2022年8月に発売して早くも累計販売数が100万食を突破した「台湾蜜いもソフト」に、カリカリ食感の黒糖キャラメリゼをトッピングした「蜜いもキャラメリゼソフト」が2022年12月16日(金)から登場しています。糖度25度以上のねっとり食感の蜜いもと、ミニストップ自慢のソフトクリーム、カリッと食感の黒糖キャラメリゼが一体どんなハーモニーを奏でるのか気になったので、実際に食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-ministop-mitsuimo-caramelized/",
+          "publishedOn": "2022-12-20T13:00:00.000Z",
+          "wordCount": 2418,
+          "title": "たった4カ月で100万食以上を販売したミニストップの人気スイーツが進化した「蜜いもキャラメリゼソフト」を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/ministop-mitsuimo-caramelized/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221220-twitvault-twitter-archive/",
           "author": null,
           "description": "Twitter上に画像や動画を投稿してきたクリエイターなどは、プラットフォームの引っ越しを考える際、これまでツイートしてきた画像や動画などを手元にまとめて保存したいと思うはず。クリエイターでなくとも長らくTwitterを使ってきた人なら、仲の良いフォロワーのリストやTwitterで見つけたためになるアカウントのリスト、Twitter上でいいねしたツイート履歴などをまとめてダウンロードできればありがたいところ。Twitterには公式データアーカイブ機能が用意されているのですが、公式機能では実際にデータをダウンロード可能になるまで24時間以上待たされることもあります。無料で公開されている「TwitVault」なら、自分の好きなタイミングでサクッとデータをダウンロード可能とのことなので、実際に使い方を確かめてみました。\n続きを読む...",
@@ -4486,6 +4496,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news194.html",
+          "author": null,
+          "description": "Twitterが「2022 FIFA ワールドカップ」についての各種データを公開した。会話インプレッション数は、東京オリンピックの2倍になるという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news194.html",
+          "publishedOn": "2022-12-20T12:45:00.000Z",
+          "wordCount": 2600,
+          "title": "カタールW杯、Twitterの会話インプレッション数が東京オリンピックの2倍以上に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news194.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news193.html",
+          "author": null,
+          "description": "今回のトピックは「暖房中に室内の空気をかき混ぜる効果」です。空気清浄機やサーキュレーターの併用を「寒そう」と躊躇していませんか？　室内の温度はどう変わるのか、実験データを紹介します。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news193.html",
+          "publishedOn": "2022-12-20T12:45:00.000Z",
+          "wordCount": 2339,
+          "title": "暖房中、室内の空気をかき混ぜると床付近は〇℃上がる",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news193.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news192.html",
+          "author": null,
+          "description": "米Twitter社がTwitter上で他のSNSへのリンクを禁止した件を巡り、規制を受けたSNS「Mastodon」の開発チームが、「Twitterが不公平な制限を課せることがはっきりした」とする声明文を出した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news192.html",
+          "publishedOn": "2022-12-20T12:00:00.000Z",
+          "wordCount": 2590,
+          "title": "Mastodon陣営がTwitterを批判　「不公平な制限を課せることがはっきりした」　ユーザー数は83倍に爆増",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news192.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/20/news187.html",
           "author": null,

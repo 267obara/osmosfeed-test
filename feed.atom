@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T12:25:43.512Z</updated>
+    <updated>2022-12-20T13:18:58.564Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[たった4カ月で100万食以上を販売したミニストップの人気スイーツが進化した「蜜いもキャラメリゼソフト」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221220-ministop-mitsuimo-caramelized/</id>
+        <link href="https://gigazine.net/news/20221220-ministop-mitsuimo-caramelized/"/>
+        <updated>2022-12-20T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年8月に発売して早くも累計販売数が100万食を突破した「台湾蜜いもソフト」に、カリカリ食感の黒糖キャラメリゼをトッピングした「蜜いもキャラメリゼソフト」が2022年12月16日(金)から登場しています。糖度25度以上のねっとり食感の蜜いもと、ミニストップ自慢のソフトクリーム、カリッと食感の黒糖キャラメリゼが一体どんなハーモニーを奏でるのか気になったので、実際に食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[カタールW杯、Twitterの会話インプレッション数が東京オリンピックの2倍以上に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news194.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news194.html"/>
+        <updated>2022-12-20T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterが「2022 FIFA ワールドカップ」についての各種データを公開した。会話インプレッション数は、東京オリンピックの2倍になるという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暖房中、室内の空気をかき混ぜると床付近は〇℃上がる]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news193.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news193.html"/>
+        <updated>2022-12-20T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[今回のトピックは「暖房中に室内の空気をかき混ぜる効果」です。空気清浄機やサーキュレーターの併用を「寒そう」と躊躇していませんか？　室内の温度はどう変わるのか、実験データを紹介します。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自分のツイート履歴を画像やムービーだけでなくいいね履歴やリストごとサクッとダウンロード可能な無料アプリ「TwitVault」を使ってみた]]></title>
         <id>https://gigazine.net/news/20221220-twitvault-twitter-archive/</id>
@@ -15,6 +46,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastodon陣営がTwitterを批判　「不公平な制限を課せることがはっきりした」　ユーザー数は83倍に爆増]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news192.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news192.html"/>
+        <updated>2022-12-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Twitter社がTwitter上で他のSNSへのリンクを禁止した件を巡り、規制を受けたSNS「Mastodon」の開発チームが、「Twitterが不公平な制限を課せることがはっきりした」とする声明文を出した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

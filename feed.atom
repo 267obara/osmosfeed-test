@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T15:15:16.328Z</updated>
+    <updated>2022-12-20T16:19:31.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub、無料のパブリックリポジトリユーザーにも、コード内のシークレットを検知してくれる「Secret scanning」を無料提供へ]]></title>
+        <id>https://www.publickey1.jp/blog/22/githubsecret_scanning_1.html</id>
+        <link href="https://www.publickey1.jp/blog/22/githubsecret_scanning_1.html"/>
+        <updated>2022-12-20T15:20:06.000Z</updated>
+        <summary type="html"><![CDATA[あるアプリケーションからデータベースやWebサービスのAPIなどにアクセスする場合、正規のアクセスであることを証明するなどの目的でIDとパスワードのセットやアクセストークンなどを必要とすることはよくあります。 こうした、いわゆるシークレット...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[認知症が疑われる危険な物忘れの段階はどこからなのか？]]></title>
         <id>https://gigazine.net/news/20221220-memory-forget-dementia/</id>

@@ -4210,6 +4210,16 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/githubsecret_scanning_1.html",
+          "author": null,
+          "description": "あるアプリケーションからデータベースやWebサービスのAPIなどにアクセスする場合、正規のアクセスであることを証明するなどの目的でIDとパスワードのセットやアクセストークンなどを必要とすることはよくあります。 こうした、いわゆるシークレット...",
+          "link": "https://www.publickey1.jp/blog/22/githubsecret_scanning_1.html",
+          "publishedOn": "2022-12-20T15:20:06.000Z",
+          "wordCount": 1277,
+          "title": "GitHub、無料のパブリックリポジトリユーザーにも、コード内のシークレットを検知してくれる「Secret scanning」を無料提供へ",
+          "imageUrl": "https://www.publickey1.jp/2022/iOUYg00r.jpg"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/websveltekit_10ssrssgspa.html",
           "author": null,
           "description": "Webアプリケーションフレームワーク「SvelteKit 1.0」が正式リリースとなりました。 SvelteKitは、Web UIフレームワークの「Svelte」と、ビルドツールの「Vite」を基盤としたWebアプリケーションフレームワーク...",

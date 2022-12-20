@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221220-elon-musk-ceo-votes-investors/",
+          "author": null,
+          "description": "イーロン・マスク氏は2022年10月にTwitterを買収してCEOに就任して以降、さまざまな改革を行ってきましたが、その評価はTwitterユーザーの中でも割れています。2022年12月には「TwitterのCEOを辞めるべきか否か」を問うアンケートを実施し、最終的に「辞めるべき」が過半数を獲得する事態となりましたが、実際にマスク氏がCEOを退いても本質的な変化はないだろうという指摘もあります。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-elon-musk-ceo-votes-investors/",
+          "publishedOn": "2022-12-20T04:00:00.000Z",
+          "wordCount": 2487,
+          "title": "イーロン・マスクがTwitterのCEOを退いても本質的な変化はないとの指摘、一部の投資家から不満の声",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/elon-musk-ceo-votes-investors/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221220-google-digitizing-doctor-penmanship/",
+          "author": null,
+          "description": "診断書や処方箋を1日に何枚も書かなければならない医師の字は、しばしば乱筆で読みにくいことが世間の話題になることがあります。そんな医師が書いた手書きのメモを解読するのに特化したAIモデルを、Googleが医師と協力して開発していることが明らかにされました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-google-digitizing-doctor-penmanship/",
+          "publishedOn": "2022-12-20T03:30:00.000Z",
+          "wordCount": 2456,
+          "title": "汚すぎる医師の字を解読するのに特化したAIをGoogleが開発中",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/google-digitizing-doctor-penmanship/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221220-binance-black-box/",
+          "author": null,
+          "description": "世界最大の仮想通貨取引所である「Binance」に対する不信感が高まっており、ユーザーによるBinanceからの資金引き出しが急増していることが報じられています。これを受け、Binanceは自社の財務状況が堅実なものであるとアピールしていますが、ロイターが独自に調査を行ったところ、Binanceは財務情報や本拠地といった重要な情報をひた隠しにしてきたことが明らかになっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-binance-black-box/",
+          "publishedOn": "2022-12-20T03:21:00.000Z",
+          "wordCount": 2529,
+          "title": "世界最大の仮想通貨取引所「Binance」は不透明な運営を続けており財務情報や本拠地をひた隠しにしてきたことがロイターの分析で明らかに",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/binance-black-box/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221220-epic-games-to-pay-520-million-usd/",
           "author": null,
           "description": "人気ゲーム「フォートナイト」開発・運営元のEpic Gamesが、両親の同意なく13歳未満のユーザーの個人情報を収集したり、ダークパターンを用いてユーザーをだまし不要な購入を行わせたりした件で、合計5億2000万ドル(約710億円)の支払いに合意しました。連邦取引委員会(FTC)が施行する規則をもとに課せられた罰金として最高額だとのことです。\n続きを読む...",

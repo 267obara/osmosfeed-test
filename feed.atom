@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T03:14:14.264Z</updated>
+    <updated>2022-12-20T04:16:07.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクがTwitterのCEOを退いても本質的な変化はないとの指摘、一部の投資家から不満の声]]></title>
+        <id>https://gigazine.net/news/20221220-elon-musk-ceo-votes-investors/</id>
+        <link href="https://gigazine.net/news/20221220-elon-musk-ceo-votes-investors/"/>
+        <updated>2022-12-20T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏は2022年10月にTwitterを買収してCEOに就任して以降、さまざまな改革を行ってきましたが、その評価はTwitterユーザーの中でも割れています。2022年12月には「TwitterのCEOを辞めるべきか否か」を問うアンケートを実施し、最終的に「辞めるべき」が過半数を獲得する事態となりましたが、実際にマスク氏がCEOを退いても本質的な変化はないだろうという指摘もあります。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汚すぎる医師の字を解読するのに特化したAIをGoogleが開発中]]></title>
+        <id>https://gigazine.net/news/20221220-google-digitizing-doctor-penmanship/</id>
+        <link href="https://gigazine.net/news/20221220-google-digitizing-doctor-penmanship/"/>
+        <updated>2022-12-20T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[診断書や処方箋を1日に何枚も書かなければならない医師の字は、しばしば乱筆で読みにくいことが世間の話題になることがあります。そんな医師が書いた手書きのメモを解読するのに特化したAIモデルを、Googleが医師と協力して開発していることが明らかにされました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最大の仮想通貨取引所「Binance」は不透明な運営を続けており財務情報や本拠地をひた隠しにしてきたことがロイターの分析で明らかに]]></title>
+        <id>https://gigazine.net/news/20221220-binance-black-box/</id>
+        <link href="https://gigazine.net/news/20221220-binance-black-box/"/>
+        <updated>2022-12-20T03:21:00.000Z</updated>
+        <summary type="html"><![CDATA[世界最大の仮想通貨取引所である「Binance」に対する不信感が高まっており、ユーザーによるBinanceからの資金引き出しが急増していることが報じられています。これを受け、Binanceは自社の財務状況が堅実なものであるとアピールしていますが、ロイターが独自に調査を行ったところ、Binanceは財務情報や本拠地といった重要な情報をひた隠しにしてきたことが明らかになっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「フォートナイト」開発元のEpic Gamesが制裁金700億円超支払いへ]]></title>
         <id>https://gigazine.net/news/20221220-epic-games-to-pay-520-million-usd/</id>

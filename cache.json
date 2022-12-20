@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221220-chinese-twitter-porn-survivor-bias/",
+          "author": null,
+          "description": "2022年11月、中国では新疆ウイグル自治区で起きた集合住宅火災で10人が死亡したことをきっかけに、厳しい「ゼロコロナ政策」への不満を訴える抗議デモが全土で発生しました。そんな中、Twitterで「中国の都市名を検索するとデモではなくポルノ広告が表示される」と話題になり、スパム急増はデモを隠すための中国政府によるキャンペーンではないかとも指摘されています。しかし、この件について調査したスタンフォード大学インターネット観測所のDavid Thiel氏が、スパムの「急増」についての主張はバイアスによる誤りだと解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-chinese-twitter-porn-survivor-bias/",
+          "publishedOn": "2022-12-20T11:00:00.000Z",
+          "wordCount": 2443,
+          "title": "「中国が大規模抗議デモを隠すためにポルノ広告を流しまくった」という主張はバイアスによる誤りだと研究者が指摘",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/chinese-twitter-porn-survivor-bias/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221220-roomba-recorded-toilet/",
           "author": null,
           "description": "ハイエンドなロボット掃除機の中には、カメラとAIを駆使して障害物を認識したり、複数の部屋の間取りを正確に把握して記憶したりする技術を搭載しているものがあります。当然ながら、ロボット掃除機のカメラにはユーザーのプライベートな空間や他人には見られたくない生活の一部が映ることになりますが、その映像が流出したと報じた記事がソーシャルメディアのHacker Newsなどで議論に発展しました。\n続きを読む...",

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221221-eufycam-2c-app-review/",
+          "author": null,
+          "description": "Ankerのスマートホームブランド・Eufyから登場した監視カメラ「eufyCam 2C」は、アプリを使って夜間モードや動作検知機能、さらに周辺住民のプライバシーに配慮する「プライバシーゾーン」の設定が可能となっています。そこで、実際にアプリを使ってeufyCam 2Cで使えるさまざまな機能を試してみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-eufycam-2c-app-review/",
+          "publishedOn": "2022-12-20T23:00:00.000Z",
+          "wordCount": 2547,
+          "title": "「動作検知」「プライバシーゾーン」「音声通話」「警告アラーム」など多機能監視カメラ「eufyCam 2C」で使える機能を試してみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/eufycam-2c-app-review/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221221-rocket-lake-power-efficiency/",
           "author": null,
           "description": "Intelは2021年9月発売の第12世代Coreプロセッサ「Alder Lake」で高性能コアと高効率コアを組み合わせたハイブリッドアーキテクチャを採用し、前世代以前と比べて「卓越したパフォーマンス」を実現しました。ここで比較対象とされた「前世代」こと第11世代Coreプロセッサ「Rocket Lake」がそこまでひどいものなのか、情報サイトのChips and Cheeseが調査を行っています。\n続きを読む...",
@@ -3043,6 +3053,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16897",
+          "author": null,
+          "description": "CodeZineを運営する翔泳社より、12月21日（水）に書籍『図解まるわかり 要件定義のきほん』が発売となりました。プロジェクトを成功にも失敗にも導く重要な鍵である要件定義を基本から学びたい方には必読の1冊です。",
+          "link": "http://codezine.jp/article/detail/16897",
+          "publishedOn": "2022-12-20T22:00:00.000Z",
+          "wordCount": 4431,
+          "title": "開発の成否を分ける要件定義、基本はまずこの1冊から！『図解まるわかり 要件定義のきほん』発売",
+          "imageUrl": "https://codezine.jp/static/images/article/16897/16897_share.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16844",
           "author": null,
           "description": "TISでは技術ナレッジやノウハウを「Fintan」というサイトで公開している。一般的にIT企業がエンジニアブログでノウハウを公開していることは多いが、Fintanは少し違う。どのような背景や目的があり、情報発信をしているのか。どんなコンテンツがあるのか。Fintanを運営しているテクノロジー＆イノベーション本部の本部長 北直人氏と、テクノロジー＆イノベーション本部でマネジメントをしながら、Fintanの運営を担当する秋里美和氏に聞いた。",
@@ -4536,6 +4556,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news084.html",
+          "author": null,
+          "description": "TwitterのマスクCEOは、重要な「Twitter投票」の投票権はBlue会員のみにすべきだという提言に対し「そう変更するだろう」とリプライした。同氏は自分がCEOを辞任すべきかという投票を行い、その結果は辞任すべきとなった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news084.html",
+          "publishedOn": "2022-12-20T22:19:00.000Z",
+          "wordCount": 2597,
+          "title": "Twitter投票の有効票は有料会員だけに？　「そう変更するだろう」とマスクCEO",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news084.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news018.html",
+          "author": null,
+          "description": "掃除機は近年、進化を続けている家電の1つ。キャニスター型掃除機を経て、現在はコードレスのスティック掃除機が主流だが、ロボット掃除機の普及も進んでいる。コードレススティック掃除機とロボット掃除機について、最新掃除機市場の動向とトレンドの解説、2023年の市場を予測する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news018.html",
+          "publishedOn": "2022-12-20T22:00:00.000Z",
+          "wordCount": 2610,
+          "title": "掃除機市場の2023年を大予測　国内外のメーカーが入り交じる大激戦!?",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news018.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/20/news194.html",
           "author": null,

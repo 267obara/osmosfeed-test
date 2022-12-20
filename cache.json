@@ -4447,6 +4447,26 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news168.html",
+          "author": null,
+          "description": "デジタル庁がアニメ「SPY×FAMILY」と連携して展開している、マイナンバーカードの普及キャンペーンが話題だ。一方、SNSでは「スパイのキャラに個人情報を握らせるとは何事だ」といったツッコミも。デジタル庁の狙いとは。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news168.html",
+          "publishedOn": "2022-12-20T08:18:00.000Z",
+          "wordCount": 2608,
+          "title": "マイナカード普及に「SPY×FAMILY」起用、SNSは「スパイに個人情報握らせるな」とツッコミ多数　河野大臣の狙いは",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news168.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news166.html",
+          "author": null,
+          "description": "2022年、求人票上で平均年収が高かったプログラミング言語は何か。ITエンジニア向け転職プラットフォーム「paiza」を提供するpaiza（東京都港区）は12月20日、そんなランキングを発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news166.html",
+          "publishedOn": "2022-12-20T07:55:00.000Z",
+          "wordCount": 2687,
+          "title": "2022年、平均年収が高かったプログラミング言語　2位「TypeScript」を上回ったのは？　「paiza」調べ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news166.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/20/news155.html",
           "author": null,
           "description": "AI Picassoが、フリー素材サイト「いらすとや」風のイラストを生成できるモデル「AIいらすとや」を公開した。テキストの指示に沿ってそれらしい画像を生成できる。",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T08:17:15.045Z</updated>
+    <updated>2022-12-20T09:13:49.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マイナカード普及に「SPY×FAMILY」起用、SNSは「スパイに個人情報握らせるな」とツッコミ多数　河野大臣の狙いは]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news168.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news168.html"/>
+        <updated>2022-12-20T08:18:00.000Z</updated>
+        <summary type="html"><![CDATA[デジタル庁がアニメ「SPY×FAMILY」と連携して展開している、マイナンバーカードの普及キャンペーンが話題だ。一方、SNSでは「スパイのキャラに個人情報を握らせるとは何事だ」といったツッコミも。デジタル庁の狙いとは。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[原子爆弾開発計画のリーダーの姿を描くクリストファー・ノーラン監督作品「Oppenheimer」予告編]]></title>
         <id>https://gigazine.net/news/20221220-oppenheimer-trailer/</id>
@@ -15,6 +25,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年、平均年収が高かったプログラミング言語　2位「TypeScript」を上回ったのは？　「paiza」調べ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news166.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news166.html"/>
+        <updated>2022-12-20T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年、求人票上で平均年収が高かったプログラミング言語は何か。ITエンジニア向け転職プラットフォーム「paiza」を提供するpaiza（東京都港区）は12月20日、そんなランキングを発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

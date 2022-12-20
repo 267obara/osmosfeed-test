@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221220-roomba-recorded-toilet/",
+          "author": null,
+          "description": "ハイエンドなロボット掃除機の中には、カメラとAIを駆使して障害物を認識したり、複数の部屋の間取りを正確に把握して記憶したりする技術を搭載しているものがあります。当然ながら、ロボット掃除機のカメラにはユーザーのプライベートな空間や他人には見られたくない生活の一部が映ることになりますが、その映像が流出したと報じた記事がソーシャルメディアのHacker Newsなどで議論に発展しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-roomba-recorded-toilet/",
+          "publishedOn": "2022-12-20T10:00:00.000Z",
+          "wordCount": 2540,
+          "title": "「ルンバが撮ったトイレ中の女性の写真がFacebookに投稿された」という記事がネットで激論に",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/roomba-recorded-toilet/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221220-headline/",
+          "author": null,
+          "description": "アニメ「チェンソーマン」の最終話に向けてのカウントダウンが始まり、キャラクターPVが公開されました。全7弾あり、第1弾は早川アキとなっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-headline/",
+          "publishedOn": "2022-12-20T09:35:00.000Z",
+          "wordCount": 5404,
+          "title": "2022年12月20日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221220-oppenheimer-trailer/",
           "author": null,
           "description": "第二次世界大戦中にアメリカが行った原子爆弾開発計画でリーダーを務めた物理学者ロバート・オッペンハイマーの姿を描く映画「Oppenheimer」の予告編が公開されました。監督は「ダークナイト」「インセプション」「インターステラー」「TENET テネット」のクリストファー・ノーランで、爆発はCGなしで再現することが公言されています。\n続きを読む...",
@@ -4446,6 +4466,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news177.html",
+          "author": null,
+          "description": "デジタル庁は12月19日、マイナンバーカードに関するデータをリアルタイムに近い形で確認できる「政策データダッシュボード（ベータ版）」を公開した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news177.html",
+          "publishedOn": "2022-12-20T09:17:00.000Z",
+          "wordCount": 2599,
+          "title": "デジ庁、マイナカード交付枚数がグラフィカルに分かるダッシュボード公開",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news177.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/20/news168.html",
           "author": null,

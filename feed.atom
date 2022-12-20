@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T13:18:58.564Z</updated>
+    <updated>2022-12-20T14:13:19.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[認知症が疑われる危険な物忘れの段階はどこからなのか？]]></title>
+        <id>https://gigazine.net/news/20221220-memory-forget-dementia/</id>
+        <link href="https://gigazine.net/news/20221220-memory-forget-dementia/"/>
+        <updated>2022-12-20T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「携帯や鍵をどこに置いたのか忘れた」「昨日の夕飯を忘れた」といった物忘れは誰にでも起こりうることです。しかし、私たちは時折「この物忘れは正常なのか」や「認知症の兆候なのか」と疑問に思うことがあります。こうした記憶に関する問題をボンド大学のオリバー・バウマン氏とシンディ・ジョーンズ氏が解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[たった4カ月で100万食以上を販売したミニストップの人気スイーツが進化した「蜜いもキャラメリゼソフト」を食べてみた]]></title>
         <id>https://gigazine.net/news/20221220-ministop-mitsuimo-caramelized/</id>

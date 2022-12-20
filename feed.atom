@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T02:35:36.368Z</updated>
+    <updated>2022-12-20T03:14:14.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「フォートナイト」開発元のEpic Gamesが制裁金700億円超支払いへ]]></title>
+        <id>https://gigazine.net/news/20221220-epic-games-to-pay-520-million-usd/</id>
+        <link href="https://gigazine.net/news/20221220-epic-games-to-pay-520-million-usd/"/>
+        <updated>2022-12-20T03:12:00.000Z</updated>
+        <summary type="html"><![CDATA[人気ゲーム「フォートナイト」開発・運営元のEpic Gamesが、両親の同意なく13歳未満のユーザーの個人情報を収集したり、ダークパターンを用いてユーザーをだまし不要な購入を行わせたりした件で、合計5億2000万ドル(約710億円)の支払いに合意しました。連邦取引委員会(FTC)が施行する規則をもとに課せられた罰金として最高額だとのことです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開発で培った知見は最初からフルオープン　TISが技術ナレッジサイト「Fintan」で目指す世界とは]]></title>
+        <id>http://codezine.jp/article/detail/16844</id>
+        <link href="http://codezine.jp/article/detail/16844"/>
+        <updated>2022-12-20T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TISでは技術ナレッジやノウハウを「Fintan」というサイトで公開している。一般的にIT企業がエンジニアブログでノウハウを公開していることは多いが、Fintanは少し違う。どのような背景や目的があり、情報発信をしているのか。どんなコンテンツがあるのか。Fintanを運営しているテクノロジー＆イノベーション本部の本部長 北直人氏と、テクノロジー＆イノベーション本部でマネジメントをしながら、Fintanの運営を担当する秋里美和氏に聞いた。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ミルクキャラメルの甘い香りに紅茶ラテがマッチした「森永ミルクキャラメル紅茶ラテ」を飲んでみた]]></title>
+        <id>https://gigazine.net/news/20221220-morinaga-milk-caramel-tea-latte/</id>
+        <link href="https://gigazine.net/news/20221220-morinaga-milk-caramel-tea-latte/"/>
+        <updated>2022-12-20T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[森永乳業から、ティーブランド「リプトン」が森永製菓の「ミルクキャラメル」とコラボした「リプトン 森永ミルクキャラメル紅茶ラテ」が2022年12月20日(火)から登場しています。「ミルクキャラメル」の甘い香りと、ミルクのコクをたっぷりと堪能できるミルクリッチな一品とのことなので、実際に購入し飲んでみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ankerの「Eufy」がプライバシー問題で謝罪声明を発表するも「論点があっていないテンプレ回答」と批判されてしまう]]></title>
         <id>https://gigazine.net/news/20221220-anker-eufy-security-camera-statement/</id>

@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221220-epic-games-to-pay-520-million-usd/",
+          "author": null,
+          "description": "人気ゲーム「フォートナイト」開発・運営元のEpic Gamesが、両親の同意なく13歳未満のユーザーの個人情報を収集したり、ダークパターンを用いてユーザーをだまし不要な購入を行わせたりした件で、合計5億2000万ドル(約710億円)の支払いに合意しました。連邦取引委員会(FTC)が施行する規則をもとに課せられた罰金として最高額だとのことです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-epic-games-to-pay-520-million-usd/",
+          "publishedOn": "2022-12-20T03:12:00.000Z",
+          "wordCount": 2500,
+          "title": "「フォートナイト」開発元のEpic Gamesが制裁金700億円超支払いへ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/epic-games-to-pay-520-million-usd/00_m.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221220-morinaga-milk-caramel-tea-latte/",
+          "author": null,
+          "description": "森永乳業から、ティーブランド「リプトン」が森永製菓の「ミルクキャラメル」とコラボした「リプトン 森永ミルクキャラメル紅茶ラテ」が2022年12月20日(火)から登場しています。「ミルクキャラメル」の甘い香りと、ミルクのコクをたっぷりと堪能できるミルクリッチな一品とのことなので、実際に購入し飲んでみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-morinaga-milk-caramel-tea-latte/",
+          "publishedOn": "2022-12-20T02:45:00.000Z",
+          "wordCount": 2442,
+          "title": "ミルクキャラメルの甘い香りに紅茶ラテがマッチした「森永ミルクキャラメル紅茶ラテ」を飲んでみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/morinaga-milk-caramel-tea-latte/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221220-anker-eufy-security-camera-statement/",
           "author": null,
           "description": "Ankerの家電ブランドであるEufyでは、セキュリティカメラの映像が無許可でアップロードされていたことや、問題発覚後にウェブサイトからプライバシーの保証に関する記述が削除されたことが発覚しており、ユーザーの間で波紋が広がっています。これを受けて、Eufyが釈明を行う声明を送信しましたが、メディアからは「用意された文章で、消費者にとって重要な疑問に答えていない」との厳しい評価がなされています。\n続きを読む...",
@@ -2852,6 +2872,16 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/16844",
+          "author": null,
+          "description": "TISでは技術ナレッジやノウハウを「Fintan」というサイトで公開している。一般的にIT企業がエンジニアブログでノウハウを公開していることは多いが、Fintanは少し違う。どのような背景や目的があり、情報発信をしているのか。どんなコンテンツがあるのか。Fintanを運営しているテクノロジー＆イノベーション本部の本部長 北直人氏と、テクノロジー＆イノベーション本部でマネジメントをしながら、Fintanの運営を担当する秋里美和氏に聞いた。",
+          "link": "http://codezine.jp/article/detail/16844",
+          "publishedOn": "2022-12-20T03:00:00.000Z",
+          "wordCount": 4396,
+          "title": "開発で培った知見は最初からフルオープン　TISが技術ナレッジサイト「Fintan」で目指す世界とは",
+          "imageUrl": "https://codezine.jp/static/images/article/16844/16844_og.jpg"
+        },
         {
           "id": "http://codezine.jp/article/detail/16939",
           "author": null,

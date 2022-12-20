@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T07:12:03.910Z</updated>
+    <updated>2022-12-20T08:17:15.045Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[原子爆弾開発計画のリーダーの姿を描くクリストファー・ノーラン監督作品「Oppenheimer」予告編]]></title>
+        <id>https://gigazine.net/news/20221220-oppenheimer-trailer/</id>
+        <link href="https://gigazine.net/news/20221220-oppenheimer-trailer/"/>
+        <updated>2022-12-20T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第二次世界大戦中にアメリカが行った原子爆弾開発計画でリーダーを務めた物理学者ロバート・オッペンハイマーの姿を描く映画「Oppenheimer」の予告編が公開されました。監督は「ダークナイト」「インセプション」「インターステラー」「TENET テネット」のクリストファー・ノーランで、爆発はCGなしで再現することが公言されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年だけで数百件ものUFO目撃事例をアメリカ軍が報告している]]></title>
         <id>https://gigazine.net/news/20221220-ufo-america-report/</id>
@@ -15,6 +26,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AIいらすとや」登場　呪文を唱えて“いらすとやっぽい絵”を作れる]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news155.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news155.html"/>
+        <updated>2022-12-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI Picassoが、フリー素材サイト「いらすとや」風のイラストを生成できるモデル「AIいらすとや」を公開した。テキストの指示に沿ってそれらしい画像を生成できる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[インボイス問題、声優が語る“陳情”のリアル　「超塩対応」の議員と涙のバトルも]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news152.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news152.html"/>
+        <updated>2022-12-20T06:39:00.000Z</updated>
+        <summary type="html"><![CDATA[「陳情をしっかり聞いて下さる議員さんも多いのですが、“超塩対応”の議員さんもいて……。そういう方が、インボイス制度を左右するキーマンなんです」。インボイスに反対する声優団体・VOICTIONの涙のバトル。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221220-woman-catfishing-against-daughter/",
+          "author": null,
+          "description": "SNSで架空のプロフィールやIDを作成して相手をだまそうとする行為は「キャットフィッシング」と呼ばれ、子どもや若者を狙う性犯罪者の手口として利用されています。アメリカ・ミシガン州イザベラ郡のビール市で起こった10代の若者2人を標的としたキャットフィッシングについて、2年にわたってストーカー行為や嫌がらせメールの大量送信を行ったとして起訴された42歳の女性が、なんと被害者の母親だったことがわかりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-woman-catfishing-against-daughter/",
+          "publishedOn": "2022-12-20T00:15:00.000Z",
+          "wordCount": 2453,
+          "title": "2年間に渡って10代の少女に匿名でネットいじめを行っていたのはなんと少女の母親だった",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/woman-catfishing-against-daughter/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221220-bwi-bundes-messenger/",
+          "author": null,
+          "description": "ドイツ連邦国防省所有のITサービスプロバイダーであるBWIはオープンソースメッセンジャーである「Element」を修正したドイツの行政機関向けの「BundesMessenger」のベータ版をリリースし、テストを行っています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-bwi-bundes-messenger/",
+          "publishedOn": "2022-12-20T00:00:00.000Z",
+          "wordCount": 2465,
+          "title": "ドイツ軍のIT化を担うBWIがオープンソースのElementを使ったセキュアなメッセンジャーアプリ「BundesMessenger」のベータ版をリリース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/bwi-bundes-messenger/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221220-eufycam-2c-set-up-review/",
           "author": null,
           "description": "モバイルバッテリーなどでなじみ深いAnkerのスマートホームブランドであるEufyから、ワイヤレスで自由な場所に設置できる監視カメラ「eufyCam 2C」と録画映像保存用デバイスの「HomeBase 2」がセットになった「eufyCam 2C 1-Cam Kit」が登場しています。ワイヤレスでありながらフルHD画質での撮影が可能であり、夜間モードや動体検知機能も搭載されているとのことで、セットアップや使い方をレビューしてみました。\n続きを読む...",
@@ -2793,6 +2813,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17065",
+          "author": null,
+          "description": "アドックインターナショナルは、AIを採用した探索的テスト自動化ツール「Eggplant（エッグプラント）」製品を、新規または既存の顧客が希望するタイミングで、最短1週間から有償で貸し出すことで、自動テスト導入のリスクと高コストの問題を解決する「ADOC Testing Service（ATS）レンタルライセンス・プログラム」の提供を、2023年1月に開始する。",
+          "link": "http://codezine.jp/article/detail/17065",
+          "publishedOn": "2022-12-20T00:00:00.000Z",
+          "wordCount": 4301,
+          "title": "アドックインターナショナル、AI探索的テスト自動化ツール「Eggplant」のレンタルライセンスを提供",
+          "imageUrl": "https://codezine.jp/static/images/article/17065/13107_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17072",
+          "author": null,
+          "description": "中国HighGo Softwareを中心とする開発者グループは、リレーショナルデータベース管理システム（RDBMS）「IvorySQL」の新版である「バージョン2.1」を12月14日（現地時間）に公開した。IvorySQLはApache License 2.0で公開しているオープンソース・ソフトウェア。",
+          "link": "http://codezine.jp/article/detail/17072",
+          "publishedOn": "2022-12-20T00:00:00.000Z",
+          "wordCount": 4320,
+          "title": "PostgreSQLを基にOracle Databaseとの互換性を持たせた「IvorySQL 2.1」が公開",
+          "imageUrl": "https://codezine.jp/static/images/article/17072/12995_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17071",
           "author": null,
           "description": "Gitリポジトリマネージャ「Gitea」の開発チームを離れた一部のメンバーは、Giteaと代替可能なソフトウェア「Forgejo」を開発するプロジェクトを立ち上げたと12月15日（現地時間）に発表した。ForgejoはMITライセンスで公開しているオープンソース・ソフトウェアであり、現在「バージョン1.18.0-rc1-1」を公開している。",
@@ -4236,6 +4276,76 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news102.html",
+          "author": null,
+          "description": "ISMAP運営委員会が、政府のクラウドサービス認定制度「政府情報システムのためのセキュリティ評価制度」のリストを更新。新たに野村総合研究所のクラウドサービス「NRIクラウド インフラサービス」を追加した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news102.html",
+          "publishedOn": "2022-12-20T00:49:00.000Z",
+          "wordCount": 2596,
+          "title": "野村総研のIaaSが“政府認定クラウド”入り",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news102.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/19/news139.html",
+          "author": null,
+          "description": "近年リーガルテックと呼ばれる法務関連SaaSが盛り上がりを見せている。今回は電子契約、AI契約書レビュー、契約書の作成と管理の3つの分野で各2つ、合計6つのSaaSを取り上げる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/19/news139.html",
+          "publishedOn": "2022-12-20T00:27:00.000Z",
+          "wordCount": 2631,
+          "title": "どっちが便利？　法務SaaS完全理解マニュアル　クラウドサイン vs. DocuSign編",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/19/cover_news139.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news100.html",
+          "author": null,
+          "description": "米連邦取引委員会（FTC）は「フォートナイト」を手掛けるEpic Gamesに総額5億2000万ドルの支払いを命じた。米COPPA違反の罰金支払いと「児童をだまして不当な請求をした」としての返金だ。アイテム購入のわかりにくさ改善も命じた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news100.html",
+          "publishedOn": "2022-12-20T00:13:00.000Z",
+          "wordCount": 2613,
+          "title": "Epic GamesにFTCが罰金5億2000万ドル　子どものプライバシー侵害とダークパターン使用で",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news100.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news098.html",
+          "author": null,
+          "description": "政府が補助金支給などで国産化を後押しする中、半導体メーカーの国内投資が活発になっている。中には投資額が1兆円に達するケースもあり、部材や製造装置といった周辺産業や地域経済への大きな波及効果が期待されている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news098.html",
+          "publishedOn": "2022-12-20T00:00:00.000Z",
+          "wordCount": 2330,
+          "title": "半導体の国内投資活発に、貿易摩擦を機にシェア落とした日本",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/l_LONUWEPSXNNQZCBZU4RA4Y2UIE_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news097.html",
+          "author": null,
+          "description": "経済産業省は、国の半導体戦略を議論する有識者会合を開き、「半導体・デジタル産業戦略」を23年半ばに見直す考えを示した。半導体業界では技術革新や、経済安全保障を巡る情勢が日々変化しており、柔軟に見直すことで投資機運を加速させる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news097.html",
+          "publishedOn": "2022-12-20T00:00:00.000Z",
+          "wordCount": 2325,
+          "title": "半導体戦略2023年半ばに見直しへ　課題の人材育成を議論",
+          "imageUrl": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_news.gif"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news096.html",
+          "author": null,
+          "description": "大阪府警特殊詐欺捜査課は、大阪府内の60代の男性が有料サイトの未払い金などの名目で計約2070万円をだまし取られる詐欺被害に遭ったと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news096.html",
+          "publishedOn": "2022-12-20T00:00:00.000Z",
+          "wordCount": 2327,
+          "title": "「有料サイトの未払い金が」60代男性、合計2000万円詐取される",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/l_WBTIBTPBAVKFHGDKD4Q6FJ5COU_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/19/news104.html",
+          "author": null,
+          "description": "IT企業で働く人のデスク環境を写真や本人のコメント付きで紹介。転職先の雰囲気を把握したい人に向け、さまざまな職種の社員がどんな環境で働いているかをチェックする。今回は動画配信サイト「U-NEXT」に携わる人のデスク周りを探る。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/19/news104.html",
+          "publishedOn": "2022-12-20T00:00:00.000Z",
+          "wordCount": 2705,
+          "title": "「U-NEXT」に携わるみんなのデスク環境　趣味も捨てない仕事場だ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/19/cover_news104.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/20/news092.html",
           "author": null,

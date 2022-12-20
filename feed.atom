@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-19T23:13:26.138Z</updated>
+    <updated>2022-12-20T01:07:24.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[野村総研のIaaSが“政府認定クラウド”入り]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news102.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news102.html"/>
+        <updated>2022-12-20T00:49:00.000Z</updated>
+        <summary type="html"><![CDATA[ISMAP運営委員会が、政府のクラウドサービス認定制度「政府情報システムのためのセキュリティ評価制度」のリストを更新。新たに野村総合研究所のクラウドサービス「NRIクラウド インフラサービス」を追加した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[どっちが便利？　法務SaaS完全理解マニュアル　クラウドサイン vs. DocuSign編]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news139.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news139.html"/>
+        <updated>2022-12-20T00:27:00.000Z</updated>
+        <summary type="html"><![CDATA[近年リーガルテックと呼ばれる法務関連SaaSが盛り上がりを見せている。今回は電子契約、AI契約書レビュー、契約書の作成と管理の3つの分野で各2つ、合計6つのSaaSを取り上げる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2年間に渡って10代の少女に匿名でネットいじめを行っていたのはなんと少女の母親だった]]></title>
+        <id>https://gigazine.net/news/20221220-woman-catfishing-against-daughter/</id>
+        <link href="https://gigazine.net/news/20221220-woman-catfishing-against-daughter/"/>
+        <updated>2022-12-20T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[SNSで架空のプロフィールやIDを作成して相手をだまそうとする行為は「キャットフィッシング」と呼ばれ、子どもや若者を狙う性犯罪者の手口として利用されています。アメリカ・ミシガン州イザベラ郡のビール市で起こった10代の若者2人を標的としたキャットフィッシングについて、2年にわたってストーカー行為や嫌がらせメールの大量送信を行ったとして起訴された42歳の女性が、なんと被害者の母親だったことがわかりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic GamesにFTCが罰金5億2000万ドル　子どものプライバシー侵害とダークパターン使用で]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news100.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news100.html"/>
+        <updated>2022-12-20T00:13:00.000Z</updated>
+        <summary type="html"><![CDATA[米連邦取引委員会（FTC）は「フォートナイト」を手掛けるEpic Gamesに総額5億2000万ドルの支払いを命じた。米COPPA違反の罰金支払いと「児童をだまして不当な請求をした」としての返金だ。アイテム購入のわかりにくさ改善も命じた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドイツ軍のIT化を担うBWIがオープンソースのElementを使ったセキュアなメッセンジャーアプリ「BundesMessenger」のベータ版をリリース]]></title>
+        <id>https://gigazine.net/news/20221220-bwi-bundes-messenger/</id>
+        <link href="https://gigazine.net/news/20221220-bwi-bundes-messenger/"/>
+        <updated>2022-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドイツ連邦国防省所有のITサービスプロバイダーであるBWIはオープンソースメッセンジャーである「Element」を修正したドイツの行政機関向けの「BundesMessenger」のベータ版をリリースし、テストを行っています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アドックインターナショナル、AI探索的テスト自動化ツール「Eggplant」のレンタルライセンスを提供]]></title>
+        <id>http://codezine.jp/article/detail/17065</id>
+        <link href="http://codezine.jp/article/detail/17065"/>
+        <updated>2022-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アドックインターナショナルは、AIを採用した探索的テスト自動化ツール「Eggplant（エッグプラント）」製品を、新規または既存の顧客が希望するタイミングで、最短1週間から有償で貸し出すことで、自動テスト導入のリスクと高コストの問題を解決する「ADOC Testing Service（ATS）レンタルライセンス・プログラム」の提供を、2023年1月に開始する。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQLを基にOracle Databaseとの互換性を持たせた「IvorySQL 2.1」が公開]]></title>
+        <id>http://codezine.jp/article/detail/17072</id>
+        <link href="http://codezine.jp/article/detail/17072"/>
+        <updated>2022-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国HighGo Softwareを中心とする開発者グループは、リレーショナルデータベース管理システム（RDBMS）「IvorySQL」の新版である「バージョン2.1」を12月14日（現地時間）に公開した。IvorySQLはApache License 2.0で公開しているオープンソース・ソフトウェア。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[半導体の国内投資活発に、貿易摩擦を機にシェア落とした日本]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news098.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news098.html"/>
+        <updated>2022-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[政府が補助金支給などで国産化を後押しする中、半導体メーカーの国内投資が活発になっている。中には投資額が1兆円に達するケースもあり、部材や製造装置といった周辺産業や地域経済への大きな波及効果が期待されている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[半導体戦略2023年半ばに見直しへ　課題の人材育成を議論]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news097.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news097.html"/>
+        <updated>2022-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[経済産業省は、国の半導体戦略を議論する有識者会合を開き、「半導体・デジタル産業戦略」を23年半ばに見直す考えを示した。半導体業界では技術革新や、経済安全保障を巡る情勢が日々変化しており、柔軟に見直すことで投資機運を加速させる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「有料サイトの未払い金が」60代男性、合計2000万円詐取される]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news096.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news096.html"/>
+        <updated>2022-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大阪府警特殊詐欺捜査課は、大阪府内の60代の男性が有料サイトの未払い金などの名目で計約2070万円をだまし取られる詐欺被害に遭ったと発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「U-NEXT」に携わるみんなのデスク環境　趣味も捨てない仕事場だ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/19/news104.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/19/news104.html"/>
+        <updated>2022-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IT企業で働く人のデスク環境を写真や本人のコメント付きで紹介。転職先の雰囲気を把握したい人に向け、さまざまな職種の社員がどんな環境で働いているかをチェックする。今回は動画配信サイト「U-NEXT」に携わる人のデスク周りを探る。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ワイヤレスでフルHD録画可能＆ローカルストレージにデータを保存できる多機能監視カメラ「eufyCam 2C」を設置してみた]]></title>
         <id>https://gigazine.net/news/20221220-eufycam-2c-set-up-review/</id>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T11:11:12.472Z</updated>
+    <updated>2022-12-20T12:25:43.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自分のツイート履歴を画像やムービーだけでなくいいね履歴やリストごとサクッとダウンロード可能な無料アプリ「TwitVault」を使ってみた]]></title>
+        <id>https://gigazine.net/news/20221220-twitvault-twitter-archive/</id>
+        <link href="https://gigazine.net/news/20221220-twitvault-twitter-archive/"/>
+        <updated>2022-12-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitter上に画像や動画を投稿してきたクリエイターなどは、プラットフォームの引っ越しを考える際、これまでツイートしてきた画像や動画などを手元にまとめて保存したいと思うはず。クリエイターでなくとも長らくTwitterを使ってきた人なら、仲の良いフォロワーのリストやTwitterで見つけたためになるアカウントのリスト、Twitter上でいいねしたツイート履歴などをまとめてダウンロードできればありがたいところ。Twitterには公式データアーカイブ機能が用意されているのですが、公式機能では実際にデータをダウンロード可能になるまで24時間以上待たされることもあります。無料で公開されている「TwitVault」なら、自分の好きなタイミングでサクッとデータをダウンロード可能とのことなので、実際に使い方を確かめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「中国が大規模抗議デモを隠すためにポルノ広告を流しまくった」という主張はバイアスによる誤りだと研究者が指摘]]></title>
         <id>https://gigazine.net/news/20221220-chinese-twitter-porn-survivor-bias/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サイボウズ、サーバ増強に30億円　リコーと資本提携、クラウド基盤強化]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news187.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news187.html"/>
+        <updated>2022-12-20T10:54:00.000Z</updated>
+        <summary type="html"><![CDATA[サイボウズがサーバ増強に30億円を投資する。リコーと資本提携を結び、同社を引受先とする第三者割当による自己株式の処分を実施。174万100株を処分し、資金を調達する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

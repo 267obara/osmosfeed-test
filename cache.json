@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221220-twitvault-twitter-archive/",
+          "author": null,
+          "description": "Twitter上に画像や動画を投稿してきたクリエイターなどは、プラットフォームの引っ越しを考える際、これまでツイートしてきた画像や動画などを手元にまとめて保存したいと思うはず。クリエイターでなくとも長らくTwitterを使ってきた人なら、仲の良いフォロワーのリストやTwitterで見つけたためになるアカウントのリスト、Twitter上でいいねしたツイート履歴などをまとめてダウンロードできればありがたいところ。Twitterには公式データアーカイブ機能が用意されているのですが、公式機能では実際にデータをダウンロード可能になるまで24時間以上待たされることもあります。無料で公開されている「TwitVault」なら、自分の好きなタイミングでサクッとデータをダウンロード可能とのことなので、実際に使い方を確かめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-twitvault-twitter-archive/",
+          "publishedOn": "2022-12-20T12:00:00.000Z",
+          "wordCount": 2438,
+          "title": "自分のツイート履歴を画像やムービーだけでなくいいね履歴やリストごとサクッとダウンロード可能な無料アプリ「TwitVault」を使ってみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/twitvault-twitter-archive/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221220-chinese-twitter-porn-survivor-bias/",
           "author": null,
           "description": "2022年11月、中国では新疆ウイグル自治区で起きた集合住宅火災で10人が死亡したことをきっかけに、厳しい「ゼロコロナ政策」への不満を訴える抗議デモが全土で発生しました。そんな中、Twitterで「中国の都市名を検索するとデモではなくポルノ広告が表示される」と話題になり、スパム急増はデモを隠すための中国政府によるキャンペーンではないかとも指摘されています。しかし、この件について調査したスタンフォード大学インターネット観測所のDavid Thiel氏が、スパムの「急増」についての主張はバイアスによる誤りだと解説しています。\n続きを読む...",
@@ -4476,6 +4486,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news187.html",
+          "author": null,
+          "description": "サイボウズがサーバ増強に30億円を投資する。リコーと資本提携を結び、同社を引受先とする第三者割当による自己株式の処分を実施。174万100株を処分し、資金を調達する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news187.html",
+          "publishedOn": "2022-12-20T10:54:00.000Z",
+          "wordCount": 2592,
+          "title": "サイボウズ、サーバ増強に30億円　リコーと資本提携、クラウド基盤強化",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news187.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/20/news177.html",
           "author": null,

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221220-ufo-america-report/",
+          "author": null,
+          "description": "空を飛ぶ正体不明の飛行物体「UFO」の目撃事例については真偽や正体を巡りさまざまな意見がありますが、アメリカ軍はこれまでさまざまなUFOの目撃事例を報告しています。アメリカ国防総省がUFO対応のために2022年7月に設立した「全領域異常解決局(AARO)」が、開設からの6カ月間だけでアメリカ軍から数百件ものUFOに関する報告を受け取ったと発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221220-ufo-america-report/",
+          "publishedOn": "2022-12-20T07:00:00.000Z",
+          "wordCount": 2459,
+          "title": "2022年だけで数百件ものUFO目撃事例をアメリカ軍が報告している",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/20/ufo-america-report/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221220-right-to-repair/",
           "author": null,
           "description": "近年発売されているスマートフォンやPCは、部品の入手が困難なことや回路図が公開されていないことから自力での修理やメーカー以外の修理業者に依頼することが難しくなっています。この状況を変えるべく「修理する権利」の確立を求める動きが世界中で活発になっており、2022年6月にはニューヨーク州議会で修理する権利を認める法案が可決しました。しかし、法案の可決から6カ月が経過した時点でも州知事による署名が行われていない現状が報告されています。\n続きを読む...",
@@ -4426,6 +4436,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/20/news148.html",
+          "author": null,
+          "description": "はてなは、企業の技術ブログを一覧できる特設ページ「はてなブログ 企業技術ブログ」を公開した。エンジニア向けに400社以上の企業のブログをまとめている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/20/news148.html",
+          "publishedOn": "2022-12-20T06:10:00.000Z",
+          "wordCount": 2602,
+          "title": "400社以上の技術ブログを網羅　はてながまとめページ公開　「現場のエンジニアの知見が毎日受け取れる」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/20/cover_news148.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/20/news144.html",
           "author": null,

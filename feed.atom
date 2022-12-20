@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T04:16:07.890Z</updated>
+    <updated>2022-12-20T05:12:37.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ファストフード店での使い捨て容器使用をフランスが禁止、プラスチック製だけではなく紙製もアウト]]></title>
+        <id>https://gigazine.net/news/20221220-france-bans-disposable-packaging/</id>
+        <link href="https://gigazine.net/news/20221220-france-bans-disposable-packaging/"/>
+        <updated>2022-12-20T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[フランスで2020年に成立した法律によって、ファストフード店で使い捨ての容器や皿、カップを2023年1月1日から使用できなくなります。この規制ではプラスチック製の容器だけではなく、紙容器までも使用禁止となり、イートインの容器はセラミックや樹脂、ガラスといった素材が使われるようになります。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterのユーザーの力でファクトチェックを行う「コミュニティノート」機能は全体の96％にあたる約3万件のノートが表示されないままになっている]]></title>
+        <id>https://gigazine.net/news/20221220-twitter-community-notes-blind-spot/</id>
+        <link href="https://gigazine.net/news/20221220-twitter-community-notes-blind-spot/"/>
+        <updated>2022-12-20T04:47:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年12月11日から、Twitterに投稿されたツイートのファクトチェックをユーザーの手で行うことができる新機能「コミュニティノート」の展開が始まっています。このコミュニティノートのデータは透明性を高めるために一般に公開されているのですが、このデータを評価した経済紙のBloombergが「政治的な対立を生む誤情報は公開されにくい傾向にある」と指摘しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音漏れを3割カットする「GAME基地」、51万2000円で発売　プロeスポーツチームが監修]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news134.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news134.html"/>
+        <updated>2022-12-20T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ワールド化成は20日、ゲームに集中するための個室ブース「GAME基地」を発売すると発表した。価格は51万2000円。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マイナポイント第2弾、延長決定　マイナカード申請期限が23年2月末までに]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news133.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news133.html"/>
+        <updated>2022-12-20T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[総務省は、「マイナポイント」第2弾について、対象となるマイナンバーカードの申請期限を2023年2月末まで延長すると決定した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロン・マスクがTwitterのCEOを退いても本質的な変化はないとの指摘、一部の投資家から不満の声]]></title>
         <id>https://gigazine.net/news/20221220-elon-musk-ceo-votes-investors/</id>
@@ -15,6 +57,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「アーニャしってる……」　デジタル庁がSPY×FAMILYとコラボ　Mission「マイナカードの魅力を伝えよ」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/20/news126.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/20/news126.html"/>
+        <updated>2022-12-20T03:54:00.000Z</updated>
+        <summary type="html"><![CDATA[デジタル庁が、マイナンバーカード普及に向け人気漫画「SPY×FAMILY」とのコラボレーション企画を始めた。特設Web サイトでマイナンバーカードのメリットをアピールする他、キャンペーン動画も公開している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

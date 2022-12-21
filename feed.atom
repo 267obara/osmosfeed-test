@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T06:16:50.260Z</updated>
+    <updated>2022-12-21T07:12:12.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[顔認識技術でガールスカウトの母親が「裁判中の弁護士事務所の弁護士」だと判明しイベント会場から追い出されてしまう]]></title>
+        <id>https://gigazine.net/news/20221221-face-recognition-girl-scout-mom/</id>
+        <link href="https://gigazine.net/news/20221221-face-recognition-girl-scout-mom/"/>
+        <updated>2022-12-21T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ある母娘がガールスカウトの集まりでクリスマスイベントの舞台を観劇しようとしたところ、母親だけ警備に呼び止められて会場から追い出されてしまいました。その理由について会場の運営会社は、母親が自社の訴訟を担当している弁護士事務所に所属する弁護士だからだと説明しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年末に学ぼう！　パブリッククラウドの無料教材・資料まとめ　2022年版]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news133.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news133.html"/>
+        <updated>2022-12-21T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[年末を勉強に充てたい人に向け、パブリッククラウドに関する教材や資料の情報をひとまとめ。ITmedia NEWSで2022年に取り上げた記事の中から、6つ紹介する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仮想通貨取引所「Binance」でメキシコの麻薬カルテルがマネーロンダリングしていることが発覚]]></title>
         <id>https://gigazine.net/news/20221221-binance-drug-money-laundering/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信託銀行など7社がデジタル資産に本腰　共通基盤「Progmat」を開発する合弁会社]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news131.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news131.html"/>
+        <updated>2022-12-21T05:42:00.000Z</updated>
+        <summary type="html"><![CDATA[セキュリティトークン（ST）やステーブルコインといったデジタルアセットの普及に向けて、三菱UFJ信託銀行、みずほ信託銀行、三井住友信託銀行など国内大手信託銀行が本腰を入れる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

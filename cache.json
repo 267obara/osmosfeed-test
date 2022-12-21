@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221221-face-recognition-girl-scout-mom/",
+          "author": null,
+          "description": "ある母娘がガールスカウトの集まりでクリスマスイベントの舞台を観劇しようとしたところ、母親だけ警備に呼び止められて会場から追い出されてしまいました。その理由について会場の運営会社は、母親が自社の訴訟を担当している弁護士事務所に所属する弁護士だからだと説明しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-face-recognition-girl-scout-mom/",
+          "publishedOn": "2022-12-21T07:00:00.000Z",
+          "wordCount": 2469,
+          "title": "顔認識技術でガールスカウトの母親が「裁判中の弁護士事務所の弁護士」だと判明しイベント会場から追い出されてしまう",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/face-recognition-girl-scout-mom/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221221-binance-drug-money-laundering/",
           "author": null,
           "description": "世界最大の仮想通貨取引所である「Binance」ユーザーの不信感の高まりにより資金引き出しが急増していることが報じられています。そんな中、メキシコを拠点とする麻薬カルテルがBinanceを通じて数十億円規模のマネーロンダリングを行っている疑いがあり、麻薬カルテルに対して捜査が行われています。\n続きを読む...",
@@ -4756,6 +4766,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news133.html",
+          "author": null,
+          "description": "年末を勉強に充てたい人に向け、パブリッククラウドに関する教材や資料の情報をひとまとめ。ITmedia NEWSで2022年に取り上げた記事の中から、6つ紹介する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news133.html",
+          "publishedOn": "2022-12-21T06:45:00.000Z",
+          "wordCount": 2651,
+          "title": "年末に学ぼう！　パブリッククラウドの無料教材・資料まとめ　2022年版",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news133.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news131.html",
+          "author": null,
+          "description": "セキュリティトークン（ST）やステーブルコインといったデジタルアセットの普及に向けて、三菱UFJ信託銀行、みずほ信託銀行、三井住友信託銀行など国内大手信託銀行が本腰を入れる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news131.html",
+          "publishedOn": "2022-12-21T05:42:00.000Z",
+          "wordCount": 2605,
+          "title": "信託銀行など7社がデジタル資産に本腰　共通基盤「Progmat」を開発する合弁会社",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news131.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/21/news125.html",
           "author": null,

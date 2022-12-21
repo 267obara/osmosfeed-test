@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T02:32:56.179Z</updated>
+    <updated>2022-12-21T03:14:20.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクがTwitterの社内文書の調査報告に反応して「政府は検閲のためTwitterに数億円を支払った」と主張するもこれは誤解]]></title>
+        <id>https://gigazine.net/news/20221221-fbi-not-paying-twitter-elon-musk/</id>
+        <link href="https://gigazine.net/news/20221221-fbi-not-paying-twitter-elon-musk/"/>
+        <updated>2022-12-21T03:10:00.000Z</updated>
+        <summary type="html"><![CDATA[TwitterのCEOであるイーロン・マスク氏は、ジャーナリストたちがリークしているTwitterの社内文書「Twitterファイル」の拡散をサポートしています。そんなTwitterファイルの第7弾についての調査報告に反応し、マスク氏が「政府が情報検閲のためにTwitterへ数百万ドル(数億円)を支払った」と主張しましたが、この主張は誤りだという反論の声が上がっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分厚いチョコレートがコーティングされたポテトスナックで甘じょっぱさを楽しめるブルボン「じゃがチョコグランデ」試食レビュー]]></title>
+        <id>https://gigazine.net/news/20221221-bourbon-potato-chips-chocolate/</id>
+        <link href="https://gigazine.net/news/20221221-bourbon-potato-chips-chocolate/"/>
+        <updated>2022-12-21T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[ブルボンの甘じょっぱ系チョコスナック「じゃがチョコ」に、2倍のチョコレートがかかった「じゃがチョコグランデ」が2022年12月20日(火)から登場しています。ポテトスナックの塩味とチョコレートの甘味が織りなす「甘じょっぱいおいしさ」を楽しめる一品とのことなので、実際に購入し食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3基のAIで構成される決議システム「NAGIシステム」を使ってみた]]></title>
+        <id>https://gigazine.net/news/20221221-nagi-system/</id>
+        <link href="https://gigazine.net/news/20221221-nagi-system/"/>
+        <updated>2022-12-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「BERT」「GPT-2」「multilingual-T5(mT5)」の3つのAIを用いて、提起された議題の可否を決議する合議制システム「NAGIシステム」が公開されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクが「TwitterのCEOを引き受ける愚かな人がいればすぐ辞任する」と表明、辞任後は「ソフトウェアとサーバーのチーム」を運営する予定]]></title>
+        <id>https://gigazine.net/news/20221221-elon-musk-confirms-resign-twitter-ceo/</id>
+        <link href="https://gigazine.net/news/20221221-elon-musk-confirms-resign-twitter-ceo/"/>
+        <updated>2022-12-21T02:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterを買収しCEOに就任したイーロン・マスク氏は、自身がCEOを辞任すべきか否かをユーザーにアンケート形式で問いかけました。このアンケートはCEO退任賛成派が多数となっていたのですが、マスク氏はこれを受けて「TwitterのCEOを引き受ける愚かな人がいればすぐ辞任する」と発言しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バス置き去りを防ぐ安全装置ガイドライン、国交省が公開　「降車時確認式」と「自動検知式」で]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news107.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news107.html"/>
+        <updated>2022-12-21T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[国土交通省は20日、送迎用バスの置き去りを防ぐ安全装置の仕様に関するガイドラインを公開した。9月に送迎バスの車内に取り残された園児が熱中症で死亡した事件を受け、安全装置の設置が義務づけられるため。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebookによる世界最大級のプライバシー漏えい事件「ケンブリッジ・アナリティカ問題」についてマーク・ザッカーバーグは事前に把握していたものの公にすることを取りやめていたことが明らかに]]></title>
         <id>https://gigazine.net/news/20221221-facebook-zuckerberg-knew-cambridge-analytica/</id>

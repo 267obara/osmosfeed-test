@@ -6,6 +6,46 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221221-fbi-not-paying-twitter-elon-musk/",
+          "author": null,
+          "description": "TwitterのCEOであるイーロン・マスク氏は、ジャーナリストたちがリークしているTwitterの社内文書「Twitterファイル」の拡散をサポートしています。そんなTwitterファイルの第7弾についての調査報告に反応し、マスク氏が「政府が情報検閲のためにTwitterへ数百万ドル(数億円)を支払った」と主張しましたが、この主張は誤りだという反論の声が上がっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-fbi-not-paying-twitter-elon-musk/",
+          "publishedOn": "2022-12-21T03:10:00.000Z",
+          "wordCount": 2832,
+          "title": "イーロン・マスクがTwitterの社内文書の調査報告に反応して「政府は検閲のためTwitterに数億円を支払った」と主張するもこれは誤解",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/fbi-not-paying-twitter-elon-musk/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221221-bourbon-potato-chips-chocolate/",
+          "author": null,
+          "description": "ブルボンの甘じょっぱ系チョコスナック「じゃがチョコ」に、2倍のチョコレートがかかった「じゃがチョコグランデ」が2022年12月20日(火)から登場しています。ポテトスナックの塩味とチョコレートの甘味が織りなす「甘じょっぱいおいしさ」を楽しめる一品とのことなので、実際に購入し食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-bourbon-potato-chips-chocolate/",
+          "publishedOn": "2022-12-21T03:05:00.000Z",
+          "wordCount": 2424,
+          "title": "分厚いチョコレートがコーティングされたポテトスナックで甘じょっぱさを楽しめるブルボン「じゃがチョコグランデ」試食レビュー",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/bourbon-potato-chips-chocolate/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221221-nagi-system/",
+          "author": null,
+          "description": "「BERT」「GPT-2」「multilingual-T5(mT5)」の3つのAIを用いて、提起された議題の可否を決議する合議制システム「NAGIシステム」が公開されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-nagi-system/",
+          "publishedOn": "2022-12-21T03:00:00.000Z",
+          "wordCount": 2524,
+          "title": "3基のAIで構成される決議システム「NAGIシステム」を使ってみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/nagi-system/00_m.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221221-elon-musk-confirms-resign-twitter-ceo/",
+          "author": null,
+          "description": "Twitterを買収しCEOに就任したイーロン・マスク氏は、自身がCEOを辞任すべきか否かをユーザーにアンケート形式で問いかけました。このアンケートはCEO退任賛成派が多数となっていたのですが、マスク氏はこれを受けて「TwitterのCEOを引き受ける愚かな人がいればすぐ辞任する」と発言しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-elon-musk-confirms-resign-twitter-ceo/",
+          "publishedOn": "2022-12-21T02:54:00.000Z",
+          "wordCount": 2523,
+          "title": "イーロン・マスクが「TwitterのCEOを引き受ける愚かな人がいればすぐ辞任する」と表明、辞任後は「ソフトウェアとサーバーのチーム」を運営する予定",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/elon-musk-confirms-resign-twitter-ceo/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221221-facebook-zuckerberg-knew-cambridge-analytica/",
           "author": null,
           "description": "2018年、Facebookが5000万人分の個人データを流出させたケンブリッジ・アナリティカ問題が明らかになりました。この問題を受け、Facebookおよびマーク・ザッカーバーグCEOは政府からの調査を受けることとなり、最終的に5400億円もの制裁金を支払う羽目になったのですが、アメリカ証券取引委員会(SEC)が公開した文書からザッカーバーグCEOはケンブリッジ・アリティカの存在を問題発覚前から把握していたことが明らかになっています。\n続きを読む...",
@@ -4616,6 +4656,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news107.html",
+          "author": null,
+          "description": "国土交通省は20日、送迎用バスの置き去りを防ぐ安全装置の仕様に関するガイドラインを公開した。9月に送迎バスの車内に取り残された園児が熱中症で死亡した事件を受け、安全装置の設置が義務づけられるため。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news107.html",
+          "publishedOn": "2022-12-21T02:50:00.000Z",
+          "wordCount": 2597,
+          "title": "バス置き去りを防ぐ安全装置ガイドライン、国交省が公開　「降車時確認式」と「自動検知式」で",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news107.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/21/news096.html",
           "author": null,

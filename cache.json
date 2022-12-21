@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221221-facebook-zuckerberg-knew-cambridge-analytica/",
+          "author": null,
+          "description": "2018年、Facebookが5000万人分の個人データを流出させたケンブリッジ・アナリティカ問題が明らかになりました。この問題を受け、Facebookおよびマーク・ザッカーバーグCEOは政府からの調査を受けることとなり、最終的に5400億円もの制裁金を支払う羽目になったのですが、アメリカ証券取引委員会(SEC)が公開した文書からザッカーバーグCEOはケンブリッジ・アリティカの存在を問題発覚前から把握していたことが明らかになっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-facebook-zuckerberg-knew-cambridge-analytica/",
+          "publishedOn": "2022-12-21T02:26:00.000Z",
+          "wordCount": 2848,
+          "title": "Facebookによる世界最大級のプライバシー漏えい事件「ケンブリッジ・アナリティカ問題」についてマーク・ザッカーバーグは事前に把握していたものの公にすることを取りやめていたことが明らかに",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/facebook-zuckerberg-knew-cambridge-analytica/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221221-goshujinsama-ninniku-kusaidesu-06/",
           "author": null,
           "description": "◆あらすじ吸血鬼(きゅうけつき/ヴァンパイア)の弱点はにんにく。だけどにんにくはあまりにも美味。誘惑に負けてにんにくを食べた結果、体が縮んでしまったミントは、にんにく大好きメイド・カオリと共に「弱点を克服するため」にんにく料理に挑み続ける。\n続きを読む...",
@@ -3063,6 +3073,36 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17073",
+          "author": null,
+          "description": "とある鉄道会社の社内SEの悲哀を描く技術系コメディ！ 姫路と京都を結ぶ京姫鉄道株式会社。広報部システム課に配属された祝園アカネは、今日もトラブルにてんてこまい！ 小説版『こうしす！社内SE祝園アカネの情報セキュリティ事件簿』の期間限定Kindle Unlimited配信を記念して、マンガ版「こうしす！」の傑作選をお届けします。情報処理安全確保支援士 祝園アカネの解説付き。",
+          "link": "http://codezine.jp/article/detail/17073",
+          "publishedOn": "2022-12-21T02:00:00.000Z",
+          "wordCount": 4495,
+          "title": "イタズラ電話で済ませてない？ 情報セキュリティインシデントの外部通報",
+          "imageUrl": "https://codezine.jp/static/images/article/17073/17073_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17066",
+          "author": null,
+          "description": "開発発注プラットフォーム「ISSUE」を提供するResourceは、12次ものづくり補助金採択企業向けにシステム開発サービスの提供を12月19日に開始した。",
+          "link": "http://codezine.jp/article/detail/17066",
+          "publishedOn": "2022-12-21T01:00:00.000Z",
+          "wordCount": 4328,
+          "title": "開発発注プラットフォーム「ISSUE」、12次ものづくり補助金採択企業向けのシステム開発サービスの提供を開始",
+          "imageUrl": "https://codezine.jp/static/images/article/17066/17066_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17067",
+          "author": null,
+          "description": "Laniakeaは、ブロックチェーン技術を用いてフリーランス人材の信頼性を可視化し、企業の与信判断を助けて、人材側の客観的実績アピールをサポートするツール「アンチレモン」の提供を12月19日に開始した。",
+          "link": "http://codezine.jp/article/detail/17067",
+          "publishedOn": "2022-12-21T01:00:00.000Z",
+          "wordCount": 4323,
+          "title": "Laniakea、ブロックチェーン技術を活用した与信判断サポートデータベース「アンチレモン」提供開始",
+          "imageUrl": "https://codezine.jp/static/images/article/17067/17067_ogp.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17076",
           "author": null,
           "description": "米・国立標準技術研究所（NIST）は、広く使用されている暗号化アルゴリズム「SHA-1」を、他のより安全なアルゴリズムに置き換えるよう呼びかけている。なお、NISTのコンピュータサイエンティストであるChris Celi氏は、SHA-2またはSHA-3への移行を推奨する。",
@@ -4576,6 +4616,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news096.html",
+          "author": null,
+          "description": "Twitterのイーロン・マスクCEOが辞任するとツイートした。「CEOを引き受けるほど愚かな人見つけたらすぐに」としている。同氏は18日に「CEOを辞めるべきか？」というTwitter投票を行い、その結果は辞めるべきが約57％だった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news096.html",
+          "publishedOn": "2022-12-21T02:04:00.000Z",
+          "wordCount": 2594,
+          "title": "TwitterのマスクCEO、「後任が見つかり次第辞める」宣言",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news096.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news093.html",
+          "author": null,
+          "description": "OpenAIは、テキストから3Dモデルを生成するAI「Point-E」をオープンソース化した。3Dモデルを単体GPUでも1～2分で生成できるとしている。GitHubでMITライセンスで公開した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news093.html",
+          "publishedOn": "2022-12-21T01:33:00.000Z",
+          "wordCount": 2607,
+          "title": "OpenAI、テキストから3Dモデルを高速生成するAI「Point-E」をリリース",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news093.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/21/news086.html",
           "author": null,

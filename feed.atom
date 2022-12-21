@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T03:14:20.756Z</updated>
+    <updated>2022-12-21T04:16:13.847Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[150万円超のAlexa内蔵スマートトイレが販売される]]></title>
+        <id>https://gigazine.net/news/20221221-kohler-numi/</id>
+        <link href="https://gigazine.net/news/20221221-kohler-numi/"/>
+        <updated>2022-12-21T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「スマートトイレ」といえば、自動でフタを閉めたり、水を流したりするトイレが想像できます。家電メーカーのKOHLERは、新たにこれらの機能に加えて音声アシスタントの「Alexa」をも搭載したスマートトイレ「Numi 2.0」を開発し、2022年12月から一般に向けて販売を開始しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastodonのアクティブユーザー数が250万に到達、イーロン・マスクのTwitterから逃げる人々がさらに増加していることが判明]]></title>
+        <id>https://gigazine.net/news/20221221-mastodon-twitter-user/</id>
+        <link href="https://gigazine.net/news/20221221-mastodon-twitter-user/"/>
+        <updated>2022-12-21T03:49:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏によるTwitter買収の後、マスク氏のTwitter改革に不安を示すユーザーがMastodonに続々と移行していることが報じられています。新たに、Mastodonのオイゲン・ロホコCEOが2022年12月のMastodonのアクティブユーザー数が前月比の7倍以上となる250万人に達したことを明かしました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3Dモデル生成AI「Point-E」をOpenAIがオープンソース化して誰でもダウンロード可能に、これまでの600倍高速にプロンプトから3Dオブジェクトを生成して表示可能]]></title>
+        <id>https://gigazine.net/news/20221221-openai-point-e/</id>
+        <link href="https://gigazine.net/news/20221221-openai-point-e/"/>
+        <updated>2022-12-21T03:39:00.000Z</updated>
+        <summary type="html"><![CDATA[画像生成AI「DALL-E 2」やテキスト生成AI「GPT-3」、対話AI「ChatGPT」を開発する研究団体のOpenAIが、テキストから3Dオブジェクトを生成するAI「Point-E」をオープンソース化し、ソースコードをGitHubで公開しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozillaが「2023年初頭に健全なSNSのテストを始める」と宣言、まずはMastodonをテスト中]]></title>
+        <id>https://gigazine.net/news/20221221-mozilla-mastodon/</id>
+        <link href="https://gigazine.net/news/20221221-mozilla-mastodon/"/>
+        <updated>2022-12-21T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏によるTwitter買収劇の後、Twitterでは陰謀論者や差別主義者のアカウントが次々と復活したり、マスク氏の意向と思われるジャーナリスト大量凍結が発生したりと、非常に不安定な状態が続いています。そんな中、ウェブブラウザ「Firefox」やメールソフト「Thunderbird」の開発で知られる非営利団体のMozillaが、「SNSの健全な代替手段」を提供するべく研究開発を進めていることを発表しました。記事作成時点では、Mastodonに関する取り組みを進めているとのことです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「PS Store」、最大80％オフのセール開始　「ELDEN RING」も30％オフ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news116.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news116.html"/>
+        <updated>2022-12-21T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニー・インタラクティブエンタテインメントの「PS Store」が「ビッグウインターセール」を開始した。PlayStation 5／4／VRの対象タイトルが最大80％オフで購入できるという。セール期間は1月6日まで。第2弾も1月4日から18日まで実施予定だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[企業の社員やグループアカウントに特別な四角いアイコンが付く「Blue for Business」の新機能がTwitterでテスト開始]]></title>
+        <id>https://gigazine.net/news/20221221-blue-for-business-company-profile-badge/</id>
+        <link href="https://gigazine.net/news/20221221-blue-for-business-company-profile-badge/"/>
+        <updated>2022-12-21T03:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterのアカウントに付けられるバッジには政府アカウントに付けられる灰色のチェックマークのほか、従来の公式アカウントを示す青いチェックマーク、またはサブスクリプションサービスのTwitter Blue購読者に付けられる青いチェックマーク、法人向けのTwitter Blue「Blue for Business」加入者に付けられる金のチェックマークが記事作成時点で存在します。新たにBlue for Businessの新機能として、企業に所属する社員のアカウントに四角形のバッジが追加されることが分かりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロン・マスクがTwitterの社内文書の調査報告に反応して「政府は検閲のためTwitterに数億円を支払った」と主張するもこれは誤解]]></title>
         <id>https://gigazine.net/news/20221221-fbi-not-paying-twitter-elon-musk/</id>
@@ -37,6 +102,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify Plusでeコマースや企業DXに携わるメリットとは？]]></title>
+        <id>http://codezine.jp/article/detail/16947</id>
+        <link href="http://codezine.jp/article/detail/16947"/>
+        <updated>2022-12-21T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビジネスの立ち上げから運営、成長に必要なすべてのeコマース機能とPOS機能を一つのプラットフォームで提供するShopify。その最上位プラン「Shopify Plus」は、大規模ECサイトの運営に必要な機能とカスタマイズ性に優れた次世代エンタープライズコマースプラットフォームである。Shopify Plusの活用が企業DXにどう貢献し、エンジニアのキャリアにつながっていくのか。Shopifyを活用する事業者、ストアやアプリの構築・開発パートナーというそれぞれの視点で、コマース分野のDXに必要なことやコマース分野に関わる開発者に求められるスキル、キャリアパスなどについてディスカッションを行った。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エアコンの暖房、設定1℃上げると消費電力は○％増える]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news111.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news111.html"/>
+        <updated>2022-12-21T02:58:00.000Z</updated>
+        <summary type="html"><![CDATA[今回のトピックは「暖房の設定温度」。寒いとついついエアコンの設定温度を上げてしまいがちですが、それによってどのくらい消費電力量は変わるのでしょうか。三菱電機の検証結果を紹介します。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

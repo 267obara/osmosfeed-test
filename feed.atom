@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T13:19:00.035Z</updated>
+    <updated>2022-12-21T14:12:31.387Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本銀行による突然の事実上の利上げは今後の日本経済や外国債券にどのような影響を与えるのか？]]></title>
+        <id>https://gigazine.net/news/20221221-bank-of-japan-rate-hike/</id>
+        <link href="https://gigazine.net/news/20221221-bank-of-japan-rate-hike/"/>
+        <updated>2022-12-21T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本銀行は2022年12月20日(火)に金融政策決定会合を開き、長期金利の変動幅をこれまでの0.25％程度から0.5％程度に拡大したことを(PDFファイル)発表しました。その理由や影響について、経済系ニュースサイトの「The Macro Compass」が解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[果肉がゴロっと入った自家製ストロベリーソースとスパイスが香る「ストロベリーチャイ」をフレッシュネスバーガーで飲んでみた]]></title>
         <id>https://gigazine.net/news/20221221-freshness-burger-strawberry-chai/</id>

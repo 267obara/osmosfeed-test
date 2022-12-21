@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221221-binance-drug-money-laundering/",
+          "author": null,
+          "description": "世界最大の仮想通貨取引所である「Binance」ユーザーの不信感の高まりにより資金引き出しが急増していることが報じられています。そんな中、メキシコを拠点とする麻薬カルテルがBinanceを通じて数十億円規模のマネーロンダリングを行っている疑いがあり、麻薬カルテルに対して捜査が行われています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-binance-drug-money-laundering/",
+          "publishedOn": "2022-12-21T06:05:00.000Z",
+          "wordCount": 2510,
+          "title": "仮想通貨取引所「Binance」でメキシコの麻薬カルテルがマネーロンダリングしていることが発覚",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/binance-drug-money-laundering/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221221-anker-eufy-camera-security-flaw/",
           "author": null,
           "description": "Ankerの家電ブランドである「Eufy」のセキュリティカメラで、全てローカルで保存されているはずのデータがクラウドにアップロードされていたことなどが批判されていた問題で、Eufyが公式フォーラムでセキュリティ上の欠陥を認める回答を行いました。\n続きを読む...",
@@ -4746,6 +4756,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news125.html",
+          "author": null,
+          "description": "PayPayのポイントを使って疑似投資が行える「ポイント運用」の利用者が800万人超え",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news125.html",
+          "publishedOn": "2022-12-21T04:50:00.000Z",
+          "wordCount": 2597,
+          "title": "PayPayの「ポイント運用」800万人に　2カ月で100万人増加",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news125.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/21/news124.html",
           "author": null,

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T05:12:32.300Z</updated>
+    <updated>2022-12-21T06:16:50.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所「Binance」でメキシコの麻薬カルテルがマネーロンダリングしていることが発覚]]></title>
+        <id>https://gigazine.net/news/20221221-binance-drug-money-laundering/</id>
+        <link href="https://gigazine.net/news/20221221-binance-drug-money-laundering/"/>
+        <updated>2022-12-21T06:05:00.000Z</updated>
+        <summary type="html"><![CDATA[世界最大の仮想通貨取引所である「Binance」ユーザーの不信感の高まりにより資金引き出しが急増していることが報じられています。そんな中、メキシコを拠点とする麻薬カルテルがBinanceを通じて数十億円規模のマネーロンダリングを行っている疑いがあり、麻薬カルテルに対して捜査が行われています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ankerの「Eufy」がついにスマートカメラのプライバシー問題で「セキュリティ上の欠陥」を認める]]></title>
         <id>https://gigazine.net/news/20221221-anker-eufy-camera-security-flaw/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPayの「ポイント運用」800万人に　2カ月で100万人増加]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news125.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news125.html"/>
+        <updated>2022-12-21T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[PayPayのポイントを使って疑似投資が行える「ポイント運用」の利用者が800万人超え]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

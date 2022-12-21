@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221222-eufycam-2c-sensitivity-battery-review/",
+          "author": null,
+          "description": "AnkerのスマートホームブランドであるEufyの監視カメラ「eufyCam 2C」は、動作検知やプライバシーゾーンの設定、警告アラート、通話などさまざまな機能を搭載しています。そんなeufyCam 2Cの動画画質やファイルサイズ、検知感度、バッテリー消費などについてレビューしました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-eufycam-2c-sensitivity-battery-review/",
+          "publishedOn": "2022-12-21T23:00:00.000Z",
+          "wordCount": 2530,
+          "title": "多機能監視カメラ「eufyCam 2C」で動作検知テスト＆撮影した動画の画質・ファイルサイズ・バッテリー消費などを調べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/eufycam-2c-sensitivity-battery-review/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221222-google-performance-max/",
           "author": null,
           "description": "2021年にGoogle広告がスタートした広告製品が「Performance Max(P-MAX)」です。Performance Maxは直訳すると「パフォーマンスの最大化」という意味で、1つのキャンペーン(広告管理単位)からGoogle広告のすべての枠に広告を配信することができるというプロダクト。そんなP-MAXの仕組みについて、広告関連のニュースサイトであるAdExchangerが解説しています。\n続きを読む...",
@@ -3292,6 +3302,16 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/16968",
+          "author": null,
+          "description": "ゲーム業界における品質管理といえば、これまでは経験とセンスに頼った方法による「デバッグ」が中心でした。ですが、昨今ではソフトウェアテストの考え方が広まり、「ゲームテスト」という新たな手法が用いられるようになっています。このゲームテストの考え方とデバッガーやテスターの働き方について紹介・解説した書籍『ゲームをテストする バグのないゲームを支える知識と手法』が、CodeZineを運営する翔泳社から12月22日（木）に発売となりました。",
+          "link": "http://codezine.jp/article/detail/16968",
+          "publishedOn": "2022-12-21T22:00:00.000Z",
+          "wordCount": 4393,
+          "title": "ゲームの品質管理は「経験に頼るデバッグ」から「計画的なゲームテスト」へ、『ゲームをテストする』発売",
+          "imageUrl": "https://codezine.jp/static/images/article/16968/16968_share.png"
+        },
         {
           "id": "http://codezine.jp/article/detail/17068",
           "author": null,

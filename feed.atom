@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T22:12:30.439Z</updated>
+    <updated>2022-12-21T23:13:37.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[多機能監視カメラ「eufyCam 2C」で動作検知テスト＆撮影した動画の画質・ファイルサイズ・バッテリー消費などを調べてみた]]></title>
+        <id>https://gigazine.net/news/20221222-eufycam-2c-sensitivity-battery-review/</id>
+        <link href="https://gigazine.net/news/20221222-eufycam-2c-sensitivity-battery-review/"/>
+        <updated>2022-12-21T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AnkerのスマートホームブランドであるEufyの監視カメラ「eufyCam 2C」は、動作検知やプライバシーゾーンの設定、警告アラート、通話などさまざまな機能を搭載しています。そんなeufyCam 2Cの動画画質やファイルサイズ、検知感度、バッテリー消費などについてレビューしました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Googleの機械学習による新型広告システム「P-MAX(Performance Max)」とは？]]></title>
         <id>https://gigazine.net/news/20221222-google-performance-max/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゲームの品質管理は「経験に頼るデバッグ」から「計画的なゲームテスト」へ、『ゲームをテストする』発売]]></title>
+        <id>http://codezine.jp/article/detail/16968</id>
+        <link href="http://codezine.jp/article/detail/16968"/>
+        <updated>2022-12-21T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲーム業界における品質管理といえば、これまでは経験とセンスに頼った方法による「デバッグ」が中心でした。ですが、昨今ではソフトウェアテストの考え方が広まり、「ゲームテスト」という新たな手法が用いられるようになっています。このゲームテストの考え方とデバッガーやテスターの働き方について紹介・解説した書籍『ゲームをテストする バグのないゲームを支える知識と手法』が、CodeZineを運営する翔泳社から12月22日（木）に発売となりました。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

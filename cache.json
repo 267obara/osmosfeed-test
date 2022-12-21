@@ -4530,6 +4530,36 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/dockerdevbox_020.html",
+          "author": null,
+          "description": "Dockerコンテナの技術を用いることで、プログラミング言語のランタイムやライブラリ、ミドルウェアなどの開発環境一式を比較的容易に導入することが可能になりました。 ただしDockerコンテナにはファイルシステムのオーバーヘッドなどがあり、D...",
+          "link": "https://www.publickey1.jp/blog/22/dockerdevbox_020.html",
+          "publishedOn": "2022-12-21T16:33:18.000Z",
+          "wordCount": 1298,
+          "title": "ローカル環境を汚さずDockerコンテナのオーバーヘッドもなく、開発環境を自在に構築できる「Devbox 0.2.0」登場",
+          "imageUrl": "https://www.publickey1.jp/2022/kh7CWky8.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/mozilla2023.html",
+          "author": null,
+          "description": "「2023年初頭に、Mozillaはパブリックにアクセス可能なソーシャルメディア連合（Fediverse）のインスタンスをMozilla.Socialにおいて立ち上げ、テストします」（In early 2023, Mozilla will ...",
+          "link": "https://www.publickey1.jp/blog/22/mozilla2023.html",
+          "publishedOn": "2022-12-21T16:22:04.000Z",
+          "wordCount": 1368,
+          "title": "Mozilla、分散型ソーシャルネットワークのテストインスタンスを2023年前半に立ち上げると宣言",
+          "imageUrl": "https://www.publickey1.jp/2022/mozillasocial2023.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/chromehasjqueryhaschromejquery.html",
+          "author": null,
+          "description": "8月にリリースされたChrome 105で実装されたCSSの疑似クラス「:has()」が、jQueryに以前から備わっている「:has()」に悪影響を及ぼし、一定の条件下ではjQueryを使ったWebサイトが壊れるなどの問題を引き起こすこと...",
+          "link": "https://www.publickey1.jp/blog/22/chromehasjqueryhaschromejquery.html",
+          "publishedOn": "2022-12-21T16:17:23.000Z",
+          "wordCount": 1273,
+          "title": "Chromeの疑似クラス「:has()」がjQueryの「:has()」に悪影響を及ぼす問題が解決へ。Chromeは回避策実装、jQueryは新バージョンで対応",
+          "imageUrl": "https://www.publickey1.jp/2022/jquery362.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/githubsecret_scanning_1.html",
           "author": null,
           "description": "あるアプリケーションからデータベースやWebサービスのAPIなどにアクセスする場合、正規のアクセスであることを証明するなどの目的でIDとパスワードのセットやアクセストークンなどを必要とすることはよくあります。 こうした、いわゆるシークレット...",

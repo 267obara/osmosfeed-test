@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T16:19:28.517Z</updated>
+    <updated>2022-12-21T17:12:13.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ローカル環境を汚さずDockerコンテナのオーバーヘッドもなく、開発環境を自在に構築できる「Devbox 0.2.0」登場]]></title>
+        <id>https://www.publickey1.jp/blog/22/dockerdevbox_020.html</id>
+        <link href="https://www.publickey1.jp/blog/22/dockerdevbox_020.html"/>
+        <updated>2022-12-21T16:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Dockerコンテナの技術を用いることで、プログラミング言語のランタイムやライブラリ、ミドルウェアなどの開発環境一式を比較的容易に導入することが可能になりました。 ただしDockerコンテナにはファイルシステムのオーバーヘッドなどがあり、D...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla、分散型ソーシャルネットワークのテストインスタンスを2023年前半に立ち上げると宣言]]></title>
+        <id>https://www.publickey1.jp/blog/22/mozilla2023.html</id>
+        <link href="https://www.publickey1.jp/blog/22/mozilla2023.html"/>
+        <updated>2022-12-21T16:22:04.000Z</updated>
+        <summary type="html"><![CDATA[「2023年初頭に、Mozillaはパブリックにアクセス可能なソーシャルメディア連合（Fediverse）のインスタンスをMozilla.Socialにおいて立ち上げ、テストします」（In early 2023, Mozilla will ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chromeの疑似クラス「:has()」がjQueryの「:has()」に悪影響を及ぼす問題が解決へ。Chromeは回避策実装、jQueryは新バージョンで対応]]></title>
+        <id>https://www.publickey1.jp/blog/22/chromehasjqueryhaschromejquery.html</id>
+        <link href="https://www.publickey1.jp/blog/22/chromehasjqueryhaschromejquery.html"/>
+        <updated>2022-12-21T16:17:23.000Z</updated>
+        <summary type="html"><![CDATA[8月にリリースされたChrome 105で実装されたCSSの疑似クラス「:has()」が、jQueryに以前から備わっている「:has()」に悪影響を及ぼし、一定の条件下ではjQueryを使ったWebサイトが壊れるなどの問題を引き起こすこと...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日本銀行による突然の事実上の利上げは今後の日本経済や外国債券にどのような影響を与えるのか？]]></title>
         <id>https://gigazine.net/news/20221221-bank-of-japan-rate-hike/</id>

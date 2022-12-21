@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T07:12:12.450Z</updated>
+    <updated>2022-12-21T08:17:28.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterでイーロン・マスクが著名ジャーナリストのアカウントを一斉凍結する遠因になった「ストーカーによる追跡事案」について警察が言及]]></title>
+        <id>https://gigazine.net/news/20221221-south-pasadena-vehicle-assault/</id>
+        <link href="https://gigazine.net/news/20221221-south-pasadena-vehicle-assault/"/>
+        <updated>2022-12-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TwitterのCEOであるイーロン・マスク氏は、家族がストーカーに車を止められる事案が発生したことを例に出し、個人のリアルタイム位置情報をツイートすることを禁止しました。この「ストーカーによる追跡事案」について、サウスパサデナ警察が実際に報告されている内容を報告しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[顔認識技術でガールスカウトの母親が「裁判中の弁護士事務所の弁護士」だと判明しイベント会場から追い出されてしまう]]></title>
         <id>https://gigazine.net/news/20221221-face-recognition-girl-scout-mom/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[note上場　Twitterの動向に加藤CEO「注視する」　締め出し・長文対応への備えは]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news141.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news141.html"/>
+        <updated>2022-12-21T06:49:00.000Z</updated>
+        <summary type="html"><![CDATA[「Twitterについては今まさに現在進行形で、確かなことはいえないが、注視しつつやっていく」──騒動の続くTwitterについて、上場を果たしたnoteの加藤貞顕CEOはこう答えた。noteの今後の対応は。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

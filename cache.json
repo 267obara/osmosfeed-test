@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221221-south-pasadena-vehicle-assault/",
+          "author": null,
+          "description": "TwitterのCEOであるイーロン・マスク氏は、家族がストーカーに車を止められる事案が発生したことを例に出し、個人のリアルタイム位置情報をツイートすることを禁止しました。この「ストーカーによる追跡事案」について、サウスパサデナ警察が実際に報告されている内容を報告しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-south-pasadena-vehicle-assault/",
+          "publishedOn": "2022-12-21T08:00:00.000Z",
+          "wordCount": 2582,
+          "title": "Twitterでイーロン・マスクが著名ジャーナリストのアカウントを一斉凍結する遠因になった「ストーカーによる追跡事案」について警察が言及",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/south-pasadena-vehicle-assault/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221221-face-recognition-girl-scout-mom/",
           "author": null,
           "description": "ある母娘がガールスカウトの集まりでクリスマスイベントの舞台を観劇しようとしたところ、母親だけ警備に呼び止められて会場から追い出されてしまいました。その理由について会場の運営会社は、母親が自社の訴訟を担当している弁護士事務所に所属する弁護士だからだと説明しました。\n続きを読む...",
@@ -4766,6 +4776,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news141.html",
+          "author": null,
+          "description": "「Twitterについては今まさに現在進行形で、確かなことはいえないが、注視しつつやっていく」──騒動の続くTwitterについて、上場を果たしたnoteの加藤貞顕CEOはこう答えた。noteの今後の対応は。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news141.html",
+          "publishedOn": "2022-12-21T06:49:00.000Z",
+          "wordCount": 2594,
+          "title": "note上場　Twitterの動向に加藤CEO「注視する」　締め出し・長文対応への備えは",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news141.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/21/news133.html",
           "author": null,

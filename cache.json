@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221222-two-google-pixels-chargeback/",
+          "author": null,
+          "description": "GoogleのオンラインストアでGoogle Pixel 7を購入する際、なんらかのミスで2台購入してしまったうちの1台を返送し、サポートの指示に従って注文を取り消したところ、Googleの規約違反でアカウントが消されてしまったとの体験談が、オンライン掲示板のRedditに投稿されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-two-google-pixels-chargeback/",
+          "publishedOn": "2022-12-21T21:00:00.000Z",
+          "wordCount": 2421,
+          "title": "間違えて2台買った「Google Pixel 7」の注文を取り消したら15年使ったGoogleアカウントが永久BANされたとの体験談",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/two-google-pixels-chargeback/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221221-bank-of-japan-rate-hike/",
           "author": null,
           "description": "日本銀行は2022年12月20日(火)に金融政策決定会合を開き、長期金利の変動幅をこれまでの0.25％程度から0.5％程度に拡大したことを(PDFファイル)発表しました。その理由や影響について、経済系ニュースサイトの「The Macro Compass」が解説しています。\n続きを読む...",

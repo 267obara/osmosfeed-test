@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T20:13:44.919Z</updated>
+    <updated>2022-12-21T21:11:56.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[間違えて2台買った「Google Pixel 7」の注文を取り消したら15年使ったGoogleアカウントが永久BANされたとの体験談]]></title>
+        <id>https://gigazine.net/news/20221222-two-google-pixels-chargeback/</id>
+        <link href="https://gigazine.net/news/20221222-two-google-pixels-chargeback/"/>
+        <updated>2022-12-21T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GoogleのオンラインストアでGoogle Pixel 7を購入する際、なんらかのミスで2台購入してしまったうちの1台を返送し、サポートの指示に従って注文を取り消したところ、Googleの規約違反でアカウントが消されてしまったとの体験談が、オンライン掲示板のRedditに投稿されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ローカル環境を汚さずDockerコンテナのオーバーヘッドもなく、開発環境を自在に構築できる「Devbox 0.2.0」登場]]></title>
         <id>https://www.publickey1.jp/blog/22/dockerdevbox_020.html</id>

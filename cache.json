@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221222-google-performance-max/",
+          "author": null,
+          "description": "2021年にGoogle広告がスタートした広告製品が「Performance Max(P-MAX)」です。Performance Maxは直訳すると「パフォーマンスの最大化」という意味で、1つのキャンペーン(広告管理単位)からGoogle広告のすべての枠に広告を配信することができるというプロダクト。そんなP-MAXの仕組みについて、広告関連のニュースサイトであるAdExchangerが解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-google-performance-max/",
+          "publishedOn": "2022-12-21T22:00:00.000Z",
+          "wordCount": 2443,
+          "title": "Googleの機械学習による新型広告システム「P-MAX(Performance Max)」とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/google-performance-max/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221222-two-google-pixels-chargeback/",
           "author": null,
           "description": "GoogleのオンラインストアでGoogle Pixel 7を購入する際、なんらかのミスで2台購入してしまったうちの1台を返送し、サポートの指示に従って注文を取り消したところ、Googleの規約違反でアカウントが消されてしまったとの体験談が、オンライン掲示板のRedditに投稿されました。\n続きを読む...",

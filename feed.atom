@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T21:11:56.315Z</updated>
+    <updated>2022-12-21T22:12:30.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Googleの機械学習による新型広告システム「P-MAX(Performance Max)」とは？]]></title>
+        <id>https://gigazine.net/news/20221222-google-performance-max/</id>
+        <link href="https://gigazine.net/news/20221222-google-performance-max/"/>
+        <updated>2022-12-21T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年にGoogle広告がスタートした広告製品が「Performance Max(P-MAX)」です。Performance Maxは直訳すると「パフォーマンスの最大化」という意味で、1つのキャンペーン(広告管理単位)からGoogle広告のすべての枠に広告を配信することができるというプロダクト。そんなP-MAXの仕組みについて、広告関連のニュースサイトであるAdExchangerが解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[間違えて2台買った「Google Pixel 7」の注文を取り消したら15年使ったGoogleアカウントが永久BANされたとの体験談]]></title>
         <id>https://gigazine.net/news/20221222-two-google-pixels-chargeback/</id>

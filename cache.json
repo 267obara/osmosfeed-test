@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221221-goshujinsama-ninniku-kusaidesu-06/",
+          "author": null,
+          "description": "◆あらすじ吸血鬼(きゅうけつき/ヴァンパイア)の弱点はにんにく。だけどにんにくはあまりにも美味。誘惑に負けてにんにくを食べた結果、体が縮んでしまったミントは、にんにく大好きメイド・カオリと共に「弱点を克服するため」にんにく料理に挑み続ける。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-goshujinsama-ninniku-kusaidesu-06/",
+          "publishedOn": "2022-12-21T00:00:00.000Z",
+          "wordCount": 2551,
+          "title": "【無料マンガ】ご主人様にんにく臭いです！第6話「悪魔的なうまさのジャンボガーリックステーキ」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/goshujinsama-ninniku-kusaidesu-06/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221221-eufycam-2c-app-review/",
           "author": null,
           "description": "Ankerのスマートホームブランド・Eufyから登場した監視カメラ「eufyCam 2C」は、アプリを使って夜間モードや動作検知機能、さらに周辺住民のプライバシーに配慮する「プライバシーゾーン」の設定が可能となっています。そこで、実際にアプリを使ってeufyCam 2Cで使えるさまざまな機能を試してみました。\n続きを読む...",
@@ -3053,6 +3063,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17076",
+          "author": null,
+          "description": "米・国立標準技術研究所（NIST）は、広く使用されている暗号化アルゴリズム「SHA-1」を、他のより安全なアルゴリズムに置き換えるよう呼びかけている。なお、NISTのコンピュータサイエンティストであるChris Celi氏は、SHA-2またはSHA-3への移行を推奨する。",
+          "link": "http://codezine.jp/article/detail/17076",
+          "publishedOn": "2022-12-20T23:00:00.000Z",
+          "wordCount": 4328,
+          "title": "米国立標準技術研究所、暗号化アルゴリズム「SHA-1」の廃止を呼びかけ",
+          "imageUrl": "https://codezine.jp/static/images/article/17076/12729_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16897",
           "author": null,
           "description": "CodeZineを運営する翔泳社より、12月21日（水）に書籍『図解まるわかり 要件定義のきほん』が発売となりました。プロジェクトを成功にも失敗にも導く重要な鍵である要件定義を基本から学びたい方には必読の1冊です。",
@@ -4556,6 +4576,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news086.html",
+          "author": null,
+          "description": "ITを駆使して駐車場確保の問題を解消するシステムやサイトが注目を集めている。駐車場の入り口でAIが空きスペースを表示するものから、月極め駐車場をオンラインで検索・契約できるものなど、駐車に関する無駄を削減できるとあってメリットも大きい。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news086.html",
+          "publishedOn": "2022-12-21T00:00:00.000Z",
+          "wordCount": 2334,
+          "title": "駐車場の「空き」探し　ITでスムーズに　入り口で経路表示、ネット検索",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/l_PY52QSZNBJPUXCYPHN4LDT6QWE_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news085.html",
+          "author": null,
+          "description": "携帯大手4社とYRP研究開発推進協会が、5G基地局のオープン化に向けた検証を行う施設を開設した。オープン化は、基地局を構成する無線機器やデータ処理などの各装置を自由に組み合わせられるようにする取り組みで、基地局設備で低廉化が進むことが期待されている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news085.html",
+          "publishedOn": "2022-12-21T00:00:00.000Z",
+          "wordCount": 2331,
+          "title": "携帯4社、5G基地局のオープン化へ検証施設開所式　基地局市場の低廉化に期待",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/l_5WYO2WSULBMQVN6JFQNRUN42VE_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news088.html",
+          "author": null,
+          "description": "TikTokは、「おすすめ」タブになぜその動画が表示されるかを確認できる機能を追加した。各動画の「シェア」ボタン下のメニューから開く。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news088.html",
+          "publishedOn": "2022-12-20T23:50:00.000Z",
+          "wordCount": 2599,
+          "title": "TikTok、「おすすめ」で動画がおすすめされる理由を確認できる新機能",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/l_yu_tiktok.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/21/news084.html",
           "author": null,

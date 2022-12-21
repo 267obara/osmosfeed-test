@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-20T23:13:25.147Z</updated>
+    <updated>2022-12-21T01:03:09.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【無料マンガ】ご主人様にんにく臭いです！第6話「悪魔的なうまさのジャンボガーリックステーキ」]]></title>
+        <id>https://gigazine.net/news/20221221-goshujinsama-ninniku-kusaidesu-06/</id>
+        <link href="https://gigazine.net/news/20221221-goshujinsama-ninniku-kusaidesu-06/"/>
+        <updated>2022-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[◆あらすじ吸血鬼(きゅうけつき/ヴァンパイア)の弱点はにんにく。だけどにんにくはあまりにも美味。誘惑に負けてにんにくを食べた結果、体が縮んでしまったミントは、にんにく大好きメイド・カオリと共に「弱点を克服するため」にんにく料理に挑み続ける。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[駐車場の「空き」探し　ITでスムーズに　入り口で経路表示、ネット検索]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news086.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news086.html"/>
+        <updated>2022-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ITを駆使して駐車場確保の問題を解消するシステムやサイトが注目を集めている。駐車場の入り口でAIが空きスペースを表示するものから、月極め駐車場をオンラインで検索・契約できるものなど、駐車に関する無駄を削減できるとあってメリットも大きい。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[携帯4社、5G基地局のオープン化へ検証施設開所式　基地局市場の低廉化に期待]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news085.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news085.html"/>
+        <updated>2022-12-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[携帯大手4社とYRP研究開発推進協会が、5G基地局のオープン化に向けた検証を行う施設を開設した。オープン化は、基地局を構成する無線機器やデータ処理などの各装置を自由に組み合わせられるようにする取り組みで、基地局設備で低廉化が進むことが期待されている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok、「おすすめ」で動画がおすすめされる理由を確認できる新機能]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news088.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news088.html"/>
+        <updated>2022-12-20T23:50:00.000Z</updated>
+        <summary type="html"><![CDATA[TikTokは、「おすすめ」タブになぜその動画が表示されるかを確認できる機能を追加した。各動画の「シェア」ボタン下のメニューから開く。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「動作検知」「プライバシーゾーン」「音声通話」「警告アラーム」など多機能監視カメラ「eufyCam 2C」で使える機能を試してみた]]></title>
         <id>https://gigazine.net/news/20221221-eufycam-2c-app-review/</id>
@@ -15,6 +56,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米国立標準技術研究所、暗号化アルゴリズム「SHA-1」の廃止を呼びかけ]]></title>
+        <id>http://codezine.jp/article/detail/17076</id>
+        <link href="http://codezine.jp/article/detail/17076"/>
+        <updated>2022-12-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米・国立標準技術研究所（NIST）は、広く使用されている暗号化アルゴリズム「SHA-1」を、他のより安全なアルゴリズムに置き換えるよう呼びかけている。なお、NISTのコンピュータサイエンティストであるChris Celi氏は、SHA-2またはSHA-3への移行を推奨する。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

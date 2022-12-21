@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T04:16:13.847Z</updated>
+    <updated>2022-12-21T05:12:32.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ankerの「Eufy」がついにスマートカメラのプライバシー問題で「セキュリティ上の欠陥」を認める]]></title>
+        <id>https://gigazine.net/news/20221221-anker-eufy-camera-security-flaw/</id>
+        <link href="https://gigazine.net/news/20221221-anker-eufy-camera-security-flaw/"/>
+        <updated>2022-12-21T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ankerの家電ブランドである「Eufy」のセキュリティカメラで、全てローカルで保存されているはずのデータがクラウドにアップロードされていたことなどが批判されていた問題で、Eufyが公式フォーラムでセキュリティ上の欠陥を認める回答を行いました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterは国防総省が極秘に進める中東プロパガンダ・キャンペーンを2017年から支援していたと内部文書で発覚]]></title>
+        <id>https://gigazine.net/news/20221221-twitter-helped-propaganda/</id>
+        <link href="https://gigazine.net/news/20221221-twitter-helped-propaganda/"/>
+        <updated>2022-12-21T04:20:00.000Z</updated>
+        <summary type="html"><![CDATA[マスク氏がTwitterのCEOに就任してから、マスク氏は「Twitterが過去に行った悪いことを表面化する」と宣言し、Twitterの社内文書をまとめた暴露情報「Twitterファイル」の拡散を手伝っています。2022年12月21日に公開された「Twitterファイル」の第8弾では、Twitterがアメリカ軍のプロパガンダ形成に協力していた実態が明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supabase、GraphQLを用いてデータベースクエリを実行できるPostgreSQL拡張機能「pg_graphql 1.0」をリリース]]></title>
+        <id>http://codezine.jp/article/detail/17068</id>
+        <link href="http://codezine.jp/article/detail/17068"/>
+        <updated>2022-12-21T04:10:00.000Z</updated>
+        <summary type="html"><![CDATA[シンガポールのSupabaseは、GraphQLを用いてデータベースクエリを実行できるようにする、PostgreSQL拡張機能pg_graphqlの最新バージョンとなる「pg_graphql 1.0」の一般提供を、12月16日（現地時間）に開始した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[note、ロゴ刷新　デザインは原研哉氏が担当]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news124.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news124.html"/>
+        <updated>2022-12-21T04:10:00.000Z</updated>
+        <summary type="html"><![CDATA[メディアプラットフォームを手掛けるnoteがロゴデザインを刷新した。ロゴを始めとした新しいビジュアル・アイデンティティは、日本デザインセンター代表の原研哉氏が担当している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[150万円超のAlexa内蔵スマートトイレが販売される]]></title>
         <id>https://gigazine.net/news/20221221-kohler-numi/</id>

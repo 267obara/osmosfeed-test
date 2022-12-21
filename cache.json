@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221221-anker-eufy-camera-security-flaw/",
+          "author": null,
+          "description": "Ankerの家電ブランドである「Eufy」のセキュリティカメラで、全てローカルで保存されているはずのデータがクラウドにアップロードされていたことなどが批判されていた問題で、Eufyが公式フォーラムでセキュリティ上の欠陥を認める回答を行いました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-anker-eufy-camera-security-flaw/",
+          "publishedOn": "2022-12-21T05:00:00.000Z",
+          "wordCount": 2436,
+          "title": "Ankerの「Eufy」がついにスマートカメラのプライバシー問題で「セキュリティ上の欠陥」を認める",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/anker-eufy-camera-security-flaw/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221221-twitter-helped-propaganda/",
+          "author": null,
+          "description": "マスク氏がTwitterのCEOに就任してから、マスク氏は「Twitterが過去に行った悪いことを表面化する」と宣言し、Twitterの社内文書をまとめた暴露情報「Twitterファイル」の拡散を手伝っています。2022年12月21日に公開された「Twitterファイル」の第8弾では、Twitterがアメリカ軍のプロパガンダ形成に協力していた実態が明らかになりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-twitter-helped-propaganda/",
+          "publishedOn": "2022-12-21T04:20:00.000Z",
+          "wordCount": 2947,
+          "title": "Twitterは国防総省が極秘に進める中東プロパガンダ・キャンペーンを2017年から支援していたと内部文書で発覚",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/twitter-helped-propaganda/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221221-kohler-numi/",
           "author": null,
           "description": "「スマートトイレ」といえば、自動でフタを閉めたり、水を流したりするトイレが想像できます。家電メーカーのKOHLERは、新たにこれらの機能に加えて音声アシスタントの「Alexa」をも搭載したスマートトイレ「Numi 2.0」を開発し、2022年12月から一般に向けて販売を開始しました。\n続きを読む...",
@@ -3163,6 +3183,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17068",
+          "author": null,
+          "description": "シンガポールのSupabaseは、GraphQLを用いてデータベースクエリを実行できるようにする、PostgreSQL拡張機能pg_graphqlの最新バージョンとなる「pg_graphql 1.0」の一般提供を、12月16日（現地時間）に開始した。",
+          "link": "http://codezine.jp/article/detail/17068",
+          "publishedOn": "2022-12-21T04:10:00.000Z",
+          "wordCount": 4344,
+          "title": "Supabase、GraphQLを用いてデータベースクエリを実行できるPostgreSQL拡張機能「pg_graphql 1.0」をリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/17068/13165_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16947",
           "author": null,
           "description": "ビジネスの立ち上げから運営、成長に必要なすべてのeコマース機能とPOS機能を一つのプラットフォームで提供するShopify。その最上位プラン「Shopify Plus」は、大規模ECサイトの運営に必要な機能とカスタマイズ性に優れた次世代エンタープライズコマースプラットフォームである。Shopify Plusの活用が企業DXにどう貢献し、エンジニアのキャリアにつながっていくのか。Shopifyを活用する事業者、ストアやアプリの構築・開発パートナーというそれぞれの視点で、コマース分野のDXに必要なことやコマース分野に関わる開発者に求められるスキル、キャリアパスなどについてディスカッションを行った。",
@@ -4716,6 +4746,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news124.html",
+          "author": null,
+          "description": "メディアプラットフォームを手掛けるnoteがロゴデザインを刷新した。ロゴを始めとした新しいビジュアル・アイデンティティは、日本デザインセンター代表の原研哉氏が担当している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news124.html",
+          "publishedOn": "2022-12-21T04:10:00.000Z",
+          "wordCount": 2599,
+          "title": "note、ロゴ刷新　デザインは原研哉氏が担当",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news124.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/21/news116.html",
           "author": null,

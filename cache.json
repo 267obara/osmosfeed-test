@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221221-public-domain-from-2023/",
+          "author": null,
+          "description": "2023年1月1日に、1927年以降の著作物がアメリカでパブリックドメインとなり、コピーや共有が自由になります。アーサー・コナン・ドイルの「シャーロック・ホームズ」短編集、ドイツのSF映画「メトロポリス」やアルフレッド・ヒッチコック監督の処女作、ルイ・アームストロングやファッツ・ウォーラーの楽曲など、2023年1月1日にパブリックドメインに移行する作品の一部をデューク大学法学部が紹介しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-public-domain-from-2023/",
+          "publishedOn": "2022-12-21T11:00:00.000Z",
+          "wordCount": 2545,
+          "title": "2023年1月1日に1927年以降の著作物がアメリカのパブリックドメインに、「シャーロック・ホームズ」短編集・映画「メトロポリス」・ヒッチコック作品などなど",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/public-domain-from-2023/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221221-ban-tiktok-government-devices-spending-bill/",
           "author": null,
           "description": "アメリカ上院の歳出委員会が2022年12月19日、1.7兆ドル(約220兆円)の規模となる2023年9月30日までの包括的歳出法案を発表しました。この歳出法案には、ウクライナやNATO同盟国への追加支援費で過去最大となった軍事費のほか、「TikTokを政府のスマートフォンやその他のデバイスで使用することを禁止する」という条項も含まれています。\n続きを読む...",
@@ -4796,6 +4806,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news179.html",
+          "author": null,
+          "description": "JR西日本は、大阪駅と新大阪駅間で、顔認証改札機の実証実験を3月18日から開始する。同日開業予定の大阪駅（うめきたエリア）のうめきた地下口改札にゲートを設けないウォークスルー型、新大阪駅東口改札に簡易型の顔認証改札機を設置する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news179.html",
+          "publishedOn": "2022-12-21T10:30:00.000Z",
+          "wordCount": 2592,
+          "title": "“顔パス”乗車できる「顔認証改札機」、JR西が実証実験　ゲートがない近未来的デザイン",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news179.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/21/news169.html",
           "author": null,

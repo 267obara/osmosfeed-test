@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T10:14:47.064Z</updated>
+    <updated>2022-12-21T11:11:10.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年1月1日に1927年以降の著作物がアメリカのパブリックドメインに、「シャーロック・ホームズ」短編集・映画「メトロポリス」・ヒッチコック作品などなど]]></title>
+        <id>https://gigazine.net/news/20221221-public-domain-from-2023/</id>
+        <link href="https://gigazine.net/news/20221221-public-domain-from-2023/"/>
+        <updated>2022-12-21T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年1月1日に、1927年以降の著作物がアメリカでパブリックドメインとなり、コピーや共有が自由になります。アーサー・コナン・ドイルの「シャーロック・ホームズ」短編集、ドイツのSF映画「メトロポリス」やアルフレッド・ヒッチコック監督の処女作、ルイ・アームストロングやファッツ・ウォーラーの楽曲など、2023年1月1日にパブリックドメインに移行する作品の一部をデューク大学法学部が紹介しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“顔パス”乗車できる「顔認証改札機」、JR西が実証実験　ゲートがない近未来的デザイン]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news179.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news179.html"/>
+        <updated>2022-12-21T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[JR西日本は、大阪駅と新大阪駅間で、顔認証改札機の実証実験を3月18日から開始する。同日開業予定の大阪駅（うめきたエリア）のうめきた地下口改札にゲートを設けないウォークスルー型、新大阪駅東口改札に簡易型の顔認証改札機を設置する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「TikTokを政府のスマホなどで使うことを禁止する条項」がアメリカ議会が発表した220兆円規模の歳出法案に含まれる]]></title>
         <id>https://gigazine.net/news/20221221-ban-tiktok-government-devices-spending-bill/</id>

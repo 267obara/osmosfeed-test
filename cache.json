@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221221-ban-tiktok-government-devices-spending-bill/",
+          "author": null,
+          "description": "アメリカ上院の歳出委員会が2022年12月19日、1.7兆ドル(約220兆円)の規模となる2023年9月30日までの包括的歳出法案を発表しました。この歳出法案には、ウクライナやNATO同盟国への追加支援費で過去最大となった軍事費のほか、「TikTokを政府のスマートフォンやその他のデバイスで使用することを禁止する」という条項も含まれています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-ban-tiktok-government-devices-spending-bill/",
+          "publishedOn": "2022-12-21T10:00:00.000Z",
+          "wordCount": 2474,
+          "title": "「TikTokを政府のスマホなどで使うことを禁止する条項」がアメリカ議会が発表した220兆円規模の歳出法案に含まれる",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/ban-tiktok-government-devices-spending-bill/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221221-headline/",
+          "author": null,
+          "description": "モスバーガーで、国産黒毛和牛を一頭買いすることですべての部位を使用して、それぞれの部位のいいところを詰め込んだという「一頭買い 黒毛和牛バーガー～特製テリヤキソース～」が2022年12月28日(水)から数量限定で登場します。価格は税込690円だとのこと。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221221-headline/",
+          "publishedOn": "2022-12-21T09:22:00.000Z",
+          "wordCount": 6559,
+          "title": "2022年12月21日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/21/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221221-south-pasadena-vehicle-assault/",
           "author": null,
           "description": "TwitterのCEOであるイーロン・マスク氏は、家族がストーカーに車を止められる事案が発生したことを例に出し、個人のリアルタイム位置情報をツイートすることを禁止しました。この「ストーカーによる追跡事案」について、サウスパサデナ警察が実際に報告されている内容を報告しています。\n続きを読む...",
@@ -4776,6 +4796,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news169.html",
+          "author": null,
+          "description": "デキるITビジネスパーソンなら誰もが知っている基礎知識をクイズ化して発信。今回は顔文字・絵文字の一覧を表示するあのショートカット。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news169.html",
+          "publishedOn": "2022-12-21T09:16:00.000Z",
+          "wordCount": 2604,
+          "title": "顔文字・絵文字の一覧を表示するには「Win＋○」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news169.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news165.html",
+          "author": null,
+          "description": "創業から40年以上たつ「ボンディ神田小川町店」（＠bondyogawamachi）は、年内でQRコード決済の取り扱いを停止する。停止の理由は「利用が増えるにつれ、毎月支払う手数料がすごい金額になるため」と説明している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news165.html",
+          "publishedOn": "2022-12-21T08:58:00.000Z",
+          "wordCount": 2612,
+          "title": "「QRコード決済は年内で止めます」──創業40年のカレー料理屋の投稿が話題　「利用増えるにつれ、手数料がすごい金額に」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news165.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/21/news150.html",
           "author": null,

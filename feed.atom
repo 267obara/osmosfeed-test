@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T09:13:06.464Z</updated>
+    <updated>2022-12-21T10:14:47.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「TikTokを政府のスマホなどで使うことを禁止する条項」がアメリカ議会が発表した220兆円規模の歳出法案に含まれる]]></title>
+        <id>https://gigazine.net/news/20221221-ban-tiktok-government-devices-spending-bill/</id>
+        <link href="https://gigazine.net/news/20221221-ban-tiktok-government-devices-spending-bill/"/>
+        <updated>2022-12-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ上院の歳出委員会が2022年12月19日、1.7兆ドル(約220兆円)の規模となる2023年9月30日までの包括的歳出法案を発表しました。この歳出法案には、ウクライナやNATO同盟国への追加支援費で過去最大となった軍事費のほか、「TikTokを政府のスマートフォンやその他のデバイスで使用することを禁止する」という条項も含まれています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年12月21日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221221-headline/</id>
+        <link href="https://gigazine.net/news/20221221-headline/"/>
+        <updated>2022-12-21T09:22:00.000Z</updated>
+        <summary type="html"><![CDATA[モスバーガーで、国産黒毛和牛を一頭買いすることですべての部位を使用して、それぞれの部位のいいところを詰め込んだという「一頭買い 黒毛和牛バーガー～特製テリヤキソース～」が2022年12月28日(水)から数量限定で登場します。価格は税込690円だとのこと。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[顔文字・絵文字の一覧を表示するには「Win＋○」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news169.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news169.html"/>
+        <updated>2022-12-21T09:16:00.000Z</updated>
+        <summary type="html"><![CDATA[デキるITビジネスパーソンなら誰もが知っている基礎知識をクイズ化して発信。今回は顔文字・絵文字の一覧を表示するあのショートカット。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「QRコード決済は年内で止めます」──創業40年のカレー料理屋の投稿が話題　「利用増えるにつれ、手数料がすごい金額に」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news165.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news165.html"/>
+        <updated>2022-12-21T08:58:00.000Z</updated>
+        <summary type="html"><![CDATA[創業から40年以上たつ「ボンディ神田小川町店」（＠bondyogawamachi）は、年内でQRコード決済の取り扱いを停止する。停止の理由は「利用が増えるにつれ、毎月支払う手数料がすごい金額になるため」と説明している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超音波AI技術で、冷凍マグロを破壊せず鮮度評価　富士通と東海大学]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/21/news150.html</id>

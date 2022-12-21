@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T12:25:50.981Z</updated>
+    <updated>2022-12-21T13:19:00.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[果肉がゴロっと入った自家製ストロベリーソースとスパイスが香る「ストロベリーチャイ」をフレッシュネスバーガーで飲んでみた]]></title>
+        <id>https://gigazine.net/news/20221221-freshness-burger-strawberry-chai/</id>
+        <link href="https://gigazine.net/news/20221221-freshness-burger-strawberry-chai/"/>
+        <updated>2022-12-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[店内仕込みの自家製ストロベリーソースとシナモン、クローブ、ナツメグなどのスパイスを効かせた香り高くコク深いオリジナルブレンドのチャイ「ストロベリーチャイ」が、2022年12月21日(水)からフレッシュネスバーガーに登場しています。ホットとアイスの両方で提供されているというストロベリーチャイを飲んで、ポカポカ温まってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[運動嫌いでも腸内環境を整えるだけでやる気が自然と湧いてくるという研究結果]]></title>
         <id>https://gigazine.net/news/20221221-microbiome-dependent-motivation-exercise/</id>

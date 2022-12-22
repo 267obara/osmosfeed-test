@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221222-brings-back-pay-phones-man/",
+          "author": null,
+          "description": "お金を入れた分だけ通話できる公衆電話はかつて街中や建物内の至る所にありましたが、携帯電話やスマートフォンの普及に伴って姿を消しつつあり、2022年5月にはニューヨーク市で最後の公衆電話が撤去されました。そんな公衆電話を自費で設置した上に無料で使えるようにした男性が、アメリカのペンシルベニア州フィラデルフィア市に現れました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-brings-back-pay-phones-man/",
+          "publishedOn": "2022-12-22T10:00:00.000Z",
+          "wordCount": 2441,
+          "title": "「タダで使える公衆電話」を自腹を切って設置する男性が現れる",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/brings-back-pay-phones-man/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221222-headline/",
+          "author": null,
+          "description": "アートユニット・明和電機の制作した電子楽器「オタマトーン」のアニメ化が発表されました。た。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-headline/",
+          "publishedOn": "2022-12-22T09:21:00.000Z",
+          "wordCount": 6774,
+          "title": "2022年12月22日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221222-broken-iphone/",
           "author": null,
           "description": "iPhoneは毎年新しいモデルが登場していますが、「古いOSを搭載したiPhoneが欲しい」「ホームボタンが搭載されたiPhoneが欲しい」「少しでも安いモデルが欲しい」といった理由で型落ちモデルを探し求めている人も多いはず。そんなiPhoneについて、「新品のiPhone 6s Plusを購入したものの、アクティベーションできず使いものにならなかった」という体験談をYouTuberの91Techが公開しています。\n続きを読む...",
@@ -5136,6 +5156,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news179.html",
+          "author": null,
+          "description": "映画「シン・ウルトラマン」に登場した宇宙人「メフィラス」が使っていた道具を再現した「ウルトラレプリカ ベーターボックス点火器」の予約がスタート。価格は1万7050円。2023年6月に発送する予定。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news179.html",
+          "publishedOn": "2022-12-22T08:54:00.000Z",
+          "wordCount": 2346,
+          "title": "「商品化、私の好きな言葉です」　「シン・ウルトラマン」メフィラスの変身アイテム、予約スタート",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news179.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/22/news173.html",
           "author": null,

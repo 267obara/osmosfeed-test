@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T09:12:53.623Z</updated>
+    <updated>2022-12-22T10:14:25.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「タダで使える公衆電話」を自腹を切って設置する男性が現れる]]></title>
+        <id>https://gigazine.net/news/20221222-brings-back-pay-phones-man/</id>
+        <link href="https://gigazine.net/news/20221222-brings-back-pay-phones-man/"/>
+        <updated>2022-12-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[お金を入れた分だけ通話できる公衆電話はかつて街中や建物内の至る所にありましたが、携帯電話やスマートフォンの普及に伴って姿を消しつつあり、2022年5月にはニューヨーク市で最後の公衆電話が撤去されました。そんな公衆電話を自費で設置した上に無料で使えるようにした男性が、アメリカのペンシルベニア州フィラデルフィア市に現れました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年12月22日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221222-headline/</id>
+        <link href="https://gigazine.net/news/20221222-headline/"/>
+        <updated>2022-12-22T09:21:00.000Z</updated>
+        <summary type="html"><![CDATA[アートユニット・明和電機の制作した電子楽器「オタマトーン」のアニメ化が発表されました。た。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「商品化、私の好きな言葉です」　「シン・ウルトラマン」メフィラスの変身アイテム、予約スタート]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news179.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news179.html"/>
+        <updated>2022-12-22T08:54:00.000Z</updated>
+        <summary type="html"><![CDATA[映画「シン・ウルトラマン」に登場した宇宙人「メフィラス」が使っていた道具を再現した「ウルトラレプリカ ベーターボックス点火器」の予約がスタート。価格は1万7050円。2023年6月に発送する予定。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JR東、駅員にウェアラブルカメラ装着へ　トラブル時の状況確認をスムーズに]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/22/news173.html</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221222-broken-iphone/",
+          "author": null,
+          "description": "iPhoneは毎年新しいモデルが登場していますが、「古いOSを搭載したiPhoneが欲しい」「ホームボタンが搭載されたiPhoneが欲しい」「少しでも安いモデルが欲しい」といった理由で型落ちモデルを探し求めている人も多いはず。そんなiPhoneについて、「新品のiPhone 6s Plusを購入したものの、アクティベーションできず使いものにならなかった」という体験談をYouTuberの91Techが公開しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-broken-iphone/",
+          "publishedOn": "2022-12-22T08:00:00.000Z",
+          "wordCount": 2464,
+          "title": "型落ちiPhoneを購入した結果アクティベーションすらできなかった恐怖の体験談",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/broken-iphone/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221222-gb-interceptor-game-boy-capture/",
           "author": null,
           "description": "ゲームボーイ本体を改造することなくゲームの映像をキャプチャしたり配信したりできるようになるツール「GB Interceptor」について、開発者のセバスチャン・スタークス氏が解説しています。\n続きを読む...",
@@ -5126,6 +5136,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news162.html",
+          "author": null,
+          "description": "NTTドコモは、アニメに特化した動画配信サービス「dアニメストア」の月額料金を、2023年3月1日から値上げする。現在、月額440円でで利用できるが、550円に引き上げる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news162.html",
+          "publishedOn": "2022-12-22T07:15:00.000Z",
+          "wordCount": 2597,
+          "title": "「dアニメストア」値上げへ　440円→550円に　「DMM TV」と並ぶ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news162.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/22/news144.html",
           "author": null,

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T07:12:11.984Z</updated>
+    <updated>2022-12-22T08:16:46.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[型落ちiPhoneを購入した結果アクティベーションすらできなかった恐怖の体験談]]></title>
+        <id>https://gigazine.net/news/20221222-broken-iphone/</id>
+        <link href="https://gigazine.net/news/20221222-broken-iphone/"/>
+        <updated>2022-12-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneは毎年新しいモデルが登場していますが、「古いOSを搭載したiPhoneが欲しい」「ホームボタンが搭載されたiPhoneが欲しい」「少しでも安いモデルが欲しい」といった理由で型落ちモデルを探し求めている人も多いはず。そんなiPhoneについて、「新品のiPhone 6s Plusを購入したものの、アクティベーションできず使いものにならなかった」という体験談をYouTuberの91Techが公開しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「dアニメストア」値上げへ　440円→550円に　「DMM TV」と並ぶ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news162.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news162.html"/>
+        <updated>2022-12-22T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、アニメに特化した動画配信サービス「dアニメストア」の月額料金を、2023年3月1日から値上げする。現在、月額440円でで利用できるが、550円に引き上げる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲームボーイを一切改造することなくゲーム映像をキャプチャ・配信できる「GB Interceptor」]]></title>
         <id>https://gigazine.net/news/20221222-gb-interceptor-game-boy-capture/</id>

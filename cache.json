@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221222-netflix-password-sharing/",
+          "author": null,
+          "description": "1つのアカウントを共有して「タダ乗り」するユーザーへの対抗策を打ち出しているNetflixが、2023年初旬にパスワードの共有をできないようにして、タダ乗りしているユーザーに支払いを求めていく方針であることが明らかになりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-netflix-password-sharing/",
+          "publishedOn": "2022-12-22T04:00:00.000Z",
+          "wordCount": 2528,
+          "title": "Netflixがパスワード共有の「タダ乗り」取り締まりへ本腰を入れる動き、2023年年明けから開始か",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/netflix-password-sharing/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221222-long-covid-brain-fog-treatment/",
+          "author": null,
+          "description": "新型コロナウイルス感染症(COVID-19)はせきや発熱、呼吸困難、体の痛みといった症状が出るほか、感染性が消失した後も強い倦怠(けんたい)感や息切れといった後遺症(ロングCOVID)が残るケースがあります。そんなCOVID-19の後遺症の1つに、頭がぼーっとして認知的な問題が生じる「ブレインフォグ」がありますが、このブレインフォグを既存の薬の組み合わせで治療できるという研究結果が報告されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-long-covid-brain-fog-treatment/",
+          "publishedOn": "2022-12-22T03:30:00.000Z",
+          "wordCount": 2491,
+          "title": "新型コロナ後遺症で頭がぼーっとして集中できなくなる「ブレインフォグ」を既存の薬で治療する方法が報告される",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/long-covid-brain-fog-treatment/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221222-microsoft-sued-gamers-activision-deal/",
           "author": null,
           "description": "「Call of Duty」シリーズを始めとするActivision Blizzardのゲームをこよなく愛する熱心なゲーマー10人が、MicrosoftによるActivision Blizzard買収阻止に向けた集団訴訟を起こしました。\n続きを読む...",
@@ -3363,6 +3383,36 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16797",
+          "author": null,
+          "description": "かつてソフトウェア開発は品質を担保するために、時間をかけてしっかりと作り込んでいた。そのため「品質とスピードはトレードオフ」という観念があった。しかし今ではアジャイル開発やDevOpsという言葉が盛んであるように、素早く新機能をリリースするようになってきている。そうしないと、ビジネスで取り残されてしまう。では品質を放棄するかというと、そうでもない。アシストの開発現場向けサポートソリューションに迫る。",
+          "link": "http://codezine.jp/article/detail/16797",
+          "publishedOn": "2022-12-22T03:00:00.000Z",
+          "wordCount": 4334,
+          "title": "複雑化するコード、工数がかかるテスト…… 開発プロセスの改善はどこから手を付けるべきか",
+          "imageUrl": "https://codezine.jp/static/images/article/16797/1200_1.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/16990",
+          "author": null,
+          "description": "グレープシティのJavaScriptライブラリ「Wijmo（ウィジモ）」は、Webページ作成に利用できるさまざまな部品の詰め合わせです。本連載ではこれらの部品を複数組み合わせて本格的なデータ表示Webページを構築する例を、複数回にわたって紹介していきます。初回となる今回は、CSVファイルから取得した気温データをもとに、FlexGridを使った表と、FlexChartを使ったチャートを表示させます。",
+          "link": "http://codezine.jp/article/detail/16990",
+          "publishedOn": "2022-12-22T03:00:00.000Z",
+          "wordCount": 4401,
+          "title": "JavaScriptライブラリ「Wijmo」のさまざまな部品を徹底活用！～まずは表とチャートから解説～",
+          "imageUrl": "https://codezine.jp/static/images/article/16990/og.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17087",
+          "author": null,
+          "description": "Hajimariは、ITフリーランスと企業のマッチングサービス「ITプロパートナーズ」「マーケティングプロパートナーズ」を利用する企業・ユーザーのデータに基づいた、2022年のフリーランス活用動向レポートと、2023年のフリーランス活用動向予測を12月21日に発表した。",
+          "link": "http://codezine.jp/article/detail/17087",
+          "publishedOn": "2022-12-22T03:00:00.000Z",
+          "wordCount": 4304,
+          "title": "フリーランスの活用は2023年も引き続き増加傾向と予測、Hajimariがフリーランス活用実態レポート2022を発表",
+          "imageUrl": "https://codezine.jp/static/images/article/17087/17087_ogp.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17082",
           "author": null,
           "description": "ワミィは、新卒・中途・アルムナイを対象としたインターンシッププログラム支援サービス「ワミィのインターンシップ支援」の提供を、12月21日に開始した。",
@@ -5036,6 +5086,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news123.html",
+          "author": null,
+          "description": "ファイル共有ソフト「Winny」を巡り、開発者・金子勇さんが著作権法違反ほう助容疑で逮捕・起訴された\"Winny事件”を題材にした映画「Winny」の公開が2023年3月10日に決まった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news123.html",
+          "publishedOn": "2022-12-22T03:32:00.000Z",
+          "wordCount": 2597,
+          "title": "“Winny事件”題材の映画「Winny」、3月10日公開　開発者・金子勇さん役は東出昌大さん",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news123.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news103.html",
+          "author": null,
+          "description": "近ごろ寒いので「在宅勤務ファッションショー2022冬」を開催。社内外の人に在宅ワーク時の防寒対策を聞いてみたら、意外に多種多様な回答があったので、ファッションショー形式で紹介する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news103.html",
+          "publishedOn": "2022-12-22T03:30:00.000Z",
+          "wordCount": 2605,
+          "title": "「在宅勤務ファッションショー2022冬」寒すぎなので開催　チェケラみんなの防寒着",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news103.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/22/news113.html",
           "author": null,

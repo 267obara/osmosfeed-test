@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T03:14:26.265Z</updated>
+    <updated>2022-12-22T04:16:26.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Netflixがパスワード共有の「タダ乗り」取り締まりへ本腰を入れる動き、2023年年明けから開始か]]></title>
+        <id>https://gigazine.net/news/20221222-netflix-password-sharing/</id>
+        <link href="https://gigazine.net/news/20221222-netflix-password-sharing/"/>
+        <updated>2022-12-22T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1つのアカウントを共有して「タダ乗り」するユーザーへの対抗策を打ち出しているNetflixが、2023年初旬にパスワードの共有をできないようにして、タダ乗りしているユーザーに支払いを求めていく方針であることが明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Winny事件”題材の映画「Winny」、3月10日公開　開発者・金子勇さん役は東出昌大さん]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news123.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news123.html"/>
+        <updated>2022-12-22T03:32:00.000Z</updated>
+        <summary type="html"><![CDATA[ファイル共有ソフト「Winny」を巡り、開発者・金子勇さんが著作権法違反ほう助容疑で逮捕・起訴された"Winny事件”を題材にした映画「Winny」の公開が2023年3月10日に決まった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型コロナ後遺症で頭がぼーっとして集中できなくなる「ブレインフォグ」を既存の薬で治療する方法が報告される]]></title>
+        <id>https://gigazine.net/news/20221222-long-covid-brain-fog-treatment/</id>
+        <link href="https://gigazine.net/news/20221222-long-covid-brain-fog-treatment/"/>
+        <updated>2022-12-22T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症(COVID-19)はせきや発熱、呼吸困難、体の痛みといった症状が出るほか、感染性が消失した後も強い倦怠(けんたい)感や息切れといった後遺症(ロングCOVID)が残るケースがあります。そんなCOVID-19の後遺症の1つに、頭がぼーっとして認知的な問題が生じる「ブレインフォグ」がありますが、このブレインフォグを既存の薬の組み合わせで治療できるという研究結果が報告されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「在宅勤務ファッションショー2022冬」寒すぎなので開催　チェケラみんなの防寒着]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news103.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news103.html"/>
+        <updated>2022-12-22T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[近ごろ寒いので「在宅勤務ファッションショー2022冬」を開催。社内外の人に在宅ワーク時の防寒対策を聞いてみたら、意外に多種多様な回答があったので、ファッションショー形式で紹介する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10人のCall of Dutyプレイヤーが「MicrosoftによるActivision Blizzard買収阻止」に向けて立ち上がる]]></title>
         <id>https://gigazine.net/news/20221222-microsoft-sued-gamers-activision-deal/</id>
@@ -15,6 +57,36 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[複雑化するコード、工数がかかるテスト…… 開発プロセスの改善はどこから手を付けるべきか]]></title>
+        <id>http://codezine.jp/article/detail/16797</id>
+        <link href="http://codezine.jp/article/detail/16797"/>
+        <updated>2022-12-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[かつてソフトウェア開発は品質を担保するために、時間をかけてしっかりと作り込んでいた。そのため「品質とスピードはトレードオフ」という観念があった。しかし今ではアジャイル開発やDevOpsという言葉が盛んであるように、素早く新機能をリリースするようになってきている。そうしないと、ビジネスで取り残されてしまう。では品質を放棄するかというと、そうでもない。アシストの開発現場向けサポートソリューションに迫る。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScriptライブラリ「Wijmo」のさまざまな部品を徹底活用！～まずは表とチャートから解説～]]></title>
+        <id>http://codezine.jp/article/detail/16990</id>
+        <link href="http://codezine.jp/article/detail/16990"/>
+        <updated>2022-12-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[グレープシティのJavaScriptライブラリ「Wijmo（ウィジモ）」は、Webページ作成に利用できるさまざまな部品の詰め合わせです。本連載ではこれらの部品を複数組み合わせて本格的なデータ表示Webページを構築する例を、複数回にわたって紹介していきます。初回となる今回は、CSVファイルから取得した気温データをもとに、FlexGridを使った表と、FlexChartを使ったチャートを表示させます。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フリーランスの活用は2023年も引き続き増加傾向と予測、Hajimariがフリーランス活用実態レポート2022を発表]]></title>
+        <id>http://codezine.jp/article/detail/17087</id>
+        <link href="http://codezine.jp/article/detail/17087"/>
+        <updated>2022-12-22T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hajimariは、ITフリーランスと企業のマッチングサービス「ITプロパートナーズ」「マーケティングプロパートナーズ」を利用する企業・ユーザーのデータに基づいた、2022年のフリーランス活用動向レポートと、2023年のフリーランス活用動向予測を12月21日に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T21:11:51.587Z</updated>
+    <updated>2022-12-22T22:12:51.035Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[貧乏だとかえって高くつくものリスト]]></title>
+        <id>https://gigazine.net/news/20221223-cost-of-being-poor/</id>
+        <link href="https://gigazine.net/news/20221223-cost-of-being-poor/"/>
+        <updated>2022-12-22T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[経済的に余裕がない人は物を買う時に節約をしなければなりませんが、例えば「安物買いの銭失い」という言葉があるように、貧乏なせいでかえって多くの支出がかかるということがよくあります。こうした「アメリカで貧乏であることの代償」を、アメリカ在住のビジネスライターであるクレイグ・ランデス氏がリストにまとめました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter、「＄ティッカー」や「＄仮想通貨名」で価格チャート表示が可能に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news085.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news085.html"/>
+        <updated>2022-12-22T21:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterが新機能として、上場企業の株価チャートや仮想通貨の価格を簡単に表示できるようにした。ティッカーシンボルや仮想通貨の名称などの前に「$」を付けて検索すると、シンボルの価格チャートが表示される。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter、ツイートが見られた回数を表示する機能を追加]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news084.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news084.html"/>
+        <updated>2022-12-22T21:32:00.000Z</updated>
+        <summary type="html"><![CDATA[TwitterのマスクCEOは、ツイートが見られた回数を表示する「View Count」機能を追加したと発表した。ロールアウト中のこの機能で、ツイートした本人以外にも見られた数が表示されるようになる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マンガの著作権侵害・ポルノ・詐欺・偽情報のネットワークがGoogleからの広告費で収益を上げている実態が暴露される]]></title>
         <id>https://gigazine.net/news/20221223-google-piracy-porn-fraud-ads-network/</id>

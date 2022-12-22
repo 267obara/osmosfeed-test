@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-cost-of-being-poor/",
+          "author": null,
+          "description": "経済的に余裕がない人は物を買う時に節約をしなければなりませんが、例えば「安物買いの銭失い」という言葉があるように、貧乏なせいでかえって多くの支出がかかるということがよくあります。こうした「アメリカで貧乏であることの代償」を、アメリカ在住のビジネスライターであるクレイグ・ランデス氏がリストにまとめました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-cost-of-being-poor/",
+          "publishedOn": "2022-12-22T22:00:00.000Z",
+          "wordCount": 2451,
+          "title": "貧乏だとかえって高くつくものリスト",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/cost-of-being-poor/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-google-piracy-porn-fraud-ads-network/",
           "author": null,
           "description": "多種多様な広告ビジネスを展開するGoogleですが、Googleがサポートする広告の中には著作権を侵害するサイトに掲載されるものや、フィッシング詐欺やポルノサイトに掲載されるものがあります。不適切なサイトがGoogleからの広告費で収益を上げている実態について、世界的なFacebook広告詐欺を暴露した実績のあるクレイグ・シルバーマン氏らが解説しました。\n続きを読む...",
@@ -5236,6 +5246,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news085.html",
+          "author": null,
+          "description": "Twitterが新機能として、上場企業の株価チャートや仮想通貨の価格を簡単に表示できるようにした。ティッカーシンボルや仮想通貨の名称などの前に「$」を付けて検索すると、シンボルの価格チャートが表示される。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news085.html",
+          "publishedOn": "2022-12-22T21:48:00.000Z",
+          "wordCount": 2605,
+          "title": "Twitter、「＄ティッカー」や「＄仮想通貨名」で価格チャート表示が可能に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news085.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news084.html",
+          "author": null,
+          "description": "TwitterのマスクCEOは、ツイートが見られた回数を表示する「View Count」機能を追加したと発表した。ロールアウト中のこの機能で、ツイートした本人以外にも見られた数が表示されるようになる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news084.html",
+          "publishedOn": "2022-12-22T21:32:00.000Z",
+          "wordCount": 2607,
+          "title": "Twitter、ツイートが見られた回数を表示する機能を追加",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news084.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/22/news193.html",
           "author": null,

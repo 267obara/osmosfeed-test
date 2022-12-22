@@ -3503,6 +3503,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17049",
+          "author": null,
+          "description": "CodeZineを運営する翔泳社では、1月6日（金）まで、通販サイト「SEshop」でPDF版の本を購入すると、本体価格の40％がポイント還元となるセールを開催中です。",
+          "link": "http://codezine.jp/article/detail/17049",
+          "publishedOn": "2022-12-22T22:00:00.000Z",
+          "wordCount": 4330,
+          "title": "2022年の人気本も対象、翔泳社の本がPDF版で40％ポイント還元セール【1/6まで】",
+          "imageUrl": "https://codezine.jp/static/images/article/17049/17049_share.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17069",
           "author": null,
           "description": "Linux Foundationは、「Open Metaverse Foundation（OMF）」の設立に向けた取り組みを開始したことを、12月15日（現地時間）に発表した。",

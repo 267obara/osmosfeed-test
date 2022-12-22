@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T22:12:51.035Z</updated>
+    <updated>2022-12-22T23:14:49.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -15,6 +15,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年の人気本も対象、翔泳社の本がPDF版で40％ポイント還元セール【1/6まで】]]></title>
+        <id>http://codezine.jp/article/detail/17049</id>
+        <link href="http://codezine.jp/article/detail/17049"/>
+        <updated>2022-12-22T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CodeZineを運営する翔泳社では、1月6日（金）まで、通販サイト「SEshop」でPDF版の本を購入すると、本体価格の40％がポイント還元となるセールを開催中です。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

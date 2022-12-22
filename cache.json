@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221222-nvidia-top-5-robot/",
+          "author": null,
+          "description": "2022年は画像生成AIの「Midjourney」や「Stable Diffusion」、対話型AIの「ChatGPT」など、ソフト面が何かと話題になりましたが、「遠隔操作できる手術ロボット」や「自己複製できるロボット」など、ハード面でもさまざまな技術が発表されています。AIとロボティクスのための教育プログラムを実施しているNVIDIAが、新たに「2022年のトップロボット5選」を発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-nvidia-top-5-robot/",
+          "publishedOn": "2022-12-22T06:00:00.000Z",
+          "wordCount": 2444,
+          "title": "NVIDIAが選ぶ2022年の世界を変えるロボット5選",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/nvidia-top-5-robot/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221222-allura-red-ac/",
           "author": null,
           "description": "清涼飲料水や駄菓子を赤色に着色するために多く用いられる合成着色料「赤色40号(アルラレッドAC)」は、長期に摂取すると腸疾患を誘発する可能性があるとマウスの実験で明らかになりました。\n続きを読む...",
@@ -5106,6 +5116,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news144.html",
+          "author": null,
+          "description": "2021年に「デジタル社会形成基本法」をはじめとする、いわゆるデジタル改革関連六法が成立した。その中には、「地方公共団体情報システムの標準化に関する法律」も含まれており、地方行政も国とともにDX化を推進することとなったのはご承知の通りだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news144.html",
+          "publishedOn": "2022-12-22T05:30:00.000Z",
+          "wordCount": 2606,
+          "title": "「フロッピーで提出」「目視が必要」　進む“アナログ規制”見直し、地方は追随できるか？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news144.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/22/news142.html",
           "author": null,

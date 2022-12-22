@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T11:11:16.792Z</updated>
+    <updated>2022-12-22T12:25:51.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシアとの戦争でウクライナに優位性を与えた「Palantir」の情報・戦闘管理アルゴリズムとはどのようなものなのか？]]></title>
+        <id>https://gigazine.net/news/20221222-palantir-algorithm-data-ukraine-war/</id>
+        <link href="https://gigazine.net/news/20221222-palantir-algorithm-data-ukraine-war/"/>
+        <updated>2022-12-22T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナ戦争が2度目の冬を迎える中、ロシアはウクライナの電力インフラや病院などを狙った攻撃を繰り返していますが、2022年11月末にはイギリスの国防省によって「ロシア軍はミサイルが枯渇している」との分析結果が示されるなど、戦況はウクライナ側の優位に進んでいるとみられています。この優位性の立役者の1つとなったアメリカのテクノロジー企業・Palantirが作り上げた戦闘システムと「アルゴリズム戦争」の行く末について、現地を取材したジャーナリストのデイビット・イグネイシャス氏がレポートしました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14歳が「データベーススペシャリスト試験」合格、最年少記録を更新　難易度は最高レベル]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news193.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news193.html"/>
+        <updated>2022-12-22T11:02:00.000Z</updated>
+        <summary type="html"><![CDATA[国家試験「データベーススペシャリスト試験」に14歳の中学生が合格し、最年少記録を更新。「中学生が合格するには難しい試験」（IPA）という。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[どの企業がどれぐらい違反行為や犯罪を犯して罰金を支払っているのかを検索できる「Violation Tracker」]]></title>
         <id>https://gigazine.net/news/20221222-violation-tracker-offense-penalty/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ソニー、宇多田ヒカルのライブを“立体音響”で無料配信　1万人限定で]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news192.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news192.html"/>
+        <updated>2022-12-22T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーは、フルオブジェクトベースの立体音響技術によるライブのリアルタイム配信技術を開発。その第1弾として、2023年1月19日に開催予定の宇多田ヒカルによる配信イベント「40代はいろいろ」を実施。1万人限定で無料配信するという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

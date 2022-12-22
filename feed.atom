@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T12:25:51.735Z</updated>
+    <updated>2022-12-22T13:19:21.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ほくほくフライドにんにくとシャキシャキ白髪ねぎがたっぷりのったすき家「にんにく白髪ねぎ牛丼」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221222-sukiya-garlic-shiraganegi-gyudon/</id>
+        <link href="https://gigazine.net/news/20221222-sukiya-garlic-shiraganegi-gyudon/"/>
+        <updated>2022-12-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[牛丼チェーンのすき家に2022年12月21日(水)から、毎年恒例の期間限定メニュー「白髪ねぎ牛丼」にフライドにんにくを合わせた「にんにく白髪ねぎ牛丼」が登場しました。たっぷりのシャキシャキねぎとフライドにんにくの組み合わせが気になったので、早速食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシアとの戦争でウクライナに優位性を与えた「Palantir」の情報・戦闘管理アルゴリズムとはどのようなものなのか？]]></title>
         <id>https://gigazine.net/news/20221222-palantir-algorithm-data-ukraine-war/</id>

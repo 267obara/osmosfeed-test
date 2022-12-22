@@ -5137,6 +5137,16 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news173.html",
+          "author": null,
+          "description": "JR東日本が、駅社員へのウェアラブルカメラ導入を進める。トラブル発生時にライブ映像を確認することで、速やかな駆け付け体制を構築できる他、トラブル発生時の状況や経緯などの正確な把握、駅社員の安全性向上を見込む。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news173.html",
+          "publishedOn": "2022-12-22T08:15:00.000Z",
+          "wordCount": 2591,
+          "title": "JR東、駅員にウェアラブルカメラ装着へ　トラブル時の状況確認をスムーズに",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news173.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/22/news162.html",
           "author": null,
           "description": "NTTドコモは、アニメに特化した動画配信サービス「dアニメストア」の月額料金を、2023年3月1日から値上げする。現在、月額440円でで利用できるが、550円に引き上げる。",

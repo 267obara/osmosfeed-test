@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T08:16:46.591Z</updated>
+    <updated>2022-12-22T09:12:53.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[JR東、駅員にウェアラブルカメラ装着へ　トラブル時の状況確認をスムーズに]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news173.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news173.html"/>
+        <updated>2022-12-22T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本が、駅社員へのウェアラブルカメラ導入を進める。トラブル発生時にライブ映像を確認することで、速やかな駆け付け体制を構築できる他、トラブル発生時の状況や経緯などの正確な把握、駅社員の安全性向上を見込む。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[型落ちiPhoneを購入した結果アクティベーションすらできなかった恐怖の体験談]]></title>
         <id>https://gigazine.net/news/20221222-broken-iphone/</id>

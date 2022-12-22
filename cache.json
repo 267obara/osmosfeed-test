@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221222-stable-diffusion-create-design-inspiration/",
+          "author": null,
+          "description": "入力したテキストに則した画像を生成したり、ある画像から別の画像を生成したりすることができる画像生成AIの「Stable Diffusion」を使い、さまざまなインテリアデザインをAIに生成してもらうという試みをKaren X. ChengさんとJustin Alveyさんが行っています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-stable-diffusion-create-design-inspiration/",
+          "publishedOn": "2022-12-22T14:00:00.000Z",
+          "wordCount": 3254,
+          "title": "画像生成AI「Stable Diffusion」を使って新しいインテリアデザインを作成しまくる試み",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/stable-diffusion-create-design-inspiration/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221222-sukiya-garlic-shiraganegi-gyudon/",
           "author": null,
           "description": "牛丼チェーンのすき家に2022年12月21日(水)から、毎年恒例の期間限定メニュー「白髪ねぎ牛丼」にフライドにんにくを合わせた「にんにく白髪ねぎ牛丼」が登場しました。たっぷりのシャキシャキねぎとフライドにんにくの組み合わせが気になったので、早速食べてみました。\n続きを読む...",

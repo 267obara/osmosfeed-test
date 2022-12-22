@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T13:19:21.388Z</updated>
+    <updated>2022-12-22T14:12:16.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[画像生成AI「Stable Diffusion」を使って新しいインテリアデザインを作成しまくる試み]]></title>
+        <id>https://gigazine.net/news/20221222-stable-diffusion-create-design-inspiration/</id>
+        <link href="https://gigazine.net/news/20221222-stable-diffusion-create-design-inspiration/"/>
+        <updated>2022-12-22T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[入力したテキストに則した画像を生成したり、ある画像から別の画像を生成したりすることができる画像生成AIの「Stable Diffusion」を使い、さまざまなインテリアデザインをAIに生成してもらうという試みをKaren X. ChengさんとJustin Alveyさんが行っています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ほくほくフライドにんにくとシャキシャキ白髪ねぎがたっぷりのったすき家「にんにく白髪ねぎ牛丼」を食べてみた]]></title>
         <id>https://gigazine.net/news/20221222-sukiya-garlic-shiraganegi-gyudon/</id>

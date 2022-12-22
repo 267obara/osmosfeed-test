@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221222-gb-interceptor-game-boy-capture/",
+          "author": null,
+          "description": "ゲームボーイ本体を改造することなくゲームの映像をキャプチャしたり配信したりできるようになるツール「GB Interceptor」について、開発者のセバスチャン・スタークス氏が解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-gb-interceptor-game-boy-capture/",
+          "publishedOn": "2022-12-22T07:00:00.000Z",
+          "wordCount": 2480,
+          "title": "ゲームボーイを一切改造することなくゲーム映像をキャプチャ・配信できる「GB Interceptor」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/gb-interceptor-game-boy-capture/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221222-nvidia-top-5-robot/",
           "author": null,
           "description": "2022年は画像生成AIの「Midjourney」や「Stable Diffusion」、対話型AIの「ChatGPT」など、ソフト面が何かと話題になりましたが、「遠隔操作できる手術ロボット」や「自己複製できるロボット」など、ハード面でもさまざまな技術が発表されています。AIとロボティクスのための教育プログラムを実施しているNVIDIAが、新たに「2022年のトップロボット5選」を発表しました。\n続きを読む...",

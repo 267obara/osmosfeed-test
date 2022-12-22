@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T06:17:17.397Z</updated>
+    <updated>2022-12-22T07:12:11.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ゲームボーイを一切改造することなくゲーム映像をキャプチャ・配信できる「GB Interceptor」]]></title>
+        <id>https://gigazine.net/news/20221222-gb-interceptor-game-boy-capture/</id>
+        <link href="https://gigazine.net/news/20221222-gb-interceptor-game-boy-capture/"/>
+        <updated>2022-12-22T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ゲームボーイ本体を改造することなくゲームの映像をキャプチャしたり配信したりできるようになるツール「GB Interceptor」について、開発者のセバスチャン・スタークス氏が解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIAが選ぶ2022年の世界を変えるロボット5選]]></title>
         <id>https://gigazine.net/news/20221222-nvidia-top-5-robot/</id>

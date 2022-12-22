@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T16:18:31.946Z</updated>
+    <updated>2022-12-22T17:12:03.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitLab、Visual Studio CodeベースのWeb IDEをβ版として提供開始。ターミナルからリモート環境へアクセス可能に]]></title>
+        <id>https://www.publickey1.jp/blog/22/gitlabvisual_studio_codeweb_ide.html</id>
+        <link href="https://www.publickey1.jp/blog/22/gitlabvisual_studio_codeweb_ide.html"/>
+        <updated>2022-12-22T16:24:15.000Z</updated>
+        <summary type="html"><![CDATA[GitLabは、Visual Studio CodeベースのWeb IDEを同社のサービスに統合されたWeb IDE（β版）として提供開始したことを明らかにしました。 12月19日以降、すべてのGitLabユーザーが利用可能になるとのことで...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[npm互換が強化されたDeno 1.29リリース。独自npmレジストリのサポート、REPLでのnpmサポートなど]]></title>
+        <id>https://www.publickey1.jp/blog/22/npmdeno_129npmreplnpm.html</id>
+        <link href="https://www.publickey1.jp/blog/22/npmdeno_129npmreplnpm.html"/>
+        <updated>2022-12-22T16:21:16.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースのJavaScript/TyeScriptランタイム「Deno」の最新版となる「Deno 1.29」がリリースされました。 Deno 1.29では、前バージョンの1.28から対応を開始したnpm モジュールに対する互換性の向上...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、「Amazon EKS Anywhere」のNutanix対応を発表。ハイパーコンバージド上でAmazon EKS Anywhere互換を実現]]></title>
+        <id>https://www.publickey1.jp/blog/22/awsamazon_eks_anywherenutanixamazon_eks_anywhere.html</id>
+        <link href="https://www.publickey1.jp/blog/22/awsamazon_eks_anywherenutanixamazon_eks_anywhere.html"/>
+        <updated>2022-12-22T16:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Serces（AWS）は、オンプレミスなどAWS以外の環境でもAmazon EKS（Amazon Elastic Kubernetes Service）と同等のKubernetes環境を構築できるソフトウェア「Amaz...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[画像生成AI「Stable Diffusion」を使って新しいインテリアデザインを作成しまくる試み]]></title>
         <id>https://gigazine.net/news/20221222-stable-diffusion-create-design-inspiration/</id>

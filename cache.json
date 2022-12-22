@@ -4860,6 +4860,36 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/gitlabvisual_studio_codeweb_ide.html",
+          "author": null,
+          "description": "GitLabは、Visual Studio CodeベースのWeb IDEを同社のサービスに統合されたWeb IDE（β版）として提供開始したことを明らかにしました。 12月19日以降、すべてのGitLabユーザーが利用可能になるとのことで...",
+          "link": "https://www.publickey1.jp/blog/22/gitlabvisual_studio_codeweb_ide.html",
+          "publishedOn": "2022-12-22T16:24:15.000Z",
+          "wordCount": 1314,
+          "title": "GitLab、Visual Studio CodeベースのWeb IDEをβ版として提供開始。ターミナルからリモート環境へアクセス可能に",
+          "imageUrl": "https://www.publickey1.jp/2022/HkWC2GOu.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/npmdeno_129npmreplnpm.html",
+          "author": null,
+          "description": "オープンソースのJavaScript/TyeScriptランタイム「Deno」の最新版となる「Deno 1.29」がリリースされました。 Deno 1.29では、前バージョンの1.28から対応を開始したnpm モジュールに対する互換性の向上...",
+          "link": "https://www.publickey1.jp/blog/22/npmdeno_129npmreplnpm.html",
+          "publishedOn": "2022-12-22T16:21:16.000Z",
+          "wordCount": 1300,
+          "title": "npm互換が強化されたDeno 1.29リリース。独自npmレジストリのサポート、REPLでのnpmサポートなど",
+          "imageUrl": "https://www.publickey1.jp/2022/deno129.png"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/awsamazon_eks_anywherenutanixamazon_eks_anywhere.html",
+          "author": null,
+          "description": "Amazon Web Serces（AWS）は、オンプレミスなどAWS以外の環境でもAmazon EKS（Amazon Elastic Kubernetes Service）と同等のKubernetes環境を構築できるソフトウェア「Amaz...",
+          "link": "https://www.publickey1.jp/blog/22/awsamazon_eks_anywherenutanixamazon_eks_anywhere.html",
+          "publishedOn": "2022-12-22T16:18:15.000Z",
+          "wordCount": 1297,
+          "title": "AWS、「Amazon EKS Anywhere」のNutanix対応を発表。ハイパーコンバージド上でAmazon EKS Anywhere互換を実現",
+          "imageUrl": "https://www.publickey1.jp/2022/FgFY4HdVUAE7PP9.jpg"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/dockerdevbox_020.html",
           "author": null,
           "description": "Dockerコンテナの技術を用いることで、プログラミング言語のランタイムやライブラリ、ミドルウェアなどの開発環境一式を比較的容易に導入することが可能になりました。 ただしDockerコンテナにはファイルシステムのオーバーヘッドなどがあり、D...",

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221222-discord-gigazine-bot/",
+          "author": null,
+          "description": "2022年11月からGIGAZINEのDiscord公式サーバーを開設し新着記事を配信しているわけですが、新たに自分のDiscordサーバーでもGIGAZINEの新着記事を配信できるボット「GIGAZINE BOT」を公開しました！いつでもどこでもGIGAZINEの新着記事をDiscordでチェック可能になるというとんでもないボットなので、その導入方法と手順は以下から。これでサーバーの管理者権限を持っているのであれば誰でもDiscordサーバーにGIGAZINEボットを常駐させられるはず！GIGAZINE BOT◆GIGAZINE BOTの導入手順GIGAZINE BOTをサーバーに導入するには、まず配付ページにアクセスして、サーバーの管理者権限を持っている自分のDiscordアカウントのメールアドレスとパスワードを入力してから「ログイン」をクリック。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-discord-gigazine-bot/",
+          "publishedOn": "2022-12-22T00:00:00.000Z",
+          "wordCount": 2422,
+          "title": "DiscordでGIGAZINEの新着記事を速攻チェックできるボット「GIGAZINE BOT」の入れ方と使い方まとめ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/discord-gigazine-bot/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221222-eufycam-2c-sensitivity-battery-review/",
           "author": null,
           "description": "AnkerのスマートホームブランドであるEufyの監視カメラ「eufyCam 2C」は、動作検知やプライバシーゾーンの設定、警告アラート、通話などさまざまな機能を搭載しています。そんなeufyCam 2Cの動画画質やファイルサイズ、検知感度、バッテリー消費などについてレビューしました。\n続きを読む...",
@@ -3303,6 +3313,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17085",
+          "author": null,
+          "description": "プログラミング言語「Rust」の開発チームは、最新バージョンとなる「Rust 1.66.0」を、12月15日（現地時間）に公開した。Rustは、Apache License 2.0とMITライセンスで公開しているオープンソース・ソフトウェア。",
+          "link": "http://codezine.jp/article/detail/17085",
+          "publishedOn": "2022-12-21T23:00:00.000Z",
+          "wordCount": 4311,
+          "title": "「Rust 1.66.0」が公開、コンパイラによる最適化を止める関数が加わる",
+          "imageUrl": "https://codezine.jp/static/images/article/17085/12801_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17086",
+          "author": null,
+          "description": "V8 JavaScriptエンジンとRust言語を使用したJavaScript／TypeScriptランタイムであるDenoの開発チームは、最新バージョンとなる「Deno 1.29」を12月14日（現地時間）に公開した。DenoはMITライセンスで公開しているオープンソース・ソフトウェア。",
+          "link": "http://codezine.jp/article/detail/17086",
+          "publishedOn": "2022-12-21T23:00:00.000Z",
+          "wordCount": 4319,
+          "title": "JavaScript／TypeScriptランタイム「Deno 1.29」が公開、独自のnpmレジストリを使えるように",
+          "imageUrl": "https://codezine.jp/static/images/article/17086/13178_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16968",
           "author": null,
           "description": "ゲーム業界における品質管理といえば、これまでは経験とセンスに頼った方法による「デバッグ」が中心でした。ですが、昨今ではソフトウェアテストの考え方が広まり、「ゲームテスト」という新たな手法が用いられるようになっています。このゲームテストの考え方とデバッガーやテスターの働き方について紹介・解説した書籍『ゲームをテストする バグのないゲームを支える知識と手法』が、CodeZineを運営する翔泳社から12月22日（木）に発売となりました。",
@@ -4906,6 +4936,56 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news093.html",
+          "author": null,
+          "description": "米半導体大手のMicron Technologyは2023年に約10％の人員を削減すると発表した。希望退職および一時解雇によって約4800人を削減する計画だ。PC市場の減速およびサーバの伸び悩みが半導体各社に影響している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news093.html",
+          "publishedOn": "2022-12-22T00:06:00.000Z",
+          "wordCount": 2613,
+          "title": "Micron Technology、2023年に10％の人員削減、ボーナスは一時停止",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news093.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/21/news155.html",
+          "author": null,
+          "description": "コロナ禍以降、映像制作や放送分野でのリモートプロダクションが注目を集めているところだが、一番大掛かりになるのが、ライブの映像中継業務だ。制作とは違い、一度に動く人間の数が多いため、最もリモートプロダクションに注力しなければならない分野でもある。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/21/news155.html",
+          "publishedOn": "2022-12-22T00:00:00.000Z",
+          "wordCount": 2627,
+          "title": "ライブ配信のコストを下げるクラウドIPスイッチャー、パナソニック「KAIROS」が示した存在感",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/21/cover_news155.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news027.html",
+          "author": null,
+          "description": "今回はAI契約書レビューについて取り上げる。AI契約書レビューシステムに関して「違法の可能性がある」という見解が示されたことを受け、一部報道においてはまるで違反であるかのような伝え方がなされた。この点も今回解説していく。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news027.html",
+          "publishedOn": "2022-12-22T00:00:00.000Z",
+          "wordCount": 2628,
+          "title": "AI契約書レビューはどこまで使える？　法務SaaS完全理解マニュアル　LegalForce＆GVA assist編",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news027.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news068.html",
+          "author": null,
+          "description": "香港城市大学などに所属する研究者らは、手のひらへの電気刺激で触覚を着用者に与えるVR向け極薄ハプティクスデバイスを提案した研究報告を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news068.html",
+          "publishedOn": "2022-12-21T23:00:00.000Z",
+          "wordCount": 2668,
+          "title": "「手のひらを虫が這う感覚」を体験できる超薄型「電子皮膚」　無線から電気刺激で触覚生成",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news068.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news067.html",
+          "author": null,
+          "description": "米ジョージア工科大学に所属する研究者らは、トイレに設置したセンサーで排便の音を録音し、下痢かどうかを判断する機械学習モデルを提案した研究報告を発表した。コレラなどの腸に関する病気の早期発見に役立てたいという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news067.html",
+          "publishedOn": "2022-12-21T23:00:00.000Z",
+          "wordCount": 2680,
+          "title": "排便の音を聞いて“下痢”かを判定するAI　精度98％で特定　YouTubeなどからトイレの音350件を学習",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news067.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/21/news179.html",
           "author": null,

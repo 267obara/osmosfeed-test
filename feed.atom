@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-21T23:13:37.099Z</updated>
+    <updated>2022-12-22T01:07:02.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Micron Technology、2023年に10％の人員削減、ボーナスは一時停止]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news093.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news093.html"/>
+        <updated>2022-12-22T00:06:00.000Z</updated>
+        <summary type="html"><![CDATA[米半導体大手のMicron Technologyは2023年に約10％の人員を削減すると発表した。希望退職および一時解雇によって約4800人を削減する計画だ。PC市場の減速およびサーバの伸び悩みが半導体各社に影響している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DiscordでGIGAZINEの新着記事を速攻チェックできるボット「GIGAZINE BOT」の入れ方と使い方まとめ]]></title>
+        <id>https://gigazine.net/news/20221222-discord-gigazine-bot/</id>
+        <link href="https://gigazine.net/news/20221222-discord-gigazine-bot/"/>
+        <updated>2022-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年11月からGIGAZINEのDiscord公式サーバーを開設し新着記事を配信しているわけですが、新たに自分のDiscordサーバーでもGIGAZINEの新着記事を配信できるボット「GIGAZINE BOT」を公開しました！いつでもどこでもGIGAZINEの新着記事をDiscordでチェック可能になるというとんでもないボットなので、その導入方法と手順は以下から。これでサーバーの管理者権限を持っているのであれば誰でもDiscordサーバーにGIGAZINEボットを常駐させられるはず！GIGAZINE BOT◆GIGAZINE BOTの導入手順GIGAZINE BOTをサーバーに導入するには、まず配付ページにアクセスして、サーバーの管理者権限を持っている自分のDiscordアカウントのメールアドレスとパスワードを入力してから「ログイン」をクリック。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ライブ配信のコストを下げるクラウドIPスイッチャー、パナソニック「KAIROS」が示した存在感]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/21/news155.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/21/news155.html"/>
+        <updated>2022-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コロナ禍以降、映像制作や放送分野でのリモートプロダクションが注目を集めているところだが、一番大掛かりになるのが、ライブの映像中継業務だ。制作とは違い、一度に動く人間の数が多いため、最もリモートプロダクションに注力しなければならない分野でもある。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI契約書レビューはどこまで使える？　法務SaaS完全理解マニュアル　LegalForce＆GVA assist編]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news027.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news027.html"/>
+        <updated>2022-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今回はAI契約書レビューについて取り上げる。AI契約書レビューシステムに関して「違法の可能性がある」という見解が示されたことを受け、一部報道においてはまるで違反であるかのような伝え方がなされた。この点も今回解説していく。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多機能監視カメラ「eufyCam 2C」で動作検知テスト＆撮影した動画の画質・ファイルサイズ・バッテリー消費などを調べてみた]]></title>
         <id>https://gigazine.net/news/20221222-eufycam-2c-sensitivity-battery-review/</id>
@@ -15,6 +56,46 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Rust 1.66.0」が公開、コンパイラによる最適化を止める関数が加わる]]></title>
+        <id>http://codezine.jp/article/detail/17085</id>
+        <link href="http://codezine.jp/article/detail/17085"/>
+        <updated>2022-12-21T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[プログラミング言語「Rust」の開発チームは、最新バージョンとなる「Rust 1.66.0」を、12月15日（現地時間）に公開した。Rustは、Apache License 2.0とMITライセンスで公開しているオープンソース・ソフトウェア。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript／TypeScriptランタイム「Deno 1.29」が公開、独自のnpmレジストリを使えるように]]></title>
+        <id>http://codezine.jp/article/detail/17086</id>
+        <link href="http://codezine.jp/article/detail/17086"/>
+        <updated>2022-12-21T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[V8 JavaScriptエンジンとRust言語を使用したJavaScript／TypeScriptランタイムであるDenoの開発チームは、最新バージョンとなる「Deno 1.29」を12月14日（現地時間）に公開した。DenoはMITライセンスで公開しているオープンソース・ソフトウェア。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「手のひらを虫が這う感覚」を体験できる超薄型「電子皮膚」　無線から電気刺激で触覚生成]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news068.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news068.html"/>
+        <updated>2022-12-21T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[香港城市大学などに所属する研究者らは、手のひらへの電気刺激で触覚を着用者に与えるVR向け極薄ハプティクスデバイスを提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排便の音を聞いて“下痢”かを判定するAI　精度98％で特定　YouTubeなどからトイレの音350件を学習]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news067.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news067.html"/>
+        <updated>2022-12-21T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米ジョージア工科大学に所属する研究者らは、トイレに設置したセンサーで排便の音を録音し、下痢かどうかを判断する機械学習モデルを提案した研究報告を発表した。コレラなどの腸に関する病気の早期発見に役立てたいという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T04:16:26.700Z</updated>
+    <updated>2022-12-22T05:12:20.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[合成着色料「赤色40号(アルラレッドAC)」が大腸炎に関係しているという実験結果が発表される]]></title>
+        <id>https://gigazine.net/news/20221222-allura-red-ac/</id>
+        <link href="https://gigazine.net/news/20221222-allura-red-ac/"/>
+        <updated>2022-12-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[清涼飲料水や駄菓子を赤色に着色するために多く用いられる合成着色料「赤色40号(アルラレッドAC)」は、長期に摂取すると腸疾患を誘発する可能性があるとマウスの実験で明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterの「金バッジ」、つやがでる　iOSとWebブラウザ版で確認]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news142.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news142.html"/>
+        <updated>2022-12-22T04:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterが企業公式アカウントに付与する「金バッジ」のデザインが一部変更された。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマホみたいな、ただのアクリル板「AcryPhone」登場　スマホ依存症解消に一役？　価格は3300円]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news141.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news141.html"/>
+        <updated>2022-12-22T04:35:00.000Z</updated>
+        <summary type="html"><![CDATA[雑貨などの企画開発を行うekoD Worksはスマートフォンのような質感を再現したアクリル板「AcryPhone」を開発したと発表した。スマホに近い握り心地でスマホケースなどを取り付けられるが、通話やネットはできない。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アダルト可のAI「Unstable Diffusion」のクラファンが停止される　「健全性守るため」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news140.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news140.html"/>
+        <updated>2022-12-22T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米KickStarterが、画像生成AI「Unstable Diffusion」の構築を目指すプロジェクトを停止した。KickStarter社は「われわれは作品とクリエイターの見方でなければならない」との立場を表明している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Foundation、すべての人にとって開かれたメタバースを目指す「Open Metaverse Foundation」設立に向けた取り組みを開始]]></title>
+        <id>http://codezine.jp/article/detail/17069</id>
+        <link href="http://codezine.jp/article/detail/17069"/>
+        <updated>2022-12-22T04:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Linux Foundationは、「Open Metaverse Foundation（OMF）」の設立に向けた取り組みを開始したことを、12月15日（現地時間）に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPad版「DaVinci Resolve」配信スタート　無料で利用可、「A12 Bionic」でも一応動く]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news134.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news134.html"/>
+        <updated>2022-12-22T04:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Blackmagic Designが、デスクトップ向け映像編集ツール「DaVinci Resolve」のiPad版「DaVinci Resolve for iPad」の配信を開始した。PC版と同じく無料で利用でき、上位機能が使える有料版も用意する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冬のテレワーク、ワークマンの「ポンチョ」を買ったら膝掛けがいらなくなった]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news133.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news133.html"/>
+        <updated>2022-12-22T04:03:00.000Z</updated>
+        <summary type="html"><![CDATA[そしてスナフキンみたいな姿に。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflixがパスワード共有の「タダ乗り」取り締まりへ本腰を入れる動き、2023年年明けから開始か]]></title>
         <id>https://gigazine.net/news/20221222-netflix-password-sharing/</id>
@@ -15,6 +86,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ネット若者語「GG」、どんな意味？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/22/news132.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/22/news132.html"/>
+        <updated>2022-12-22T03:44:00.000Z</updated>
+        <summary type="html"><![CDATA[世代を跨いだチャットコミュニケーションのヒントとして若者言葉をクイズ化。「GG」の意味は？]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

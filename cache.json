@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221222-allura-red-ac/",
+          "author": null,
+          "description": "清涼飲料水や駄菓子を赤色に着色するために多く用いられる合成着色料「赤色40号(アルラレッドAC)」は、長期に摂取すると腸疾患を誘発する可能性があるとマウスの実験で明らかになりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-allura-red-ac/",
+          "publishedOn": "2022-12-22T05:00:00.000Z",
+          "wordCount": 2436,
+          "title": "合成着色料「赤色40号(アルラレッドAC)」が大腸炎に関係しているという実験結果が発表される",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/allura-red-ac/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221222-netflix-password-sharing/",
           "author": null,
           "description": "1つのアカウントを共有して「タダ乗り」するユーザーへの対抗策を打ち出しているNetflixが、2023年初旬にパスワードの共有をできないようにして、タダ乗りしているユーザーに支払いを求めていく方針であることが明らかになりました。\n続きを読む...",
@@ -3383,6 +3393,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17069",
+          "author": null,
+          "description": "Linux Foundationは、「Open Metaverse Foundation（OMF）」の設立に向けた取り組みを開始したことを、12月15日（現地時間）に発表した。",
+          "link": "http://codezine.jp/article/detail/17069",
+          "publishedOn": "2022-12-22T04:10:00.000Z",
+          "wordCount": 4318,
+          "title": "Linux Foundation、すべての人にとって開かれたメタバースを目指す「Open Metaverse Foundation」設立に向けた取り組みを開始",
+          "imageUrl": "https://codezine.jp/static/images/article/17069/12505_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16797",
           "author": null,
           "description": "かつてソフトウェア開発は品質を担保するために、時間をかけてしっかりと作り込んでいた。そのため「品質とスピードはトレードオフ」という観念があった。しかし今ではアジャイル開発やDevOpsという言葉が盛んであるように、素早く新機能をリリースするようになってきている。そうしないと、ビジネスで取り残されてしまう。では品質を放棄するかというと、そうでもない。アシストの開発現場向けサポートソリューションに迫る。",
@@ -5086,6 +5106,66 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news142.html",
+          "author": null,
+          "description": "Twitterが企業公式アカウントに付与する「金バッジ」のデザインが一部変更された。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news142.html",
+          "publishedOn": "2022-12-22T04:49:00.000Z",
+          "wordCount": 2600,
+          "title": "Twitterの「金バッジ」、つやがでる　iOSとWebブラウザ版で確認",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news142.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news141.html",
+          "author": null,
+          "description": "雑貨などの企画開発を行うekoD Worksはスマートフォンのような質感を再現したアクリル板「AcryPhone」を開発したと発表した。スマホに近い握り心地でスマホケースなどを取り付けられるが、通話やネットはできない。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news141.html",
+          "publishedOn": "2022-12-22T04:35:00.000Z",
+          "wordCount": 2355,
+          "title": "スマホみたいな、ただのアクリル板「AcryPhone」登場　スマホ依存症解消に一役？　価格は3300円",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news141.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news140.html",
+          "author": null,
+          "description": "米KickStarterが、画像生成AI「Unstable Diffusion」の構築を目指すプロジェクトを停止した。KickStarter社は「われわれは作品とクリエイターの見方でなければならない」との立場を表明している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news140.html",
+          "publishedOn": "2022-12-22T04:30:00.000Z",
+          "wordCount": 2628,
+          "title": "アダルト可のAI「Unstable Diffusion」のクラファンが停止される　「健全性守るため」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news140.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news134.html",
+          "author": null,
+          "description": "Blackmagic Designが、デスクトップ向け映像編集ツール「DaVinci Resolve」のiPad版「DaVinci Resolve for iPad」の配信を開始した。PC版と同じく無料で利用でき、上位機能が使える有料版も用意する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news134.html",
+          "publishedOn": "2022-12-22T04:10:00.000Z",
+          "wordCount": 2665,
+          "title": "iPad版「DaVinci Resolve」配信スタート　無料で利用可、「A12 Bionic」でも一応動く",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news134.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news133.html",
+          "author": null,
+          "description": "そしてスナフキンみたいな姿に。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news133.html",
+          "publishedOn": "2022-12-22T04:03:00.000Z",
+          "wordCount": 2367,
+          "title": "冬のテレワーク、ワークマンの「ポンチョ」を買ったら膝掛けがいらなくなった",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news133.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news132.html",
+          "author": null,
+          "description": "世代を跨いだチャットコミュニケーションのヒントとして若者言葉をクイズ化。「GG」の意味は？",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news132.html",
+          "publishedOn": "2022-12-22T03:44:00.000Z",
+          "wordCount": 2601,
+          "title": "ネット若者語「GG」、どんな意味？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news132.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/22/news123.html",
           "author": null,

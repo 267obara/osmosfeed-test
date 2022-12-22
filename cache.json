@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221222-violation-tracker-offense-penalty/",
+          "author": null,
+          "description": "2000年以降にアメリカ連邦規制当局や司法省、地方の規制当局で解決された事件や訴訟によって、企業がどのくらい罰金を科せられているのかを検索できるデータベース「Violation Tracker」が、企業や政府の活動を監視し、公開する組織であるGood Jobs Firstによって公開されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221222-violation-tracker-offense-penalty/",
+          "publishedOn": "2022-12-22T11:00:00.000Z",
+          "wordCount": 2429,
+          "title": "どの企業がどれぐらい違反行為や犯罪を犯して罰金を支払っているのかを検索できる「Violation Tracker」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/22/violation-tracker-offense-penalty/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221222-brings-back-pay-phones-man/",
           "author": null,
           "description": "お金を入れた分だけ通話できる公衆電話はかつて街中や建物内の至る所にありましたが、携帯電話やスマートフォンの普及に伴って姿を消しつつあり、2022年5月にはニューヨーク市で最後の公衆電話が撤去されました。そんな公衆電話を自費で設置した上に無料で使えるようにした男性が、アメリカのペンシルベニア州フィラデルフィア市に現れました。\n続きを読む...",
@@ -5156,6 +5166,46 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news191.html",
+          "author": null,
+          "description": "京王電鉄は22日、AI忘れ物検索サービス「落とし物クラウドfind」を試験導入すると発表した。電車内の忘れ物についてLINEで問い合わせが行える。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news191.html",
+          "publishedOn": "2022-12-22T10:46:00.000Z",
+          "wordCount": 2592,
+          "title": "電車や駅の忘れもの、LINEで問い合わせ→AIが自動照合　京王電鉄が試験導入",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news191.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news190.html",
+          "author": null,
+          "description": "凸版印刷は国宝「鳥獣戯画」を題材にしたVRコンテンツを23年1月2日から東京国立博物館の「TNM & TOPPAN ミュージアムシアター」で上演する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news190.html",
+          "publishedOn": "2022-12-22T10:43:00.000Z",
+          "wordCount": 2357,
+          "title": "最古のまんが「鳥獣戯画」をVRで　凸版印刷、東京国立博物館で再上演",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news190.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news189.html",
+          "author": null,
+          "description": "個人情報保護委員会が厚生労働省に行政指導を行った。6月に発生した指定難病患者の個人情報流出について、業務委託先の監督不足、教育不足があったとしている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news189.html",
+          "publishedOn": "2022-12-22T10:30:00.000Z",
+          "wordCount": 2590,
+          "title": "個人情報保護委員会、厚労省に行政指導　監督・職員教育の甘さを指摘",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news189.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/22/news188.html",
+          "author": null,
+          "description": "10年の歴史を持つアニメ特化の配信サービス「dアニメストア」が値上げを実施する。Twitterでは多くのdアニメストアユーザーが値上げに驚いたものの、値上げに対する理解の声も多く投稿された。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/22/news188.html",
+          "publishedOn": "2022-12-22T10:00:00.000Z",
+          "wordCount": 2613,
+          "title": "「今までが安すぎた」　月550円に値上げの「dアニメストア」に理解の声集まる",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/22/cover_news188.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/22/news179.html",
           "author": null,

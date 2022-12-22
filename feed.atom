@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T20:13:58.338Z</updated>
+    <updated>2022-12-22T21:11:51.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マンガの著作権侵害・ポルノ・詐欺・偽情報のネットワークがGoogleからの広告費で収益を上げている実態が暴露される]]></title>
+        <id>https://gigazine.net/news/20221223-google-piracy-porn-fraud-ads-network/</id>
+        <link href="https://gigazine.net/news/20221223-google-piracy-porn-fraud-ads-network/"/>
+        <updated>2022-12-22T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[多種多様な広告ビジネスを展開するGoogleですが、Googleがサポートする広告の中には著作権を侵害するサイトに掲載されるものや、フィッシング詐欺やポルノサイトに掲載されるものがあります。不適切なサイトがGoogleからの広告費で収益を上げている実態について、世界的なFacebook広告詐欺を暴露した実績のあるクレイグ・シルバーマン氏らが解説しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitLab、Visual Studio CodeベースのWeb IDEをβ版として提供開始。ターミナルからリモート環境へアクセス可能に]]></title>
         <id>https://www.publickey1.jp/blog/22/gitlabvisual_studio_codeweb_ide.html</id>

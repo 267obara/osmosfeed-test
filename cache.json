@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-google-piracy-porn-fraud-ads-network/",
+          "author": null,
+          "description": "多種多様な広告ビジネスを展開するGoogleですが、Googleがサポートする広告の中には著作権を侵害するサイトに掲載されるものや、フィッシング詐欺やポルノサイトに掲載されるものがあります。不適切なサイトがGoogleからの広告費で収益を上げている実態について、世界的なFacebook広告詐欺を暴露した実績のあるクレイグ・シルバーマン氏らが解説しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-google-piracy-porn-fraud-ads-network/",
+          "publishedOn": "2022-12-22T21:00:00.000Z",
+          "wordCount": 2442,
+          "title": "マンガの著作権侵害・ポルノ・詐欺・偽情報のネットワークがGoogleからの広告費で収益を上げている実態が暴露される",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/google-piracy-porn-fraud-ads-network/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221222-stable-diffusion-create-design-inspiration/",
           "author": null,
           "description": "入力したテキストに則した画像を生成したり、ある画像から別の画像を生成したりすることができる画像生成AIの「Stable Diffusion」を使い、さまざまなインテリアデザインをAIに生成してもらうという試みをKaren X. ChengさんとJustin Alveyさんが行っています。\n続きを読む...",

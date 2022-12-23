@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T12:24:35.806Z</updated>
+    <updated>2022-12-23T13:18:21.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[レモンとヘーゼルナッツの上品な味わいの「ブラックサンダーひとくちサイズ 有名シェフが考えた極みの一粒」とココアクッキーの引き立つシンプルな「ブラックサンダーひとくちサイズ ユーラクが考えた極みの一粒」を食べ比べてみた]]></title>
+        <id>https://gigazine.net/news/20221223-black-thunder-chef-yuraku/</id>
+        <link href="https://gigazine.net/news/20221223-black-thunder-chef-yuraku/"/>
+        <updated>2022-12-23T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[有楽製菓の人気チョコレート菓子「ブラックサンダー」シリーズから、「至極のブラックサンダーはどっちだ？」と銘打った「ブラックサンダーひとくちサイズ 有名シェフが考えた極みの一粒」と「ブラックサンダーひとくちサイズ ユーラクが考えた極みの一粒」が2023年1月8日(日)から全国のセブン-イレブンで登場します。土屋公二シェフ考案のレモンとヘーゼルナッツを合わせた斬新な味わいと、有楽製菓考案の本家ならではのココアクッキーを引き立たせた味わいが比べられる一品とのことなので、実際に食べて比較してみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大雪でエアコンの室外機が埋まった　除雪のコツと注意点]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news194.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news194.html"/>
+        <updated>2022-12-23T12:35:00.000Z</updated>
+        <summary type="html"><![CDATA[今回のトピックは「大雪によるエアコンのトラブル」。日本各地に大雪警報が出たことを受け（23日19時時点）、空調大手のダイキン工業がトラブルを回避する方法を公開しています。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「サイバーパンク2077」のようなリアルタイム翻訳システムをWhisperやDeepLを駆使して実現した猛者が現る]]></title>
         <id>https://gigazine.net/news/20221223-elanmart-cbp-translate/</id>

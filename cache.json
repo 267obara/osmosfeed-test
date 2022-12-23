@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-black-thunder-chef-yuraku/",
+          "author": null,
+          "description": "有楽製菓の人気チョコレート菓子「ブラックサンダー」シリーズから、「至極のブラックサンダーはどっちだ？」と銘打った「ブラックサンダーひとくちサイズ 有名シェフが考えた極みの一粒」と「ブラックサンダーひとくちサイズ ユーラクが考えた極みの一粒」が2023年1月8日(日)から全国のセブン-イレブンで登場します。土屋公二シェフ考案のレモンとヘーゼルナッツを合わせた斬新な味わいと、有楽製菓考案の本家ならではのココアクッキーを引き立たせた味わいが比べられる一品とのことなので、実際に食べて比較してみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-black-thunder-chef-yuraku/",
+          "publishedOn": "2022-12-23T13:00:00.000Z",
+          "wordCount": 2504,
+          "title": "レモンとヘーゼルナッツの上品な味わいの「ブラックサンダーひとくちサイズ 有名シェフが考えた極みの一粒」とココアクッキーの引き立つシンプルな「ブラックサンダーひとくちサイズ ユーラクが考えた極みの一粒」を食べ比べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/black-thunder-chef-yuraku/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-elanmart-cbp-translate/",
           "author": null,
           "description": "「サイバーパンク2077」をプレイしたというエンジニアのマルチン・エランコウスキ氏が、同作で登場するリアルタイム翻訳システムのような「話者の上にリアルタイムで会話内容が表示され翻訳まで行ってくれる翻訳システム」の開発に取り組んでいます。\n続きを読む...",
@@ -5496,6 +5506,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news194.html",
+          "author": null,
+          "description": "今回のトピックは「大雪によるエアコンのトラブル」。日本各地に大雪警報が出たことを受け（23日19時時点）、空調大手のダイキン工業がトラブルを回避する方法を公開しています。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news194.html",
+          "publishedOn": "2022-12-23T12:35:00.000Z",
+          "wordCount": 2339,
+          "title": "大雪でエアコンの室外機が埋まった　除雪のコツと注意点",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news194.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/23/news182.html",
           "author": null,

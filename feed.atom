@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T14:11:42.309Z</updated>
+    <updated>2022-12-23T15:13:29.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PS5・ロボット掃除機・液タブなどが当たるGIGAZINE冬のプレゼント大放出企画「アンケートに答えて全部持っていってください！」]]></title>
+        <id>https://gigazine.net/news/20221224-present-winter-2022/</id>
+        <link href="https://gigazine.net/news/20221224-present-winter-2022/"/>
+        <updated>2022-12-23T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年ももうすぐ終わり。「年内最後のごほうびが欲しい！」「ちょっと豪華なクリスマスプレゼントを見てみたい！」という人にぜひ貢献したく、GIGAZINEは2022年夏から2022年冬にかけてレビューした数々の品や、編集部に眠っていたアイテムをプレゼントとして大放出します。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[透明な「ガラスガエル」は赤血球の約90％を肝臓に隠すことで透明になっている]]></title>
         <id>https://gigazine.net/news/20221223-glassfrog-vanishing/</id>

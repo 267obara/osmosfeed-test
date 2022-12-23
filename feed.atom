@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T04:16:06.111Z</updated>
+    <updated>2022-12-23T05:12:20.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TikTokは2000億円を費やし「TikTokは中国政府とは独立して運営された安全なアプリ」であることを認めるようアメリカ政府を説得している]]></title>
+        <id>https://gigazine.net/news/20221223-tiktok-efforts-clinch-us-security-deal/</id>
+        <link href="https://gigazine.net/news/20221223-tiktok-efforts-clinch-us-security-deal/"/>
+        <updated>2022-12-23T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ショート動画プラットフォームのTikTokは日本だけでなくアメリカでも絶大な人気を誇っていますが、アメリカ政府はTikTokに対する規制を強めています。TikTokはアメリカ政府側に対して「ユーザーデータをアメリカのサーバーに保管すること」や「データ保護とコンテンツモデレーションに関する決定を監督する部門の設立」などを提案しており、そのために多額の費用をかけていることが明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクによる「Twitterの重要決定に関する投票」は1万円で導入できる投票ボットでも操作可能]]></title>
+        <id>https://gigazine.net/news/20221223-twitter-poll-bot-manipulation/</id>
+        <link href="https://gigazine.net/news/20221223-twitter-poll-bot-manipulation/"/>
+        <updated>2022-12-23T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[TwitterのCEOであるイーロン・マスク氏はこれまでにTwitter上でトランプ元大統領のTwitterアカウントの復活や凍結アカウントの解除、CEOからの辞任の是非を問う投票を度々実施しています。一方でマスク氏が頻繁に行うTwitterでの投票は、ボットで容易に操作可能とされており、重要な決定をTwitterのアンケート機能に頼るのは危険だとも指摘されています。新たに、非営利のデジタル著作権保護団体「Accountable Tech」は2022年12月23日に「100ドル(約1万3000円)未満のボットサービスを導入することで、Twiiterでの投票に数万票を投じることができる」という検証結果を報告しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[甘くてとろみのあるスープがテリヤキ感満点のエースコック「スーパーカップ1.5倍 テリヤキパンチラーメン」＆揚げギョーザ入りの「ギョーザパンチラーメン」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221223-acecook-super-cup-teriyaki-punch-gyoza-punch/</id>
+        <link href="https://gigazine.net/news/20221223-acecook-super-cup-teriyaki-punch-gyoza-punch/"/>
+        <updated>2022-12-23T04:34:00.000Z</updated>
+        <summary type="html"><![CDATA[エースコックの「スーパーカップ1.5倍」シリーズが2023年に発売35周年を迎えるということで、新春気分を高めるパンチある新商品として「テリヤキパンチラーメン」と「ギョーザパンチラーメン」が2023年1月9日(月)に登場します。年越し前に食べる機会を得たので、パンチある品とはどんなものか、食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[画像生成AIで作られたマンガの著作権取り消し手続きをアメリカ著作権局が進めている、作者は弁護士と共に争う姿勢]]></title>
         <id>https://gigazine.net/news/20221223-ai-created-comic-ineligible-copyright/</id>

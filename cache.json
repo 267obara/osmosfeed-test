@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-tiktok-efforts-clinch-us-security-deal/",
+          "author": null,
+          "description": "ショート動画プラットフォームのTikTokは日本だけでなくアメリカでも絶大な人気を誇っていますが、アメリカ政府はTikTokに対する規制を強めています。TikTokはアメリカ政府側に対して「ユーザーデータをアメリカのサーバーに保管すること」や「データ保護とコンテンツモデレーションに関する決定を監督する部門の設立」などを提案しており、そのために多額の費用をかけていることが明らかになりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-tiktok-efforts-clinch-us-security-deal/",
+          "publishedOn": "2022-12-23T05:00:00.000Z",
+          "wordCount": 2491,
+          "title": "TikTokは2000億円を費やし「TikTokは中国政府とは独立して運営された安全なアプリ」であることを認めるようアメリカ政府を説得している",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/tiktok-efforts-clinch-us-security-deal/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221223-twitter-poll-bot-manipulation/",
+          "author": null,
+          "description": "TwitterのCEOであるイーロン・マスク氏はこれまでにTwitter上でトランプ元大統領のTwitterアカウントの復活や凍結アカウントの解除、CEOからの辞任の是非を問う投票を度々実施しています。一方でマスク氏が頻繁に行うTwitterでの投票は、ボットで容易に操作可能とされており、重要な決定をTwitterのアンケート機能に頼るのは危険だとも指摘されています。新たに、非営利のデジタル著作権保護団体「Accountable Tech」は2022年12月23日に「100ドル(約1万3000円)未満のボットサービスを導入することで、Twiiterでの投票に数万票を投じることができる」という検証結果を報告しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-twitter-poll-bot-manipulation/",
+          "publishedOn": "2022-12-23T04:40:00.000Z",
+          "wordCount": 2740,
+          "title": "イーロン・マスクによる「Twitterの重要決定に関する投票」は1万円で導入できる投票ボットでも操作可能",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/twitter-poll-bot-manipulation/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221223-acecook-super-cup-teriyaki-punch-gyoza-punch/",
+          "author": null,
+          "description": "エースコックの「スーパーカップ1.5倍」シリーズが2023年に発売35周年を迎えるということで、新春気分を高めるパンチある新商品として「テリヤキパンチラーメン」と「ギョーザパンチラーメン」が2023年1月9日(月)に登場します。年越し前に食べる機会を得たので、パンチある品とはどんなものか、食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-acecook-super-cup-teriyaki-punch-gyoza-punch/",
+          "publishedOn": "2022-12-23T04:34:00.000Z",
+          "wordCount": 2438,
+          "title": "甘くてとろみのあるスープがテリヤキ感満点のエースコック「スーパーカップ1.5倍 テリヤキパンチラーメン」＆揚げギョーザ入りの「ギョーザパンチラーメン」を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/acecook-super-cup-teriyaki-punch-gyoza-punch/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-ai-created-comic-ineligible-copyright/",
           "author": null,
           "description": "画像生成AIが大きな進歩を遂げる中で注目されているのが、「AIを使用して作られた作品に著作権が認められるのか」という点です。2022年9月には、画像生成AI「Midjourney」を使って作成したマンガがアメリカの著作権登録を取得したとして話題になりましたが、アメリカ合衆国著作権局がこの作品の著作権を取り消す手続きを進めていることが明らかになりました。\n続きを読む...",

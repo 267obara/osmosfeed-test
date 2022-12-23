@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T02:35:11.365Z</updated>
+    <updated>2022-12-23T03:14:36.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TikTokの親会社ByteDanceの社員がアメリカ人ジャーナリストのIPアドレスを調べて追跡しようとしていたことが判明]]></title>
+        <id>https://gigazine.net/news/20221223-tiktok-byte-dance-journalists-data-accessed/</id>
+        <link href="https://gigazine.net/news/20221223-tiktok-byte-dance-journalists-data-accessed/"/>
+        <updated>2022-12-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TikTokを運営するByteDanceの従業員が、アメリカ人ジャーナリスト2人とその関係者のデータに不正アクセスして、記者と接触して内部告発を行った自社の従業員を特定しようとしていたことが判明しました。この不正アクセスには、ByteDanceのCEO直属の部下が指揮していたチームのメンバーなど合計で4人が関与していました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterで「ツイートの表示回数」が表示されるように]]></title>
+        <id>https://gigazine.net/news/20221223-twitter-view-count/</id>
+        <link href="https://gigazine.net/news/20221223-twitter-view-count/"/>
+        <updated>2022-12-23T02:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterに「ツイートの表示回数を表示する機能」が追加されました。ツイートの表示回数は「リツイート」の左隣に表示され、フォローの有無やログインの有無にかかわらず誰でも閲覧可能です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「切腹を言い渡されました」──3DCG投稿者にピクシブからアカウント停止の事前連絡が届き始める]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news100.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news100.html"/>
+        <updated>2022-12-23T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[pixivFANBOXの一部ユーザーが「ピクシブから警告が来た」と報告し始めた。問題のある投稿があるためアカウントを停止するという内容で、主に3DCG作品を投稿しているユーザーが受け取っている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クレカ積立で「5％還元」　三井住友プラチナプリファードが還元強化]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/23/news098.html</id>
@@ -9123,26 +9155,6 @@
         <summary type="html"><![CDATA[ITmedia エグゼクティブは約6000人が参加する企業人のための会員制コミュニティーです。1月の勉強会は、何でも話してしまう心理カウンセラーのすごい聞く技術について、山根洋士さんに話していただきます。この機会にどうぞ入会ください。※条件：上場相当企業の課長職以上（入会無料）詳細はこちらから。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS、Docker Desktop代替となり得る「Finch」をオープンソースで公開。ローカルマシンに仮想環境とコンテナランタイム、ビルドツールなど一式を導入]]></title>
-        <id>https://www.publickey1.jp/blog/22/awsdocker_desktopfinch.html</id>
-        <link href="https://www.publickey1.jp/blog/22/awsdocker_desktopfinch.html"/>
-        <updated>2022-11-23T15:07:31.000Z</updated>
-        <summary type="html"><![CDATA[AWSは、ローカルマシン上にLinuxコンテナのランタイム、ビルドツール、コマンドラインツールなど一式を簡単にインストールし、コンテナを用いた開発環境を開始できるソフトウェア「Finch」をオープンソースで公開しました。 Today we ...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Desktop 4.14登場。コンテナごとのCPUやメモリ消費量のグラフ化、コンテナイメージの依存関係などをビジュアルに表示可能]]></title>
-        <id>https://www.publickey1.jp/blog/22/docker_desktop_414cpu.html</id>
-        <link href="https://www.publickey1.jp/blog/22/docker_desktop_414cpu.html"/>
-        <updated>2022-11-23T15:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Docker Desktop 4.14正式版がリリースされました。 Fam, #Gordon turns 11 today! In honor of our favorite grumpy tortoise, self-proclaimed...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>

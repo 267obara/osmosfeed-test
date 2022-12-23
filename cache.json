@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-tiktok-byte-dance-journalists-data-accessed/",
+          "author": null,
+          "description": "TikTokを運営するByteDanceの従業員が、アメリカ人ジャーナリスト2人とその関係者のデータに不正アクセスして、記者と接触して内部告発を行った自社の従業員を特定しようとしていたことが判明しました。この不正アクセスには、ByteDanceのCEO直属の部下が指揮していたチームのメンバーなど合計で4人が関与していました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-tiktok-byte-dance-journalists-data-accessed/",
+          "publishedOn": "2022-12-23T03:00:00.000Z",
+          "wordCount": 2554,
+          "title": "TikTokの親会社ByteDanceの社員がアメリカ人ジャーナリストのIPアドレスを調べて追跡しようとしていたことが判明",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/tiktok-byte-dance-journalists-data-accessed/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221223-twitter-view-count/",
+          "author": null,
+          "description": "Twitterに「ツイートの表示回数を表示する機能」が追加されました。ツイートの表示回数は「リツイート」の左隣に表示され、フォローの有無やログインの有無にかかわらず誰でも閲覧可能です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-twitter-view-count/",
+          "publishedOn": "2022-12-23T02:37:00.000Z",
+          "wordCount": 2499,
+          "title": "Twitterで「ツイートの表示回数」が表示されるように",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/twitter-view-count/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-lastpass-password-hacking/",
           "author": null,
           "description": "パスワード管理アプリ「LastPass」では、2022年8月の不正アクセスによってソースコードが盗まれて以降、ハッカーによる顧客データへの不正アクセスが発生しています。LastPassは2022年12月22日に不正アクセスによってユーザーの個人情報やパスワードなどのデータが漏えいしたことを発表しています。\n続きを読む...",
@@ -5318,26 +5338,6 @@
           "wordCount": 1287,
           "title": "Spring Framework 6.0正式リリース、5年ぶりのメジャーバージョンアップ。Java 17以降に対応、ネイティブバイナリ化支援機能など",
           "imageUrl": "https://www.publickey1.jp/2022/sprint6ga.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/awsdocker_desktopfinch.html",
-          "author": null,
-          "description": "AWSは、ローカルマシン上にLinuxコンテナのランタイム、ビルドツール、コマンドラインツールなど一式を簡単にインストールし、コンテナを用いた開発環境を開始できるソフトウェア「Finch」をオープンソースで公開しました。 Today we ...",
-          "link": "https://www.publickey1.jp/blog/22/awsdocker_desktopfinch.html",
-          "publishedOn": "2022-11-23T15:07:31.000Z",
-          "wordCount": 1494,
-          "title": "AWS、Docker Desktop代替となり得る「Finch」をオープンソースで公開。ローカルマシンに仮想環境とコンテナランタイム、ビルドツールなど一式を導入",
-          "imageUrl": "https://www.publickey1.jp/2022/finch_l01.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/docker_desktop_414cpu.html",
-          "author": null,
-          "description": "Docker Desktop 4.14正式版がリリースされました。 Fam, #Gordon turns 11 today! In honor of our favorite grumpy tortoise, self-proclaimed...",
-          "link": "https://www.publickey1.jp/blog/22/docker_desktop_414cpu.html",
-          "publishedOn": "2022-11-23T15:00:12.000Z",
-          "wordCount": 1290,
-          "title": "Docker Desktop 4.14登場。コンテナごとのCPUやメモリ消費量のグラフ化、コンテナイメージの依存関係などをビジュアルに表示可能",
-          "imageUrl": "https://www.publickey1.jp/2022/dd41401.png"
         }
       ]
     },
@@ -5346,6 +5346,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news100.html",
+          "author": null,
+          "description": "pixivFANBOXの一部ユーザーが「ピクシブから警告が来た」と報告し始めた。問題のある投稿があるためアカウントを停止するという内容で、主に3DCG作品を投稿しているユーザーが受け取っている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news100.html",
+          "publishedOn": "2022-12-23T02:30:00.000Z",
+          "wordCount": 2592,
+          "title": "「切腹を言い渡されました」──3DCG投稿者にピクシブからアカウント停止の事前連絡が届き始める",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news100.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/23/news098.html",
           "author": null,

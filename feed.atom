@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T11:11:12.835Z</updated>
+    <updated>2022-12-23T12:24:35.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「サイバーパンク2077」のようなリアルタイム翻訳システムをWhisperやDeepLを駆使して実現した猛者が現る]]></title>
+        <id>https://gigazine.net/news/20221223-elanmart-cbp-translate/</id>
+        <link href="https://gigazine.net/news/20221223-elanmart-cbp-translate/"/>
+        <updated>2022-12-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「サイバーパンク2077」をプレイしたというエンジニアのマルチン・エランコウスキ氏が、同作で登場するリアルタイム翻訳システムのような「話者の上にリアルタイムで会話内容が表示され翻訳まで行ってくれる翻訳システム」の開発に取り組んでいます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEMO、データ容量2倍に増量キャンペーン　既存ユーザーも対象]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news182.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news182.html"/>
+        <updated>2022-12-23T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクはオンライン専用スマホプラン「LINEMO」が顧客満足度調査で4冠を達成したことを記念した「ありがとうだモン♪キャンペーン」を実施する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超富裕層が生まれる理由と税金の必要性が一発で理解できるウェブページ]]></title>
         <id>https://gigazine.net/news/20221223-super-rich/</id>

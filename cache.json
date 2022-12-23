@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-elanmart-cbp-translate/",
+          "author": null,
+          "description": "「サイバーパンク2077」をプレイしたというエンジニアのマルチン・エランコウスキ氏が、同作で登場するリアルタイム翻訳システムのような「話者の上にリアルタイムで会話内容が表示され翻訳まで行ってくれる翻訳システム」の開発に取り組んでいます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-elanmart-cbp-translate/",
+          "publishedOn": "2022-12-23T12:00:00.000Z",
+          "wordCount": 2450,
+          "title": "「サイバーパンク2077」のようなリアルタイム翻訳システムをWhisperやDeepLを駆使して実現した猛者が現る",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/elanmart-cbp-translate/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-super-rich/",
           "author": null,
           "description": "世の中には「ギリギリの収入でなんとか生きている」という人もいれば、国家予算規模の資産を個人で所有する超富裕層も存在しています。そんな超富裕層が生まれる仕組みを一発で理解できるウェブページが公開されていたので、内容をまとめてみました。\n続きを読む...",
@@ -5486,6 +5496,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news182.html",
+          "author": null,
+          "description": "ソフトバンクはオンライン専用スマホプラン「LINEMO」が顧客満足度調査で4冠を達成したことを記念した「ありがとうだモン♪キャンペーン」を実施する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news182.html",
+          "publishedOn": "2022-12-23T11:30:00.000Z",
+          "wordCount": 2337,
+          "title": "LINEMO、データ容量2倍に増量キャンペーン　既存ユーザーも対象",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news182.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/23/news101.html",
           "author": null,

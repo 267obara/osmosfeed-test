@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-elon-musk-twitter-advertisers/",
+          "author": null,
+          "description": "Twitterはイーロン・マスクCEOの下で改革を断行し収益の改善に努めていますが、収益の約9割を占める広告費の復調が思わしくないと伝えられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-elon-musk-twitter-advertisers/",
+          "publishedOn": "2022-12-23T08:00:00.000Z",
+          "wordCount": 2538,
+          "title": "Twitterの広告主上位100社のうち70％が広告を出すのをやめている",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/elon-musk-twitter-advertisers/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-super-mosquito-against-pyrethroid/",
           "author": null,
           "description": "蚊は「人間の命を最も多く奪った生き物」といわれるように、さまざまな伝染病を媒介する虫として知られています。日本の国立感染研究所の研究チームが、ベトナムとカンボジアのデング熱流行地域で、一般的な殺虫剤に対する強い耐性を持つ突然変異が現地の蚊にみられると報告しています。\n続きを読む...",

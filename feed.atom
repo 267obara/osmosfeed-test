@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T07:12:13.092Z</updated>
+    <updated>2022-12-23T08:16:36.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterの広告主上位100社のうち70％が広告を出すのをやめている]]></title>
+        <id>https://gigazine.net/news/20221223-elon-musk-twitter-advertisers/</id>
+        <link href="https://gigazine.net/news/20221223-elon-musk-twitter-advertisers/"/>
+        <updated>2022-12-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterはイーロン・マスクCEOの下で改革を断行し収益の改善に努めていますが、収益の約9割を占める広告費の復調が思わしくないと伝えられています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[殺虫剤に強い耐性を持ちながら伝染病を媒介する「スーパー蚊」が生まれつつある]]></title>
         <id>https://gigazine.net/news/20221223-super-mosquito-against-pyrethroid/</id>

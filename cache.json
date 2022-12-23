@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-super-mosquito-against-pyrethroid/",
+          "author": null,
+          "description": "蚊は「人間の命を最も多く奪った生き物」といわれるように、さまざまな伝染病を媒介する虫として知られています。日本の国立感染研究所の研究チームが、ベトナムとカンボジアのデング熱流行地域で、一般的な殺虫剤に対する強い耐性を持つ突然変異が現地の蚊にみられると報告しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-super-mosquito-against-pyrethroid/",
+          "publishedOn": "2022-12-23T07:00:00.000Z",
+          "wordCount": 2437,
+          "title": "殺虫剤に強い耐性を持ちながら伝染病を媒介する「スーパー蚊」が生まれつつある",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/super-mosquito-against-pyrethroid/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-google-low-performance/",
           "author": null,
           "description": "Googleは2022年5月から「Googler Reviews And Development(GRAD)」と呼ばれる業務評価システムを導入しており、従業員の評価を年に1回実施しています。このGRADによって退職を迫られる従業員が増加する可能性が報じられていたのですが、新たにCNBCが「Googleの従業員がGRADによる評価を信頼していない実態」を明らかにしています。\n続きを読む...",
@@ -5426,6 +5436,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news149.html",
+          "author": null,
+          "description": "楽天ペイメントは、NEXCO中日本管内のサービスエリア（SA）、パーキングエリア（PA）にて、楽天ペイのコード払い利用額の10％を還元するキャンペーンを行う。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news149.html",
+          "publishedOn": "2022-12-23T06:35:00.000Z",
+          "wordCount": 2342,
+          "title": "楽天ペイ、高速のサービスエリアで10％還元　東名高速、中央道など",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news149.png"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news103.html",
+          "author": null,
+          "description": "最近のニュースを見ているとTwitterとイーロン・マスク氏の話題が多く、Twitterの本社ビルの映像や写真を毎日のように見かけます。ところであのTwitter本社ビルの1階に美味しいラーメン屋さんがあるのをご存じでしょうか？",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news103.html",
+          "publishedOn": "2022-12-23T06:30:00.000Z",
+          "wordCount": 2606,
+          "title": "Twitter本社にうまいラーメン屋があるって知ってる？　「洗面台を抱えたイーロン・マスク」見送った提灯の下で味玉を頬張る",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news103.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news144.html",
+          "author": null,
+          "description": "「PayPayでお年玉を送ろう」。PayPayは、お年玉をイメージした「ポチ袋」デザインを、12月28日から2023年1月5日かけて送金機能に用意する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news144.html",
+          "publishedOn": "2022-12-23T06:05:00.000Z",
+          "wordCount": 2603,
+          "title": "PayPay、お年玉に進出　「ポチ袋」が登場",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news144.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/23/news124.html",
           "author": null,

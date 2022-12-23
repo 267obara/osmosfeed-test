@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T06:17:14.827Z</updated>
+    <updated>2022-12-23T07:12:13.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[殺虫剤に強い耐性を持ちながら伝染病を媒介する「スーパー蚊」が生まれつつある]]></title>
+        <id>https://gigazine.net/news/20221223-super-mosquito-against-pyrethroid/</id>
+        <link href="https://gigazine.net/news/20221223-super-mosquito-against-pyrethroid/"/>
+        <updated>2022-12-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[蚊は「人間の命を最も多く奪った生き物」といわれるように、さまざまな伝染病を媒介する虫として知られています。日本の国立感染研究所の研究チームが、ベトナムとカンボジアのデング熱流行地域で、一般的な殺虫剤に対する強い耐性を持つ突然変異が現地の蚊にみられると報告しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楽天ペイ、高速のサービスエリアで10％還元　東名高速、中央道など]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news149.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news149.html"/>
+        <updated>2022-12-23T06:35:00.000Z</updated>
+        <summary type="html"><![CDATA[楽天ペイメントは、NEXCO中日本管内のサービスエリア（SA）、パーキングエリア（PA）にて、楽天ペイのコード払い利用額の10％を還元するキャンペーンを行う。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter本社にうまいラーメン屋があるって知ってる？　「洗面台を抱えたイーロン・マスク」見送った提灯の下で味玉を頬張る]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news103.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news103.html"/>
+        <updated>2022-12-23T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[最近のニュースを見ているとTwitterとイーロン・マスク氏の話題が多く、Twitterの本社ビルの映像や写真を毎日のように見かけます。ところであのTwitter本社ビルの1階に美味しいラーメン屋さんがあるのをご存じでしょうか？]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PayPay、お年玉に進出　「ポチ袋」が登場]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news144.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news144.html"/>
+        <updated>2022-12-23T06:05:00.000Z</updated>
+        <summary type="html"><![CDATA[「PayPayでお年玉を送ろう」。PayPayは、お年玉をイメージした「ポチ袋」デザインを、12月28日から2023年1月5日かけて送金機能に用意する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Googleの業務評価システムに対して従業員が解雇の不安を抱えていることが会議音声によって判明]]></title>
         <id>https://gigazine.net/news/20221223-google-low-performance/</id>

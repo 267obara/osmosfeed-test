@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T09:12:47.071Z</updated>
+    <updated>2022-12-23T10:14:20.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人間の膣内環境を再現した「ヴァギナ・チップ」が開発される、膣内細菌叢や病気の研究に大きな進展]]></title>
+        <id>https://gigazine.net/news/20221223-vagina-chip-microbiome-modeling/</id>
+        <link href="https://gigazine.net/news/20221223-vagina-chip-microbiome-modeling/"/>
+        <updated>2022-12-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近年では、人間の体内に生息する細菌が健康状態に影響を及ぼしていることが注目されており、女性の「膣(ちつ)」に生息する細菌叢(そう)もさまざまな健康状態に関わっています。そこでハーバード大学・ヴィース研究所のチームが、膣内の細胞環境を再現した「Vagina Chip(ヴァギナ・チップ／膣チップ)」を開発したと報告しました。これにより、膣内細菌叢についての研究がさらに進展することが期待されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保護猫のサブスク「ねこホーダイ」が物議　“面倒な審査やトライアルもない”サービス内容に批判相次ぐ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news181.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news181.html"/>
+        <updated>2022-12-23T09:33:00.000Z</updated>
+        <summary type="html"><![CDATA[野良猫に関する事業を手掛けるのら猫バンクが提供するサブスクリプションサービス「ねこホーダイ」が物議を醸している。Twitterでは、“面倒な審査やトライアルもない”という触れ込みなどからサービス内容を疑問視する声が上がっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年12月23日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221223-headline/</id>
+        <link href="https://gigazine.net/news/20221223-headline/"/>
+        <updated>2022-12-23T09:25:00.000Z</updated>
+        <summary type="html"><![CDATA[誕生10周年の「すみっコぐらし」の映画第3弾制作が決定しました。「すみっコぐらし」の映画は2019年に1作目、2021年に2作目が公開され、ともに観客動員100万人を突破するヒット作となっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skebで障害　「全システム・サーバを別のクラウドサービスに移行」で対応　24日までに復旧見込み]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/23/news177.html</id>

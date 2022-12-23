@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-vagina-chip-microbiome-modeling/",
+          "author": null,
+          "description": "近年では、人間の体内に生息する細菌が健康状態に影響を及ぼしていることが注目されており、女性の「膣(ちつ)」に生息する細菌叢(そう)もさまざまな健康状態に関わっています。そこでハーバード大学・ヴィース研究所のチームが、膣内の細胞環境を再現した「Vagina Chip(ヴァギナ・チップ／膣チップ)」を開発したと報告しました。これにより、膣内細菌叢についての研究がさらに進展することが期待されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-vagina-chip-microbiome-modeling/",
+          "publishedOn": "2022-12-23T10:00:00.000Z",
+          "wordCount": 2462,
+          "title": "人間の膣内環境を再現した「ヴァギナ・チップ」が開発される、膣内細菌叢や病気の研究に大きな進展",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/vagina-chip-microbiome-modeling/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221223-headline/",
+          "author": null,
+          "description": "誕生10周年の「すみっコぐらし」の映画第3弾制作が決定しました。「すみっコぐらし」の映画は2019年に1作目、2021年に2作目が公開され、ともに観客動員100万人を突破するヒット作となっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-headline/",
+          "publishedOn": "2022-12-23T09:25:00.000Z",
+          "wordCount": 7747,
+          "title": "2022年12月23日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-elon-musk-twitter-advertisers/",
           "author": null,
           "description": "Twitterはイーロン・マスクCEOの下で改革を断行し収益の改善に努めていますが、収益の約9割を占める広告費の復調が思わしくないと伝えられています。\n続きを読む...",
@@ -5456,6 +5476,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news181.html",
+          "author": null,
+          "description": "野良猫に関する事業を手掛けるのら猫バンクが提供するサブスクリプションサービス「ねこホーダイ」が物議を醸している。Twitterでは、“面倒な審査やトライアルもない”という触れ込みなどからサービス内容を疑問視する声が上がっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news181.html",
+          "publishedOn": "2022-12-23T09:33:00.000Z",
+          "wordCount": 2610,
+          "title": "保護猫のサブスク「ねこホーダイ」が物議　“面倒な審査やトライアルもない”サービス内容に批判相次ぐ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news181.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/23/news177.html",
           "author": null,

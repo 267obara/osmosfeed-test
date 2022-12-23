@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T22:12:24.836Z</updated>
+    <updated>2022-12-23T23:13:09.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスク氏自家用ジェット追跡Twitterアカウント、＠ElonJetNextDayとして再生]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/24/news045.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/24/news045.html"/>
+        <updated>2022-12-23T22:44:00.000Z</updated>
+        <summary type="html"><![CDATA[TwitterのマスクCEOの自家用ジェット位置情報をツイートして凍結されたbot「@ElonJet」が「@ElonJetNextDay」として再生した。ポリシー違反になる「個人がまだその場にいる可能性があるリアルタイムあるいは当日の情報」ではなく、前日の位置情報をツイートしている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta（旧Facebook）、CAスキャンダル集団訴訟を7億2500万ドル支払いで和解へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/24/news044.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/24/news044.html"/>
+        <updated>2022-12-23T22:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Facebookを運営するMetaは、2018年に発覚した「Cambridge Analyticaスキャンダル」をめぐる集団訴訟で和解する。7億2500万ドルの支払いに合意したことが仮和解承認通知で明らかになった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PS5・ロボット掃除機・液タブなどが当たるGIGAZINE冬のプレゼント大放出企画「アンケートに答えて全部持っていってください！」]]></title>
         <id>https://gigazine.net/news/20221224-present-winter-2022/</id>

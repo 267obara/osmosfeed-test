@@ -5527,6 +5527,26 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/24/news045.html",
+          "author": null,
+          "description": "TwitterのマスクCEOの自家用ジェット位置情報をツイートして凍結されたbot「@ElonJet」が「@ElonJetNextDay」として再生した。ポリシー違反になる「個人がまだその場にいる可能性があるリアルタイムあるいは当日の情報」ではなく、前日の位置情報をツイートしている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/24/news045.html",
+          "publishedOn": "2022-12-23T22:44:00.000Z",
+          "wordCount": 2598,
+          "title": "イーロン・マスク氏自家用ジェット追跡Twitterアカウント、＠ElonJetNextDayとして再生",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/24/cover_news045.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/24/news044.html",
+          "author": null,
+          "description": "Facebookを運営するMetaは、2018年に発覚した「Cambridge Analyticaスキャンダル」をめぐる集団訴訟で和解する。7億2500万ドルの支払いに合意したことが仮和解承認通知で明らかになった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/24/news044.html",
+          "publishedOn": "2022-12-23T22:03:00.000Z",
+          "wordCount": 2616,
+          "title": "Meta（旧Facebook）、CAスキャンダル集団訴訟を7億2500万ドル支払いで和解へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/24/cover_news044.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/23/news197.html",
           "author": null,
           "description": "Amazonプライムビデオは、映画「劇場版 呪術廻戦 0」を作中に登場する百鬼夜行の決行日と同じ12月24日から独占配信する。23日には午後11時15分からYouTubeでスペシャルイベント動画を配信。",

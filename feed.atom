@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T08:16:36.839Z</updated>
+    <updated>2022-12-23T09:12:47.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Skebで障害　「全システム・サーバを別のクラウドサービスに移行」で対応　24日までに復旧見込み]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news177.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news177.html"/>
+        <updated>2022-12-23T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[クリエイターに有償でイラストなどを発注できるサービス「Skeb」で障害が発生。ログインできない状態になっている。運営元は全システム・サーバを別のクラウドに移管して対応する方針。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterの広告主上位100社のうち70％が広告を出すのをやめている]]></title>
         <id>https://gigazine.net/news/20221223-elon-musk-twitter-advertisers/</id>
@@ -15,6 +25,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[経産省とIPA、DXを推進する人材の役割や習得すべきスキルを定義した「デジタルスキル標準（DSS）」ver.1.0の取りまとめを実施]]></title>
+        <id>http://codezine.jp/article/detail/17093</id>
+        <link href="http://codezine.jp/article/detail/17093"/>
+        <updated>2022-12-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[経済産業省と情報処理推進機構（IPA）は、企業・組織のDX推進を人材のスキル面から支援すべく、DXを推進する人材の役割や習得すべきスキルを定義した「DX推進スキル標準（DSS-P）」を新たに策定し、3月に公開した「DXリテラシー標準（DSS-L）」と合せて、個人の学習や企業の人材育成・採用の指針である「デジタルスキル標準（DSS）」ver.1.0として、12月21日に取りまとめた。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINEMO、顧客満足度調査で4冠　各社調査でahamoとpovo上回る]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news158.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news158.html"/>
+        <updated>2022-12-23T07:16:00.000Z</updated>
+        <summary type="html"><![CDATA[ソフトバンクの「LINEMO」が、オンライン専用プランにおいて、各社の顧客満足度調査でそれぞれ1位を獲得した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

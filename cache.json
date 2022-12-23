@@ -3663,6 +3663,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17093",
+          "author": null,
+          "description": "経済産業省と情報処理推進機構（IPA）は、企業・組織のDX推進を人材のスキル面から支援すべく、DXを推進する人材の役割や習得すべきスキルを定義した「DX推進スキル標準（DSS-P）」を新たに策定し、3月に公開した「DXリテラシー標準（DSS-L）」と合せて、個人の学習や企業の人材育成・採用の指針である「デジタルスキル標準（DSS）」ver.1.0として、12月21日に取りまとめた。",
+          "link": "http://codezine.jp/article/detail/17093",
+          "publishedOn": "2022-12-23T08:00:00.000Z",
+          "wordCount": 4332,
+          "title": "経産省とIPA、DXを推進する人材の役割や習得すべきスキルを定義した「デジタルスキル標準（DSS）」ver.1.0の取りまとめを実施",
+          "imageUrl": "https://codezine.jp/static/images/article/17093/17093_og.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16879",
           "author": null,
           "description": "ITによる経営・現場の課題解決において、重要な役割を果たすITコンサルタント。ITエンジニアのキャリアパスとして注目されるポジションの１つだが、どのようなスキルや技能などが求められるのか。また、どのような経験が得られるのか。エンジニアにおけるスペシャリスト集団を掲げるModis株式会社での人材育成について、人事本部の倉田 麻理子氏が紹介。また、開発エンジニアからITコンサルタントへ転身した経歴をもつ惠 英里奈氏が、プロジェクトなどでの経験をもとに語った。",
@@ -5446,6 +5456,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news177.html",
+          "author": null,
+          "description": "クリエイターに有償でイラストなどを発注できるサービス「Skeb」で障害が発生。ログインできない状態になっている。運営元は全システム・サーバを別のクラウドに移管して対応する方針。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news177.html",
+          "publishedOn": "2022-12-23T08:45:00.000Z",
+          "wordCount": 2597,
+          "title": "Skebで障害　「全システム・サーバを別のクラウドサービスに移行」で対応　24日までに復旧見込み",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news177.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news158.html",
+          "author": null,
+          "description": "ソフトバンクの「LINEMO」が、オンライン専用プランにおいて、各社の顧客満足度調査でそれぞれ1位を獲得した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news158.html",
+          "publishedOn": "2022-12-23T07:16:00.000Z",
+          "wordCount": 2601,
+          "title": "LINEMO、顧客満足度調査で4冠　各社調査でahamoとpovo上回る",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news158.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/23/news149.html",
           "author": null,

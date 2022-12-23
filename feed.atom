@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T13:18:21.344Z</updated>
+    <updated>2022-12-23T14:11:42.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[透明な「ガラスガエル」は赤血球の約90％を肝臓に隠すことで透明になっている]]></title>
+        <id>https://gigazine.net/news/20221223-glassfrog-vanishing/</id>
+        <link href="https://gigazine.net/news/20221223-glassfrog-vanishing/"/>
+        <updated>2022-12-23T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[生き物が自らの姿を捕食者の目から隠すカモフラージュにはいろいろな方法があります。中南米のジャングルに生息する「ガラスガエル」は、筋肉や皮膚の透明度が高く、透明に近づくことで隠れるのですが、そのために体内を循環している赤血球を肝臓に隠すという方法を採っていることが研究でわかりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「劇場版 呪術廻戦 0」、アマプラで24日から独占配信]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news197.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news197.html"/>
+        <updated>2022-12-23T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazonプライムビデオは、映画「劇場版 呪術廻戦 0」を作中に登場する百鬼夜行の決行日と同じ12月24日から独占配信する。23日には午後11時15分からYouTubeでスペシャルイベント動画を配信。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[レモンとヘーゼルナッツの上品な味わいの「ブラックサンダーひとくちサイズ 有名シェフが考えた極みの一粒」とココアクッキーの引き立つシンプルな「ブラックサンダーひとくちサイズ ユーラクが考えた極みの一粒」を食べ比べてみた]]></title>
         <id>https://gigazine.net/news/20221223-black-thunder-chef-yuraku/</id>
@@ -9427,16 +9448,6 @@
         <id>https://www.itmedia.co.jp/news/articles/2211/25/news004.html</id>
         <link href="https://www.itmedia.co.jp/news/articles/2211/25/news004.html"/>
         <updated>2022-11-25T01:00:00.000Z</updated>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PR: 企業人のための「ITmedia エグゼクティブ」入会のご案内]]></title>
-        <id>https://mag.executive.itmedia.co.jp/executive/articles/2211/02/news086.html</id>
-        <link href="https://mag.executive.itmedia.co.jp/executive/articles/2211/02/news086.html"/>
-        <updated>2022-11-24T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ITmedia エグゼクティブは約6000人が参加する企業人のための会員制コミュニティーです。1月の勉強会は、何でも話してしまう心理カウンセラーのすごい聞く技術について、山根洋士さんに話していただきます。この機会にどうぞ入会ください。※条件：上場相当企業の課長職以上（入会無料）詳細はこちらから。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

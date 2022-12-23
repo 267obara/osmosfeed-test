@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-glassfrog-vanishing/",
+          "author": null,
+          "description": "生き物が自らの姿を捕食者の目から隠すカモフラージュにはいろいろな方法があります。中南米のジャングルに生息する「ガラスガエル」は、筋肉や皮膚の透明度が高く、透明に近づくことで隠れるのですが、そのために体内を循環している赤血球を肝臓に隠すという方法を採っていることが研究でわかりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-glassfrog-vanishing/",
+          "publishedOn": "2022-12-23T14:00:00.000Z",
+          "wordCount": 2455,
+          "title": "透明な「ガラスガエル」は赤血球の約90％を肝臓に隠すことで透明になっている",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/glassfrog-vanishing/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-black-thunder-chef-yuraku/",
           "author": null,
           "description": "有楽製菓の人気チョコレート菓子「ブラックサンダー」シリーズから、「至極のブラックサンダーはどっちだ？」と銘打った「ブラックサンダーひとくちサイズ 有名シェフが考えた極みの一粒」と「ブラックサンダーひとくちサイズ ユーラクが考えた極みの一粒」が2023年1月8日(日)から全国のセブン-イレブンで登場します。土屋公二シェフ考案のレモンとヘーゼルナッツを合わせた斬新な味わいと、有楽製菓考案の本家ならではのココアクッキーを引き立たせた味わいが比べられる一品とのことなので、実際に食べて比較してみました。\n続きを読む...",
@@ -5507,6 +5517,16 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news197.html",
+          "author": null,
+          "description": "Amazonプライムビデオは、映画「劇場版 呪術廻戦 0」を作中に登場する百鬼夜行の決行日と同じ12月24日から独占配信する。23日には午後11時15分からYouTubeでスペシャルイベント動画を配信。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news197.html",
+          "publishedOn": "2022-12-23T13:35:00.000Z",
+          "wordCount": 2365,
+          "title": "「劇場版 呪術廻戦 0」、アマプラで24日から独占配信",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news197.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/23/news194.html",
           "author": null,
           "description": "今回のトピックは「大雪によるエアコンのトラブル」。日本各地に大雪警報が出たことを受け（23日19時時点）、空調大手のダイキン工業がトラブルを回避する方法を公開しています。",
@@ -9085,16 +9105,6 @@
           "wordCount": 1872,
           "title": "PR: ハイブリッド／マルチクラウドのネットワークの状態が一目で分かる　運用管理を効率化するサービスの実力は",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2211/25/l_hy_nc_03.jpg"
-        },
-        {
-          "id": "https://mag.executive.itmedia.co.jp/executive/articles/2211/02/news086.html",
-          "author": null,
-          "description": "ITmedia エグゼクティブは約6000人が参加する企業人のための会員制コミュニティーです。1月の勉強会は、何でも話してしまう心理カウンセラーのすごい聞く技術について、山根洋士さんに話していただきます。この機会にどうぞ入会ください。※条件：上場相当企業の課長職以上（入会無料）詳細はこちらから。",
-          "link": "https://mag.executive.itmedia.co.jp/executive/articles/2211/02/news086.html",
-          "publishedOn": "2022-11-24T02:00:00.000Z",
-          "wordCount": 2342,
-          "title": "PR: 企業人のための「ITmedia エグゼクティブ」入会のご案内",
-          "imageUrl": "https://image.itmedia.co.jp/executive/articles/2211/02/yf_nyuukaibotan3902.jpg"
         }
       ]
     }

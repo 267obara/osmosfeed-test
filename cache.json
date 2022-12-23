@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-super-rich/",
+          "author": null,
+          "description": "世の中には「ギリギリの収入でなんとか生きている」という人もいれば、国家予算規模の資産を個人で所有する超富裕層も存在しています。そんな超富裕層が生まれる仕組みを一発で理解できるウェブページが公開されていたので、内容をまとめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-super-rich/",
+          "publishedOn": "2022-12-23T11:00:00.000Z",
+          "wordCount": 2416,
+          "title": "超富裕層が生まれる理由と税金の必要性が一発で理解できるウェブページ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/super-rich/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-vagina-chip-microbiome-modeling/",
           "author": null,
           "description": "近年では、人間の体内に生息する細菌が健康状態に影響を及ぼしていることが注目されており、女性の「膣(ちつ)」に生息する細菌叢(そう)もさまざまな健康状態に関わっています。そこでハーバード大学・ヴィース研究所のチームが、膣内の細胞環境を再現した「Vagina Chip(ヴァギナ・チップ／膣チップ)」を開発したと報告しました。これにより、膣内細菌叢についての研究がさらに進展することが期待されています。\n続きを読む...",
@@ -5476,6 +5486,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news101.html",
+          "author": null,
+          "description": "Googleが毎年公開しているサンタ追跡サイト「サンタトラッカー」がある。実はAIやプログラミングを学べるコンテンツもあり、興味深い。実際に遊んでみた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news101.html",
+          "publishedOn": "2022-12-23T09:55:00.000Z",
+          "wordCount": 2640,
+          "title": "サンタはセキュリティ意識低い？　手紙はAIが代読？　Google「サンタ追跡サイト」のユニークなゲームを遊んでみた！",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news101.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/23/news181.html",
           "author": null,

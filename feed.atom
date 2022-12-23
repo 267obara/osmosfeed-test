@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T10:14:20.757Z</updated>
+    <updated>2022-12-23T11:11:12.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[超富裕層が生まれる理由と税金の必要性が一発で理解できるウェブページ]]></title>
+        <id>https://gigazine.net/news/20221223-super-rich/</id>
+        <link href="https://gigazine.net/news/20221223-super-rich/"/>
+        <updated>2022-12-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[世の中には「ギリギリの収入でなんとか生きている」という人もいれば、国家予算規模の資産を個人で所有する超富裕層も存在しています。そんな超富裕層が生まれる仕組みを一発で理解できるウェブページが公開されていたので、内容をまとめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人間の膣内環境を再現した「ヴァギナ・チップ」が開発される、膣内細菌叢や病気の研究に大きな進展]]></title>
         <id>https://gigazine.net/news/20221223-vagina-chip-microbiome-modeling/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サンタはセキュリティ意識低い？　手紙はAIが代読？　Google「サンタ追跡サイト」のユニークなゲームを遊んでみた！]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news101.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news101.html"/>
+        <updated>2022-12-23T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleが毎年公開しているサンタ追跡サイト「サンタトラッカー」がある。実はAIやプログラミングを学べるコンテンツもあり、興味深い。実際に遊んでみた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

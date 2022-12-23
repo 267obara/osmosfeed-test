@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T05:12:20.957Z</updated>
+    <updated>2022-12-23T06:17:14.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Googleの業務評価システムに対して従業員が解雇の不安を抱えていることが会議音声によって判明]]></title>
+        <id>https://gigazine.net/news/20221223-google-low-performance/</id>
+        <link href="https://gigazine.net/news/20221223-google-low-performance/"/>
+        <updated>2022-12-23T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleは2022年5月から「Googler Reviews And Development(GRAD)」と呼ばれる業務評価システムを導入しており、従業員の評価を年に1回実施しています。このGRADによって退職を迫られる従業員が増加する可能性が報じられていたのですが、新たにCNBCが「Googleの従業員がGRADによる評価を信頼していない実態」を明らかにしています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTokは2000億円を費やし「TikTokは中国政府とは独立して運営された安全なアプリ」であることを認めるようアメリカ政府を説得している]]></title>
         <id>https://gigazine.net/news/20221223-tiktok-efforts-clinch-us-security-deal/</id>

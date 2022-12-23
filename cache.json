@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-google-low-performance/",
+          "author": null,
+          "description": "Googleは2022年5月から「Googler Reviews And Development(GRAD)」と呼ばれる業務評価システムを導入しており、従業員の評価を年に1回実施しています。このGRADによって退職を迫られる従業員が増加する可能性が報じられていたのですが、新たにCNBCが「Googleの従業員がGRADによる評価を信頼していない実態」を明らかにしています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-google-low-performance/",
+          "publishedOn": "2022-12-23T06:00:00.000Z",
+          "wordCount": 2450,
+          "title": "Googleの業務評価システムに対して従業員が解雇の不安を抱えていることが会議音声によって判明",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/google-low-performance/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-tiktok-efforts-clinch-us-security-deal/",
           "author": null,
           "description": "ショート動画プラットフォームのTikTokは日本だけでなくアメリカでも絶大な人気を誇っていますが、アメリカ政府はTikTokに対する規制を強めています。TikTokはアメリカ政府側に対して「ユーザーデータをアメリカのサーバーに保管すること」や「データ保護とコンテンツモデレーションに関する決定を監督する部門の設立」などを提案しており、そのために多額の費用をかけていることが明らかになりました。\n続きを読む...",

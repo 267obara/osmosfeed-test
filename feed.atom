@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T03:14:36.595Z</updated>
+    <updated>2022-12-23T04:16:06.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[画像生成AIで作られたマンガの著作権取り消し手続きをアメリカ著作権局が進めている、作者は弁護士と共に争う姿勢]]></title>
+        <id>https://gigazine.net/news/20221223-ai-created-comic-ineligible-copyright/</id>
+        <link href="https://gigazine.net/news/20221223-ai-created-comic-ineligible-copyright/"/>
+        <updated>2022-12-23T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[画像生成AIが大きな進歩を遂げる中で注目されているのが、「AIを使用して作られた作品に著作権が認められるのか」という点です。2022年9月には、画像生成AI「Midjourney」を使って作成したマンガがアメリカの著作権登録を取得したとして話題になりましたが、アメリカ合衆国著作権局がこの作品の著作権を取り消す手続きを進めていることが明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「承認欲求モンスターになってしまう」　Twitterの閲覧数表示でユーザー波乱　広告・宣伝に影響も？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news124.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news124.html"/>
+        <updated>2022-12-23T03:36:00.000Z</updated>
+        <summary type="html"><![CDATA[米Twitterが、投稿が見られた回数を表示する「View Count」機能を実装。日本のユーザーの反応はさまざまだ。「承認欲求モンスターが生まれてしまう」「広告価値が丸裸に」などの声が出ている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[動画内の顔やオブジェクトを自動検出してぼかしを施せる「Magritte」をGoogleがオープンソース化してGithubで公開]]></title>
+        <id>https://gigazine.net/news/20221223-google-magritte/</id>
+        <link href="https://gigazine.net/news/20221223-google-magritte/"/>
+        <updated>2022-12-23T03:35:00.000Z</updated>
+        <summary type="html"><![CDATA[写真や動画から顔やナンバープレートなどのオブジェクトを検出してぼかしを適用できるライブラリ「Magritte」をGoogleがオープンソースで公開しました。単純なぼかしよりも高いレベルの難読化を施せるもので、被写体のプライバシー保護強化に役立つとされています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPTのリリースでGoogleは「コードレッド」を宣言、AIチャットボットが検索ビジネスにもたらす脅威に対応するためにチームを再割り当て]]></title>
+        <id>https://gigazine.net/news/20221223-google-code-red-against-chatgpt/</id>
+        <link href="https://gigazine.net/news/20221223-google-code-red-against-chatgpt/"/>
+        <updated>2022-12-23T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[AI開発団体のOpenAIが発表した「ChatGPT」は、自然言語処理モデルの「GPT-3」の進化系である「GPT-3.5」がベースになっており、質問文を打ち込むと人間が書いた文章と見分けが付かないほどに高精度の文章で回答してくれます。そんなChatGPTの登場に、ユーザー数世界最大を誇る検索エンジンを持つGoogleの経営陣が事業に対する深刻な脅威への警戒を示して「コード・レッド」を宣言したと報じられています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「もしTwitterが終了したらどうする？」　mixi、ジオシティーズも思い出しながら語る記者たち]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news116.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news116.html"/>
+        <updated>2022-12-23T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[テクノロジー関連のあれやこれやについて、ITmedia NEWS編集部のメンバーが、あーでもない、こーでもないとよもやま話を繰り広げる「記者トーーク！」。第3回のテーマは「Twitterがもしサービス終了したらどうなる？　どうする？」です。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TikTokの親会社ByteDanceの社員がアメリカ人ジャーナリストのIPアドレスを調べて追跡しようとしていたことが判明]]></title>
         <id>https://gigazine.net/news/20221223-tiktok-byte-dance-journalists-data-accessed/</id>
@@ -15,6 +68,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上流工程を目指すなら、小さな改善から始めよう　エンジニアからITコンサルタントになるための3つのスキル]]></title>
+        <id>http://codezine.jp/article/detail/16879</id>
+        <link href="http://codezine.jp/article/detail/16879"/>
+        <updated>2022-12-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ITによる経営・現場の課題解決において、重要な役割を果たすITコンサルタント。ITエンジニアのキャリアパスとして注目されるポジションの１つだが、どのようなスキルや技能などが求められるのか。また、どのような経験が得られるのか。エンジニアにおけるスペシャリスト集団を掲げるModis株式会社での人材育成について、人事本部の倉田 麻理子氏が紹介。また、開発エンジニアからITコンサルタントへ転身した経歴をもつ惠 英里奈氏が、プロジェクトなどでの経験をもとに語った。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

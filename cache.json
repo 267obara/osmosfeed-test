@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-ai-created-comic-ineligible-copyright/",
+          "author": null,
+          "description": "画像生成AIが大きな進歩を遂げる中で注目されているのが、「AIを使用して作られた作品に著作権が認められるのか」という点です。2022年9月には、画像生成AI「Midjourney」を使って作成したマンガがアメリカの著作権登録を取得したとして話題になりましたが、アメリカ合衆国著作権局がこの作品の著作権を取り消す手続きを進めていることが明らかになりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-ai-created-comic-ineligible-copyright/",
+          "publishedOn": "2022-12-23T04:00:00.000Z",
+          "wordCount": 2630,
+          "title": "画像生成AIで作られたマンガの著作権取り消し手続きをアメリカ著作権局が進めている、作者は弁護士と共に争う姿勢",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/ai-created-comic-ineligible-copyright/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221223-google-magritte/",
+          "author": null,
+          "description": "写真や動画から顔やナンバープレートなどのオブジェクトを検出してぼかしを適用できるライブラリ「Magritte」をGoogleがオープンソースで公開しました。単純なぼかしよりも高いレベルの難読化を施せるもので、被写体のプライバシー保護強化に役立つとされています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-google-magritte/",
+          "publishedOn": "2022-12-23T03:35:00.000Z",
+          "wordCount": 2458,
+          "title": "動画内の顔やオブジェクトを自動検出してぼかしを施せる「Magritte」をGoogleがオープンソース化してGithubで公開",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/google-magritte/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221223-google-code-red-against-chatgpt/",
+          "author": null,
+          "description": "AI開発団体のOpenAIが発表した「ChatGPT」は、自然言語処理モデルの「GPT-3」の進化系である「GPT-3.5」がベースになっており、質問文を打ち込むと人間が書いた文章と見分けが付かないほどに高精度の文章で回答してくれます。そんなChatGPTの登場に、ユーザー数世界最大を誇る検索エンジンを持つGoogleの経営陣が事業に対する深刻な脅威への警戒を示して「コード・レッド」を宣言したと報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-google-code-red-against-chatgpt/",
+          "publishedOn": "2022-12-23T03:30:00.000Z",
+          "wordCount": 2466,
+          "title": "ChatGPTのリリースでGoogleは「コードレッド」を宣言、AIチャットボットが検索ビジネスにもたらす脅威に対応するためにチームを再割り当て",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/google-code-red-against-chatgpt/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-tiktok-byte-dance-journalists-data-accessed/",
           "author": null,
           "description": "TikTokを運営するByteDanceの従業員が、アメリカ人ジャーナリスト2人とその関係者のデータに不正アクセスして、記者と接触して内部告発を行った自社の従業員を特定しようとしていたことが判明しました。この不正アクセスには、ByteDanceのCEO直属の部下が指揮していたチームのメンバーなど合計で4人が関与していました。\n続きを読む...",
@@ -3573,6 +3603,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16879",
+          "author": null,
+          "description": "ITによる経営・現場の課題解決において、重要な役割を果たすITコンサルタント。ITエンジニアのキャリアパスとして注目されるポジションの１つだが、どのようなスキルや技能などが求められるのか。また、どのような経験が得られるのか。エンジニアにおけるスペシャリスト集団を掲げるModis株式会社での人材育成について、人事本部の倉田 麻理子氏が紹介。また、開発エンジニアからITコンサルタントへ転身した経歴をもつ惠 英里奈氏が、プロジェクトなどでの経験をもとに語った。",
+          "link": "http://codezine.jp/article/detail/16879",
+          "publishedOn": "2022-12-23T03:00:00.000Z",
+          "wordCount": 4359,
+          "title": "上流工程を目指すなら、小さな改善から始めよう　エンジニアからITコンサルタントになるための3つのスキル",
+          "imageUrl": "https://codezine.jp/static/images/article/16879/16879_og.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17077",
           "author": null,
           "description": "とある鉄道会社の社内SEの悲哀を描く技術系コメディ！ 姫路と京都を結ぶ京姫鉄道株式会社。広報部システム課に配属された祝園アカネは、今日もトラブルにてんてこまい！ 小説版『こうしす！社内SE祝園アカネの情報セキュリティ事件簿』の期間限定Kindle Unlimited配信を記念して、マンガ版「こうしす！」の傑作選をお届けします。情報処理安全確保支援士 祝園アカネの解説付き。",
@@ -5346,6 +5386,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news124.html",
+          "author": null,
+          "description": "米Twitterが、投稿が見られた回数を表示する「View Count」機能を実装。日本のユーザーの反応はさまざまだ。「承認欲求モンスターが生まれてしまう」「広告価値が丸裸に」などの声が出ている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news124.html",
+          "publishedOn": "2022-12-23T03:36:00.000Z",
+          "wordCount": 2623,
+          "title": "「承認欲求モンスターになってしまう」　Twitterの閲覧数表示でユーザー波乱　広告・宣伝に影響も？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news124.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news116.html",
+          "author": null,
+          "description": "テクノロジー関連のあれやこれやについて、ITmedia NEWS編集部のメンバーが、あーでもない、こーでもないとよもやま話を繰り広げる「記者トーーク！」。第3回のテーマは「Twitterがもしサービス終了したらどうなる？　どうする？」です。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news116.html",
+          "publishedOn": "2022-12-23T03:30:00.000Z",
+          "wordCount": 2613,
+          "title": "「もしTwitterが終了したらどうする？」　mixi、ジオシティーズも思い出しながら語る記者たち",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news116.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/23/news100.html",
           "author": null,

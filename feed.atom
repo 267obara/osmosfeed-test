@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-22T23:14:49.587Z</updated>
+    <updated>2022-12-23T01:04:33.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[充電5分で3時間通話できマイク・ヘッドホンともノイズ除去が強力なワイヤレスヘッドセット「Anker PowerConf H700」]]></title>
+        <id>https://gigazine.net/news/20221223-anker-powerconf-h700/</id>
+        <link href="https://gigazine.net/news/20221223-anker-powerconf-h700/"/>
+        <updated>2022-12-23T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[リモートワークやリモート会議をする機会が多いと、「使いやすいマイクが欲しい」「作業に集中するためにいい感じのイヤホンやヘッドホンが欲しい」と思うことがあります。スマートフォン関連機器を主に開発・販売しているAnkerが、その両方の需要を1台で満たしてくれそうな初のワイヤレスヘッドセット「PowerConf H700」を出していたので、実際に使ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[スマートホームの室温調節器を各世代ごとにCTスキャンしてみた結果とは？]]></title>
+        <id>https://gigazine.net/news/20221223-google-nest-thermostat-evolution/</id>
+        <link href="https://gigazine.net/news/20221223-google-nest-thermostat-evolution/"/>
+        <updated>2022-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2011年にGoogleから発売されたスマートホーム製品「Nest サーモスタット」は家庭内の空調設備と連動することで自動的に室温の調整を行うことができる、主にアメリカで販売されているデバイスです。2011年の発売以来、これまでに3世代のNest サーモスタットが発売されており、これらの製品についてCTスキャンした結果を、さまざまな製品をCTスキャンして分析しているlumafieldがNest創設者のトニー・ファデル氏と共に解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローカルに独立した環境を構築可能な「Devbox 0.2.0」がリリース]]></title>
+        <id>http://codezine.jp/article/detail/17089</id>
+        <link href="http://codezine.jp/article/detail/17089"/>
+        <updated>2022-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jetpack Technologiesは、ローカル環境において独立したシェル環境を構築できるDevboxの最新バージョンとなる、「Devbox 0.2.0」を12月20日（現地時間）にリリースした。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三菱UFJ、AIを活用したスタートアップ向け融資モデル“逆輸入”へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news089.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news089.html"/>
+        <updated>2022-12-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[三菱UFJフィナンシャル・グループの亀沢宏規社長が、AIを活用したスタートアップ向け融資サービスについて、2023年度中をめどに国内で展開する計画を明らかにした。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab、「Web IDE」ベータ版を「GitLab 15.7」に搭載。デフォルトでは無効]]></title>
+        <id>http://codezine.jp/article/detail/17088</id>
+        <link href="http://codezine.jp/article/detail/17088"/>
+        <updated>2022-12-22T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米GitLabは、同社が開発するGitリポジトリマネージャ「GitLab 15.7」に、Web統合開発環境である「Web IDE」ベータ版を、vscode_web_ideとして導入している。デフォルトでは無効になっており、使用には管理者による有効化が必要となる。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「エンジニア雇いたい」→「ゲーム実況しようぜ」　“どうしてそうなった”なSmartHRの採用活動、成果は？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/23/news052.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/23/news052.html"/>
+        <updated>2022-12-22T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ITエンジニアの採用に向け、なぜかゲーム実況に取り組むSmartHR。“どうしてそうなった”な採用活動の詳細を人事・エンジニアのキーパーソンに聞く。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[貧乏だとかえって高くつくものリスト]]></title>
         <id>https://gigazine.net/news/20221223-cost-of-being-poor/</id>

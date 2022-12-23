@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221223-anker-powerconf-h700/",
+          "author": null,
+          "description": "リモートワークやリモート会議をする機会が多いと、「使いやすいマイクが欲しい」「作業に集中するためにいい感じのイヤホンやヘッドホンが欲しい」と思うことがあります。スマートフォン関連機器を主に開発・販売しているAnkerが、その両方の需要を1台で満たしてくれそうな初のワイヤレスヘッドセット「PowerConf H700」を出していたので、実際に使ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-anker-powerconf-h700/",
+          "publishedOn": "2022-12-23T00:15:00.000Z",
+          "wordCount": 2536,
+          "title": "充電5分で3時間通話できマイク・ヘッドホンともノイズ除去が強力なワイヤレスヘッドセット「Anker PowerConf H700」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/anker-powerconf-h700/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221223-google-nest-thermostat-evolution/",
+          "author": null,
+          "description": "2011年にGoogleから発売されたスマートホーム製品「Nest サーモスタット」は家庭内の空調設備と連動することで自動的に室温の調整を行うことができる、主にアメリカで販売されているデバイスです。2011年の発売以来、これまでに3世代のNest サーモスタットが発売されており、これらの製品についてCTスキャンした結果を、さまざまな製品をCTスキャンして分析しているlumafieldがNest創設者のトニー・ファデル氏と共に解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221223-google-nest-thermostat-evolution/",
+          "publishedOn": "2022-12-23T00:00:00.000Z",
+          "wordCount": 2438,
+          "title": "スマートホームの室温調節器を各世代ごとにCTスキャンしてみた結果とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/23/google-nest-thermostat-evolution/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221223-cost-of-being-poor/",
           "author": null,
           "description": "経済的に余裕がない人は物を買う時に節約をしなければなりませんが、例えば「安物買いの銭失い」という言葉があるように、貧乏なせいでかえって多くの支出がかかるということがよくあります。こうした「アメリカで貧乏であることの代償」を、アメリカ在住のビジネスライターであるクレイグ・ランデス氏がリストにまとめました。\n続きを読む...",
@@ -3503,6 +3523,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17089",
+          "author": null,
+          "description": "Jetpack Technologiesは、ローカル環境において独立したシェル環境を構築できるDevboxの最新バージョンとなる、「Devbox 0.2.0」を12月20日（現地時間）にリリースした。",
+          "link": "http://codezine.jp/article/detail/17089",
+          "publishedOn": "2022-12-23T00:00:00.000Z",
+          "wordCount": 4330,
+          "title": "ローカルに独立した環境を構築可能な「Devbox 0.2.0」がリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/17089/12597_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17088",
+          "author": null,
+          "description": "米GitLabは、同社が開発するGitリポジトリマネージャ「GitLab 15.7」に、Web統合開発環境である「Web IDE」ベータ版を、vscode_web_ideとして導入している。デフォルトでは無効になっており、使用には管理者による有効化が必要となる。",
+          "link": "http://codezine.jp/article/detail/17088",
+          "publishedOn": "2022-12-22T23:00:00.000Z",
+          "wordCount": 4335,
+          "title": "GitLab、「Web IDE」ベータ版を「GitLab 15.7」に搭載。デフォルトでは無効",
+          "imageUrl": "https://codezine.jp/static/images/article/17088/13201_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17049",
           "author": null,
           "description": "CodeZineを運営する翔泳社では、1月6日（金）まで、通販サイト「SEshop」でPDF版の本を購入すると、本体価格の40％がポイント還元となるセールを開催中です。",
@@ -5256,6 +5296,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news089.html",
+          "author": null,
+          "description": "三菱UFJフィナンシャル・グループの亀沢宏規社長が、AIを活用したスタートアップ向け融資サービスについて、2023年度中をめどに国内で展開する計画を明らかにした。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news089.html",
+          "publishedOn": "2022-12-23T00:00:00.000Z",
+          "wordCount": 2331,
+          "title": "三菱UFJ、AIを活用したスタートアップ向け融資モデル“逆輸入”へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/l_DTAE2SASFJNZFFM4PMI2PIZ5WE_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news052.html",
+          "author": null,
+          "description": "ITエンジニアの採用に向け、なぜかゲーム実況に取り組むSmartHR。“どうしてそうなった”な採用活動の詳細を人事・エンジニアのキーパーソンに聞く。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news052.html",
+          "publishedOn": "2022-12-22T23:00:00.000Z",
+          "wordCount": 2708,
+          "title": "「エンジニア雇いたい」→「ゲーム実況しようぜ」　“どうしてそうなった”なSmartHRの採用活動、成果は？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news052.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/23/news085.html",
           "author": null,

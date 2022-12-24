@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T07:11:19.601Z</updated>
+    <updated>2022-12-24T08:16:08.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterから排除されたイーロン・マスクのプライベートジェットを追跡するアカウントが復活、ただし24時間遅れ]]></title>
+        <id>https://gigazine.net/news/20221224-tracking-musk-jet-returns-twitter/</id>
+        <link href="https://gigazine.net/news/20221224-tracking-musk-jet-returns-twitter/"/>
+        <updated>2022-12-24T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterを買収したイーロン・マスク氏は、突如リアルタイムで位置情報をツイートすることを禁止し、同氏のプライベートジェットを逐一追跡するTwitterアカウントの「ElonJet(@ElonJet)」を凍結(BAN)しました。このElonJetがTwitterに復活しました。ただし、ツイートする位置情報は24時間遅れでツイートする形となっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ロシアのCPUを自国で量産する計画は失敗しかけていると報じられる]]></title>
         <id>https://gigazine.net/news/20221224-russia-cpu-substitution/</id>

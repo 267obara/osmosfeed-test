@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221224-tracking-musk-jet-returns-twitter/",
+          "author": null,
+          "description": "Twitterを買収したイーロン・マスク氏は、突如リアルタイムで位置情報をツイートすることを禁止し、同氏のプライベートジェットを逐一追跡するTwitterアカウントの「ElonJet(@ElonJet)」を凍結(BAN)しました。このElonJetがTwitterに復活しました。ただし、ツイートする位置情報は24時間遅れでツイートする形となっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221224-tracking-musk-jet-returns-twitter/",
+          "publishedOn": "2022-12-24T07:30:00.000Z",
+          "wordCount": 2492,
+          "title": "Twitterから排除されたイーロン・マスクのプライベートジェットを追跡するアカウントが復活、ただし24時間遅れ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/24/tracking-musk-jet-returns-twitter/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221224-russia-cpu-substitution/",
           "author": null,
           "description": "2022年2月にウクライナへの侵攻を開始したロシアでは、制裁の一環としてさまざまな企業が市場から撤退しています。また、ロシアではAMDやIntelといった主要なCPUメーカーもロシア国内での半導体製品の輸出および販売が禁止されています。そのため、国内で独自のプロセッサを設計・開発する必要がありますが、CPUに必要な半導体は台湾で製造されており、ロシア国内でCPUを量産する計画は困難であると報じられています。\n続きを読む...",

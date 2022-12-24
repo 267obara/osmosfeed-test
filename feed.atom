@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T12:22:58.851Z</updated>
+    <updated>2022-12-24T13:15:33.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -9589,15 +9589,6 @@
         <summary type="html"><![CDATA[Javaの代表的なフレームワークの1つである「Spring Framework 6.0」が11月18日付けで正式リリースが発表されました。 2017年にリリースされたSpring Framework 5.0以来、5年ぶりのメジャーバージョン...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PR: ハイブリッド／マルチクラウドのネットワークの状態が一目で分かる　運用管理を効率化するサービスの実力は]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2211/25/news004.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2211/25/news004.html"/>
-        <updated>2022-11-25T01:00:00.000Z</updated>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

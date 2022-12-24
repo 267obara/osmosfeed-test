@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T09:11:51.477Z</updated>
+    <updated>2022-12-24T10:12:53.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[気候変動や食糧不足に対処したり暗号化を破ってインターネットを破壊したりするのに役立つレベルの「量子コンピューター」開発競争、アメリカと中国のどちらが最初に実現するのか]]></title>
+        <id>https://gigazine.net/news/20221224-world-changing-quantum-computer/</id>
+        <link href="https://gigazine.net/news/20221224-world-changing-quantum-computer/"/>
+        <updated>2022-12-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「0」もしくは「1」の状態しか取れない「ビット」ではなく、「0」と「1」両方の状態をとることができる「量子ビット」を用いて計算を行う量子コンピューターは、ビットを使う従来のコンピューターよりも指数関数的に協力で、ビットではできないような計算を行うことができます。この量子コンピューターの開発がどこまで進んでいるのかについて、ライターのスティーブン・ウィット氏が解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウェブブラウザ「Vivaldi」がWindows 7とWindows 8.1のサポートを終了する理由について開発者が解説]]></title>
         <id>https://gigazine.net/news/20221224-vivaldi-windows-7-8-1/</id>

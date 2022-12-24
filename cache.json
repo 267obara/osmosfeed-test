@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221224-russia-cpu-substitution/",
+          "author": null,
+          "description": "2022年2月にウクライナへの侵攻を開始したロシアでは、制裁の一環としてさまざまな企業が市場から撤退しています。また、ロシアではAMDやIntelといった主要なCPUメーカーもロシア国内での半導体製品の輸出および販売が禁止されています。そのため、国内で独自のプロセッサを設計・開発する必要がありますが、CPUに必要な半導体は台湾で製造されており、ロシア国内でCPUを量産する計画は困難であると報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221224-russia-cpu-substitution/",
+          "publishedOn": "2022-12-24T04:00:00.000Z",
+          "wordCount": 2428,
+          "title": "ロシアのCPUを自国で量産する計画は失敗しかけていると報じられる",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/24/russia-cpu-substitution/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221224-pixelfed/",
           "author": null,
           "description": "TwitterやFacebook、InstagramといったSNSは、単一の企業によって管理されていることから、企業のプライバシーポリシー変更やサーバー閉鎖などの影響を直接受けてしまいます。オープンソースで開発されている写真特化型SNS「Pixelfed」はMastodonのようにユーザーが独自のルールを定めたサーバーを運用可能で、利用料金無料かつ広告も表示されないとのこと。そんなPixelfedを実際に使ってみました。\n続きを読む...",
@@ -5546,6 +5556,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/24/news055.html",
+          "author": null,
+          "description": "ビックカメラは、「2023年新春福箱」を2023年1月1日から店頭販売する。ECでは、12月6日から抽選販売を実施していたが、店頭でも販売する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/24/news055.html",
+          "publishedOn": "2022-12-24T03:00:00.000Z",
+          "wordCount": 2345,
+          "title": "「AirPods Proセット福箱」が1万9800円など　ビックカメラ「新春福箱」を店頭販売へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/24/cover_news055.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/24/news051.html",
+          "author": null,
+          "description": "今年もクリスマスがやってきた。12月24日から25日にかけてさまざまな地図サービスで、サンタの居場所を追跡できるようになるので、見てみると面白いかもしれない。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/24/news051.html",
+          "publishedOn": "2022-12-24T03:00:00.000Z",
+          "wordCount": 2344,
+          "title": "「サンタさん今どこかな？」　ソリの現在地を“追跡”できる3つのサービスをチェックしてみよう",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/24/cover_news051.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/24/news043.html",
           "author": null,

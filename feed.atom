@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T03:14:00.635Z</updated>
+    <updated>2022-12-24T04:15:48.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ロシアのCPUを自国で量産する計画は失敗しかけていると報じられる]]></title>
+        <id>https://gigazine.net/news/20221224-russia-cpu-substitution/</id>
+        <link href="https://gigazine.net/news/20221224-russia-cpu-substitution/"/>
+        <updated>2022-12-24T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年2月にウクライナへの侵攻を開始したロシアでは、制裁の一環としてさまざまな企業が市場から撤退しています。また、ロシアではAMDやIntelといった主要なCPUメーカーもロシア国内での半導体製品の輸出および販売が禁止されています。そのため、国内で独自のプロセッサを設計・開発する必要がありますが、CPUに必要な半導体は台湾で製造されており、ロシア国内でCPUを量産する計画は困難であると報じられています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無料かつ広告も表示されない写真特化型SNS「Pixelfed」を使ってみたよレビュー]]></title>
         <id>https://gigazine.net/news/20221224-pixelfed/</id>
@@ -15,6 +26,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AirPods Proセット福箱」が1万9800円など　ビックカメラ「新春福箱」を店頭販売へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/24/news055.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/24/news055.html"/>
+        <updated>2022-12-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビックカメラは、「2023年新春福箱」を2023年1月1日から店頭販売する。ECでは、12月6日から抽選販売を実施していたが、店頭でも販売する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「サンタさん今どこかな？」　ソリの現在地を“追跡”できる3つのサービスをチェックしてみよう]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/24/news051.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/24/news051.html"/>
+        <updated>2022-12-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今年もクリスマスがやってきた。12月24日から25日にかけてさまざまな地図サービスで、サンタの居場所を追跡できるようになるので、見てみると面白いかもしれない。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

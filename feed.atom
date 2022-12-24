@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T10:12:53.055Z</updated>
+    <updated>2022-12-24T11:10:05.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テフロン加工のフライパンに傷がつくと「230万個のプラスチック粒子」が料理に放出されるとの研究結果]]></title>
+        <id>https://gigazine.net/news/20221224-teflon-pan-plastic-particles/</id>
+        <link href="https://gigazine.net/news/20221224-teflon-pan-plastic-particles/"/>
+        <updated>2022-12-24T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「テフロン」の商品名で知られるフッ素樹脂のポリテトラフルオロエチレン(PTFE)でコーティングされたフライパンは、表面の摩擦が小さく素材が焦げ付きにくいので、料理人の強い味方となっています。しかし、そんなフッ素樹脂加工のフライパンや鍋を使用中にコーティングが壊れると、おびただしい数の微細なプラスチック粒子が料理に放出されてしまうことが分かりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[気候変動や食糧不足に対処したり暗号化を破ってインターネットを破壊したりするのに役立つレベルの「量子コンピューター」開発競争、アメリカと中国のどちらが最初に実現するのか]]></title>
         <id>https://gigazine.net/news/20221224-world-changing-quantum-computer/</id>

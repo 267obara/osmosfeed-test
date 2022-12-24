@@ -5537,6 +5537,26 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/24/news043.html",
+          "author": null,
+          "description": "世代を跨いだチャットコミュニケーションのヒントとして若者言葉をクイズ化。「てぇてぇ」の意味は？",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/24/news043.html",
+          "publishedOn": "2022-12-24T02:00:00.000Z",
+          "wordCount": 2600,
+          "title": "ネット若者語「てぇてぇ」、どんな意味？　正しい使い方は？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/24/cover_news043.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/24/news006.html",
+          "author": null,
+          "description": "流行先取りメディア「Petrel（ペトレル）」の運営を行うライスカレー（東京都渋谷区）は、トレンドを予測するメディアとして独自に選定した「インスタ流行語大賞」、流行に敏感な10～20代女性に調査した「部門別インスタ流行語大賞」を発表した。2022年インスタ流行語大賞ランキング1位は、「チグハグ」だった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/24/news006.html",
+          "publishedOn": "2022-12-24T01:13:00.000Z",
+          "wordCount": 2607,
+          "title": "2022インスタ流行語大賞、あなたはいくつ知ってる？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/24/cover_news006.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/24/news045.html",
           "author": null,
           "description": "TwitterのマスクCEOの自家用ジェット位置情報をツイートして凍結されたbot「@ElonJet」が「@ElonJetNextDay」として再生した。ポリシー違反になる「個人がまだその場にいる可能性があるリアルタイムあるいは当日の情報」ではなく、前日の位置情報をツイートしている。",

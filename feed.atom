@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T02:28:51.776Z</updated>
+    <updated>2022-12-24T03:14:00.635Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無料かつ広告も表示されない写真特化型SNS「Pixelfed」を使ってみたよレビュー]]></title>
+        <id>https://gigazine.net/news/20221224-pixelfed/</id>
+        <link href="https://gigazine.net/news/20221224-pixelfed/"/>
+        <updated>2022-12-24T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TwitterやFacebook、InstagramといったSNSは、単一の企業によって管理されていることから、企業のプライバシーポリシー変更やサーバー閉鎖などの影響を直接受けてしまいます。オープンソースで開発されている写真特化型SNS「Pixelfed」はMastodonのようにユーザーが独自のルールを定めたサーバーを運用可能で、利用料金無料かつ広告も表示されないとのこと。そんなPixelfedを実際に使ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ネット若者語「てぇてぇ」、どんな意味？　正しい使い方は？]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/24/news043.html</id>

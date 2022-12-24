@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221224-pixelfed/",
+          "author": null,
+          "description": "TwitterやFacebook、InstagramといったSNSは、単一の企業によって管理されていることから、企業のプライバシーポリシー変更やサーバー閉鎖などの影響を直接受けてしまいます。オープンソースで開発されている写真特化型SNS「Pixelfed」はMastodonのようにユーザーが独自のルールを定めたサーバーを運用可能で、利用料金無料かつ広告も表示されないとのこと。そんなPixelfedを実際に使ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221224-pixelfed/",
+          "publishedOn": "2022-12-24T03:00:00.000Z",
+          "wordCount": 2443,
+          "title": "無料かつ広告も表示されない写真特化型SNS「Pixelfed」を使ってみたよレビュー",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/24/pixelfed/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221224-planting-trees-save-lives/",
           "author": null,
           "description": "近年は「住んでいる場所の周辺環境」が寿命や健康状態に影響することが知られるようになり、自然の多い場所に住むとさまざまなメリットがあることが報告されています。アメリカ農務省山林局とバルセロナグローバルヘルス研究所(ISGlobal)が主導した新たな研究では、「植えられている街路樹が多い地域では住人の死亡率が低い」という結果が示されました。\n続きを読む...",

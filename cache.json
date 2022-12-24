@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221224-vivaldi-windows-7-8-1/",
+          "author": null,
+          "description": "ウェブブラウザのVivaldiは、Windows 7および8.1でのサポートを2023年に終了すると発表しています。Vivaldiの開発者でセキュリティの専門家であるイングヴェ・パターソン氏が、Windows 7とWindows 8.1のサポートを終了する理由について公式ブログで解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221224-vivaldi-windows-7-8-1/",
+          "publishedOn": "2022-12-24T09:00:00.000Z",
+          "wordCount": 2477,
+          "title": "ウェブブラウザ「Vivaldi」がWindows 7とWindows 8.1のサポートを終了する理由について開発者が解説",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/24/vivaldi-windows-7-8-1/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221224-tracking-musk-jet-returns-twitter/",
           "author": null,
           "description": "Twitterを買収したイーロン・マスク氏は、突如リアルタイムで位置情報をツイートすることを禁止し、同氏のプライベートジェットを逐一追跡するTwitterアカウントの「ElonJet(@ElonJet)」を凍結(BAN)しました。このElonJetがTwitterに復活しました。ただし、ツイートする位置情報は24時間遅れでツイートする形となっています。\n続きを読む...",

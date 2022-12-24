@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T08:16:08.391Z</updated>
+    <updated>2022-12-24T09:11:51.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウェブブラウザ「Vivaldi」がWindows 7とWindows 8.1のサポートを終了する理由について開発者が解説]]></title>
+        <id>https://gigazine.net/news/20221224-vivaldi-windows-7-8-1/</id>
+        <link href="https://gigazine.net/news/20221224-vivaldi-windows-7-8-1/"/>
+        <updated>2022-12-24T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ウェブブラウザのVivaldiは、Windows 7および8.1でのサポートを2023年に終了すると発表しています。Vivaldiの開発者でセキュリティの専門家であるイングヴェ・パターソン氏が、Windows 7とWindows 8.1のサポートを終了する理由について公式ブログで解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterから排除されたイーロン・マスクのプライベートジェットを追跡するアカウントが復活、ただし24時間遅れ]]></title>
         <id>https://gigazine.net/news/20221224-tracking-musk-jet-returns-twitter/</id>

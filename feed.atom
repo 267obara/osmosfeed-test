@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T14:10:41.733Z</updated>
+    <updated>2022-12-24T15:12:25.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮のハッカーが盗み出した仮想通貨などの総額は1600億円を越えると韓国の諜報機関が報告]]></title>
+        <id>https://gigazine.net/news/20221224-north-korean-hacker-stole-1-5-trillion-won-cryptocurrency/</id>
+        <link href="https://gigazine.net/news/20221224-north-korean-hacker-stole-1-5-trillion-won-cryptocurrency/"/>
+        <updated>2022-12-24T14:45:00.000Z</updated>
+        <summary type="html"><![CDATA[過去5年間に北朝鮮のハッカーが盗み出した仮想通貨の総額が推定で1兆5000億ウォン(約1600億円)に上ることが、韓国の諜報機関により明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テフロン加工のフライパンに傷がつくと「230万個のプラスチック粒子」が料理に放出されるとの研究結果]]></title>
         <id>https://gigazine.net/news/20221224-teflon-pan-plastic-particles/</id>

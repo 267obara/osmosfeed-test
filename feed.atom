@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T13:15:48.025Z</updated>
+    <updated>2022-12-25T14:11:05.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ガソリン10万リットル以上がガソリンスタンドの給油機から盗まれる]]></title>
+        <id>https://gigazine.net/news/20221225-gasoline-thefts/</id>
+        <link href="https://gigazine.net/news/20221225-gasoline-thefts/"/>
+        <updated>2022-12-25T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[カリフォルニア州サニーベールのガソリンスタンドで、給油機から約3万ガロン(約11万4000リットル)のガソリンを盗み出した疑いで、合計6人の容疑者が逮捕されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「シュレーディンガーの猫」の運命など量子力学についてよくある4つの誤解]]></title>
         <id>https://gigazine.net/news/20221225-misconceptions-quantum-physics/</id>

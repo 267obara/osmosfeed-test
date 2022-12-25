@@ -5350,6 +5350,16 @@
           "imageUrl": "https://www.publickey1.jp/2022/ruby320a.png"
         },
         {
+          "id": "https://www.publickey1.jp/blog/22/cdnjstswasmvercel_edge_functionsnodejs.html",
+          "author": null,
+          "description": "Next.jsの開発元であり、Webアプリケーションのホスティングサービスなどを提供するVercelは、CDNエッジでJavaScript/TypeScript/WebAssemblyを実行できるサーバレス基盤「Vercel Edge Fu...",
+          "link": "https://www.publickey1.jp/blog/22/cdnjstswasmvercel_edge_functionsnodejs.html",
+          "publishedOn": "2022-12-25T15:01:25.000Z",
+          "wordCount": 1286,
+          "title": "CDNエッジでJS/TS/WASMを実行できる「Vercel Edge Functions」正式リリース。Node.jsサブセットを目指す",
+          "imageUrl": "https://www.publickey1.jp/2022/h6yNiBmZ.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/gitlabvisual_studio_codeweb_ide.html",
           "author": null,
           "description": "GitLabは、Visual Studio CodeベースのWeb IDEを同社のサービスに統合されたWeb IDE（β版）として提供開始したことを明らかにしました。 12月19日以降、すべてのGitLabユーザーが利用可能になるとのことで...",

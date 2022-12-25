@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T15:12:35.812Z</updated>
+    <updated>2022-12-25T16:17:09.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -12,6 +12,16 @@
         <link href="https://www.publickey1.jp/blog/22/webassemblyrubyyjitruby_320.html"/>
         <updated>2022-12-25T15:07:16.000Z</updated>
         <summary type="html"><![CDATA[Ruby開発チームは、2022年12月25日にRuby 3.2.0の正式リリースを発表しました。Rubyは毎年12月25日に新バージョンをリリースすることが恒例となっています。 WebブラウザでRubyコードをそのまま実行可能に 新バージョ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CDNエッジでJS/TS/WASMを実行できる「Vercel Edge Functions」正式リリース。Node.jsサブセットを目指す]]></title>
+        <id>https://www.publickey1.jp/blog/22/cdnjstswasmvercel_edge_functionsnodejs.html</id>
+        <link href="https://www.publickey1.jp/blog/22/cdnjstswasmvercel_edge_functionsnodejs.html"/>
+        <updated>2022-12-25T15:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Next.jsの開発元であり、Webアプリケーションのホスティングサービスなどを提供するVercelは、CDNエッジでJavaScript/TypeScript/WebAssemblyを実行できるサーバレス基盤「Vercel Edge Fu...]]></summary>
         <author>
             <name>Publickey</name>
         </author>

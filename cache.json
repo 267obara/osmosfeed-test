@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221225-a-simple-twitter-archiver/",
+          "author": null,
+          "description": "Twitterに大量のツイートを投稿していると、自分が過去にツイートしたアイデアや記録などを確認したくなることがあります。しかし、Twitterの標準の検索機能には「動作が重い」「自身のツイートに絞って検索するのが面倒」といった問題が存在しています。無料で公開されているウェブアプリ「A simple Twitter archiver」を使えば、自身のツイート履歴を爆速で検索可能とのことなので、実際に使う手順を確認してみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221225-a-simple-twitter-archiver/",
+          "publishedOn": "2022-12-25T00:00:00.000Z",
+          "wordCount": 2468,
+          "title": "ツイートの全履歴から爆速で過去ツイートを検索できるウェブアプリ「A simple Twitter archiver」レビュー",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/25/a-simple-twitter-archiver/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221224-north-korean-hacker-stole-1-5-trillion-won-cryptocurrency/",
           "author": null,
           "description": "過去5年間に北朝鮮のハッカーが盗み出した仮想通貨の総額が推定で1兆5000億ウォン(約1600億円)に上ることが、韓国の諜報機関により明らかになりました。\n続きを読む...",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-24T23:12:30.826Z</updated>
+    <updated>2022-12-25T01:09:01.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ツイートの全履歴から爆速で過去ツイートを検索できるウェブアプリ「A simple Twitter archiver」レビュー]]></title>
+        <id>https://gigazine.net/news/20221225-a-simple-twitter-archiver/</id>
+        <link href="https://gigazine.net/news/20221225-a-simple-twitter-archiver/"/>
+        <updated>2022-12-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterに大量のツイートを投稿していると、自分が過去にツイートしたアイデアや記録などを確認したくなることがあります。しかし、Twitterの標準の検索機能には「動作が重い」「自身のツイートに絞って検索するのが面倒」といった問題が存在しています。無料で公開されているウェブアプリ「A simple Twitter archiver」を使えば、自身のツイート履歴を爆速で検索可能とのことなので、実際に使う手順を確認してみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サンタ「ごめん、大雪で遅れます」　子ども宛ての本物っぽい手紙を作る方法、SNSで話題に]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/25/news044.html</id>

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T14:11:05.466Z</updated>
+    <updated>2022-12-25T15:12:35.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WebAssembly版Rubyが正式に登場、YJITが実用段階に。「Ruby 3.2.0」正式リリース]]></title>
+        <id>https://www.publickey1.jp/blog/22/webassemblyrubyyjitruby_320.html</id>
+        <link href="https://www.publickey1.jp/blog/22/webassemblyrubyyjitruby_320.html"/>
+        <updated>2022-12-25T15:07:16.000Z</updated>
+        <summary type="html"><![CDATA[Ruby開発チームは、2022年12月25日にRuby 3.2.0の正式リリースを発表しました。Rubyは毎年12月25日に新バージョンをリリースすることが恒例となっています。 WebブラウザでRubyコードをそのまま実行可能に 新バージョ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ガソリン10万リットル以上がガソリンスタンドの給油機から盗まれる]]></title>
         <id>https://gigazine.net/news/20221225-gasoline-thefts/</id>

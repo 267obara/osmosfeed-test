@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T08:15:59.480Z</updated>
+    <updated>2022-12-25T09:11:58.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blu-rayプレイヤーでレーザー走査顕微鏡をDIYするとどんな絵が撮れるのか？]]></title>
+        <id>https://gigazine.net/news/20221225-blu-ray-laser-scanning-microscope-diy/</id>
+        <link href="https://gigazine.net/news/20221225-blu-ray-laser-scanning-microscope-diy/"/>
+        <updated>2022-12-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[レーザーを用いて光学顕微鏡よりも小さなものを見ることができるのがレーザー走査顕微鏡ですが、ちゃんとしたものをそろえようと思うと何百万円もかかることがあります。そんなレーザー走査顕微鏡を市販のBlu-rayプレイヤーで代用する方法について、電子機器を改造する動画を多数制作するDoctor Volt氏が解説しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「後ろ歩き」は驚くほど健康にいいと専門家が語る]]></title>
         <id>https://gigazine.net/news/20221225-walking-backwards-health-benefits/</id>

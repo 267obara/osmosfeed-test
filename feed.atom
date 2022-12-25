@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T05:11:42.683Z</updated>
+    <updated>2022-12-25T06:15:47.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「後ろ歩き」は驚くほど健康にいいと専門家が語る]]></title>
+        <id>https://gigazine.net/news/20221225-walking-backwards-health-benefits/</id>
+        <link href="https://gigazine.net/news/20221225-walking-backwards-health-benefits/"/>
+        <updated>2022-12-25T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[通常の歩行とは異なり後ろ向きに進む「後ろ歩き」は、子どもの頃には面白がってやった経験があるとしても、大人になるとめったにやることはありません。ところが、そんな後ろ歩きには驚くほど多くの健康効果があると、イースト・ロンドン大学の臨床運動生理学講師のJack McNamara氏が語っています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMラジオ局が夜間に出力を下げる理由とは？]]></title>
         <id>https://gigazine.net/news/20221225-am-radio-reduce-power-night/</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221226-eufy-smart-scale-p2-pro-appearance/",
+          "author": null,
+          "description": "Ankerのスマートホームブランド・Eufyから、初の体重体組成計となる「Eufy Smart Scale P2 Pro」が2022年8月30日に登場しました。Wi-FiやBluetooth接続に対応しており、スマートフォンにアクセスし、体重だけではなく心拍数や体脂肪率、BMI、筋肉量、水分量、基礎代謝量、内臓脂肪量、体脂肪量、除脂肪体重、骨量(kg)、タンパク質、体内年齢、骨格筋量、皮下脂肪率、体脂肪率、ボディタイプの全16項目を測定可能。そんな先端技術が詰め込まれた体重計がどんなものかを体験するべく、まずはその見た目をチェックしてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-eufy-smart-scale-p2-pro-appearance/",
+          "publishedOn": "2022-12-25T23:00:00.000Z",
+          "wordCount": 2534,
+          "title": "Anker初のスマート体重体組成計「Eufy Smart Scale P2 Pro」レビュー、外見はこんな感じ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/eufy-smart-scale-p2-pro-appearance/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221226-twitter-changed-science/",
           "author": null,
           "description": "実生活ではほとんど接点がない学者と一般市民のコミュニケーションツールとして、あるいは陰謀論や疑似科学が拡散されるメディアとして、Twitterは科学にさまざまな影響を及ぼしてきました。そんなTwitterと科学の関係について、科学誌のNatureがまとめました。\n続きを読む...",
@@ -3912,6 +3922,16 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/17031",
+          "author": null,
+          "description": "プログラミング初心者向けの入門書『Python2年生 デスクトップアプリ開発のしくみ』から、計算アプリの1つである「割り勘アプリ」の作り方を紹介します。簡単なコードを扱うため、初めてPythonに触る人でも作りやすいのではないでしょうか。とりあえず何かデスクトップアプリを作ってみたいと考えている人におすすめです。",
+          "link": "http://codezine.jp/article/detail/17031",
+          "publishedOn": "2022-12-25T22:00:00.000Z",
+          "wordCount": 4460,
+          "title": "Pythonで「割り勘アプリ」を作ってみよう！　初心者でも簡単にできるデスクトップアプリの作り方",
+          "imageUrl": "https://codezine.jp/static/images/article/17031/17031_share.png"
+        },
         {
           "id": "http://codezine.jp/article/detail/17093",
           "author": null,

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T22:12:03.116Z</updated>
+    <updated>2022-12-25T23:13:20.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Anker初のスマート体重体組成計「Eufy Smart Scale P2 Pro」レビュー、外見はこんな感じ]]></title>
+        <id>https://gigazine.net/news/20221226-eufy-smart-scale-p2-pro-appearance/</id>
+        <link href="https://gigazine.net/news/20221226-eufy-smart-scale-p2-pro-appearance/"/>
+        <updated>2022-12-25T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ankerのスマートホームブランド・Eufyから、初の体重体組成計となる「Eufy Smart Scale P2 Pro」が2022年8月30日に登場しました。Wi-FiやBluetooth接続に対応しており、スマートフォンにアクセスし、体重だけではなく心拍数や体脂肪率、BMI、筋肉量、水分量、基礎代謝量、内臓脂肪量、体脂肪量、除脂肪体重、骨量(kg)、タンパク質、体内年齢、骨格筋量、皮下脂肪率、体脂肪率、ボディタイプの全16項目を測定可能。そんな先端技術が詰め込まれた体重計がどんなものかを体験するべく、まずはその見た目をチェックしてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Twitterが科学を変えた」と題してNatureが研究と科学コミュニケーションにおけるTwitterの果たした功罪を特集]]></title>
         <id>https://gigazine.net/news/20221226-twitter-changed-science/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonで「割り勘アプリ」を作ってみよう！　初心者でも簡単にできるデスクトップアプリの作り方]]></title>
+        <id>http://codezine.jp/article/detail/17031</id>
+        <link href="http://codezine.jp/article/detail/17031"/>
+        <updated>2022-12-25T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[プログラミング初心者向けの入門書『Python2年生 デスクトップアプリ開発のしくみ』から、計算アプリの1つである「割り勘アプリ」の作り方を紹介します。簡単なコードを扱うため、初めてPythonに触る人でも作りやすいのではないでしょうか。とりあえず何かデスクトップアプリを作ってみたいと考えている人におすすめです。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

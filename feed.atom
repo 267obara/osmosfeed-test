@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T02:36:08.916Z</updated>
+    <updated>2022-12-25T03:14:06.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[録音した音声を一発でプロっぽく仕上げてくれる「Enhance Speech from Adobe」を使ってみたレビュー]]></title>
+        <id>https://gigazine.net/news/20221225-enhance-speech-from-adobe/</id>
+        <link href="https://gigazine.net/news/20221225-enhance-speech-from-adobe/"/>
+        <updated>2022-12-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Adobeが、AIを使った音声編集ウェブサービス「Adobe Podcast」を公開し、Podcast編集用ツール「Enhance Speech from Adobe」のデモを公開しています。Enhance Speech from Adobeを使えば、録音した音声が簡単にプロっぽく仕上がるとのことで、実際に使ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ツイートの全履歴から爆速で過去ツイートを検索できるウェブアプリ「A simple Twitter archiver」レビュー]]></title>
         <id>https://gigazine.net/news/20221225-a-simple-twitter-archiver/</id>

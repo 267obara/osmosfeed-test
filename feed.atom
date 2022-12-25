@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T20:13:04.590Z</updated>
+    <updated>2022-12-25T21:10:56.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「バナナの皮」は適切に処理すれば小麦のように料理に使用することができる]]></title>
+        <id>https://gigazine.net/news/20221226-use-banana-peel-ingredient/</id>
+        <link href="https://gigazine.net/news/20221226-use-banana-peel-ingredient/"/>
+        <updated>2022-12-25T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[バナナが好きでよく食べているという人は多いかもしれませんが、毎回食べる前にむいている「バナナの皮」を食べたことがあるという人は少ないはず。ところが、このバナナの皮には豊富な栄養が含まれており、適切に処理すれば小麦に混ぜておいしい焼き菓子に使うことができるという研究結果が報告されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WebAssembly版Rubyが正式に登場、YJITが実用段階に。「Ruby 3.2.0」正式リリース]]></title>
         <id>https://www.publickey1.jp/blog/22/webassemblyrubyyjitruby_320.html</id>

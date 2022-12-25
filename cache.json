@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221226-use-banana-peel-ingredient/",
+          "author": null,
+          "description": "バナナが好きでよく食べているという人は多いかもしれませんが、毎回食べる前にむいている「バナナの皮」を食べたことがあるという人は少ないはず。ところが、このバナナの皮には豊富な栄養が含まれており、適切に処理すれば小麦に混ぜておいしい焼き菓子に使うことができるという研究結果が報告されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-use-banana-peel-ingredient/",
+          "publishedOn": "2022-12-25T21:00:00.000Z",
+          "wordCount": 2455,
+          "title": "「バナナの皮」は適切に処理すれば小麦のように料理に使用することができる",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/use-banana-peel-ingredient/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221225-gasoline-thefts/",
           "author": null,
           "description": "カリフォルニア州サニーベールのガソリンスタンドで、給油機から約3万ガロン(約11万4000リットル)のガソリンを盗み出した疑いで、合計6人の容疑者が逮捕されました。\n続きを読む...",

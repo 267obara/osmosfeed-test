@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221225-am-radio-reduce-power-night/",
+          "author": null,
+          "description": "アメリカでは夜間のAMラジオ局の出力が連邦通信委員会(FCC)によって制限されています。その理由をキリスト教系ラジオ局の「Relevant Radio」が解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221225-am-radio-reduce-power-night/",
+          "publishedOn": "2022-12-25T04:00:00.000Z",
+          "wordCount": 2420,
+          "title": "AMラジオ局が夜間に出力を下げる理由とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/25/am-radio-reduce-power-night/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221225-notepad-tabs-windows-11/",
+          "author": null,
+          "description": "Microsoftの従業員が、Windows 11に標準搭載されているテキストエディタの「メモ帳」に、タブ機能が追加されることをTwitter上で発表しました。しかし、発表のタイミングは意図したものではなかったようで、当該ツイートはすぐに削除されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221225-notepad-tabs-windows-11/",
+          "publishedOn": "2022-12-25T03:30:00.000Z",
+          "wordCount": 2475,
+          "title": "Microsoftの従業員がWindows 11のメモ帳の新機能をうっかりお漏らし",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/25/notepad-tabs-windows-11/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221225-enhance-speech-from-adobe/",
           "author": null,
           "description": "Adobeが、AIを使った音声編集ウェブサービス「Adobe Podcast」を公開し、Podcast編集用ツール「Enhance Speech from Adobe」のデモを公開しています。Enhance Speech from Adobeを使えば、録音した音声が簡単にプロっぽく仕上がるとのことで、実際に使ってみました。\n続きを読む...",

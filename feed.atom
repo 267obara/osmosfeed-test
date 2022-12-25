@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T03:14:06.719Z</updated>
+    <updated>2022-12-25T04:15:42.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMラジオ局が夜間に出力を下げる理由とは？]]></title>
+        <id>https://gigazine.net/news/20221225-am-radio-reduce-power-night/</id>
+        <link href="https://gigazine.net/news/20221225-am-radio-reduce-power-night/"/>
+        <updated>2022-12-25T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカでは夜間のAMラジオ局の出力が連邦通信委員会(FCC)によって制限されています。その理由をキリスト教系ラジオ局の「Relevant Radio」が解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoftの従業員がWindows 11のメモ帳の新機能をうっかりお漏らし]]></title>
+        <id>https://gigazine.net/news/20221225-notepad-tabs-windows-11/</id>
+        <link href="https://gigazine.net/news/20221225-notepad-tabs-windows-11/"/>
+        <updated>2022-12-25T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftの従業員が、Windows 11に標準搭載されているテキストエディタの「メモ帳」に、タブ機能が追加されることをTwitter上で発表しました。しかし、発表のタイミングは意図したものではなかったようで、当該ツイートはすぐに削除されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[録音した音声を一発でプロっぽく仕上げてくれる「Enhance Speech from Adobe」を使ってみたレビュー]]></title>
         <id>https://gigazine.net/news/20221225-enhance-speech-from-adobe/</id>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T10:13:05.637Z</updated>
+    <updated>2022-12-25T11:10:09.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「シュレーディンガーの猫」の運命など量子力学についてよくある4つの誤解]]></title>
+        <id>https://gigazine.net/news/20221225-misconceptions-quantum-physics/</id>
+        <link href="https://gigazine.net/news/20221225-misconceptions-quantum-physics/"/>
+        <updated>2022-12-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[量子力学について専門的に勉強したことがなくても、「シュレーディンガーの猫」や「量子もつれ(エンタングルメント)」といった、量子力学の分野特有の不思議な現象について興味を持ったことがある人は多いはず。インターネットなどでよく見られる量子力学に関しての誤解について、イギリスのヘリオット・ワット大学で量子力学を研究しているメフル・マリク教授とアレッサンドロ・フェドリッツィ教授が4つ紹介しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blu-rayプレイヤーでレーザー走査顕微鏡をDIYするとどんな絵が撮れるのか？]]></title>
         <id>https://gigazine.net/news/20221225-blu-ray-laser-scanning-microscope-diy/</id>

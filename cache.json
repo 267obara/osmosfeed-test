@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221225-misconceptions-quantum-physics/",
+          "author": null,
+          "description": "量子力学について専門的に勉強したことがなくても、「シュレーディンガーの猫」や「量子もつれ(エンタングルメント)」といった、量子力学の分野特有の不思議な現象について興味を持ったことがある人は多いはず。インターネットなどでよく見られる量子力学に関しての誤解について、イギリスのヘリオット・ワット大学で量子力学を研究しているメフル・マリク教授とアレッサンドロ・フェドリッツィ教授が4つ紹介しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221225-misconceptions-quantum-physics/",
+          "publishedOn": "2022-12-25T11:00:00.000Z",
+          "wordCount": 2442,
+          "title": "「シュレーディンガーの猫」の運命など量子力学についてよくある4つの誤解",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/25/misconceptions-quantum-physics/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221225-blu-ray-laser-scanning-microscope-diy/",
           "author": null,
           "description": "レーザーを用いて光学顕微鏡よりも小さなものを見ることができるのがレーザー走査顕微鏡ですが、ちゃんとしたものをそろえようと思うと何百万円もかかることがあります。そんなレーザー走査顕微鏡を市販のBlu-rayプレイヤーで代用する方法について、電子機器を改造する動画を多数制作するDoctor Volt氏が解説しました。\n続きを読む...",

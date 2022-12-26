@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221226-apple-iphone-gpu/",
+          "author": null,
+          "description": "2022年に登場した「iPhone 14 Pro」には、5コアのGPUを搭載した「A16 Bionicチップ」が搭載されています。しかし、複数のApple関係者の証言によって「iPhone 14 Proの開発初期には、より高性能なGPUの搭載が計画されていたものの、開発中に問題が発生して旧世代のGPUをベースに開発しなおす事態が発生していた」ということが明らかになりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-apple-iphone-gpu/",
+          "publishedOn": "2022-12-26T02:23:00.000Z",
+          "wordCount": 2478,
+          "title": "iPhone 14 Proの性能は当初の計画より大幅に下がっていたことが判明",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/apple-iphone-gpu/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221226-twitter-blue-longer-videos/",
+          "author": null,
+          "description": "Twitterの有料プラン「Twitter Blue」の加入者向け特典が追加され、加入者が新たに最大60分間の1080p解像度動画をアップロードできるようになりました。このほか、加入者が行った返信に「優先順位」を付ける機能も追加されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-twitter-blue-longer-videos/",
+          "publishedOn": "2022-12-26T02:00:00.000Z",
+          "wordCount": 2607,
+          "title": "Twitter Blueで最大2GB・60分の1080p動画をアップロード可能に、さらにリプライが優先表示される機能も",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/twitter-blue-longer-videos/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221226-twitter-removes-suicide-prevention-feature/",
+          "author": null,
+          "description": "SNS上の書き込みは時として人を深く傷つけるもの。心無い書き込みから自殺を考える若者も少なくないため、Twitterでは自殺関連の単語を検索しているユーザーに対して、自殺防止ホットラインの連絡先を通知するなどの「自殺防止機能」を実装していました。しかし、この機能がTwitterを買収したイーロン・マスク氏の命令で削除されたと、ロイターが報じています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-twitter-removes-suicide-prevention-feature/",
+          "publishedOn": "2022-12-26T01:28:00.000Z",
+          "wordCount": 2572,
+          "title": "Twitterがイーロン・マスクの指示で自殺防止機能を削除するも批判が相次ぎ復活",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/twitter-removes-suicide-prevention-feature/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221226-supply-chain-russia/",
           "author": null,
           "description": "ロシアによるウクライナへの軍事侵攻に対する制裁の一環として、2022年2月末ごろからアメリカの半導体大手であるIntelとAMDなどがロシアへの半導体販売を停止しています。その一方でロシアへの半導体供給の経路は開かれたままとなっており、その原因や実態についてロイターがまとめています。\n続きを読む...",
@@ -5776,6 +5806,56 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news095.html",
+          "author": null,
+          "description": "イラスト発注サービス「Skeb」で発生した障害について、提供元が機会損失の詳細を発表した。「1500万円相当の取引の機会損失が発生した」という。障害の原因はクラウドサービス「Heroku」の問題だが、12月26日時点で詳しい説明を受けていないという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news095.html",
+          "publishedOn": "2022-12-26T02:20:00.000Z",
+          "wordCount": 2595,
+          "title": "「Herokuの対応は遺憾」　Skeb障害、機会損失は1500万円相当　クラウド丸ごと乗り換え約18時間で解決",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news095.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news092.html",
+          "author": null,
+          "description": "小田急電鉄は26日、ポケモンGOとのコラボレーションを年内で終了すると発表した。「ポケストップ」は12月31日をめどにゲーム内から消去される。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news092.html",
+          "publishedOn": "2022-12-26T02:12:00.000Z",
+          "wordCount": 2348,
+          "title": "小田急、ポケモンGOから撤退　大みそかにポケストップ全て削除",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news092.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news086.html",
+          "author": null,
+          "description": "公正取引委員会が、スタートアップ企業を巡る取引の問題に関する調査結果を発表した。スタートアップからは「営業秘密を盗まれ競合製品を売り出された」「報酬の減額や支払遅延があった」などの報告が寄せられた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news086.html",
+          "publishedOn": "2022-12-26T01:00:00.000Z",
+          "wordCount": 2598,
+          "title": "「技術を盗まれた」「報酬を減らされた」──公取委、スタートアップ巡る取引問題の調査結果を発表",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news086.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/23/news154.html",
+          "author": null,
+          "description": "2022年、画像生成AIが大きな注目を集めた。「Midjourney」など海外産AIの多くは受け入れられた一方、「mimic」や「クリスタ」では炎上し、停止に追い込まれる事態が続いた。なぜこのような事態になってしまったのか？　画像生成AIと2022年を振り返る。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/23/news154.html",
+          "publishedOn": "2022-12-26T01:00:00.000Z",
+          "wordCount": 2595,
+          "title": "国産AIはなぜ炎上する？　「mimic」開発元に反省点を聞いた　海外産AIは平常運転、待つのは“日本1人負け”か",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/23/cover_news154.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news012.html",
+          "author": null,
+          "description": "ここまで契約書の締結、契約書のレビューという順番でリーガルテックを見てきて、次に紹介するのは契約書の作成と管理である。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news012.html",
+          "publishedOn": "2022-12-26T01:00:00.000Z",
+          "wordCount": 2619,
+          "title": "契約書作成ツールはWordを超える？　法務SaaS完全理解マニュアル　ContractS CLM＆Hubble編",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news012.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/26/news085.html",
           "author": null,

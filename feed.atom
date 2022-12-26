@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T06:17:23.814Z</updated>
+    <updated>2022-12-26T07:12:12.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「日本の開発者はプルリクエスト経由でコードを出す割合が最も高い」などGithubの2022年のトレンドまとめ]]></title>
+        <id>https://gigazine.net/news/20221226-trends-github-2022/</id>
+        <link href="https://gigazine.net/news/20221226-trends-github-2022/"/>
+        <updated>2022-12-26T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Githubリポジトリやオープンソース関連の分析を手がけるOSS Insightが、2022年のGithub利用実態のトレンドを発表しました。これにより、各国の開発者の特色やオープンソース開発でよく使われる言語などの傾向が浮き彫りとなっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4つのスマートフォン音声アシスタントを有名YouTuberがテストした結果1位は「Googleアシスタント」に、では最下位は？]]></title>
         <id>https://gigazine.net/news/20221226-voice-assistant-worst/</id>

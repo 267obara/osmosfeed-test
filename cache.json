@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221226-trends-github-2022/",
+          "author": null,
+          "description": "Githubリポジトリやオープンソース関連の分析を手がけるOSS Insightが、2022年のGithub利用実態のトレンドを発表しました。これにより、各国の開発者の特色やオープンソース開発でよく使われる言語などの傾向が浮き彫りとなっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-trends-github-2022/",
+          "publishedOn": "2022-12-26T07:00:00.000Z",
+          "wordCount": 2438,
+          "title": "「日本の開発者はプルリクエスト経由でコードを出す割合が最も高い」などGithubの2022年のトレンドまとめ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/trends-github-2022/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221226-voice-assistant-worst/",
           "author": null,
           "description": "ガジェット系の情報ソースとして人気が高いYouTuberのマルケス・ブラウンリー(MKBHD)氏が、スマートフォンに搭載されている「Googleアシスタント」「Siri(Apple)」「Alexa(Amazon)」「Bixby(Samsung)」といったAI音声アシスタントを比較し、どれが優れているのかをテストした動画を公開しました。\n続きを読む...",

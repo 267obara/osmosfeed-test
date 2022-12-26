@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T22:12:16.858Z</updated>
+    <updated>2022-12-26T23:13:00.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[全16項目を測定＆自分の体型を3Dモデル化して現実を突きつけるAnkerのスマート体重体組成計「Eufy Smart Scale P2 Pro」をセットアップしてみた]]></title>
+        <id>https://gigazine.net/news/20221227-eufy-smart-scale-p2-pro-setup/</id>
+        <link href="https://gigazine.net/news/20221227-eufy-smart-scale-p2-pro-setup/"/>
+        <updated>2022-12-26T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ankerのスマートホームブランド・Eufy初となる体重体組成計「Eufy Smart Scale P2 Pro」が2022年8月30日に登場しました。単に体重を量るだけではなく、スマートフォンにアクセスして心拍数・体脂肪率・BMI・筋肉量・水分量・基礎代謝量・内臓脂肪量・体脂肪量・除脂肪体重・骨量(kg)・タンパク質・体内年齢・骨格筋量・皮下脂肪率・体脂肪率・ボディタイプの全16項目を測定でき、さらに自分の体型を3Dモデル化して示してくれるとのことで、Eufy Smart Scale P2 Proを実際にスマートフォンと連携させる設定を行ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ksmbdが有効になっているLinuxカーネルにリモートコード実行の可能性がある脆弱性]]></title>
+        <id>http://codezine.jp/article/detail/17109</id>
+        <link href="http://codezine.jp/article/detail/17109"/>
+        <updated>2022-12-26T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Trend Microが運営する脆弱性発見コミュニティ「Zero Day Initiative」は、ksmbdが有効になっているLinuxカーネルにおいて、リモート攻撃が行われる可能性がある脆弱性が存在することを、12月22日（現地時間）に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジャズでよく聞く音楽用語の「スウィング」とは何なのかが視覚的にわかる「Groove Pizza」]]></title>
         <id>https://gigazine.net/news/20221227-groove-pizza-understanding-swing/</id>

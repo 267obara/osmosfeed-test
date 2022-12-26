@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-eufy-smart-scale-p2-pro-setup/",
+          "author": null,
+          "description": "Ankerのスマートホームブランド・Eufy初となる体重体組成計「Eufy Smart Scale P2 Pro」が2022年8月30日に登場しました。単に体重を量るだけではなく、スマートフォンにアクセスして心拍数・体脂肪率・BMI・筋肉量・水分量・基礎代謝量・内臓脂肪量・体脂肪量・除脂肪体重・骨量(kg)・タンパク質・体内年齢・骨格筋量・皮下脂肪率・体脂肪率・ボディタイプの全16項目を測定でき、さらに自分の体型を3Dモデル化して示してくれるとのことで、Eufy Smart Scale P2 Proを実際にスマートフォンと連携させる設定を行ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-eufy-smart-scale-p2-pro-setup/",
+          "publishedOn": "2022-12-26T23:00:00.000Z",
+          "wordCount": 2589,
+          "title": "全16項目を測定＆自分の体型を3Dモデル化して現実を突きつけるAnkerのスマート体重体組成計「Eufy Smart Scale P2 Pro」をセットアップしてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/eufy-smart-scale-p2-pro-setup/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-groove-pizza-understanding-swing/",
           "author": null,
           "description": "音楽用語の「スウィング」とは連続する音符のうち1つ目をやや長めに取り、2つ目をやや遅めに入れるリズムのことを指しますが、実際にスウィングがどういうものかイメージをつかむのは難しいもの。そんなスウィングがどういうものかを視覚的に理解できるツール「Groove Pizza」が公開されています。\n続きを読む...",
@@ -4152,6 +4162,16 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/17109",
+          "author": null,
+          "description": "米Trend Microが運営する脆弱性発見コミュニティ「Zero Day Initiative」は、ksmbdが有効になっているLinuxカーネルにおいて、リモート攻撃が行われる可能性がある脆弱性が存在することを、12月22日（現地時間）に発表した。",
+          "link": "http://codezine.jp/article/detail/17109",
+          "publishedOn": "2022-12-26T23:00:00.000Z",
+          "wordCount": 4266,
+          "title": "ksmbdが有効になっているLinuxカーネルにリモートコード実行の可能性がある脆弱性",
+          "imageUrl": "https://codezine.jp/static/images/article/17109/12729_og.jpg"
+        },
         {
           "id": "http://codezine.jp/article/detail/17100",
           "author": null,

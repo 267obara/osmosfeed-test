@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T12:24:30.980Z</updated>
+    <updated>2022-12-26T13:17:26.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生チョコレートをそのままトッピングしたミスドの贅沢スイーツ「大人のポン・デ・ショコラ 濃厚生チョコレート」など2種を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221226-misterdonut-otona-no-pon-de-chocolat-2/</id>
+        <link href="https://gigazine.net/news/20221226-misterdonut-otona-no-pon-de-chocolat-2/"/>
+        <updated>2022-12-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年12月26日からミスタードーナツに「大人のポン・デ・ショコラ」の第2弾が登場しました。生チョコレートとビターなココアパウダーで仕上がった「大人のポン・デ・ショコラ 濃厚生チョコレート」と、キャラメルクリームとホワイトチョコがトッピングされた「大人のポン・デ・ショコラ 濃厚キャラメル」が新たに登場したので、実際に食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ「ワンピース」特別番組“エピソードオブ”シリーズをYouTubeで無料配信、23年元旦から7作品]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news158.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news158.html"/>
+        <updated>2022-12-26T12:53:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメ「ONE PIECE」の公式YouTubeチャンネルは26日、過去にテレビで放送した特別番組“エピソードオブ”シリーズの7作品を2023年1月1日から無料配信すると発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超強力チャットAI「ChatGPT」に会話ログ出力機能やお気に入り機能を追加した非公式デスクトップアプリを使ってみた]]></title>
         <id>https://gigazine.net/news/20221226-chatgpt-desktop-app/</id>

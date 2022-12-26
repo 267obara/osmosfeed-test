@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221226-misterdonut-otona-no-pon-de-chocolat-2/",
+          "author": null,
+          "description": "2022年12月26日からミスタードーナツに「大人のポン・デ・ショコラ」の第2弾が登場しました。生チョコレートとビターなココアパウダーで仕上がった「大人のポン・デ・ショコラ 濃厚生チョコレート」と、キャラメルクリームとホワイトチョコがトッピングされた「大人のポン・デ・ショコラ 濃厚キャラメル」が新たに登場したので、実際に食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-misterdonut-otona-no-pon-de-chocolat-2/",
+          "publishedOn": "2022-12-26T13:00:00.000Z",
+          "wordCount": 2424,
+          "title": "生チョコレートをそのままトッピングしたミスドの贅沢スイーツ「大人のポン・デ・ショコラ 濃厚生チョコレート」など2種を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/misterdonut-otona-no-pon-de-chocolat-2/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221226-chatgpt-desktop-app/",
           "author": null,
           "description": "AI研究団体のOpenAIが開発したチャットAI「ChatGPT」は、大学レベルの筆記試験に合格できるほど高性能であることが知られており、コーディングや事務処理の補助に用いる試みが世界中で行われています。そんなChatGPTに会話内容出力機能やテンプレート機能を追加した非公式デスクトップアプリが公開されていたので、実際に使ってみました。\n続きを読む...",
@@ -6016,6 +6026,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news158.html",
+          "author": null,
+          "description": "アニメ「ONE PIECE」の公式YouTubeチャンネルは26日、過去にテレビで放送した特別番組“エピソードオブ”シリーズの7作品を2023年1月1日から無料配信すると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news158.html",
+          "publishedOn": "2022-12-26T12:53:00.000Z",
+          "wordCount": 2359,
+          "title": "アニメ「ワンピース」特別番組“エピソードオブ”シリーズをYouTubeで無料配信、23年元旦から7作品",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news158.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/26/news156.html",
           "author": null,

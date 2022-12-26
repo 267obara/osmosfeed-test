@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221226-chrome-offline-game-disable-school/",
+          "author": null,
+          "description": "Googleが開発するウェブブラウザのChromeにオフラインでアクセスすると、恐竜を操縦して障害物を飛び越えさせる「Dinosaur Game(恐竜ゲーム)」で遊ぶことができます。Chromeの公式フォーラムではそんな恐竜ゲームを巡り、過去に「生徒がこれで遊ぶのを止める方法は？」という質問が学校関係者から多数寄せられていました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-chrome-offline-game-disable-school/",
+          "publishedOn": "2022-12-26T08:00:00.000Z",
+          "wordCount": 2433,
+          "title": "オフラインのChromeで遊べる「恐竜ゲーム」を巡り学校関係者から「生徒が遊ぶのを止める方法」の質問が多数寄せられていた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/chrome-offline-game-disable-school/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221226-trends-github-2022/",
           "author": null,
           "description": "Githubリポジトリやオープンソース関連の分析を手がけるOSS Insightが、2022年のGithub利用実態のトレンドを発表しました。これにより、各国の開発者の特色やオープンソース開発でよく使われる言語などの傾向が浮き彫りとなっています。\n続きを読む...",

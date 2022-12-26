@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T07:12:12.665Z</updated>
+    <updated>2022-12-26T08:17:10.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[オフラインのChromeで遊べる「恐竜ゲーム」を巡り学校関係者から「生徒が遊ぶのを止める方法」の質問が多数寄せられていた]]></title>
+        <id>https://gigazine.net/news/20221226-chrome-offline-game-disable-school/</id>
+        <link href="https://gigazine.net/news/20221226-chrome-offline-game-disable-school/"/>
+        <updated>2022-12-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleが開発するウェブブラウザのChromeにオフラインでアクセスすると、恐竜を操縦して障害物を飛び越えさせる「Dinosaur Game(恐竜ゲーム)」で遊ぶことができます。Chromeの公式フォーラムではそんな恐竜ゲームを巡り、過去に「生徒がこれで遊ぶのを止める方法は？」という質問が学校関係者から多数寄せられていました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「日本の開発者はプルリクエスト経由でコードを出す割合が最も高い」などGithubの2022年のトレンドまとめ]]></title>
         <id>https://gigazine.net/news/20221226-trends-github-2022/</id>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T20:13:21.145Z</updated>
+    <updated>2022-12-26T21:11:20.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mastodonの創始者オイゲン・ロチコ氏インタビュー、Twitterからのユーザー流出の中でMastodonはいかに成長を遂げているのか？]]></title>
+        <id>https://gigazine.net/news/20221227-mastodon-creator-eugen-rochko-talks/</id>
+        <link href="https://gigazine.net/news/20221227-mastodon-creator-eugen-rochko-talks/"/>
+        <updated>2022-12-26T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterが、2022年10月にCEOに就任したイーロン・マスク氏の下で大きな改革を遂げつつある中、分散型ソーシャル・ネットワークの「Mastodon」が大きくユーザー数を伸ばしています。そんなMastodonの創業者であるオイゲン・ロチコ氏に、IT系ニュースサイトのTechCrunchがインタビューを行いました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Dart 3」が来年登場。完全Nullセーフな言語となり、Nullセーフティなしの実行はサポート外に]]></title>
         <id>https://www.publickey1.jp/blog/22/dart_3nullnull.html</id>

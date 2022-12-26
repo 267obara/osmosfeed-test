@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-mastodon-creator-eugen-rochko-talks/",
+          "author": null,
+          "description": "Twitterが、2022年10月にCEOに就任したイーロン・マスク氏の下で大きな改革を遂げつつある中、分散型ソーシャル・ネットワークの「Mastodon」が大きくユーザー数を伸ばしています。そんなMastodonの創業者であるオイゲン・ロチコ氏に、IT系ニュースサイトのTechCrunchがインタビューを行いました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-mastodon-creator-eugen-rochko-talks/",
+          "publishedOn": "2022-12-26T21:00:00.000Z",
+          "wordCount": 2439,
+          "title": "Mastodonの創始者オイゲン・ロチコ氏インタビュー、Twitterからのユーザー流出の中でMastodonはいかに成長を遂げているのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/mastodon-creator-eugen-rochko-talks/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221226-google-my-ad-center/",
           "author": null,
           "description": "検索エンジンやウェブサイトなどいたるところに掲載されているインターネット広告は、GIGAZINEを含む多くのサービスの重要な収入源となっています。しかし、自分が全く興味のない広告を延々と見せられるのは困るところ。そんな時に便利そうなツールが、Google検索やYouTubeで表示される広告の内容をユーザー自身の手で管理できるGoogle純正ツールの「マイアドセンター」です。\n続きを読む...",

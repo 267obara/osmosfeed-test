@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T03:14:43.096Z</updated>
+    <updated>2022-12-26T04:16:12.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[名作FPS「Half-Life 2」に登場する死体の顔には「本物の死体の写真」が使われていたと判明]]></title>
+        <id>https://gigazine.net/news/20221226-half-life-2-corpse/</id>
+        <link href="https://gigazine.net/news/20221226-half-life-2-corpse/"/>
+        <updated>2022-12-26T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Valve開発の「Half-Life 2」は2004年に発表されたファーストパーソン・シューティングゲーム(FPS)で、Valveが5年かけて開発したゲームエンジン「Source Engine」を使った美しいグラフィックと物理現象のリアルな再現ぶりで大きく話題になりました。そんなHalf-Life 2には非常にリアルな死体が登場するのですが、この死体に実際の死体の顔が使われていたことが判明しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テスラが「完全自動運転」と称して宣伝することをカリフォルニア州が事実上禁止へ]]></title>
+        <id>https://gigazine.net/news/20221226-california-law-bans-tesla-full-self-driving-ads/</id>
+        <link href="https://gigazine.net/news/20221226-california-law-bans-tesla-full-self-driving-ads/"/>
+        <updated>2022-12-26T03:58:00.000Z</updated>
+        <summary type="html"><![CDATA[テスラは「完全自動運転(Full Self-Driving：FSD)」のベータ版を2020年から展開しており、2022年11月には北米でも提供を開始しました。しかし、完全自動運転とうたいつつ、実際にはドライバーによる常時監視が必要な「レベル2」に近いことが指摘されています。このした食い違いを防ぐため、完全自動運転ができない車両を完全自動運転可能であるかのように偽ったり、紛らわしい名前を付けたりして販売することを防ぐ法律がカリフォルニア州で2023年から施行されます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ネット若者語「えぺ」、どんな意味？　正しい使い方は？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news111.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news111.html"/>
+        <updated>2022-12-26T03:49:00.000Z</updated>
+        <summary type="html"><![CDATA[世代を跨いだチャットコミュニケーションのヒントとして若者言葉をクイズ化。「えぺ」の意味は？]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「政府のスマホではTikTok利用禁止」という条項を含む歳出法案がアメリカ議会で可決]]></title>
+        <id>https://gigazine.net/news/20221226-ban-tiktok-usa-government/</id>
+        <link href="https://gigazine.net/news/20221226-ban-tiktok-usa-government/"/>
+        <updated>2022-12-26T03:31:00.000Z</updated>
+        <summary type="html"><![CDATA[動画共有サービスのTikTokは日本だけでなく世界中で人気を集めています。一方で、TikTokには「ユーザーの情報が中国政府に提供されるのではないか」という懸念も存在しており、アメリカでは「政府のデバイスにおけるTikTokの利用禁止を定める法案」が議会で可決しています。新たに、「政府のデバイスにおけるTikTokの利用禁止」に関する条項を含んだ歳出法案が議会両院で可決しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2つの“衝撃”をもたらした「楽天モバイル」の2022年　来年が真の正念場に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news102.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news102.html"/>
+        <updated>2022-12-26T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIの通信障害や円安によるiPhoneの値上げなど、波乱が相次いだ2022年の携帯電話業界。だが年間を通して注目され続けたのはやはり楽天モバイルであり、2022年は同社を巡って2つの衝撃的なニュースがあった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“ひろゆきっぽいコメント”AIで生成・音声も再生　無料ジェネレーター公開　rinnaとコラボ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news100.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news100.html"/>
+        <updated>2022-12-26T03:09:00.000Z</updated>
+        <summary type="html"><![CDATA[質問を入力すると、AIでひろゆき（西村博之さん）っぽい返答を自動生成。それをひろゆきっぽいAI合成音声で再生する──音声合成AIを手掛けるCoeFontがこんなジェネレーターを無料公開した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIでポルノ画像を作成するプロジェクト「Unstable Diffusion」がKickstarterでの出資募集をブロックされる]]></title>
         <id>https://gigazine.net/news/20221226-kickstarter-ai-porn-unstable-diffusion/</id>
@@ -26,6 +89,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Transformer」の仕組み──AIによる画像・動画生成や自然言語処理で話題の深層学習モデルを理解する]]></title>
+        <id>http://codezine.jp/article/detail/16860</id>
+        <link href="http://codezine.jp/article/detail/16860"/>
+        <updated>2022-12-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[海外のWebサイトを日本語に翻訳したり、言葉から画像や動画を自動生成したりするなど、AIのアウトプットは年々人間の創造物に近づいてきている。今回はAIが言語を扱う時の処理についての概要と、自然言語処理の技術発展に貢献した「Transformer」と呼ばれる深層学習モデルをテーマに、Google Cloud のAI Consultant 葛木 美紀氏が解説する。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

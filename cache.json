@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-groove-pizza-understanding-swing/",
+          "author": null,
+          "description": "音楽用語の「スウィング」とは連続する音符のうち1つ目をやや長めに取り、2つ目をやや遅めに入れるリズムのことを指しますが、実際にスウィングがどういうものかイメージをつかむのは難しいもの。そんなスウィングがどういうものかを視覚的に理解できるツール「Groove Pizza」が公開されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-groove-pizza-understanding-swing/",
+          "publishedOn": "2022-12-26T22:00:00.000Z",
+          "wordCount": 2454,
+          "title": "ジャズでよく聞く音楽用語の「スウィング」とは何なのかが視覚的にわかる「Groove Pizza」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/groove-pizza-understanding-swing/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-mastodon-creator-eugen-rochko-talks/",
           "author": null,
           "description": "Twitterが、2022年10月にCEOに就任したイーロン・マスク氏の下で大きな改革を遂げつつある中、分散型ソーシャル・ネットワークの「Mastodon」が大きくユーザー数を伸ばしています。そんなMastodonの創業者であるオイゲン・ロチコ氏に、IT系ニュースサイトのTechCrunchがインタビューを行いました。\n続きを読む...",

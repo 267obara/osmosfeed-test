@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T21:11:20.997Z</updated>
+    <updated>2022-12-26T22:12:16.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ジャズでよく聞く音楽用語の「スウィング」とは何なのかが視覚的にわかる「Groove Pizza」]]></title>
+        <id>https://gigazine.net/news/20221227-groove-pizza-understanding-swing/</id>
+        <link href="https://gigazine.net/news/20221227-groove-pizza-understanding-swing/"/>
+        <updated>2022-12-26T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[音楽用語の「スウィング」とは連続する音符のうち1つ目をやや長めに取り、2つ目をやや遅めに入れるリズムのことを指しますが、実際にスウィングがどういうものかイメージをつかむのは難しいもの。そんなスウィングがどういうものかを視覚的に理解できるツール「Groove Pizza」が公開されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastodonの創始者オイゲン・ロチコ氏インタビュー、Twitterからのユーザー流出の中でMastodonはいかに成長を遂げているのか？]]></title>
         <id>https://gigazine.net/news/20221227-mastodon-creator-eugen-rochko-talks/</id>

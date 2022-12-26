@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T02:35:22.870Z</updated>
+    <updated>2022-12-26T03:14:43.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIでポルノ画像を作成するプロジェクト「Unstable Diffusion」がKickstarterでの出資募集をブロックされる]]></title>
+        <id>https://gigazine.net/news/20221226-kickstarter-ai-porn-unstable-diffusion/</id>
+        <link href="https://gigazine.net/news/20221226-kickstarter-ai-porn-unstable-diffusion/"/>
+        <updated>2022-12-26T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[画像生成AIの「Stable Diffusion」を使ってポルノコンテンツを作成するコミュニティ「Unstable Diffusion」が、クラウドファンディングサイト・Kickstarterのガイドライン変更に伴い、同サイトで行っていた出資を募るプロジェクトを停止されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[映画予告編に出た推しの俳優が本編でカットされたら観客は映画会社を詐欺で訴えられるとの判決]]></title>
+        <id>https://gigazine.net/news/20221226-movie-fans-can-sue-misleading-trailer/</id>
+        <link href="https://gigazine.net/news/20221226-movie-fans-can-sue-misleading-trailer/"/>
+        <updated>2022-12-26T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[映画好きの人やお気に入りの映画俳優を追いかけている人なら、好きな俳優が出演している映画は必ずチェックしているという人も多いはず。大ファンの女優が映画の予告編に登場したのに、本編で丸ごとカットされていたことにがっかりした人は、映画会社を虚偽広告で訴えることができるとの判決が、アメリカの裁判で下されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パリッと食感の衣と黒コショウのパンチが効いたスパイシーなチキンが楽しめるケンタッキー「ブラックホットチキン」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20221226-kfc-black-hot-chicken/</id>
+        <link href="https://gigazine.net/news/20221226-kfc-black-hot-chicken/"/>
+        <updated>2022-12-26T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[ケンタッキーフライドチキンに、黒コショウのパンチが効いた「ブラックホットチキン」が2022年12月26日(月)から登場しています。チキンの食感やうまみ成分であるガーリックやオニオンの配分にこだわった、刺激的でシャープな辛さが楽しめる一品とのことなので、実際に購入し食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIXI「みてね年賀状」印刷機故障で受注停止　急きょ、無料で“代品”提供]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news097.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news097.html"/>
+        <updated>2022-12-26T02:28:00.000Z</updated>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhone 14 Proの性能は当初の計画より大幅に下がっていたことが判明]]></title>
         <id>https://gigazine.net/news/20221226-apple-iphone-gpu/</id>
@@ -33,6 +75,16 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/26/news092.html"/>
         <updated>2022-12-26T02:12:00.000Z</updated>
         <summary type="html"><![CDATA[小田急電鉄は26日、ポケモンGOとのコラボレーションを年内で終了すると発表した。「ポケストップ」は12月31日をめどにゲーム内から消去される。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter、イーロン前より使いにくくなってません？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news093.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news093.html"/>
+        <updated>2022-12-26T02:10:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏に経営権が渡ってから、ドラスティックな変更が続いている。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

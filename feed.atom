@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T08:17:10.629Z</updated>
+    <updated>2022-12-26T09:13:07.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -15,6 +15,36 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeCampがSchooと提携、リスキリングを通じてプログラミングやWebデザインを仕事にするための授業を配信]]></title>
+        <id>http://codezine.jp/article/detail/17100</id>
+        <link href="http://codezine.jp/article/detail/17100"/>
+        <updated>2022-12-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オンラインのプログラミング／Webデザインスクール「CodeCamp」を提供するコードキャンプは、オンライン学習サービスを提供するSchooと業務提携契約を締結し、リスキリングを通じてプログラミングやWebデザインを仕事にするための授業の配信を12月20日に開始した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アイデンティティー、フロントエンドエンジニアのスキル別相場を公開]]></title>
+        <id>http://codezine.jp/article/detail/17098</id>
+        <link href="http://codezine.jp/article/detail/17098"/>
+        <updated>2022-12-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ITフリーランスエンジニアの案件・求人サイト「テクフリ」を運営するアイデンティティーは、「ITフリーランスの相場Vol.1 - フロントエンドエンジニア編」を作成し12月22日に公開した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITエンジニア／デザイナーの副業・転職サービス「Offers」、「Offers Q&A機能」に新たに「質問募集機能」を追加]]></title>
+        <id>http://codezine.jp/article/detail/17099</id>
+        <link href="http://codezine.jp/article/detail/17099"/>
+        <updated>2022-12-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ITエンジニア／デザイナーの副業・転職サービス「Offers」を運営するoverflowは、ITエンジニア／デザイナーが抱えるキャリアの悩みや質問を投稿・回答ができる「Offers Q&A機能」に「質問募集機能」を追加した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

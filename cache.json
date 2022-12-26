@@ -4073,6 +4073,36 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17100",
+          "author": null,
+          "description": "オンラインのプログラミング／Webデザインスクール「CodeCamp」を提供するコードキャンプは、オンライン学習サービスを提供するSchooと業務提携契約を締結し、リスキリングを通じてプログラミングやWebデザインを仕事にするための授業の配信を12月20日に開始した。",
+          "link": "http://codezine.jp/article/detail/17100",
+          "publishedOn": "2022-12-26T08:00:00.000Z",
+          "wordCount": 4272,
+          "title": "CodeCampがSchooと提携、リスキリングを通じてプログラミングやWebデザインを仕事にするための授業を配信",
+          "imageUrl": "https://codezine.jp/static/images/article/17100/17100_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17098",
+          "author": null,
+          "description": "ITフリーランスエンジニアの案件・求人サイト「テクフリ」を運営するアイデンティティーは、「ITフリーランスの相場Vol.1 - フロントエンドエンジニア編」を作成し12月22日に公開した。",
+          "link": "http://codezine.jp/article/detail/17098",
+          "publishedOn": "2022-12-26T08:00:00.000Z",
+          "wordCount": 4284,
+          "title": "アイデンティティー、フロントエンドエンジニアのスキル別相場を公開",
+          "imageUrl": "https://codezine.jp/static/images/article/17098/17098_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17099",
+          "author": null,
+          "description": "ITエンジニア／デザイナーの副業・転職サービス「Offers」を運営するoverflowは、ITエンジニア／デザイナーが抱えるキャリアの悩みや質問を投稿・回答ができる「Offers Q&A機能」に「質問募集機能」を追加した。",
+          "link": "http://codezine.jp/article/detail/17099",
+          "publishedOn": "2022-12-26T08:00:00.000Z",
+          "wordCount": 4279,
+          "title": "ITエンジニア／デザイナーの副業・転職サービス「Offers」、「Offers Q&A機能」に新たに「質問募集機能」を追加",
+          "imageUrl": "https://codezine.jp/static/images/article/17099/17099_ogp.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17105",
           "author": null,
           "description": "米Cloudflareは、2022年のインターネットの傾向を振り返る文書「Cloudflare Radar 2022 Year in Review」を発表した。この文書は同社が運営するコンテンツ・デリバリ・ネットワークやセキュリティ関連サービス、DNSサービスなどのトラフィック・データをさまざまな形で集計したものだ。データは2022年1月2日から11月26日までの間に集めた。",

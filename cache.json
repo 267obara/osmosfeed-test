@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221226-mastodon-instance-hosting-legal-risk/",
+          "author": null,
+          "description": "Twitterが大きな変革を迎えている中で、誰かがホストしている「インスタンス」に参加したり、無料のオープンソースソフトウェアを自分の管理するサーバーで動かして自分自身のインスタンスを作ったりして、Mastodonのようなソーシャルメディアの代替サービスに乗り換える人が増えています。Mastodonのインスタンスをホストすることに付きまとう法的リスクについて、電子フロンティア財団がまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-mastodon-instance-hosting-legal-risk/",
+          "publishedOn": "2022-12-26T11:00:00.000Z",
+          "wordCount": 2438,
+          "title": "Mastodonのように多くのユーザーがコンテンツをネットに公開するアプリをセルフホストする際にDMCAなど法的問題について知っておくべき事まとめ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/mastodon-instance-hosting-legal-risk/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221226-ai-assistants-bug-code/",
           "author": null,
           "description": "2021年、ソフトウェア開発プラットフォームであるGitHubがAI研究組織のOpenAIと協力してコード補完AI「GitHub Copilot」を開発し、著作権などの問題で物議を醸しています。新たな研究では、GitHub Copilotや「Facebook InCoder」などのAIプログラミング機能に依存しているプログラマーは、AIを使わないプログラマーよりも不正確でバグの多いコードを生成しやすいことが実験で示されました。\n続きを読む...",
@@ -5996,6 +6006,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news155.html",
+          "author": null,
+          "description": "LINE Payは12月27日から、LINEの仮想通貨「LINK」を使った決済において、利用したLINKの10％を還元する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news155.html",
+          "publishedOn": "2022-12-26T10:47:00.000Z",
+          "wordCount": 2612,
+          "title": "LINE Pay、仮想通貨LINKを使った決済で常時10％還元",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news155.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news154.html",
+          "author": null,
+          "description": "バンダイナムコエンターテインメントが、「アイドルマスター」シリーズの新施策として、配信・ライブストリーミングを起点としたアイドルプロジェクト「PROJECT IM@S vα-liv」を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news154.html",
+          "publishedOn": "2022-12-26T10:41:00.000Z",
+          "wordCount": 2613,
+          "title": "「アイマス」が“ライブ配信発”のアイドルプロジェクト立ち上げ　MR活用の一環　Web3.0対応も表明",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news154.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news151.html",
+          "author": null,
+          "description": "シティホテルにおいて「帝国ホテル」が、近郊鉄道において「阪急電鉄」が、クレジットカードにおいて「楽天カード」が14年連続で1位を獲得した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news151.html",
+          "publishedOn": "2022-12-26T10:06:00.000Z",
+          "wordCount": 2591,
+          "title": "楽天カード、帝国ホテル、阪急電鉄　満足度調査で14年連続1位",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news151.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/26/news149.html",
           "author": null,

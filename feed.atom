@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T13:17:26.447Z</updated>
+    <updated>2022-12-26T14:11:42.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoogleやYouTubeで表示される広告を自分好みに変更できる「マイアドセンター」の使い方まとめ]]></title>
+        <id>https://gigazine.net/news/20221226-google-my-ad-center/</id>
+        <link href="https://gigazine.net/news/20221226-google-my-ad-center/"/>
+        <updated>2022-12-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[検索エンジンやウェブサイトなどいたるところに掲載されているインターネット広告は、GIGAZINEを含む多くのサービスの重要な収入源となっています。しかし、自分が全く興味のない広告を延々と見せられるのは困るところ。そんな時に便利そうなツールが、Google検索やYouTubeで表示される広告の内容をユーザー自身の手で管理できるGoogle純正ツールの「マイアドセンター」です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アニメ「異世界おじさん」再び放送・配信延期に　中国の新型コロナ感染急拡大で]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news159.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news159.html"/>
+        <updated>2022-12-26T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメ「異世界おじさん」製作委員会は26日、新型コロナウイルス感染拡大の影響で13話の放送と配信を延期すると発表した。29日は12話を再放送する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生チョコレートをそのままトッピングしたミスドの贅沢スイーツ「大人のポン・デ・ショコラ 濃厚生チョコレート」など2種を食べてみた]]></title>
         <id>https://gigazine.net/news/20221226-misterdonut-otona-no-pon-de-chocolat-2/</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221226-google-my-ad-center/",
+          "author": null,
+          "description": "検索エンジンやウェブサイトなどいたるところに掲載されているインターネット広告は、GIGAZINEを含む多くのサービスの重要な収入源となっています。しかし、自分が全く興味のない広告を延々と見せられるのは困るところ。そんな時に便利そうなツールが、Google検索やYouTubeで表示される広告の内容をユーザー自身の手で管理できるGoogle純正ツールの「マイアドセンター」です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-google-my-ad-center/",
+          "publishedOn": "2022-12-26T14:00:00.000Z",
+          "wordCount": 2432,
+          "title": "GoogleやYouTubeで表示される広告を自分好みに変更できる「マイアドセンター」の使い方まとめ",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/google-my-ad-center/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221226-misterdonut-otona-no-pon-de-chocolat-2/",
           "author": null,
           "description": "2022年12月26日からミスタードーナツに「大人のポン・デ・ショコラ」の第2弾が登場しました。生チョコレートとビターなココアパウダーで仕上がった「大人のポン・デ・ショコラ 濃厚生チョコレート」と、キャラメルクリームとホワイトチョコがトッピングされた「大人のポン・デ・ショコラ 濃厚キャラメル」が新たに登場したので、実際に食べてみました。\n続きを読む...",
@@ -6026,6 +6036,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news159.html",
+          "author": null,
+          "description": "アニメ「異世界おじさん」製作委員会は26日、新型コロナウイルス感染拡大の影響で13話の放送と配信を延期すると発表した。29日は12話を再放送する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news159.html",
+          "publishedOn": "2022-12-26T13:45:00.000Z",
+          "wordCount": 2349,
+          "title": "アニメ「異世界おじさん」再び放送・配信延期に　中国の新型コロナ感染急拡大で",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news159.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/26/news158.html",
           "author": null,

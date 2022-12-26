@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221226-dinosaur-eating-mammal-earliest-evidence/",
+          "author": null,
+          "description": "恐竜が地球上に生息していた頃から人間の祖先に当たる小型哺乳類は存在しており、一部の恐竜は哺乳類を捕食していた可能性があります。新たに、中国の博物館に収蔵されていたミクロラプトルの化石から、「恐竜が哺乳類を食べていた証拠」が発見されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-dinosaur-eating-mammal-earliest-evidence/",
+          "publishedOn": "2022-12-26T05:00:00.000Z",
+          "wordCount": 2487,
+          "title": "恐竜が哺乳類を食べていたことを示す化石が発見される、最も古い「ジェネラリストの肉食恐竜」の証拠か",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/dinosaur-eating-mammal-earliest-evidence/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221226-lastpass-vault-cracking/",
+          "author": null,
+          "description": "2022年8月にパスワード管理アプリ「LastPass」のソースコードの一部が何者かに盗み出されたことが報じられ、その後、2022年12月になってようやくLastPassはユーザーデータが不正アクセスされたことを認めました。この事件によりユーザーがパスワードを保管している「Vault(保管庫)」のデータが流出したことが報告されており、パスワードの流出が懸念されています。この事件を受け、セキュリティ研究者のナズ・マルクタ氏が「Vaultをクラッキングする方法」を実演し、その危険性に警鐘を鳴らしました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-lastpass-vault-cracking/",
+          "publishedOn": "2022-12-26T04:15:00.000Z",
+          "wordCount": 2453,
+          "title": "データ侵害が発生したパスワード管理アプリ「LastPass」をクラッキングする方法をセキュリティ研究者が実演",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/lastpass-vault-cracking/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221226-half-life-2-corpse/",
           "author": null,
           "description": "Valve開発の「Half-Life 2」は2004年に発表されたファーストパーソン・シューティングゲーム(FPS)で、Valveが5年かけて開発したゲームエンジン「Source Engine」を使った美しいグラフィックと物理現象のリアルな再現ぶりで大きく話題になりました。そんなHalf-Life 2には非常にリアルな死体が登場するのですが、この死体に実際の死体の顔が使われていたことが判明しました。\n続きを読む...",
@@ -4023,6 +4043,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17105",
+          "author": null,
+          "description": "米Cloudflareは、2022年のインターネットの傾向を振り返る文書「Cloudflare Radar 2022 Year in Review」を発表した。この文書は同社が運営するコンテンツ・デリバリ・ネットワークやセキュリティ関連サービス、DNSサービスなどのトラフィック・データをさまざまな形で集計したものだ。データは2022年1月2日から11月26日までの間に集めた。",
+          "link": "http://codezine.jp/article/detail/17105",
+          "publishedOn": "2022-12-26T04:30:00.000Z",
+          "wordCount": 4311,
+          "title": "Cloudflare、2022年のインターネットを振り返る「Cloudflare Radar 2022 Year in Review」を発表",
+          "imageUrl": "https://codezine.jp/static/images/article/17105/12794_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17106",
+          "author": null,
+          "description": "米Microsoftは、ドキュメント指向データベースサービス「Azure Cosmos DB for MongoDB」のバージョン5を限定プレビューという形で12月20日（現地時間）に公開した。現在のところ米国在住者のみを対象としている。試用を希望する開発者は、Azure Portalの「Preview Features」というページから申し込む必要がある。Microsoftは、申し込みを受けてから招待するまでに2週間ほどかかるとしている。",
+          "link": "http://codezine.jp/article/detail/17106",
+          "publishedOn": "2022-12-26T04:30:00.000Z",
+          "wordCount": 4301,
+          "title": "Microsoft、「Azure Cosmos DB for MongoDB」のバージョン5を限定プレビューとして公開",
+          "imageUrl": "https://codezine.jp/static/images/article/17106/12603_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16860",
           "author": null,
           "description": "海外のWebサイトを日本語に翻訳したり、言葉から画像や動画を自動生成したりするなど、AIのアウトプットは年々人間の創造物に近づいてきている。今回はAIが言語を扱う時の処理についての概要と、自然言語処理の技術発展に貢献した「Transformer」と呼ばれる深層学習モデルをテーマに、Google Cloud のAI Consultant 葛木 美紀氏が解説する。",
@@ -5876,6 +5916,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news112.html",
+          "author": null,
+          "description": "小島秀夫監督が手掛けたゲーム「DEATH STRANDING」のPC版が無料配布中。PCゲーム販売プラットフォーム「Epic Games Store」で、27日の午前1時まで配布する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news112.html",
+          "publishedOn": "2022-12-26T04:03:00.000Z",
+          "wordCount": 2362,
+          "title": "「デススト」PC版が無料配布、1日限定で　「メタルギア」小島監督手掛ける配達アドベンチャー",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news112.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/26/news111.html",
           "author": null,

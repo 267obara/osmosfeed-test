@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T04:16:12.448Z</updated>
+    <updated>2022-12-26T05:12:35.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[恐竜が哺乳類を食べていたことを示す化石が発見される、最も古い「ジェネラリストの肉食恐竜」の証拠か]]></title>
+        <id>https://gigazine.net/news/20221226-dinosaur-eating-mammal-earliest-evidence/</id>
+        <link href="https://gigazine.net/news/20221226-dinosaur-eating-mammal-earliest-evidence/"/>
+        <updated>2022-12-26T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[恐竜が地球上に生息していた頃から人間の祖先に当たる小型哺乳類は存在しており、一部の恐竜は哺乳類を捕食していた可能性があります。新たに、中国の博物館に収蔵されていたミクロラプトルの化石から、「恐竜が哺乳類を食べていた証拠」が発見されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare、2022年のインターネットを振り返る「Cloudflare Radar 2022 Year in Review」を発表]]></title>
+        <id>http://codezine.jp/article/detail/17105</id>
+        <link href="http://codezine.jp/article/detail/17105"/>
+        <updated>2022-12-26T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米Cloudflareは、2022年のインターネットの傾向を振り返る文書「Cloudflare Radar 2022 Year in Review」を発表した。この文書は同社が運営するコンテンツ・デリバリ・ネットワークやセキュリティ関連サービス、DNSサービスなどのトラフィック・データをさまざまな形で集計したものだ。データは2022年1月2日から11月26日までの間に集めた。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、「Azure Cosmos DB for MongoDB」のバージョン5を限定プレビューとして公開]]></title>
+        <id>http://codezine.jp/article/detail/17106</id>
+        <link href="http://codezine.jp/article/detail/17106"/>
+        <updated>2022-12-26T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは、ドキュメント指向データベースサービス「Azure Cosmos DB for MongoDB」のバージョン5を限定プレビューという形で12月20日（現地時間）に公開した。現在のところ米国在住者のみを対象としている。試用を希望する開発者は、Azure Portalの「Preview Features」というページから申し込む必要がある。Microsoftは、申し込みを受けてから招待するまでに2週間ほどかかるとしている。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[データ侵害が発生したパスワード管理アプリ「LastPass」をクラッキングする方法をセキュリティ研究者が実演]]></title>
+        <id>https://gigazine.net/news/20221226-lastpass-vault-cracking/</id>
+        <link href="https://gigazine.net/news/20221226-lastpass-vault-cracking/"/>
+        <updated>2022-12-26T04:15:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年8月にパスワード管理アプリ「LastPass」のソースコードの一部が何者かに盗み出されたことが報じられ、その後、2022年12月になってようやくLastPassはユーザーデータが不正アクセスされたことを認めました。この事件によりユーザーがパスワードを保管している「Vault(保管庫)」のデータが流出したことが報告されており、パスワードの流出が懸念されています。この事件を受け、セキュリティ研究者のナズ・マルクタ氏が「Vaultをクラッキングする方法」を実演し、その危険性に警鐘を鳴らしました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「デススト」PC版が無料配布、1日限定で　「メタルギア」小島監督手掛ける配達アドベンチャー]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news112.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news112.html"/>
+        <updated>2022-12-26T04:03:00.000Z</updated>
+        <summary type="html"><![CDATA[小島秀夫監督が手掛けたゲーム「DEATH STRANDING」のPC版が無料配布中。PCゲーム販売プラットフォーム「Epic Games Store」で、27日の午前1時まで配布する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[名作FPS「Half-Life 2」に登場する死体の顔には「本物の死体の写真」が使われていたと判明]]></title>
         <id>https://gigazine.net/news/20221226-half-life-2-corpse/</id>

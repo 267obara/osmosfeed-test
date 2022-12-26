@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T09:13:07.154Z</updated>
+    <updated>2022-12-26T10:13:56.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[コードを自動生成するAIを使うプログラマーはAIを使用しないプログラマーよりも安全性の低いコードを生成しやすいという研究結果]]></title>
+        <id>https://gigazine.net/news/20221226-ai-assistants-bug-code/</id>
+        <link href="https://gigazine.net/news/20221226-ai-assistants-bug-code/"/>
+        <updated>2022-12-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年、ソフトウェア開発プラットフォームであるGitHubがAI研究組織のOpenAIと協力してコード補完AI「GitHub Copilot」を開発し、著作権などの問題で物議を醸しています。新たな研究では、GitHub Copilotや「Facebook InCoder」などのAIプログラミング機能に依存しているプログラマーは、AIを使わないプログラマーよりも不正確でバグの多いコードを生成しやすいことが実験で示されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年12月26日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221226-headline/</id>
+        <link href="https://gigazine.net/news/20221226-headline/"/>
+        <updated>2022-12-26T09:58:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメ「乙女ゲー世界はモブに厳しい世界です」(モブせか)の第2期制作決定が発表されました。モブから王国の英雄になったリオンの今後の活躍や、オリヴィアやアンジェリカとの関係がどうなっていくのか、放送に期待が寄せられています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Amazonさんから代引きで来てますが？」──心当たりのない荷物は詐欺かも？　ヤマトに対策を聞いてみた]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news149.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news149.html"/>
+        <updated>2022-12-26T09:41:00.000Z</updated>
+        <summary type="html"><![CDATA[「Amazonさんから代引きで来てますが？」──身に覚えのない荷物の連絡がヤマト運輸からきたというツイートが話題になっている。荷物を受け取ると、代引き詐欺に巻き込まれる恐れがあるという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[実物大「パトレイバー」修復のためクラファン実施　35周年の節目、再びデッキアップへ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news148.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news148.html"/>
+        <updated>2022-12-26T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[全高8.2mの実物大「98式イングラム」を修復して再び立たせたい──「第一回幕張国際レイバーショウ」開催を控え、クラウドファンディングが始まった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[円安で需要増大　中古スマホ、年間ランキング1位は？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news145.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news145.html"/>
+        <updated>2022-12-26T08:56:00.000Z</updated>
+        <summary type="html"><![CDATA[ウェイブダッシュ（東京都千代田区）は、運営するフリーマーケットサイト「ムスビー」の「2022年の年間中古スマホランキング」、「2022年12月の中古スマホ・中古タブレットランキング」を発表した。年間ランキングの1位は「iPhone SE（第2世代）」であることが分かった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オフラインのChromeで遊べる「恐竜ゲーム」を巡り学校関係者から「生徒が遊ぶのを止める方法」の質問が多数寄せられていた]]></title>
         <id>https://gigazine.net/news/20221226-chrome-offline-game-disable-school/</id>

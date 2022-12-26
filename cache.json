@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221226-ai-assistants-bug-code/",
+          "author": null,
+          "description": "2021年、ソフトウェア開発プラットフォームであるGitHubがAI研究組織のOpenAIと協力してコード補完AI「GitHub Copilot」を開発し、著作権などの問題で物議を醸しています。新たな研究では、GitHub Copilotや「Facebook InCoder」などのAIプログラミング機能に依存しているプログラマーは、AIを使わないプログラマーよりも不正確でバグの多いコードを生成しやすいことが実験で示されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-ai-assistants-bug-code/",
+          "publishedOn": "2022-12-26T10:00:00.000Z",
+          "wordCount": 2436,
+          "title": "コードを自動生成するAIを使うプログラマーはAIを使用しないプログラマーよりも安全性の低いコードを生成しやすいという研究結果",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/ai-assistants-bug-code/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221226-headline/",
+          "author": null,
+          "description": "アニメ「乙女ゲー世界はモブに厳しい世界です」(モブせか)の第2期制作決定が発表されました。モブから王国の英雄になったリオンの今後の活躍や、オリヴィアやアンジェリカとの関係がどうなっていくのか、放送に期待が寄せられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221226-headline/",
+          "publishedOn": "2022-12-26T09:58:00.000Z",
+          "wordCount": 10502,
+          "title": "2022年12月26日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/26/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221226-chrome-offline-game-disable-school/",
           "author": null,
           "description": "Googleが開発するウェブブラウザのChromeにオフラインでアクセスすると、恐竜を操縦して障害物を飛び越えさせる「Dinosaur Game(恐竜ゲーム)」で遊ぶことができます。Chromeの公式フォーラムではそんな恐竜ゲームを巡り、過去に「生徒がこれで遊ぶのを止める方法は？」という質問が学校関係者から多数寄せられていました。\n続きを読む...",
@@ -5976,6 +5996,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news149.html",
+          "author": null,
+          "description": "「Amazonさんから代引きで来てますが？」──身に覚えのない荷物の連絡がヤマト運輸からきたというツイートが話題になっている。荷物を受け取ると、代引き詐欺に巻き込まれる恐れがあるという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news149.html",
+          "publishedOn": "2022-12-26T09:41:00.000Z",
+          "wordCount": 2597,
+          "title": "「Amazonさんから代引きで来てますが？」──心当たりのない荷物は詐欺かも？　ヤマトに対策を聞いてみた",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news149.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news148.html",
+          "author": null,
+          "description": "全高8.2mの実物大「98式イングラム」を修復して再び立たせたい──「第一回幕張国際レイバーショウ」開催を控え、クラウドファンディングが始まった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news148.html",
+          "publishedOn": "2022-12-26T09:30:00.000Z",
+          "wordCount": 2352,
+          "title": "実物大「パトレイバー」修復のためクラファン実施　35周年の節目、再びデッキアップへ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news148.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news145.html",
+          "author": null,
+          "description": "ウェイブダッシュ（東京都千代田区）は、運営するフリーマーケットサイト「ムスビー」の「2022年の年間中古スマホランキング」、「2022年12月の中古スマホ・中古タブレットランキング」を発表した。年間ランキングの1位は「iPhone SE（第2世代）」であることが分かった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news145.html",
+          "publishedOn": "2022-12-26T08:56:00.000Z",
+          "wordCount": 2616,
+          "title": "円安で需要増大　中古スマホ、年間ランキング1位は？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news145.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/26/news112.html",
           "author": null,

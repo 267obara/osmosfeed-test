@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-25T23:13:20.884Z</updated>
+    <updated>2022-12-26T01:06:15.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なぜロシアへIntelやAMDなどのチップや部品が輸出規制されているのに大量に輸入され続けているのかというグローバルサプライチェーンの仕組みが明らかに]]></title>
+        <id>https://gigazine.net/news/20221226-supply-chain-russia/</id>
+        <link href="https://gigazine.net/news/20221226-supply-chain-russia/"/>
+        <updated>2022-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ロシアによるウクライナへの軍事侵攻に対する制裁の一環として、2022年2月末ごろからアメリカの半導体大手であるIntelとAMDなどがロシアへの半導体販売を停止しています。その一方でロシアへの半導体供給の経路は開かれたままとなっており、その原因や実態についてロイターがまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、Visual Studio CodeのJava関連機能アップデート2022年12月版を公開]]></title>
+        <id>http://codezine.jp/article/detail/17092</id>
+        <link href="http://codezine.jp/article/detail/17092"/>
+        <updated>2022-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは、コードエディタVisual Studio Code向けのJava関連機能アップデート2022年12月版を12月15日（現地時間）に公開した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マッチングアプリで増えるロマンス詐欺　詐欺にだまされないためのチェックリスト　国民生活センター]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news085.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news085.html"/>
+        <updated>2022-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[国民生活センターは、マッチングアプリなどで知り合った相手からの投資詐欺が相次いでいることを受け、だまされないためのチェックリストを作成し、注意を呼びかけている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT機器による「見守り」ますます拡大　サブスクも]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news084.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news084.html"/>
+        <updated>2022-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IoT機器を活用した高齢者見守りサービスを提供する企業が増えている。家電や照明が長時間利用されないと家族に連絡が届く仕組みで、少子高齢化社会や新型コロナウイルス禍での新たな見守りの形として定着し始めた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anker初のスマート体重体組成計「Eufy Smart Scale P2 Pro」レビュー、外見はこんな感じ]]></title>
         <id>https://gigazine.net/news/20221226-eufy-smart-scale-p2-pro-appearance/</id>
@@ -15,6 +56,36 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コードからブロック図を生成、「D2」言語のバージョン0.1.2が登場]]></title>
+        <id>http://codezine.jp/article/detail/17091</id>
+        <link href="http://codezine.jp/article/detail/17091"/>
+        <updated>2022-12-25T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Terrastructは、ブロック図を作成するプログラミング言語「D2」の最新バージョン「バージョン0.1.2」を12月18日（現地時間）に公開した。D2はMozilla Public License 2.0で公開しているオープンソース・ソフトウェア。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4足歩行ロボット「MARVEL」　韓国と米国チームが開発　90度の壁を登り、天井を逆さに這う]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news043.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news043.html"/>
+        <updated>2022-12-25T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KAIST（韓国科学技術院）と米イリノイ大学アーバナ・シャンペーン校に所属する研究者らは、金属製の建物や構造物の壁や天井を登ることができる、磁気を帯びた脚を持つ作業用4足歩行ロボットを提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wi-Fiルーターで部屋にいる人が“呼吸困難”に陥っているかを特定　米研究所が技術開発]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news042.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news042.html"/>
+        <updated>2022-12-25T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ国立標準技術研究所（NIST）と米Center for Devices and Radiological Health（CDRH）に所属する研究者らは、既存のWi-Fiルーターを使って部屋にいる人の呼吸運動をモニタリングする手法を提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

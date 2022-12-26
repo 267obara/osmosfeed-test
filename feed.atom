@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T11:10:54.465Z</updated>
+    <updated>2022-12-26T12:24:30.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[超強力チャットAI「ChatGPT」に会話ログ出力機能やお気に入り機能を追加した非公式デスクトップアプリを使ってみた]]></title>
+        <id>https://gigazine.net/news/20221226-chatgpt-desktop-app/</id>
+        <link href="https://gigazine.net/news/20221226-chatgpt-desktop-app/"/>
+        <updated>2022-12-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI研究団体のOpenAIが開発したチャットAI「ChatGPT」は、大学レベルの筆記試験に合格できるほど高性能であることが知られており、コーディングや事務処理の補助に用いる試みが世界中で行われています。そんなChatGPTに会話内容出力機能やテンプレート機能を追加した非公式デスクトップアプリが公開されていたので、実際に使ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastodonのように多くのユーザーがコンテンツをネットに公開するアプリをセルフホストする際にDMCAなど法的問題について知っておくべき事まとめ]]></title>
         <id>https://gigazine.net/news/20221226-mastodon-instance-hosting-legal-risk/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[もしTwitterが有料化・終了したらどこに移行する　1位は？　Twitter以外使わないと断言する人も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news156.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news156.html"/>
+        <updated>2022-12-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MMD研究所はスマホ利用者調査の中で、Twitterが有料化・終了した場合の移行先はどこにするかとの問いに、約40％はInstagramと答えたと発表した。約8％は「Twitter以外使わない」と答えた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

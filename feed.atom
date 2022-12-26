@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T15:13:14.437Z</updated>
+    <updated>2022-12-26T16:17:44.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Dart 3」が来年登場。完全Nullセーフな言語となり、Nullセーフティなしの実行はサポート外に]]></title>
+        <id>https://www.publickey1.jp/blog/22/dart_3nullnull.html</id>
+        <link href="https://www.publickey1.jp/blog/22/dart_3nullnull.html"/>
+        <updated>2022-12-26T15:24:30.000Z</updated>
+        <summary type="html"><![CDATA[アプリケーションフレームワーク「Flutter」で使われているプログラミング言語「Dart」の開発チームは、来年（2023年）半ばにメジャーバージョンアップとなる「Dart 3」のリリースを予定していると発表しました。  The road ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ダークモードなどをサポートしたBootstrap 5.3アルファ1版が登場。新しいカラーパレットも追加]]></title>
+        <id>https://www.publickey1.jp/blog/22/bootstrap_531.html</id>
+        <link href="https://www.publickey1.jp/blog/22/bootstrap_531.html"/>
+        <updated>2022-12-26T15:22:28.000Z</updated>
+        <summary type="html"><![CDATA[複雑なHTMLやCSSを記述しなくとも、簡単にWebページをデザインできるフレームワーク「Bootstrap」の最新版「Bootstrap 5.3.0アルファ1版」がリリースされました。 Closing out the year with ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoogleやYouTubeで表示される広告を自分好みに変更できる「マイアドセンター」の使い方まとめ]]></title>
         <id>https://gigazine.net/news/20221226-google-my-ad-center/</id>

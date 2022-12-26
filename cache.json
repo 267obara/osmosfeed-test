@@ -5670,6 +5670,26 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/dart_3nullnull.html",
+          "author": null,
+          "description": "アプリケーションフレームワーク「Flutter」で使われているプログラミング言語「Dart」の開発チームは、来年（2023年）半ばにメジャーバージョンアップとなる「Dart 3」のリリースを予定していると発表しました。  The road ...",
+          "link": "https://www.publickey1.jp/blog/22/dart_3nullnull.html",
+          "publishedOn": "2022-12-26T15:24:30.000Z",
+          "wordCount": 1344,
+          "title": "「Dart 3」が来年登場。完全Nullセーフな言語となり、Nullセーフティなしの実行はサポート外に",
+          "imageUrl": "https://www.publickey1.jp/2022/FjdfDOxWAAAx1WY.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/bootstrap_531.html",
+          "author": null,
+          "description": "複雑なHTMLやCSSを記述しなくとも、簡単にWebページをデザインできるフレームワーク「Bootstrap」の最新版「Bootstrap 5.3.0アルファ1版」がリリースされました。 Closing out the year with ...",
+          "link": "https://www.publickey1.jp/blog/22/bootstrap_531.html",
+          "publishedOn": "2022-12-26T15:22:28.000Z",
+          "wordCount": 1271,
+          "title": "ダークモードなどをサポートしたBootstrap 5.3アルファ1版が登場。新しいカラーパレットも追加",
+          "imageUrl": "https://www.publickey1.jp/2022/bootstrap530a.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/webassemblyrubyyjitruby_320.html",
           "author": null,
           "description": "Ruby開発チームは、2022年12月25日にRuby 3.2.0の正式リリースを発表しました。Rubyは毎年12月25日に新バージョンをリリースすることが恒例となっています。 WebブラウザでRubyコードをそのまま実行可能に 新バージョ...",

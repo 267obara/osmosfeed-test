@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T14:11:42.730Z</updated>
+    <updated>2022-12-26T15:13:14.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -15,6 +15,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「BALMUDA Phone」が一括2023円に、MNP限定　ワイモバイルが1月13日までセール]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news160.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news160.html"/>
+        <updated>2022-12-26T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ワイモバイルが、「BALMUDA Phone」を一括2023円で販売する。他社からの乗り換え（MNP）限定で、期間は12月26日から1月13日まで。数には限りがあるという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

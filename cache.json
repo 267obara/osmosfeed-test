@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-simcity-windows-95-compatibility/",
+          "author": null,
+          "description": "Windows 95は32ビットOSですが、旧来の16ビットソフトウェアも完全に実行することができました。その中の1つに、Windows 3.1向けの16ビット版「シムシティ」も含まれています。実は、Windows 95のベータ版の時点では16ビット版シムシティは動かなかったのですが、Microsoftが徹底的な調査を行い、特別な仕様を盛り込むことで乗り切っていました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-simcity-windows-95-compatibility/",
+          "publishedOn": "2022-12-27T11:00:00.000Z",
+          "wordCount": 2645,
+          "title": "Windows 95は16ビット版シムシティの実行を検出すると特別なモードに入っていた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/simcity-windows-95-compatibility/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-flipper-zero-car-key/",
           "author": null,
           "description": "幅広い周波数帯の無線通信や赤外線・NFC・Bluetoothに対応したデバイス「Flipper Zero」を使って、自動車のロックを遠隔で操作できるスマートキーをコピーするショートムービーがTikTokで話題となっています。\n続きを読む...",
@@ -6356,6 +6366,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news162.html",
+          "author": null,
+          "description": "2022年、最も多くの投げ銭（スーパーチャット、通称スパチャ）を集めたバーチャルYouTuber（VTuber）は誰か。YouTubeのさまざまなデータを収集・公開している「Playboard」は、スパチャランキングを発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news162.html",
+          "publishedOn": "2022-12-27T10:28:00.000Z",
+          "wordCount": 2603,
+          "title": "2022年、最もスパチャを集めたVTuberは？　2位は「沙花叉クロヱ」さんで1億円超え　1位は？　Playboard調べ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news162.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news161.html",
+          "author": null,
+          "description": "青年誌「イブニング」が、2023年2月28日に発売する「イブニング6号」を以て休刊に。連載中の一部作品は同社のマンガアプリ「コミックDAYS」に引き継ぐ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news161.html",
+          "publishedOn": "2022-12-27T10:26:00.000Z",
+          "wordCount": 2587,
+          "title": "イブニング休刊　一部連載はマンガアプリ「コミックDAYS」に引継ぎ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news161.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news160.html",
+          "author": null,
+          "description": "「ステルスマーケティングに関する検討会」が、ステルスマーケティングは規制の必要性があるとする報告書をまとめた。現状は広告であるとの表示がない広告でも、不当表示がなければ規制できないが、ステマそのものを不当表示の一つとする方針を示した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news160.html",
+          "publishedOn": "2022-12-27T10:15:00.000Z",
+          "wordCount": 2594,
+          "title": "ステマは「不当表示」に　消費者庁が規制の方向性を示す",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news160.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/27/news155.html",
           "author": null,

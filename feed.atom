@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T10:13:58.069Z</updated>
+    <updated>2022-12-27T11:10:35.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 95は16ビット版シムシティの実行を検出すると特別なモードに入っていた]]></title>
+        <id>https://gigazine.net/news/20221227-simcity-windows-95-compatibility/</id>
+        <link href="https://gigazine.net/news/20221227-simcity-windows-95-compatibility/"/>
+        <updated>2022-12-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Windows 95は32ビットOSですが、旧来の16ビットソフトウェアも完全に実行することができました。その中の1つに、Windows 3.1向けの16ビット版「シムシティ」も含まれています。実は、Windows 95のベータ版の時点では16ビット版シムシティは動かなかったのですが、Microsoftが徹底的な調査を行い、特別な仕様を盛り込むことで乗り切っていました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年、最もスパチャを集めたVTuberは？　2位は「沙花叉クロヱ」さんで1億円超え　1位は？　Playboard調べ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news162.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news162.html"/>
+        <updated>2022-12-27T10:28:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年、最も多くの投げ銭（スーパーチャット、通称スパチャ）を集めたバーチャルYouTuber（VTuber）は誰か。YouTubeのさまざまなデータを収集・公開している「Playboard」は、スパチャランキングを発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イブニング休刊　一部連載はマンガアプリ「コミックDAYS」に引継ぎ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news161.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news161.html"/>
+        <updated>2022-12-27T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[青年誌「イブニング」が、2023年2月28日に発売する「イブニング6号」を以て休刊に。連載中の一部作品は同社のマンガアプリ「コミックDAYS」に引き継ぐ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ステマは「不当表示」に　消費者庁が規制の方向性を示す]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news160.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news160.html"/>
+        <updated>2022-12-27T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[「ステルスマーケティングに関する検討会」が、ステルスマーケティングは規制の必要性があるとする報告書をまとめた。現状は広告であるとの表示がない広告でも、不当表示がなければ規制できないが、ステマそのものを不当表示の一つとする方針を示した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自動車のスマートキーをFlipper Zeroで複製してハッキングする動画がTikTokで大人気に、本当に簡単にハッキングできるのか？]]></title>
         <id>https://gigazine.net/news/20221227-flipper-zero-car-key/</id>

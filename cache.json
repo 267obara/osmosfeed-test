@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-antibody-blood-clots-covid-19-vaccine/",
+          "author": null,
+          "description": "アストラゼネカ製の新型コロナウイルス感染症ワクチンでは「稀に珍しいタイプの血栓症が起きる」ことが分かっており、死亡例も報告されていますが、WHOは「メリットがリスクを上回る」との見解を発表しています。この、アストラゼネカ製ワクチンの血栓症には、珍しい遺伝子とそれに起因する自己抗体が関連している可能性が高いことが突き止められました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-antibody-blood-clots-covid-19-vaccine/",
+          "publishedOn": "2022-12-27T06:00:00.000Z",
+          "wordCount": 2466,
+          "title": "新型コロナワクチンの血栓は「異常な抗体」が原因との研究結果",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/antibody-blood-clots-covid-19-vaccine/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221227-mv-narrative-apartment/",
+          "author": null,
+          "description": "世界各国でリモートワーク化が進む中、Metaに勤めるオースティン・ウェルズ氏が豪華客船に12年間住み続ける契約を結び、船内で仕事をする計画を打ち立てたことが伝えられました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-mv-narrative-apartment/",
+          "publishedOn": "2022-12-27T05:15:00.000Z",
+          "wordCount": 2446,
+          "title": "究極のリモートワーク環境を手に入れるため28歳Meta社員がクルーズ船の一室を12年間リース契約",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/mv-narrative-apartment/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-women-sniff-out-single-partnered-men/",
           "author": null,
           "description": "一般的に、人間の性的関係においては外見や社会的ステータスが注目されがちですが、相手の「体臭」も性的魅力の評価に関わっていることが知られています。「独身男性と既婚男性の匂い」に対する女性の評価を調べた研究では、女性が独身男性と既婚男性の匂いを嗅ぎ分けられることが示されました。\n続きを読む...",
@@ -6296,6 +6316,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news059.html",
+          "author": null,
+          "description": "「ゲームで稼ぐという要素は、ほぼすべてのゲームに、薄く、広く入っていく」。そう喝破するコロプラ創業者が考える、持続可能なブロックチェーンゲームとは？",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news059.html",
+          "publishedOn": "2022-12-27T05:50:00.000Z",
+          "wordCount": 2621,
+          "title": "「遊んで稼ぐ」は実現可能か？　コロプラ創業者が挑む、持続可能なブロックチェーンゲームとは",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/l_yx_colo_00.png"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news091.html",
+          "author": null,
+          "description": "今をときめくIT・Web関連企業の経営者の本棚や愛読書をのぞき見。現代社会で戦うIT経営者たちがどんな考え方に影響を受けているのか、ヒントを探る。今回は、freee経営陣の本棚や愛読書をのぞき見る。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news091.html",
+          "publishedOn": "2022-12-27T05:00:00.000Z",
+          "wordCount": 2604,
+          "title": "freee経営陣はどんな本を読んでいる？　本棚のぞき見",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news091.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/27/news103.html",
           "author": null,

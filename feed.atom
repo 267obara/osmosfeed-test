@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T22:12:12.961Z</updated>
+    <updated>2022-12-27T23:13:51.969Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[最大45W出力でコンセントに挿して充電器としても使えるモバイルバッテリー「Anker 521 Power Bank」を使ってみた]]></title>
+        <id>https://gigazine.net/news/20221228-anker-521-power-bank/</id>
+        <link href="https://gigazine.net/news/20221228-anker-521-power-bank/"/>
+        <updated>2022-12-27T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[外出先でノートPCやスマートフォンを頻繁に使用するという人の場合、バッグの中にそれぞれの充電器を欠かさず持っていることも多いかと思います。そんな時に便利なのが、MacBookなどの充電器としても使える合計最大45W出力に対応したモバイルバッテリー「Anker 521 Power Bank」です。モバイルバッテリーとして使用する際は最大20Wの出力で2台の端末に給電することが可能で、コンセントに挿せばMacBook Airなどの充電器としても使えるということで、実際に触ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なぜ電気自動車は専用のタイヤを装着するべきなのか？]]></title>
         <id>https://gigazine.net/news/20221228-ev-specific-tires/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[要件定義の不安をなくす。全体像や機能、進め方などを『図解まるわかり 要件定義のきほん』から解説]]></title>
+        <id>http://codezine.jp/article/detail/17022</id>
+        <link href="http://codezine.jp/article/detail/17022"/>
+        <updated>2022-12-27T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[要件定義はプロジェクトの成否を左右するほど重要なものですが、いざその担当になったとき、不安なく要件定義書をまとめることはできるでしょうか。失敗しながら学ぶことも大切とはいえ、最初から知識があればより効率的に要件定義を進められます。今回は、書籍『図解まるわかり 要件定義のきほん』（翔泳社）から、要件定義の特徴や機能、その全体像について紹介します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
     <entry>

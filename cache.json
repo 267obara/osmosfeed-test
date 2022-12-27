@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-anker-521-power-bank/",
+          "author": null,
+          "description": "外出先でノートPCやスマートフォンを頻繁に使用するという人の場合、バッグの中にそれぞれの充電器を欠かさず持っていることも多いかと思います。そんな時に便利なのが、MacBookなどの充電器としても使える合計最大45W出力に対応したモバイルバッテリー「Anker 521 Power Bank」です。モバイルバッテリーとして使用する際は最大20Wの出力で2台の端末に給電することが可能で、コンセントに挿せばMacBook Airなどの充電器としても使えるということで、実際に触ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-anker-521-power-bank/",
+          "publishedOn": "2022-12-27T23:00:00.000Z",
+          "wordCount": 2700,
+          "title": "最大45W出力でコンセントに挿して充電器としても使えるモバイルバッテリー「Anker 521 Power Bank」を使ってみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/anker-521-power-bank/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221228-ev-specific-tires/",
           "author": null,
           "description": "走行に化石燃料を使わず環境に優しいとされている電気自動車は、ガソリン車とは異なる「電気自動車専用タイヤ」の使用が推奨されています。「一体なぜ電気自動車には専用のタイヤが求められるのか？」という疑問について、テクノロジー系メディアのArs Technicaがまとめています。\n続きを読む...",
@@ -4402,6 +4412,16 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/17022",
+          "author": null,
+          "description": "要件定義はプロジェクトの成否を左右するほど重要なものですが、いざその担当になったとき、不安なく要件定義書をまとめることはできるでしょうか。失敗しながら学ぶことも大切とはいえ、最初から知識があればより効率的に要件定義を進められます。今回は、書籍『図解まるわかり 要件定義のきほん』（翔泳社）から、要件定義の特徴や機能、その全体像について紹介します。",
+          "link": "http://codezine.jp/article/detail/17022",
+          "publishedOn": "2022-12-27T22:00:00.000Z",
+          "wordCount": 4582,
+          "title": "要件定義の不安をなくす。全体像や機能、進め方などを『図解まるわかり 要件定義のきほん』から解説",
+          "imageUrl": "https://codezine.jp/static/images/article/17022/17022_share.png"
+        },
         {
           "id": "http://codezine.jp/article/detail/16917",
           "author": null,

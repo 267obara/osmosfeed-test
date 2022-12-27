@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-flipper-zero-car-key/",
+          "author": null,
+          "description": "幅広い周波数帯の無線通信や赤外線・NFC・Bluetoothに対応したデバイス「Flipper Zero」を使って、自動車のロックを遠隔で操作できるスマートキーをコピーするショートムービーがTikTokで話題となっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-flipper-zero-car-key/",
+          "publishedOn": "2022-12-27T10:00:00.000Z",
+          "wordCount": 2476,
+          "title": "自動車のスマートキーをFlipper Zeroで複製してハッキングする動画がTikTokで大人気に、本当に簡単にハッキングできるのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/flipper-zero-car-key/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221227-headline/",
+          "author": null,
+          "description": "アニメ「チェンソーマン」の最終話「日本刀VSチェンソー」の予告映像が公開されました。タイトル通り、サムライソードとチェンソーマンの再戦が描かれます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-headline/",
+          "publishedOn": "2022-12-27T09:23:00.000Z",
+          "wordCount": 8532,
+          "title": "2022年12月27日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-gpu-pc-data-center-china/",
           "author": null,
           "description": "GPUは本来PCの画像処理に特化したプロセッサであり、以前はゲーマーなどが主な顧客層となっていました。ところが、近年では人工知能(AI)や高性能計算(HPC)に対する需要が急増しており、世界中でGPUメーカーが誕生していることを市場調査企業のJon Peddie Researchが発表しました。\n続きを読む...",
@@ -6336,6 +6356,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news155.html",
+          "author": null,
+          "description": "マッチングアプリで異性に人気の職業は──恋愛マッチングアプリ「Omiai」を提供するネットマーケティングが調査。女性に最も人気の職業は？",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news155.html",
+          "publishedOn": "2022-12-27T09:43:00.000Z",
+          "wordCount": 2338,
+          "title": "マッチングアプリでモテる職業ランキング　女性人気2位は「国家公務員」　1位は？　Omiai調査",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news155.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/26/news113.html",
           "author": null,

@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T09:12:41.132Z</updated>
+    <updated>2022-12-27T10:13:58.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自動車のスマートキーをFlipper Zeroで複製してハッキングする動画がTikTokで大人気に、本当に簡単にハッキングできるのか？]]></title>
+        <id>https://gigazine.net/news/20221227-flipper-zero-car-key/</id>
+        <link href="https://gigazine.net/news/20221227-flipper-zero-car-key/"/>
+        <updated>2022-12-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[幅広い周波数帯の無線通信や赤外線・NFC・Bluetoothに対応したデバイス「Flipper Zero」を使って、自動車のロックを遠隔で操作できるスマートキーをコピーするショートムービーがTikTokで話題となっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マッチングアプリでモテる職業ランキング　女性人気2位は「国家公務員」　1位は？　Omiai調査]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news155.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news155.html"/>
+        <updated>2022-12-27T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[マッチングアプリで異性に人気の職業は──恋愛マッチングアプリ「Omiai」を提供するネットマーケティングが調査。女性に最も人気の職業は？]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年12月27日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221227-headline/</id>
+        <link href="https://gigazine.net/news/20221227-headline/"/>
+        <updated>2022-12-27T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメ「チェンソーマン」の最終話「日本刀VSチェンソー」の予告映像が公開されました。タイトル通り、サムライソードとチェンソーマンの再戦が描かれます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サーバルームへ“お呼ばれ“した時の正しいコーデって？　データセンターに行って考えた【全身1万円の参考プラン付き】]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/26/news113.html</id>

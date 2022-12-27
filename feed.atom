@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T13:17:34.702Z</updated>
+    <updated>2022-12-27T14:11:55.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Googleの検索結果から見たくないサイトを消し去る拡張機能「ゴシップサイトブロッカー」を使ってみた]]></title>
+        <id>https://gigazine.net/news/20221227-gossip-site-blocker/</id>
+        <link href="https://gigazine.net/news/20221227-gossip-site-blocker/"/>
+        <updated>2022-12-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleを用いて情報収集をしていると、情報量が極端に少ないウェブサイトや他のウェブサイトの情報を丸ごとコピペしているようなウェブサイトに出くわすことがあります。こういったウェブサイトをGoogleの検索結果から除外できる拡張機能「ゴシップサイトブロッカー」を実際に使ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ふわふわ蟹あんかけになか卯のふわとろ親子丼がベストマッチな「蟹(かに)あんかけ親子丼」試食レビュー]]></title>
         <id>https://gigazine.net/news/20221227-nakau-oyako-don-with-crab-starchy-sauce/</id>

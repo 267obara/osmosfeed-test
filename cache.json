@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-arise-customer-service-sacrifice/",
+          "author": null,
+          "description": "各企業から外部委託を受けてカスタマーサービスを提供するArise Virtual Solutions(Arise)が従業員を不当に扱っているとして、ニュースサイトのProPublicaが調査報告を行いました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-arise-customer-service-sacrifice/",
+          "publishedOn": "2022-12-27T21:00:00.000Z",
+          "wordCount": 2437,
+          "title": "ディズニー・Amazon・Appleなどを支えるアウトソーシング企業「Arise」は44日間無給で研修を受けさせる超ブラック企業とのレポート",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/arise-customer-service-sacrifice/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-gossip-site-blocker/",
           "author": null,
           "description": "Googleを用いて情報収集をしていると、情報量が極端に少ないウェブサイトや他のウェブサイトの情報を丸ごとコピペしているようなウェブサイトに出くわすことがあります。こういったウェブサイトをGoogleの検索結果から除外できる拡張機能「ゴシップサイトブロッカー」を実際に使ってみました。\n続きを読む...",

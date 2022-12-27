@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-26T23:13:00.814Z</updated>
+    <updated>2022-12-27T01:06:07.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人間の髪の毛よりも薄く軽量であらゆる表面に接着できる太陽電池が開発される]]></title>
+        <id>https://gigazine.net/news/20221227-thin-film-solar-panels/</id>
+        <link href="https://gigazine.net/news/20221227-thin-film-solar-panels/"/>
+        <updated>2022-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[太陽光発電に用いる太陽電池は主にガラスやシリコンから作られており、サイズや重量が大きいことが問題とされています。しかし、マサチューセッツ工科大学(MIT)の研究者であるウラジミール・ブロヴィッチ氏らの研究チームは、あらゆる表面に接着できる、超薄型で軽量の太陽電池を開発し、この問題を解決しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニアの37.8％がリスキリングに興味。リスキリングへの興味は「制御・ソフトウェア系」が最多に]]></title>
+        <id>http://codezine.jp/article/detail/17108</id>
+        <link href="http://codezine.jp/article/detail/17108"/>
+        <updated>2022-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[メイテックは、同社の運営するエンジニアのためのキャリア応援マガジン「fabcross for エンジニア」が、エンジニア600名を対象に実施した、「エンジニアのリスキリング」に関するアンケート調査の結果を12月26日に発表した。同調査は、11月22日～23日の期間に行われている。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、Amazon RDSにAWS Secrets Managerの機能を統合]]></title>
+        <id>http://codezine.jp/article/detail/17111</id>
+        <link href="http://codezine.jp/article/detail/17111"/>
+        <updated>2022-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Amazon Web Servicesは、データベース・サービス「Amazon Relational Database Service（RDS）」に、認証情報を管理するサービスである「AWS Secrets Manager」の機能を統合したと12月22日（現地時間）に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全16項目を測定＆自分の体型を3Dモデル化して現実を突きつけるAnkerのスマート体重体組成計「Eufy Smart Scale P2 Pro」をセットアップしてみた]]></title>
         <id>https://gigazine.net/news/20221227-eufy-smart-scale-p2-pro-setup/</id>
@@ -25,6 +56,16 @@
         <summary type="html"><![CDATA[米Trend Microが運営する脆弱性発見コミュニティ「Zero Day Initiative」は、ksmbdが有効になっているLinuxカーネルにおいて、リモート攻撃が行われる可能性がある脆弱性が存在することを、12月22日（現地時間）に発表した。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「人間の脳はフィクションを求める」　発想力が足りないから世界に負ける――“SF思考”が日本再興の鍵に？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news056.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news056.html"/>
+        <updated>2022-12-26T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SFをビジネスに活用する取り組み「SFプロトタイピング」について、SF作家・樋口恭介さんが講演しました。「人間の脳はフィクションを求める」という言葉も飛び出した講演内容をレポート。企画意図などを取材しました。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

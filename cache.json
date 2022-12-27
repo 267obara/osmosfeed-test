@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-thin-film-solar-panels/",
+          "author": null,
+          "description": "太陽光発電に用いる太陽電池は主にガラスやシリコンから作られており、サイズや重量が大きいことが問題とされています。しかし、マサチューセッツ工科大学(MIT)の研究者であるウラジミール・ブロヴィッチ氏らの研究チームは、あらゆる表面に接着できる、超薄型で軽量の太陽電池を開発し、この問題を解決しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-thin-film-solar-panels/",
+          "publishedOn": "2022-12-27T00:00:00.000Z",
+          "wordCount": 2455,
+          "title": "人間の髪の毛よりも薄く軽量であらゆる表面に接着できる太陽電池が開発される",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/thin-film-solar-panels/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-eufy-smart-scale-p2-pro-setup/",
           "author": null,
           "description": "Ankerのスマートホームブランド・Eufy初となる体重体組成計「Eufy Smart Scale P2 Pro」が2022年8月30日に登場しました。単に体重を量るだけではなく、スマートフォンにアクセスして心拍数・体脂肪率・BMI・筋肉量・水分量・基礎代謝量・内臓脂肪量・体脂肪量・除脂肪体重・骨量(kg)・タンパク質・体内年齢・骨格筋量・皮下脂肪率・体脂肪率・ボディタイプの全16項目を測定でき、さらに自分の体型を3Dモデル化して示してくれるとのことで、Eufy Smart Scale P2 Proを実際にスマートフォンと連携させる設定を行ってみました。\n続きを読む...",
@@ -4163,6 +4173,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17108",
+          "author": null,
+          "description": "メイテックは、同社の運営するエンジニアのためのキャリア応援マガジン「fabcross for エンジニア」が、エンジニア600名を対象に実施した、「エンジニアのリスキリング」に関するアンケート調査の結果を12月26日に発表した。同調査は、11月22日～23日の期間に行われている。",
+          "link": "http://codezine.jp/article/detail/17108",
+          "publishedOn": "2022-12-27T00:00:00.000Z",
+          "wordCount": 4280,
+          "title": "エンジニアの37.8％がリスキリングに興味。リスキリングへの興味は「制御・ソフトウェア系」が最多に",
+          "imageUrl": "https://codezine.jp/static/images/article/17108/17108_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17111",
+          "author": null,
+          "description": "米Amazon Web Servicesは、データベース・サービス「Amazon Relational Database Service（RDS）」に、認証情報を管理するサービスである「AWS Secrets Manager」の機能を統合したと12月22日（現地時間）に発表した。",
+          "link": "http://codezine.jp/article/detail/17111",
+          "publishedOn": "2022-12-27T00:00:00.000Z",
+          "wordCount": 4304,
+          "title": "AWS、Amazon RDSにAWS Secrets Managerの機能を統合",
+          "imageUrl": "https://codezine.jp/static/images/article/17111/13345_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17109",
           "author": null,
           "description": "米Trend Microが運営する脆弱性発見コミュニティ「Zero Day Initiative」は、ksmbdが有効になっているLinuxカーネルにおいて、リモート攻撃が行われる可能性がある脆弱性が存在することを、12月22日（現地時間）に発表した。",
@@ -6096,6 +6126,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news056.html",
+          "author": null,
+          "description": "SFをビジネスに活用する取り組み「SFプロトタイピング」について、SF作家・樋口恭介さんが講演しました。「人間の脳はフィクションを求める」という言葉も飛び出した講演内容をレポート。企画意図などを取材しました。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news056.html",
+          "publishedOn": "2022-12-26T23:00:00.000Z",
+          "wordCount": 2623,
+          "title": "「人間の脳はフィクションを求める」　発想力が足りないから世界に負ける――“SF思考”が日本再興の鍵に？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news056.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/26/news160.html",
           "author": null,

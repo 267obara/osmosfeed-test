@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T12:24:48.093Z</updated>
+    <updated>2022-12-27T13:17:34.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ふわふわ蟹あんかけになか卯のふわとろ親子丼がベストマッチな「蟹(かに)あんかけ親子丼」試食レビュー]]></title>
+        <id>https://gigazine.net/news/20221227-nakau-oyako-don-with-crab-starchy-sauce/</id>
+        <link href="https://gigazine.net/news/20221227-nakau-oyako-don-with-crab-starchy-sauce/"/>
+        <updated>2022-12-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[なか卯のメニューに、2022年12月27日(火)から「蟹(かに)あんかけ親子丼」が期間限定で加わりました。ベニズワイガニなどを使用し、かつおだしをベースに卵白を加えたあんかけを淡雪に見立てた一品は、ふわふわな食感のあんかけに半熟卵でふわとろに仕上げた親子丼との相性抜群とのことなので、実際になか卯で買って食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[オスのショウジョウバエはメスを眠らせることで他のオスとの交尾を防ぐことが判明]]></title>
         <id>https://gigazine.net/news/20221227-male-fruit-flies-chemical-females-sleep/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1割引きの「オフピーク定期券」、JR東日本が23年3月発売]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news169.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news169.html"/>
+        <updated>2022-12-27T11:58:00.000Z</updated>
+        <summary type="html"><![CDATA[JR東日本は27日、現行の定期券に比べ運賃を約10％値下げした「オフピーク定期券」を2023年3月18日に発売すると発表した。通勤電車の混雑緩和や利用の平準化を目指す。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

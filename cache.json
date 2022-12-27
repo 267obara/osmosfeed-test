@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-nakau-oyako-don-with-crab-starchy-sauce/",
+          "author": null,
+          "description": "なか卯のメニューに、2022年12月27日(火)から「蟹(かに)あんかけ親子丼」が期間限定で加わりました。ベニズワイガニなどを使用し、かつおだしをベースに卵白を加えたあんかけを淡雪に見立てた一品は、ふわふわな食感のあんかけに半熟卵でふわとろに仕上げた親子丼との相性抜群とのことなので、実際になか卯で買って食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-nakau-oyako-don-with-crab-starchy-sauce/",
+          "publishedOn": "2022-12-27T13:00:00.000Z",
+          "wordCount": 2413,
+          "title": "ふわふわ蟹あんかけになか卯のふわとろ親子丼がベストマッチな「蟹(かに)あんかけ親子丼」試食レビュー",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/nakau-oyako-don-with-crab-starchy-sauce/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-male-fruit-flies-chemical-females-sleep/",
           "author": null,
           "description": "アルゼンチンのバリローチェ原子力センターと国立科学技術研究評議会(CONICET)・ブエノスアイレス・バイオキミカス研究所の研究者が共同で行った研究により、オスのショウジョウバエは交尾中にメスのショウジョウバエに化学物質を注入し、交尾後にメスが眠るよう仕向けていることを発見しました。これはメスが他のオスと交尾することを防ぐための行為だと考えられています。\n続きを読む...",
@@ -6376,6 +6386,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news169.html",
+          "author": null,
+          "description": "JR東日本は27日、現行の定期券に比べ運賃を約10％値下げした「オフピーク定期券」を2023年3月18日に発売すると発表した。通勤電車の混雑緩和や利用の平準化を目指す。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news169.html",
+          "publishedOn": "2022-12-27T11:58:00.000Z",
+          "wordCount": 2337,
+          "title": "1割引きの「オフピーク定期券」、JR東日本が23年3月発売",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news169.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/27/news165.html",
           "author": null,

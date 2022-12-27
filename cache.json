@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-gpu-pc-data-center-china/",
+          "author": null,
+          "description": "GPUは本来PCの画像処理に特化したプロセッサであり、以前はゲーマーなどが主な顧客層となっていました。ところが、近年では人工知能(AI)や高性能計算(HPC)に対する需要が急増しており、世界中でGPUメーカーが誕生していることを市場調査企業のJon Peddie Researchが発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-gpu-pc-data-center-china/",
+          "publishedOn": "2022-12-27T08:00:00.000Z",
+          "wordCount": 2476,
+          "title": "GPUを開発・製造する企業は全世界で19社、PCやデータセンター向けGPUを設計する11社のうち8社が中国に拠点を置いている",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/gpu-pc-data-center-china/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-bird-get-stupider-more-babies/",
           "author": null,
           "description": "子どもを産むことは人間を含むさまざまな動物の母親にとって、非常に多くのエネルギーを消耗する一大事です。Proceedings of the Royal Society B(英国王立協会紀要)に掲載された新たな論文では、アフリカ大陸南部のサバンナに生息するSouthern pied babbler(Turdoides bicolor／シロクロヤブチメドリ)は子どもを多く産んだメスほど認知能力が低いことが報告されました。\n続きを読む...",
@@ -6326,6 +6336,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news139.html",
+          "author": null,
+          "description": "Amazon.co.jpは2023年1月3日の午前9時から「初売りセール」を開催する。7日まで。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news139.html",
+          "publishedOn": "2022-12-27T07:13:00.000Z",
+          "wordCount": 2340,
+          "title": "Amazonが初売り、1月3日から　最大10％還元、福袋各種も",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news139.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/27/news131.html",
           "author": null,

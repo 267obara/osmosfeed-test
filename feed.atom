@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T07:12:00.285Z</updated>
+    <updated>2022-12-27T08:17:03.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GPUを開発・製造する企業は全世界で19社、PCやデータセンター向けGPUを設計する11社のうち8社が中国に拠点を置いている]]></title>
+        <id>https://gigazine.net/news/20221227-gpu-pc-data-center-china/</id>
+        <link href="https://gigazine.net/news/20221227-gpu-pc-data-center-china/"/>
+        <updated>2022-12-27T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GPUは本来PCの画像処理に特化したプロセッサであり、以前はゲーマーなどが主な顧客層となっていました。ところが、近年では人工知能(AI)や高性能計算(HPC)に対する需要が急増しており、世界中でGPUメーカーが誕生していることを市場調査企業のJon Peddie Researchが発表しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonが初売り、1月3日から　最大10％還元、福袋各種も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news139.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news139.html"/>
+        <updated>2022-12-27T07:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Amazon.co.jpは2023年1月3日の午前9時から「初売りセール」を開催する。7日まで。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「子どもをたくさん産んだメスほどバカな鳥」が報告される]]></title>
         <id>https://gigazine.net/news/20221227-bird-get-stupider-more-babies/</id>

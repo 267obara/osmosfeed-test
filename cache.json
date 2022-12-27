@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-women-sniff-out-single-partnered-men/",
+          "author": null,
+          "description": "一般的に、人間の性的関係においては外見や社会的ステータスが注目されがちですが、相手の「体臭」も性的魅力の評価に関わっていることが知られています。「独身男性と既婚男性の匂い」に対する女性の評価を調べた研究では、女性が独身男性と既婚男性の匂いを嗅ぎ分けられることが示されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-women-sniff-out-single-partnered-men/",
+          "publishedOn": "2022-12-27T05:00:00.000Z",
+          "wordCount": 2450,
+          "title": "女性は「パートナーがいる男性といない男性の匂い」を嗅ぎ分けられるという研究結果",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/women-sniff-out-single-partnered-men/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-microsoft-os-2-for-the-mach-20/",
           "author": null,
           "description": "MicrosoftはOSの「Windows」やオフィススイート「Microsoft Office」など数多くのソフトウェアを販売しています。その歴史上、最も売り上げが悪かったソフトウェアが「OS/2 for the Mach 20」だったことが、開発者でありMicrosoftの半公式歴史家でもあるレイモンド・チェン氏によって明かされています。\n続きを読む...",
@@ -6286,6 +6296,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news103.html",
+          "author": null,
+          "description": "GIGAスクール構想により、1人1台端末があればもうコンピュータ教室に移動してPCを使わなくていいだろう。と、コンピュータ教室を廃止する自治体が出始めている。だが12月19日、文部科学省が通知を出した。コンピュータ教室を廃止するのは待て、という話である。それはなぜか。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news103.html",
+          "publishedOn": "2022-12-27T04:30:00.000Z",
+          "wordCount": 2611,
+          "title": "“1人1台”で放置される学校の「コンピュータ教室」　それでも文科省が残したい理由",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news103.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/27/news101.html",
           "author": null,

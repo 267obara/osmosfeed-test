@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T04:16:17.543Z</updated>
+    <updated>2022-12-27T05:12:21.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[女性は「パートナーがいる男性といない男性の匂い」を嗅ぎ分けられるという研究結果]]></title>
+        <id>https://gigazine.net/news/20221227-women-sniff-out-single-partnered-men/</id>
+        <link href="https://gigazine.net/news/20221227-women-sniff-out-single-partnered-men/"/>
+        <updated>2022-12-27T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一般的に、人間の性的関係においては外見や社会的ステータスが注目されがちですが、相手の「体臭」も性的魅力の評価に関わっていることが知られています。「独身男性と既婚男性の匂い」に対する女性の評価を調べた研究では、女性が独身男性と既婚男性の匂いを嗅ぎ分けられることが示されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“1人1台”で放置される学校の「コンピュータ教室」　それでも文科省が残したい理由]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news103.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news103.html"/>
+        <updated>2022-12-27T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[GIGAスクール構想により、1人1台端末があればもうコンピュータ教室に移動してPCを使わなくていいだろう。と、コンピュータ教室を廃止する自治体が出始めている。だが12月19日、文部科学省が通知を出した。コンピュータ教室を廃止するのは待て、という話である。それはなぜか。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft製品で最も売り上げが悪かったソフトウェアは「OS/2 for the Mach 20」]]></title>
         <id>https://gigazine.net/news/20221227-microsoft-os-2-for-the-mach-20/</id>

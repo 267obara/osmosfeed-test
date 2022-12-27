@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-ev-specific-tires/",
+          "author": null,
+          "description": "走行に化石燃料を使わず環境に優しいとされている電気自動車は、ガソリン車とは異なる「電気自動車専用タイヤ」の使用が推奨されています。「一体なぜ電気自動車には専用のタイヤが求められるのか？」という疑問について、テクノロジー系メディアのArs Technicaがまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-ev-specific-tires/",
+          "publishedOn": "2022-12-27T22:00:00.000Z",
+          "wordCount": 2439,
+          "title": "なぜ電気自動車は専用のタイヤを装着するべきなのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/ev-specific-tires/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221228-arise-customer-service-sacrifice/",
           "author": null,
           "description": "各企業から外部委託を受けてカスタマーサービスを提供するArise Virtual Solutions(Arise)が従業員を不当に扱っているとして、ニュースサイトのProPublicaが調査報告を行いました。\n続きを読む...",

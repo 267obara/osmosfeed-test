@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T21:11:33.052Z</updated>
+    <updated>2022-12-27T22:12:12.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なぜ電気自動車は専用のタイヤを装着するべきなのか？]]></title>
+        <id>https://gigazine.net/news/20221228-ev-specific-tires/</id>
+        <link href="https://gigazine.net/news/20221228-ev-specific-tires/"/>
+        <updated>2022-12-27T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[走行に化石燃料を使わず環境に優しいとされている電気自動車は、ガソリン車とは異なる「電気自動車専用タイヤ」の使用が推奨されています。「一体なぜ電気自動車には専用のタイヤが求められるのか？」という疑問について、テクノロジー系メディアのArs Technicaがまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ディズニー・Amazon・Appleなどを支えるアウトソーシング企業「Arise」は44日間無給で研修を受けさせる超ブラック企業とのレポート]]></title>
         <id>https://gigazine.net/news/20221228-arise-customer-service-sacrifice/</id>

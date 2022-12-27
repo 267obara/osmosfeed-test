@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-male-fruit-flies-chemical-females-sleep/",
+          "author": null,
+          "description": "アルゼンチンのバリローチェ原子力センターと国立科学技術研究評議会(CONICET)・ブエノスアイレス・バイオキミカス研究所の研究者が共同で行った研究により、オスのショウジョウバエは交尾中にメスのショウジョウバエに化学物質を注入し、交尾後にメスが眠るよう仕向けていることを発見しました。これはメスが他のオスと交尾することを防ぐための行為だと考えられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-male-fruit-flies-chemical-females-sleep/",
+          "publishedOn": "2022-12-27T12:00:00.000Z",
+          "wordCount": 2454,
+          "title": "オスのショウジョウバエはメスを眠らせることで他のオスとの交尾を防ぐことが判明",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/male-fruit-flies-chemical-females-sleep/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-simcity-windows-95-compatibility/",
           "author": null,
           "description": "Windows 95は32ビットOSですが、旧来の16ビットソフトウェアも完全に実行することができました。その中の1つに、Windows 3.1向けの16ビット版「シムシティ」も含まれています。実は、Windows 95のベータ版の時点では16ビット版シムシティは動かなかったのですが、Microsoftが徹底的な調査を行い、特別な仕様を盛り込むことで乗り切っていました。\n続きを読む...",
@@ -6366,6 +6376,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news165.html",
+          "author": null,
+          "description": "「さばけないなら予約を受けるな」──クリスマスイブの12月24日、デリバリーピザチェーン「ドミノ・ピザ」に対して批判の声が上がった。ネット注文を推奨する同社の注文管理はクリスマスにはうまく機能しなかったのか？　話を聞いた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news165.html",
+          "publishedOn": "2022-12-27T10:56:00.000Z",
+          "wordCount": 2616,
+          "title": "クリスマスイブに阿鼻叫喚　ドミノ・ピザのネット注文はキャパオーバーだったのか？　話を聞いた",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news165.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/27/news162.html",
           "author": null,

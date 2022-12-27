@@ -6337,6 +6337,16 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/26/news113.html",
+          "author": null,
+          "description": "Twitter上で「サーバルームに呼ばれた時のコーデ」という投稿が話題になった。ツイートはITネタとして投稿されていたが、ネタではない“真のサーバルームコーデ”を求めてさくらインターネットのデータセンターを見学してきた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/26/news113.html",
+          "publishedOn": "2022-12-27T08:20:00.000Z",
+          "wordCount": 2592,
+          "title": "サーバルームへ“お呼ばれ“した時の正しいコーデって？　データセンターに行って考えた【全身1万円の参考プラン付き】",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/26/cover_news113.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/27/news139.html",
           "author": null,
           "description": "Amazon.co.jpは2023年1月3日の午前9時から「初売りセール」を開催する。7日まで。",

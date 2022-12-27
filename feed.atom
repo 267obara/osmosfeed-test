@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T08:17:03.037Z</updated>
+    <updated>2022-12-27T09:12:41.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サーバルームへ“お呼ばれ“した時の正しいコーデって？　データセンターに行って考えた【全身1万円の参考プラン付き】]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/26/news113.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/26/news113.html"/>
+        <updated>2022-12-27T08:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitter上で「サーバルームに呼ばれた時のコーデ」という投稿が話題になった。ツイートはITネタとして投稿されていたが、ネタではない“真のサーバルームコーデ”を求めてさくらインターネットのデータセンターを見学してきた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPUを開発・製造する企業は全世界で19社、PCやデータセンター向けGPUを設計する11社のうち8社が中国に拠点を置いている]]></title>
         <id>https://gigazine.net/news/20221227-gpu-pc-data-center-china/</id>

@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T06:17:01.184Z</updated>
+    <updated>2022-12-27T07:12:00.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「子どもをたくさん産んだメスほどバカな鳥」が報告される]]></title>
+        <id>https://gigazine.net/news/20221227-bird-get-stupider-more-babies/</id>
+        <link href="https://gigazine.net/news/20221227-bird-get-stupider-more-babies/"/>
+        <updated>2022-12-27T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[子どもを産むことは人間を含むさまざまな動物の母親にとって、非常に多くのエネルギーを消耗する一大事です。Proceedings of the Royal Society B(英国王立協会紀要)に掲載された新たな論文では、アフリカ大陸南部のサバンナに生息するSouthern pied babbler(Turdoides bicolor／シロクロヤブチメドリ)は子どもを多く産んだメスほど認知能力が低いことが報告されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヤフー「でんき予報」開始　エリアごとの電力需給をビジュアルで分かりやすく]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news131.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news131.html"/>
+        <updated>2022-12-27T06:32:00.000Z</updated>
+        <summary type="html"><![CDATA[ヤフーは27日、各地の電力需給の状況を一覧できる「でんき予報」の提供を始めた。当初は北海道電力、東北電力、東京電力の各エリアのみ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple日本法人に140億円の追徴課税　訪日客の「iPhone大量購入」を転売として免税認めず　複数報道]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news132.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news132.html"/>
+        <updated>2022-12-27T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米Appleの日本法人に東京国税局が140億円の追徴課税を実施したと、複数の報道機関が報じている。消費税が免税されない転売目的と疑われる購入が、2021年9月までの2年間でおよそ1400億円に上ったとしている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地方自治体のDXに地財措置　CIO補佐官の任命や職員育成を補助　総務省]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news127.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news127.html"/>
+        <updated>2022-12-27T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[総務省が、デジタル人材の確保・育成にかかる人件費などの経費について地方財政措置を講ずると発表した。「デジタル田園都市国家構想総合戦略」に基づいてDXを推進するとしている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[フリーランスが最も利用する「ファイル転送サービス」、1位は？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news125.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news125.html"/>
+        <updated>2022-12-27T06:05:00.000Z</updated>
+        <summary type="html"><![CDATA[法人リードジェネレーションサービスの運営などを行うミナオシ（東京都目黒区）は、フリーランス741人の利用データを集計し、実際に利用している「ファイル転送サービス」の調査結果を発表した。その結果、フリーランスに最も利用されているファイル転送サービスは、「GigaFile便」（160人）だった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナワクチンの血栓は「異常な抗体」が原因との研究結果]]></title>
         <id>https://gigazine.net/news/20221227-antibody-blood-clots-covid-19-vaccine/</id>
@@ -15,6 +66,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お名前.com値上げ、ドメイン登録やレンタルサーバなど　現行料金に10～20％の「サービス維持費」加算]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news124.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news124.html"/>
+        <updated>2022-12-27T05:58:00.000Z</updated>
+        <summary type="html"><![CDATA[「お名前.com」ブランドのドメイン登録サービスやレンタルサーバが値上げに。2023年2月以降の請求分に「サービス維持調整費」を加算。現行の月額料金（税別）から10～20％程度の値上げになる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

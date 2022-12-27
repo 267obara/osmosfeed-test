@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-bird-get-stupider-more-babies/",
+          "author": null,
+          "description": "子どもを産むことは人間を含むさまざまな動物の母親にとって、非常に多くのエネルギーを消耗する一大事です。Proceedings of the Royal Society B(英国王立協会紀要)に掲載された新たな論文では、アフリカ大陸南部のサバンナに生息するSouthern pied babbler(Turdoides bicolor／シロクロヤブチメドリ)は子どもを多く産んだメスほど認知能力が低いことが報告されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-bird-get-stupider-more-babies/",
+          "publishedOn": "2022-12-27T07:00:00.000Z",
+          "wordCount": 2479,
+          "title": "「子どもをたくさん産んだメスほどバカな鳥」が報告される",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/bird-get-stupider-more-babies/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-antibody-blood-clots-covid-19-vaccine/",
           "author": null,
           "description": "アストラゼネカ製の新型コロナウイルス感染症ワクチンでは「稀に珍しいタイプの血栓症が起きる」ことが分かっており、死亡例も報告されていますが、WHOは「メリットがリスクを上回る」との見解を発表しています。この、アストラゼネカ製ワクチンの血栓症には、珍しい遺伝子とそれに起因する自己抗体が関連している可能性が高いことが突き止められました。\n続きを読む...",
@@ -6316,6 +6326,56 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news131.html",
+          "author": null,
+          "description": "ヤフーは27日、各地の電力需給の状況を一覧できる「でんき予報」の提供を始めた。当初は北海道電力、東北電力、東京電力の各エリアのみ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news131.html",
+          "publishedOn": "2022-12-27T06:32:00.000Z",
+          "wordCount": 2592,
+          "title": "ヤフー「でんき予報」開始　エリアごとの電力需給をビジュアルで分かりやすく",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news131.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news132.html",
+          "author": null,
+          "description": "米Appleの日本法人に東京国税局が140億円の追徴課税を実施したと、複数の報道機関が報じている。消費税が免税されない転売目的と疑われる購入が、2021年9月までの2年間でおよそ1400億円に上ったとしている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news132.html",
+          "publishedOn": "2022-12-27T06:30:00.000Z",
+          "wordCount": 2593,
+          "title": "Apple日本法人に140億円の追徴課税　訪日客の「iPhone大量購入」を転売として免税認めず　複数報道",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news132.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news127.html",
+          "author": null,
+          "description": "総務省が、デジタル人材の確保・育成にかかる人件費などの経費について地方財政措置を講ずると発表した。「デジタル田園都市国家構想総合戦略」に基づいてDXを推進するとしている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news127.html",
+          "publishedOn": "2022-12-27T06:15:00.000Z",
+          "wordCount": 2588,
+          "title": "地方自治体のDXに地財措置　CIO補佐官の任命や職員育成を補助　総務省",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news127.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news125.html",
+          "author": null,
+          "description": "法人リードジェネレーションサービスの運営などを行うミナオシ（東京都目黒区）は、フリーランス741人の利用データを集計し、実際に利用している「ファイル転送サービス」の調査結果を発表した。その結果、フリーランスに最も利用されているファイル転送サービスは、「GigaFile便」（160人）だった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news125.html",
+          "publishedOn": "2022-12-27T06:05:00.000Z",
+          "wordCount": 2599,
+          "title": "フリーランスが最も利用する「ファイル転送サービス」、1位は？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news125.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/27/news124.html",
+          "author": null,
+          "description": "「お名前.com」ブランドのドメイン登録サービスやレンタルサーバが値上げに。2023年2月以降の請求分に「サービス維持調整費」を加算。現行の月額料金（税別）から10～20％程度の値上げになる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/27/news124.html",
+          "publishedOn": "2022-12-27T05:58:00.000Z",
+          "wordCount": 2594,
+          "title": "お名前.com値上げ、ドメイン登録やレンタルサーバなど　現行料金に10～20％の「サービス維持費」加算",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/27/cover_news124.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/27/news059.html",
           "author": null,

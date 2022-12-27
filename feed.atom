@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T03:14:25.823Z</updated>
+    <updated>2022-12-27T04:16:17.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft製品で最も売り上げが悪かったソフトウェアは「OS/2 for the Mach 20」]]></title>
+        <id>https://gigazine.net/news/20221227-microsoft-os-2-for-the-mach-20/</id>
+        <link href="https://gigazine.net/news/20221227-microsoft-os-2-for-the-mach-20/"/>
+        <updated>2022-12-27T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MicrosoftはOSの「Windows」やオフィススイート「Microsoft Office」など数多くのソフトウェアを販売しています。その歴史上、最も売り上げが悪かったソフトウェアが「OS/2 for the Mach 20」だったことが、開発者でありMicrosoftの半公式歴史家でもあるレイモンド・チェン氏によって明かされています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北朝鮮のサイバー犯罪集団が外交政策の専門家約900人をハッキング、情報を盗んで身代金を要求]]></title>
+        <id>https://gigazine.net/news/20221227-north-korea-hack-900-south-korean/</id>
+        <link href="https://gigazine.net/news/20221227-north-korea-hack-900-south-korean/"/>
+        <updated>2022-12-27T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[シンクタンクの専門家や大学教授などの外交政策に詳しい専門家892人や商業施設が、北朝鮮のサイバー犯罪集団からサイバー攻撃を受け、個人データやメーリングリストを盗まれたり、ランサムウェア攻撃を受けて身代金を要求されたりしたことが確認されたと、韓国の警察庁が発表しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金属を雪の結晶風の構造に変化させる手法が開発される]]></title>
+        <id>https://gigazine.net/news/20221227-liquid-metal-crystal/</id>
+        <link href="https://gigazine.net/news/20221227-liquid-metal-crystal/"/>
+        <updated>2022-12-27T03:26:00.000Z</updated>
+        <summary type="html"><![CDATA[雪の結晶には多種多様な構造が存在しており、アート作品のような美しい構造の結晶も存在しています。ニューサウスウェールズ大学の研究チームは、液体金属を用いて雪の結晶に似た構造を作り出すことに成功しました。液体金属の結晶は見た目が美しいだけでなく、半導体生産や水素生成の触媒として役立つ可能性があるとのことです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slackの未読を全て既読にするショートカットは「Shift＋○」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/27/news101.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/27/news101.html"/>
+        <updated>2022-12-27T03:19:00.000Z</updated>
+        <summary type="html"><![CDATA[デキるITビジネスパーソンなら誰もが知っている基礎知識をクイズ化。今回は全未読を全て既読にするSlackショートカット。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[防犯カメラ映像をリアルタイムで改ざんする政府御用達の恐るべき企業「Toka」の実態とは？]]></title>
         <id>https://gigazine.net/news/20221227-toka-israeli/</id>

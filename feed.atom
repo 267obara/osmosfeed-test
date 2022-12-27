@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T14:11:55.106Z</updated>
+    <updated>2022-12-27T15:13:18.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Webブラウザ版VSCode、WebAssembly版PythonによるWeb上でのPythonコードの実行やデバッグが可能に]]></title>
+        <id>https://www.publickey1.jp/blog/22/webvscodewebassemblypythonwebpython.html</id>
+        <link href="https://www.publickey1.jp/blog/22/webvscodewebassemblypythonwebpython.html"/>
+        <updated>2022-12-27T15:51:09.000Z</updated>
+        <summary type="html"><![CDATA[マイクロソフトは、WebAssembly版Pythonを用いることにより、Webブラウザ版のVisual Studio Code（以下VSCode）上でPythonコードの実行やデバッグを可能にする実験的な拡張機能「Python for t...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Googleの検索結果から見たくないサイトを消し去る拡張機能「ゴシップサイトブロッカー」を使ってみた]]></title>
         <id>https://gigazine.net/news/20221227-gossip-site-blocker/</id>

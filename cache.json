@@ -6020,6 +6020,16 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/webvscodewebassemblypythonwebpython.html",
+          "author": null,
+          "description": "マイクロソフトは、WebAssembly版Pythonを用いることにより、Webブラウザ版のVisual Studio Code（以下VSCode）上でPythonコードの実行やデバッグを可能にする実験的な拡張機能「Python for t...",
+          "link": "https://www.publickey1.jp/blog/22/webvscodewebassemblypythonwebpython.html",
+          "publishedOn": "2022-12-27T15:51:09.000Z",
+          "wordCount": 1260,
+          "title": "Webブラウザ版VSCode、WebAssembly版PythonによるWeb上でのPythonコードの実行やデバッグが可能に",
+          "imageUrl": "https://www.publickey1.jp/2022/vspython01.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/dart_3nullnull.html",
           "author": null,
           "description": "アプリケーションフレームワーク「Flutter」で使われているプログラミング言語「Dart」の開発チームは、来年（2023年）半ばにメジャーバージョンアップとなる「Dart 3」のリリースを予定していると発表しました。  The road ...",

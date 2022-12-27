@@ -6,6 +6,46 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221227-toka-israeli/",
+          "author": null,
+          "description": "防犯カメラによる映像は、事件の発生を抑制する監視の目になると同時に、実際に事件や事故が起きた際の状況や犯人を理解するためにも役立ちます。しかし、そんな防犯カメラの映像を、リアルタイムのものから過去の映像記録までハッキングして改ざんしてしまう知られざる企業「Toka」について、中東に関連するニュースを提供するHaaretz.comが解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-toka-israeli/",
+          "publishedOn": "2022-12-27T03:12:00.000Z",
+          "wordCount": 2616,
+          "title": "防犯カメラ映像をリアルタイムで改ざんする政府御用達の恐るべき企業「Toka」の実態とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/toka-israeli/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20221227-santa-claus-fastest-ever/",
+          "author": null,
+          "description": "世界の人口は増加の一途をたどっており、2022年11月15日には推定人口が80億人に達したことが伝えられています。人口増加を受けて世界中の子どもたちにプレゼントを届けるサンタクロースの仕事も激務と化してきており、今やマッハ7で飛ばなければならないことが調査により明らかになっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-santa-claus-fastest-ever/",
+          "publishedOn": "2022-12-27T03:00:00.000Z",
+          "wordCount": 2446,
+          "title": "世界人口の増加を受けサンタは今やマッハ7で飛ばなければいけない",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/santa-claus-fastest-ever/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221227-google-removed-yubikeys-account/",
+          "author": null,
+          "description": "ウェブサービスやアカウントにログインするためのパスワードは、どれだけ複雑にしていてもデータ侵害による情報漏えいなどで盗まれてしまう可能性があります。しかし、2要素認証を設定しておけば、IDやパスワードが漏れてしまってもアカウントにログインされる心配はなくなります。そんな2要素認証を手軽に導入できるデバイスが「YubiKey」なのですが、Googleアカウントで「YubiKey」を利用していたという人物が、「Googleがアカウントで使用していたYubiKeyを勝手に削除してしまった」と報告しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-google-removed-yubikeys-account/",
+          "publishedOn": "2022-12-27T02:50:00.000Z",
+          "wordCount": 2462,
+          "title": "Googleが「安全のため」と2要素認証デバイス「YubiKey」を勝手に無効化してしまう事態が発生",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/google-removed-yubikeys-account/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221227-komeda-coffee-shironoir-pudding/",
+          "author": null,
+          "description": "コメダ珈琲店の「シロノワール」シリーズに、2022年12月26日(月)からマンガ「ちいかわ」とコラボレーションした「シロノワール むちゃうまプリン」が登場しています。とろっと濃厚なプリン味のソースがかかった特別なシロノワールとのことなので、実際に食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221227-komeda-coffee-shironoir-pudding/",
+          "publishedOn": "2022-12-27T02:45:00.000Z",
+          "wordCount": 2436,
+          "title": "「ちいかわ」とコラボした濃厚でまるでプリンのような味わいの「シロノワール むちゃうまプリン」をコメダ珈琲店で食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/27/komeda-coffee-shironoir-pudding/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221227-bitcoin-hashrate-drops-winter-storm/",
           "author": null,
           "description": "2022年12月26日にアメリカで記録的な寒波が発生し、これまでに少なくとも57人が死亡し、7万を超す世帯や事業所で停電が発生しています。12月中旬から続く厳しい寒さや降雪の影響でビットコインのマイナーがマイニングを停止したため、ハッシュレートが大幅に低下していたことが分かりました。\n続きを読む...",
@@ -4203,6 +4243,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16917",
+          "author": null,
+          "description": "デジタル人材のキャリアパスや活躍の場として「コンサルティングファーム」という選択肢がある。しかし、どんな仕事をしているのか、どんなキャリアを築けるのか、知らない人も多いだろう。そこで、事業会社での経験を経て、現在はボストンコンサルティンググループ（BCG）のデジタル組織でそれぞれ、プロダクトマネージャーとして活躍する近藤あやの氏、シニアITアーキテクトの岡 亜矢子氏、そしてエクスペリエンスデザイナーの村山ゆり氏が、座談会形式で実際の仕事内容や働き方などを紹介した。",
+          "link": "http://codezine.jp/article/detail/16917",
+          "publishedOn": "2022-12-27T03:00:00.000Z",
+          "wordCount": 4347,
+          "title": "プロダクトマネージャー、アーキテクト、デザイナー……戦略コンサルティングファームでデジタル人材は何をしているのか",
+          "imageUrl": "https://codezine.jp/static/images/article/16917/16917_ogp.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16788",
           "author": null,
           "description": "この連載は、マンガで分かるプログラミング用語辞典です。気軽に読み流せるマンガと、テキストによる詳しい解説で、プログラミング未経験者がつまづきがちな専門用語・概念をやさしく読み解き、よりスムーズな学習を手助けします。市販のプログラミング入門書の副教材としてもぜひご活用ください。今回解説するのは、データなどを入れ替える処理「スワップ」です。",
@@ -6198,16 +6248,6 @@
           "wordCount": 1294,
           "title": "「Amazon RDS Blue/Green Deployments」登場。ステージング用データベースの構成、本番DBとの同期、安全な切り替えなど提供",
           "imageUrl": "https://www.publickey1.jp/2022/DTdPFuJG.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/spring_framework_605java_17.html",
-          "author": null,
-          "description": "Javaの代表的なフレームワークの1つである「Spring Framework 6.0」が11月18日付けで正式リリースが発表されました。 2017年にリリースされたSpring Framework 5.0以来、5年ぶりのメジャーバージョン...",
-          "link": "https://www.publickey1.jp/blog/22/spring_framework_605java_17.html",
-          "publishedOn": "2022-11-27T15:05:30.000Z",
-          "wordCount": 1287,
-          "title": "Spring Framework 6.0正式リリース、5年ぶりのメジャーバージョンアップ。Java 17以降に対応、ネイティブバイナリ化支援機能など",
-          "imageUrl": "https://www.publickey1.jp/2022/sprint6ga.png"
         }
       ]
     },

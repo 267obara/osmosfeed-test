@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-27T02:32:26.369Z</updated>
+    <updated>2022-12-27T03:14:25.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[防犯カメラ映像をリアルタイムで改ざんする政府御用達の恐るべき企業「Toka」の実態とは？]]></title>
+        <id>https://gigazine.net/news/20221227-toka-israeli/</id>
+        <link href="https://gigazine.net/news/20221227-toka-israeli/"/>
+        <updated>2022-12-27T03:12:00.000Z</updated>
+        <summary type="html"><![CDATA[防犯カメラによる映像は、事件の発生を抑制する監視の目になると同時に、実際に事件や事故が起きた際の状況や犯人を理解するためにも役立ちます。しかし、そんな防犯カメラの映像を、リアルタイムのものから過去の映像記録までハッキングして改ざんしてしまう知られざる企業「Toka」について、中東に関連するニュースを提供するHaaretz.comが解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界人口の増加を受けサンタは今やマッハ7で飛ばなければいけない]]></title>
+        <id>https://gigazine.net/news/20221227-santa-claus-fastest-ever/</id>
+        <link href="https://gigazine.net/news/20221227-santa-claus-fastest-ever/"/>
+        <updated>2022-12-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[世界の人口は増加の一途をたどっており、2022年11月15日には推定人口が80億人に達したことが伝えられています。人口増加を受けて世界中の子どもたちにプレゼントを届けるサンタクロースの仕事も激務と化してきており、今やマッハ7で飛ばなければならないことが調査により明らかになっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロダクトマネージャー、アーキテクト、デザイナー……戦略コンサルティングファームでデジタル人材は何をしているのか]]></title>
+        <id>http://codezine.jp/article/detail/16917</id>
+        <link href="http://codezine.jp/article/detail/16917"/>
+        <updated>2022-12-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デジタル人材のキャリアパスや活躍の場として「コンサルティングファーム」という選択肢がある。しかし、どんな仕事をしているのか、どんなキャリアを築けるのか、知らない人も多いだろう。そこで、事業会社での経験を経て、現在はボストンコンサルティンググループ（BCG）のデジタル組織でそれぞれ、プロダクトマネージャーとして活躍する近藤あやの氏、シニアITアーキテクトの岡 亜矢子氏、そしてエクスペリエンスデザイナーの村山ゆり氏が、座談会形式で実際の仕事内容や働き方などを紹介した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googleが「安全のため」と2要素認証デバイス「YubiKey」を勝手に無効化してしまう事態が発生]]></title>
+        <id>https://gigazine.net/news/20221227-google-removed-yubikeys-account/</id>
+        <link href="https://gigazine.net/news/20221227-google-removed-yubikeys-account/"/>
+        <updated>2022-12-27T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[ウェブサービスやアカウントにログインするためのパスワードは、どれだけ複雑にしていてもデータ侵害による情報漏えいなどで盗まれてしまう可能性があります。しかし、2要素認証を設定しておけば、IDやパスワードが漏れてしまってもアカウントにログインされる心配はなくなります。そんな2要素認証を手軽に導入できるデバイスが「YubiKey」なのですが、Googleアカウントで「YubiKey」を利用していたという人物が、「Googleがアカウントで使用していたYubiKeyを勝手に削除してしまった」と報告しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ちいかわ」とコラボした濃厚でまるでプリンのような味わいの「シロノワール むちゃうまプリン」をコメダ珈琲店で食べてみた]]></title>
+        <id>https://gigazine.net/news/20221227-komeda-coffee-shironoir-pudding/</id>
+        <link href="https://gigazine.net/news/20221227-komeda-coffee-shironoir-pudding/"/>
+        <updated>2022-12-27T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[コメダ珈琲店の「シロノワール」シリーズに、2022年12月26日(月)からマンガ「ちいかわ」とコラボレーションした「シロノワール むちゃうまプリン」が登場しています。とろっと濃厚なプリン味のソースがかかった特別なシロノワールとのことなので、実際に食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[実物大「パトレイバー」修復のクラファン、一晩で達成　「幕張国際レイバーショウ」警備出動へ]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/27/news092.html</id>
@@ -10566,16 +10620,6 @@
         <link href="https://www.publickey1.jp/blog/22/amazon_rds_bluegreen_deployments.html"/>
         <updated>2022-11-28T15:09:47.000Z</updated>
         <summary type="html"><![CDATA[Amazon Web Services（AWS）は、本番用のデータベースに対応するステージング用データベースの構成と安全な切り替えの仕組みなどを提供する新サービス「Amazon RDS Blue/Green Deployments」のリリー...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring Framework 6.0正式リリース、5年ぶりのメジャーバージョンアップ。Java 17以降に対応、ネイティブバイナリ化支援機能など]]></title>
-        <id>https://www.publickey1.jp/blog/22/spring_framework_605java_17.html</id>
-        <link href="https://www.publickey1.jp/blog/22/spring_framework_605java_17.html"/>
-        <updated>2022-11-27T15:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Javaの代表的なフレームワークの1つである「Spring Framework 6.0」が11月18日付けで正式リリースが発表されました。 2017年にリリースされたSpring Framework 5.0以来、5年ぶりのメジャーバージョン...]]></summary>
         <author>
             <name>Publickey</name>
         </author>

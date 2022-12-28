@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-dna-expert-what-bring-back-dinosaurs/",
+          "author": null,
+          "description": "近年のクローン技術の発展は目覚ましく、2022年7月には世界で初めて「フリーズドライされた体細胞」からクローンマウスを作り出す実験に日本の研究チームが成功しています。クローン技術の発展と共に「既に絶滅した恐竜のクローンを生み出すことができるのでは？」と期待を抱く人も少なくないはず。そんな恐竜の復活には何が必要なのかを、カナダのマックマスター大学のAncient DNA Centreで所長を務めるヘンドリック・ポイナー氏が語っています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-dna-expert-what-bring-back-dinosaurs/",
+          "publishedOn": "2022-12-28T12:00:00.000Z",
+          "wordCount": 2420,
+          "title": "「恐竜を復活させるには何が必要なのか？」をDNAの専門家に聞く",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/dna-expert-what-bring-back-dinosaurs/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221228-moon-extract-water-lunar-rock/",
           "author": null,
           "description": "人類で初めて月に立ったニール・アームストロングは1970年に、「私たちが生きている間に月面探査基地で人が暮らすようになるでしょう」と予言しました。2012年に亡くなったアームストロングの予言は成就しませんでしたが、その実現に向けた研究は着々と進んでいると、イギリスの大手紙・The Guardianが伝えています。\n続きを読む...",
@@ -6756,6 +6766,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news167.html",
+          "author": null,
+          "description": "任天堂が「ニンテンドーeショップ」「マイニンテンドーストア」において、「Nintendo Switch 新春セール」を開催する。ダウンロード版ソフトを最大50％オフで販売。期間は1月1日から15日まで。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news167.html",
+          "publishedOn": "2022-12-28T10:50:00.000Z",
+          "wordCount": 2367,
+          "title": "Switchソフトが最大50％オフ　任天堂が「Nintendo Switch 新春セール」　1月1日から",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/28/cover_news167.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/28/news158.html",
           "author": null,

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T11:11:14.315Z</updated>
+    <updated>2022-12-28T12:24:29.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「恐竜を復活させるには何が必要なのか？」をDNAの専門家に聞く]]></title>
+        <id>https://gigazine.net/news/20221228-dna-expert-what-bring-back-dinosaurs/</id>
+        <link href="https://gigazine.net/news/20221228-dna-expert-what-bring-back-dinosaurs/"/>
+        <updated>2022-12-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近年のクローン技術の発展は目覚ましく、2022年7月には世界で初めて「フリーズドライされた体細胞」からクローンマウスを作り出す実験に日本の研究チームが成功しています。クローン技術の発展と共に「既に絶滅した恐竜のクローンを生み出すことができるのでは？」と期待を抱く人も少なくないはず。そんな恐竜の復活には何が必要なのかを、カナダのマックマスター大学のAncient DNA Centreで所長を務めるヘンドリック・ポイナー氏が語っています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[月の石から水を取り出す研究が進行中、人類が月面に住む時代はもうすぐだと科学者]]></title>
         <id>https://gigazine.net/news/20221228-moon-extract-water-lunar-rock/</id>
@@ -26,6 +37,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switchソフトが最大50％オフ　任天堂が「Nintendo Switch 新春セール」　1月1日から]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/28/news167.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/28/news167.html"/>
+        <updated>2022-12-28T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[任天堂が「ニンテンドーeショップ」「マイニンテンドーストア」において、「Nintendo Switch 新春セール」を開催する。ダウンロード版ソフトを最大50％オフで販売。期間は1月1日から15日まで。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

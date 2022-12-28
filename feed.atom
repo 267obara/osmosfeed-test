@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T13:17:46.694Z</updated>
+    <updated>2022-12-28T14:11:53.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[非ECCメモリを使った結果データが破損したという体験談]]></title>
+        <id>https://gigazine.net/news/20221228-non-ecc-memory-corrupted-data/</id>
+        <link href="https://gigazine.net/news/20221228-non-ecc-memory-corrupted-data/"/>
+        <updated>2022-12-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PCに搭載するメモリの中には、エラー訂正機能を備えた「ECCメモリ」と呼ばれるものが存在します。このECCメモリは主にサーバーなどで用いられているのですが、ソフトウェアコンサルタントのロバート・エルダー氏は自身のPCが壊れた経験を踏まえて「個人用PCでもECCメモリを採用するべき」と主張しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スタバの細かく刻んだ「餅」入りの和風フラペチーノ「抹茶玄米茶 もち フラペチーノ」など抹茶玄米茶ドリンク2種を飲んでみた]]></title>
         <id>https://gigazine.net/news/20221228-starbucks-matcha-genmaicha/</id>

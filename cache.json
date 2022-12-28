@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-non-ecc-memory-corrupted-data/",
+          "author": null,
+          "description": "PCに搭載するメモリの中には、エラー訂正機能を備えた「ECCメモリ」と呼ばれるものが存在します。このECCメモリは主にサーバーなどで用いられているのですが、ソフトウェアコンサルタントのロバート・エルダー氏は自身のPCが壊れた経験を踏まえて「個人用PCでもECCメモリを採用するべき」と主張しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-non-ecc-memory-corrupted-data/",
+          "publishedOn": "2022-12-28T14:00:00.000Z",
+          "wordCount": 2430,
+          "title": "非ECCメモリを使った結果データが破損したという体験談",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/non-ecc-memory-corrupted-data/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221228-starbucks-matcha-genmaicha/",
           "author": null,
           "description": "スターバックスに抹茶と玄米茶をベースにした飲料「抹茶玄米茶 もち フラペチーノ」と「抹茶玄米茶 ムース ティーラテ」が登場しました。2種類のお茶の香ばしい味わいを楽しめるとのことで、どんな味なのか実際に飲んで確かめてみました。\n続きを読む...",

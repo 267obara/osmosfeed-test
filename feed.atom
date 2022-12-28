@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T14:11:53.013Z</updated>
+    <updated>2022-12-28T15:13:21.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「世界で最も美しい顔ベスト100(2022年版)」画像全まとめ]]></title>
+        <id>https://gigazine.net/news/20221229-most-beautiful-faces-2022/</id>
+        <link href="https://gigazine.net/news/20221229-most-beautiful-faces-2022/"/>
+        <updated>2022-12-28T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[毎年年末に映画評論サイトのTC Candlerが発表する「世界で最も美しい顔トップ100」の2022年版が発表されました。2021年版では日本から女優の山本舞香、小松菜奈、石原さとみ、TWICEの湊崎紗夏(サナ)と平井もも(モモ)、PURPLE K!SSの毛利小雪(ユキ)の6人が選出されていましたが、2022年版では山本舞香、小松菜奈、石原さとみ、モモ、ユキが選外となり、新たにAKB48の行天優莉奈、XGのHARVEY、女優の大和田南那、NiziUのニナ、LE SSERAFIMのカズハが選出されています。そんな「世界で最も美しい顔トップ100」の2022年版の全画像をまとめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[熱い獅子舞バトルを描く中国アニメ映画「雄獅少年」の日本語吹替版制作＆公開が決定]]></title>
+        <id>https://gigazine.net/news/20221229-lion-shonen/</id>
+        <link href="https://gigazine.net/news/20221229-lion-shonen/"/>
+        <updated>2022-12-28T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[面白い中国映画を上映する企画「電影祭」で2022年に日本語字幕版が上映され反響を呼んだアニメ映画「雄獅少年(ライオン少年)」の日本語吹替版制作が決定し、2023年に公開されることが発表されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[非ECCメモリを使った結果データが破損したという体験談]]></title>
         <id>https://gigazine.net/news/20221228-non-ecc-memory-corrupted-data/</id>

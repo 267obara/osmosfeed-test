@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-headline/",
+          "author": null,
+          "description": "2022年の中央競馬で最後のGⅠレースとなるホープフルステークスが中山競馬場で行われ、14番人気のドゥラエレーデが勝利しました。騎乗したのはドイツのバウルジャン・ムルザバエフ騎手で、短期免許で来日して初のGⅠ制覇です。2着には7番人気のトップナイフ、3着には6番人気のキングズレインが入り、3連単の配当は246万6010円と波乱の結果になりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-headline/",
+          "publishedOn": "2022-12-28T09:08:00.000Z",
+          "wordCount": 5369,
+          "title": "2022年12月28日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/headline/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221228-cellphone-satphone/",
           "author": null,
           "description": "人工衛星と直接通信することで既存の通信ネットワークでは通信不可能な地域でも快適な通信が可能になるという衛星通信サービスが、一般のスマートフォンでも利用できるくらいに普及するための土台が整いつつあると、技術標準化機関であるアメリカ電気電子学会(IEEE)の発行する雑誌・IEEE Spectrumがまとめています。\n続きを読む...",
@@ -4563,6 +4573,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17070",
+          "author": null,
+          "description": "CodeZineは、モブプログラミングを広めた安井力氏や及部敬雄氏といった第一人者を講師に迎え、CodeZine Academyの講座「リーダー＆マネージャーのためのチームの生産性をあげるモブプログラミング入門」を、2023年2月22日にオンライン開催する。",
+          "link": "http://codezine.jp/article/detail/17070",
+          "publishedOn": "2022-12-28T08:00:00.000Z",
+          "wordCount": 4261,
+          "title": "満席続出の大人気リモートモブプログラミング講座がリニューアル、来年2月22日初開催",
+          "imageUrl": "https://codezine.jp/static/images/article/17070/17070_og.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17113",
+          "author": null,
+          "description": "米Vercelは、エンドユーザーに近い「エッジ」でJavaScript/TypeScriptを処理する「Edge Functions」を12月15日（現地時間）に正式に公開した。2022年6月にパブリック・ベータとして公開し、改良を重ねながら今回の一般公開にこぎ着けた。",
+          "link": "http://codezine.jp/article/detail/17113",
+          "publishedOn": "2022-12-28T08:00:00.000Z",
+          "wordCount": 4301,
+          "title": "エッジでJavaScript/TypeScriptを処理、Vercelが「Edge Functions」を正式に公開",
+          "imageUrl": "https://codezine.jp/static/images/article/17113/13165_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17094",
           "author": null,
           "description": "米GitLabは、同社の開発するGitリポジトリマネージャGitLabの最新バージョンとなる、「GitLab 15.7」を12月22日（現地時間）にリリースした。",
@@ -6696,6 +6726,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news012.html",
+          "author": null,
+          "description": "プリペイドカード「バンドルカード」などを提供するフィンテックスタートアップのカンムが、2023年の3月をめどに三菱UFJ銀行（MUFG）の傘下に入る。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news012.html",
+          "publishedOn": "2022-12-28T08:00:00.000Z",
+          "wordCount": 2591,
+          "title": "「バンドルカード」のカンム、MUFG傘下に　デビットカードへの後払い機能実装目指す",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/28/cover_news012.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/28/news050.html",
           "author": null,

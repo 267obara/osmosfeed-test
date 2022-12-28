@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T08:16:51.746Z</updated>
+    <updated>2022-12-28T09:12:38.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年12月28日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20221228-headline/</id>
+        <link href="https://gigazine.net/news/20221228-headline/"/>
+        <updated>2022-12-28T09:08:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年の中央競馬で最後のGⅠレースとなるホープフルステークスが中山競馬場で行われ、14番人気のドゥラエレーデが勝利しました。騎乗したのはドイツのバウルジャン・ムルザバエフ騎手で、短期免許で来日して初のGⅠ制覇です。2着には7番人気のトップナイフ、3着には6番人気のキングズレインが入り、3連単の配当は246万6010円と波乱の結果になりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[満席続出の大人気リモートモブプログラミング講座がリニューアル、来年2月22日初開催]]></title>
+        <id>http://codezine.jp/article/detail/17070</id>
+        <link href="http://codezine.jp/article/detail/17070"/>
+        <updated>2022-12-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CodeZineは、モブプログラミングを広めた安井力氏や及部敬雄氏といった第一人者を講師に迎え、CodeZine Academyの講座「リーダー＆マネージャーのためのチームの生産性をあげるモブプログラミング入門」を、2023年2月22日にオンライン開催する。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エッジでJavaScript/TypeScriptを処理、Vercelが「Edge Functions」を正式に公開]]></title>
+        <id>http://codezine.jp/article/detail/17113</id>
+        <link href="http://codezine.jp/article/detail/17113"/>
+        <updated>2022-12-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Vercelは、エンドユーザーに近い「エッジ」でJavaScript/TypeScriptを処理する「Edge Functions」を12月15日（現地時間）に正式に公開した。2022年6月にパブリック・ベータとして公開し、改良を重ねながら今回の一般公開にこぎ着けた。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「バンドルカード」のカンム、MUFG傘下に　デビットカードへの後払い機能実装目指す]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/28/news012.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/28/news012.html"/>
+        <updated>2022-12-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[プリペイドカード「バンドルカード」などを提供するフィンテックスタートアップのカンムが、2023年の3月をめどに三菱UFJ銀行（MUFG）の傘下に入る。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“SF思考”のビジネス活用広がる　事例が続々　22年の「SFプロトタイピング」まとめと展望]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/28/news050.html</id>

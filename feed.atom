@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T15:13:21.136Z</updated>
+    <updated>2022-12-28T16:17:44.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Publickey年間人気記事ランキング2022。1位はcURLの作者に無礼なメール、2位はヨドバシの内製プライベートクラウド、3位は三流プログラマがなぜ米マイクロソフトの開発者になれたか]]></title>
+        <id>https://www.publickey1.jp/blog/22/publickey20221curl23.html</id>
+        <link href="https://www.publickey1.jp/blog/22/publickey20221curl23.html"/>
+        <updated>2022-12-28T15:49:20.000Z</updated>
+        <summary type="html"><![CDATA[今年もPublickeyをご愛読いただきありがとうございました。この記事が2022年最後の記事になります。 最後は、2022年にページビューが多かった記事をランキング形式で紹介していきましょう。読者の皆様の記憶に残っている記事はあるでしょう...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「世界で最も美しい顔ベスト100(2022年版)」画像全まとめ]]></title>
         <id>https://gigazine.net/news/20221229-most-beautiful-faces-2022/</id>

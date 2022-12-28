@@ -6420,6 +6420,16 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/22/publickey20221curl23.html",
+          "author": null,
+          "description": "今年もPublickeyをご愛読いただきありがとうございました。この記事が2022年最後の記事になります。 最後は、2022年にページビューが多かった記事をランキング形式で紹介していきましょう。読者の皆様の記憶に残っている記事はあるでしょう...",
+          "link": "https://www.publickey1.jp/blog/22/publickey20221curl23.html",
+          "publishedOn": "2022-12-28T15:49:20.000Z",
+          "wordCount": 1263,
+          "title": "Publickey年間人気記事ランキング2022。1位はcURLの作者に無礼なメール、2位はヨドバシの内製プライベートクラウド、3位は三流プログラマがなぜ米マイクロソフトの開発者になれたか",
+          "imageUrl": "https://www.publickey1.jp/fbico_pblky.png"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/22/itpr.html",
           "author": null,
           "description": "医療サービス「ファストドクター」とその運営元である「ファストドクター株式会社」は、この数年で急速に知名度を上げました。おそらく多くのITエンジニアの方々も、ニュースなどでその名称を一度は耳にしたことがあるのではないでしょうか。 新型コロナウ...",

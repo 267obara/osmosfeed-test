@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T07:12:11.556Z</updated>
+    <updated>2022-12-28T08:16:51.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[“SF思考”のビジネス活用広がる　事例が続々　22年の「SFプロトタイピング」まとめと展望]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/28/news050.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/28/news050.html"/>
+        <updated>2022-12-28T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[“SF思考”を使ってビジネスをバックキャスティングで考える企業が続々登場しています。そんな2022年の「SFプロトタイピング」を振り返りました。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普通のスマホが衛星電話になれる時代が到来しつつある]]></title>
         <id>https://gigazine.net/news/20221228-cellphone-satphone/</id>
@@ -15,6 +25,26 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「いらっしゃいませ」のつもりが「来るな」に　Google翻訳の誤訳が招いた悲劇、店側の対応を聞く]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/28/news137.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/28/news137.html"/>
+        <updated>2022-12-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google翻訳の誤訳で、韓国料理店が被害を受けているというツイートが話題になっている。「いらっしゃいませ」を韓国語に翻訳し、のれんなどに記載したところ「오지 마라」（来るな）と誤訳が載ってしまい、客を拒んでいるような状態になってしまっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「逆だったかもしれねェ」なデータベース恐怖体験　「本当にあったIT怖い話2022」大賞発表]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/28/news116.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/28/news116.html"/>
+        <updated>2022-12-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1年間の脅威や“ヒヤリハット”を忘れず、気を引き締める催しとして、ITmedia NEWS編集部が開催した「本当にあったIT怖い話大賞2022」。読者の皆さまから身の毛もよだつエピソードが集まったので、最も気が引き締まったものを大賞として発表します。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

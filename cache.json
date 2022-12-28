@@ -6697,6 +6697,36 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news050.html",
+          "author": null,
+          "description": "“SF思考”を使ってビジネスをバックキャスティングで考える企業が続々登場しています。そんな2022年の「SFプロトタイピング」を振り返りました。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news050.html",
+          "publishedOn": "2022-12-28T07:30:00.000Z",
+          "wordCount": 2643,
+          "title": "“SF思考”のビジネス活用広がる　事例が続々　22年の「SFプロトタイピング」まとめと展望",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/28/cover_news050.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news137.html",
+          "author": null,
+          "description": "Google翻訳の誤訳で、韓国料理店が被害を受けているというツイートが話題になっている。「いらっしゃいませ」を韓国語に翻訳し、のれんなどに記載したところ「오지 마라」（来るな）と誤訳が載ってしまい、客を拒んでいるような状態になってしまっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news137.html",
+          "publishedOn": "2022-12-28T07:00:00.000Z",
+          "wordCount": 2597,
+          "title": "「いらっしゃいませ」のつもりが「来るな」に　Google翻訳の誤訳が招いた悲劇、店側の対応を聞く",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/28/cover_news137.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news116.html",
+          "author": null,
+          "description": "1年間の脅威や“ヒヤリハット”を忘れず、気を引き締める催しとして、ITmedia NEWS編集部が開催した「本当にあったIT怖い話大賞2022」。読者の皆さまから身の毛もよだつエピソードが集まったので、最も気が引き締まったものを大賞として発表します。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news116.html",
+          "publishedOn": "2022-12-28T07:00:00.000Z",
+          "wordCount": 2596,
+          "title": "「逆だったかもしれねェ」なデータベース恐怖体験　「本当にあったIT怖い話2022」大賞発表",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/28/cover_news116.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/28/news113.html",
           "author": null,
           "description": "IT企業で働く人のデスク環境を写真や本人のコメント付きで紹介。転職先の雰囲気を把握したい人に向け、さまざまな職種の社員がどんな環境で働いているかをチェックする。今回は光インターネット回線の「NURO 光」に携わる人たちのデスク周りを見ていく。",

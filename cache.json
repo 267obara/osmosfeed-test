@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-starbucks-matcha-genmaicha/",
+          "author": null,
+          "description": "スターバックスに抹茶と玄米茶をベースにした飲料「抹茶玄米茶 もち フラペチーノ」と「抹茶玄米茶 ムース ティーラテ」が登場しました。2種類のお茶の香ばしい味わいを楽しめるとのことで、どんな味なのか実際に飲んで確かめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-starbucks-matcha-genmaicha/",
+          "publishedOn": "2022-12-28T13:00:00.000Z",
+          "wordCount": 2445,
+          "title": "スタバの細かく刻んだ「餅」入りの和風フラペチーノ「抹茶玄米茶 もち フラペチーノ」など抹茶玄米茶ドリンク2種を飲んでみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/starbucks-matcha-genmaicha/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221228-dna-expert-what-bring-back-dinosaurs/",
           "author": null,
           "description": "近年のクローン技術の発展は目覚ましく、2022年7月には世界で初めて「フリーズドライされた体細胞」からクローンマウスを作り出す実験に日本の研究チームが成功しています。クローン技術の発展と共に「既に絶滅した恐竜のクローンを生み出すことができるのでは？」と期待を抱く人も少なくないはず。そんな恐竜の復活には何が必要なのかを、カナダのマックマスター大学のAncient DNA Centreで所長を務めるヘンドリック・ポイナー氏が語っています。\n続きを読む...",
@@ -6766,6 +6776,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news171.html",
+          "author": null,
+          "description": "天空が、中国GPD製ポータブルゲーミングPC「GPD WIN 4」の仮予約を始めた。参考価格として14万円～15万円からとしているが、昨今の為替の変動幅が大きいことから、正式な価格は2023年2月の本予約開始時に決定する。発売は23年の4～5月を予定している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news171.html",
+          "publishedOn": "2022-12-28T12:30:00.000Z",
+          "wordCount": 2638,
+          "title": "PSPみたいな超小型ゲーミングPC「GPD WIN 4」、国内で予約開始　スライドキーボード内蔵",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/28/cover_news171.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/28/news167.html",
           "author": null,

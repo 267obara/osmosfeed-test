@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T09:12:38.623Z</updated>
+    <updated>2022-12-28T10:14:46.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[野生のカラスと仲良くなる方法を実践した結果とは？]]></title>
+        <id>https://gigazine.net/news/20221228-crow-befriend-how-to/</id>
+        <link href="https://gigazine.net/news/20221228-crow-befriend-how-to/"/>
+        <updated>2022-12-28T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[カラスは非常に賢い鳥であることが知られており、バラバラのパーツを集めて道具を作り出せることや霊長類よりも早く大人並の認知能力を獲得する能力があるとされています。そんなカラスと仲良くなろうとしたワシントン大学の生物学教授であるカール・バーグストーム氏が、その方法について自身のマストドンで解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[節電の味方、「こたつ」の電気代は1時間〇円]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/28/news158.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/28/news158.html"/>
+        <updated>2022-12-28T09:26:00.000Z</updated>
+        <summary type="html"><![CDATA[今回のトピックは「こたつ」。日本が世界に誇る暖房器具は節電という意味でもかなりの優等生です。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寅年も終わるし、2022年の“IT×猫”記事を振り返るにゃん　メタバース、ゲーム、ロボットなどで話題に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/28/news157.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/28/news157.html"/>
+        <updated>2022-12-28T09:20:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年、寅年がもうすぐ終わりを迎える。トラ＝ネコ科にちなんで、この1年でITmedia NEWSで取り上げた“IT×猫”の記事の中から反響の大きかった5本の記事を紹介する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年12月28日のヘッドラインニュース]]></title>
         <id>https://gigazine.net/news/20221228-headline/</id>
@@ -15,6 +46,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最古の仮想通貨取引所、Krakenが日本から2度目の撤退　「1月末までに出金を」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/28/news152.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/28/news152.html"/>
+        <updated>2022-12-28T08:41:00.000Z</updated>
+        <summary type="html"><![CDATA[世界各国で仮想通貨取引所を運営するKrakenは12月28日、「クラーケン・ジャパン」として提供していた日本での事業を停止すると発表した。2023年1月31日に廃業する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

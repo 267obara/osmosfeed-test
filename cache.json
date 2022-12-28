@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-crow-befriend-how-to/",
+          "author": null,
+          "description": "カラスは非常に賢い鳥であることが知られており、バラバラのパーツを集めて道具を作り出せることや霊長類よりも早く大人並の認知能力を獲得する能力があるとされています。そんなカラスと仲良くなろうとしたワシントン大学の生物学教授であるカール・バーグストーム氏が、その方法について自身のマストドンで解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-crow-befriend-how-to/",
+          "publishedOn": "2022-12-28T10:00:00.000Z",
+          "wordCount": 2451,
+          "title": "野生のカラスと仲良くなる方法を実践した結果とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/crow-befriend-how-to/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221228-headline/",
           "author": null,
           "description": "2022年の中央競馬で最後のGⅠレースとなるホープフルステークスが中山競馬場で行われ、14番人気のドゥラエレーデが勝利しました。騎乗したのはドイツのバウルジャン・ムルザバエフ騎手で、短期免許で来日して初のGⅠ制覇です。2着には7番人気のトップナイフ、3着には6番人気のキングズレインが入り、3連単の配当は246万6010円と波乱の結果になりました。\n続きを読む...",
@@ -6726,6 +6736,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news158.html",
+          "author": null,
+          "description": "今回のトピックは「こたつ」。日本が世界に誇る暖房器具は節電という意味でもかなりの優等生です。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news158.html",
+          "publishedOn": "2022-12-28T09:26:00.000Z",
+          "wordCount": 2340,
+          "title": "節電の味方、「こたつ」の電気代は1時間〇円",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/28/cover_news158.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news157.html",
+          "author": null,
+          "description": "2022年、寅年がもうすぐ終わりを迎える。トラ＝ネコ科にちなんで、この1年でITmedia NEWSで取り上げた“IT×猫”の記事の中から反響の大きかった5本の記事を紹介する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news157.html",
+          "publishedOn": "2022-12-28T09:20:00.000Z",
+          "wordCount": 2617,
+          "title": "寅年も終わるし、2022年の“IT×猫”記事を振り返るにゃん　メタバース、ゲーム、ロボットなどで話題に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/28/cover_news157.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news152.html",
+          "author": null,
+          "description": "世界各国で仮想通貨取引所を運営するKrakenは12月28日、「クラーケン・ジャパン」として提供していた日本での事業を停止すると発表した。2023年1月31日に廃業する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news152.html",
+          "publishedOn": "2022-12-28T08:41:00.000Z",
+          "wordCount": 2597,
+          "title": "最古の仮想通貨取引所、Krakenが日本から2度目の撤退　「1月末までに出金を」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/28/cover_news152.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/28/news012.html",
           "author": null,

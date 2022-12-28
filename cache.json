@@ -6788,16 +6788,6 @@
           "wordCount": 1378,
           "title": "［速報］Amazon AuroraのOLTPとRedshiftのDWHを統合する「Amazon Aurora zero-ETL integration with Amazon Redshift」発表。AWS re:Invent 2022",
           "imageUrl": "https://www.publickey1.jp/2022/aurorazeroetl01.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/awsaws_nitro_v5aws_reinvent_2022.html",
-          "author": null,
-          "description": "Amazon Web Services（AWS）の年次イベント「AWS re:Invent 2022」が米ラスベガスで開催中です。 最初の基調講演となった「Monday Night Live」に登壇したAWS Utility Computi...",
-          "link": "https://www.publickey1.jp/blog/22/awsaws_nitro_v5aws_reinvent_2022.html",
-          "publishedOn": "2022-11-29T08:37:07.000Z",
-          "wordCount": 1357,
-          "title": "［速報］AWS、クラウド基盤用のカスタムチップ「AWS Nitro v5」を発表。パケット処理能力など向上。AWS re:Invent 2022",
-          "imageUrl": "https://www.publickey1.jp/2022/awsnitrov501.png"
         }
       ]
     },

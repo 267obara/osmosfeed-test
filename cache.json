@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-moon-extract-water-lunar-rock/",
+          "author": null,
+          "description": "人類で初めて月に立ったニール・アームストロングは1970年に、「私たちが生きている間に月面探査基地で人が暮らすようになるでしょう」と予言しました。2012年に亡くなったアームストロングの予言は成就しませんでしたが、その実現に向けた研究は着々と進んでいると、イギリスの大手紙・The Guardianが伝えています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-moon-extract-water-lunar-rock/",
+          "publishedOn": "2022-12-28T11:00:00.000Z",
+          "wordCount": 2439,
+          "title": "月の石から水を取り出す研究が進行中、人類が月面に住む時代はもうすぐだと科学者",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/moon-extract-water-lunar-rock/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221228-tesla-shanghai-reduce-output/",
+          "author": null,
+          "description": "テスラの株価は2022年の1年間で69％下落したことが報じられています。理由としては、CEOであるイーロン・マスク氏への不信や、中国などの市場での需要減少への懸念が挙げられています。その中国で、テスラが上海工場の操業を予定より長くして減産する予定であることがわかりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-tesla-shanghai-reduce-output/",
+          "publishedOn": "2022-12-28T10:54:00.000Z",
+          "wordCount": 2460,
+          "title": "テスラが上海工場の稼働予定を大幅短縮、中国での需要が減少",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/tesla-shanghai-reduce-output/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221228-crow-befriend-how-to/",
           "author": null,
           "description": "カラスは非常に賢い鳥であることが知られており、バラバラのパーツを集めて道具を作り出せることや霊長類よりも早く大人並の認知能力を獲得する能力があるとされています。そんなカラスと仲良くなろうとしたワシントン大学の生物学教授であるカール・バーグストーム氏が、その方法について自身のマストドンで解説しています。\n続きを読む...",

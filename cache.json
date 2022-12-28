@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-chip-inventories/",
+          "author": null,
+          "description": "2020年以降、新型コロナウイルス感染症(COVID-19)のパンデミックや暗号資産マイニングの需要増が原因で世界的な半導体不足が続いており、「半導体不足は2024年まで続く」とIntelのCEOが発言したり、半導体を注文してから実際に納品されるまでのリードタイムが20週を突破したりしていました。しかしその一方で、近年では半導体不足の緩和が起きていると同時に、消費者がPCやスマートフォンなどの買い控えを行ったことで、半導体チップは逆に在庫が膨らむ供給過剰になっていることが報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-chip-inventories/",
+          "publishedOn": "2022-12-28T06:00:00.000Z",
+          "wordCount": 2612,
+          "title": "半導体不足が解消される一方でPCやスマホが売れなくなりチップの在庫が爆増中、各メーカーの声はどのようなものか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/chip-inventories/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221228-safari-date-picker-customer-support-issues/",
           "author": null,
           "description": "Appleが開発するウェブブラウザのSafariは、iPhoneやiPad、Macなどで使用されている標準的なブラウザです。ところが、効果的な高血圧薬を推奨する遺伝子検査のスタートアップ・Geneticureの創設者であるロバート・トーマス氏が、「Safariの日付を選ぶ仕組み」によって高齢のユーザーが戸惑ってしまい、Geneticureのカスタマーサポートに寄せられる苦情の3分の1を生み出していたと報告しています。\n続きを読む...",
@@ -4543,6 +4553,26 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17094",
+          "author": null,
+          "description": "米GitLabは、同社の開発するGitリポジトリマネージャGitLabの最新バージョンとなる、「GitLab 15.7」を12月22日（現地時間）にリリースした。",
+          "link": "http://codezine.jp/article/detail/17094",
+          "publishedOn": "2022-12-28T05:40:00.000Z",
+          "wordCount": 4306,
+          "title": "Gitリポジトリマネージャ「GitLab 15.7」がリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/17094/13529_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17095",
+          "author": null,
+          "description": "プログラミング言語「Ruby」の30周年記念イベントが、2023年2月25日にオンライン開催される。",
+          "link": "http://codezine.jp/article/detail/17095",
+          "publishedOn": "2022-12-28T05:40:00.000Z",
+          "wordCount": 4306,
+          "title": "Rubyの30周年を記念したイベント、2023年2月25日にオンライン開催",
+          "imageUrl": "https://codezine.jp/static/images/article/17095/12504_og.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16975",
           "author": null,
           "description": "リモートワークが一般的になり、一方でさまざまな課題が生じてきています。特にコミュニケーションの課題などは多くの人に関係するため大きな関心を集め、急速にさまざまなソリューションが出てきています。一方で開発業務に目を向けると、少しずつ進みつつあるものの、デファクトと言えるほどのものもなく、情報もあまり共有されていないように思います。そこで、筆者がいろいろと試行錯誤をしながら行った施策について紹介したいと思います。",
@@ -6656,6 +6686,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news113.html",
+          "author": null,
+          "description": "IT企業で働く人のデスク環境を写真や本人のコメント付きで紹介。転職先の雰囲気を把握したい人に向け、さまざまな職種の社員がどんな環境で働いているかをチェックする。今回は光インターネット回線の「NURO 光」に携わる人たちのデスク周りを見ていく。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news113.html",
+          "publishedOn": "2022-12-28T05:05:00.000Z",
+          "wordCount": 2704,
+          "title": "「NURO 光」で働く人たちのデスク環境　ITエンジニアからマーケター、工事の運用管理者まで",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/28/cover_news113.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/28/news109.html",
           "author": null,

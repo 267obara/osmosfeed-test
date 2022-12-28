@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T05:12:32.287Z</updated>
+    <updated>2022-12-28T06:17:03.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[半導体不足が解消される一方でPCやスマホが売れなくなりチップの在庫が爆増中、各メーカーの声はどのようなものか？]]></title>
+        <id>https://gigazine.net/news/20221228-chip-inventories/</id>
+        <link href="https://gigazine.net/news/20221228-chip-inventories/"/>
+        <updated>2022-12-28T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2020年以降、新型コロナウイルス感染症(COVID-19)のパンデミックや暗号資産マイニングの需要増が原因で世界的な半導体不足が続いており、「半導体不足は2024年まで続く」とIntelのCEOが発言したり、半導体を注文してから実際に納品されるまでのリードタイムが20週を突破したりしていました。しかしその一方で、近年では半導体不足の緩和が起きていると同時に、消費者がPCやスマートフォンなどの買い控えを行ったことで、半導体チップは逆に在庫が膨らむ供給過剰になっていることが報じられています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitリポジトリマネージャ「GitLab 15.7」がリリース]]></title>
+        <id>http://codezine.jp/article/detail/17094</id>
+        <link href="http://codezine.jp/article/detail/17094"/>
+        <updated>2022-12-28T05:40:00.000Z</updated>
+        <summary type="html"><![CDATA[米GitLabは、同社の開発するGitリポジトリマネージャGitLabの最新バージョンとなる、「GitLab 15.7」を12月22日（現地時間）にリリースした。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rubyの30周年を記念したイベント、2023年2月25日にオンライン開催]]></title>
+        <id>http://codezine.jp/article/detail/17095</id>
+        <link href="http://codezine.jp/article/detail/17095"/>
+        <updated>2022-12-28T05:40:00.000Z</updated>
+        <summary type="html"><![CDATA[プログラミング言語「Ruby」の30周年記念イベントが、2023年2月25日にオンライン開催される。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「NURO 光」で働く人たちのデスク環境　ITエンジニアからマーケター、工事の運用管理者まで]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/28/news113.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/28/news113.html"/>
+        <updated>2022-12-28T05:05:00.000Z</updated>
+        <summary type="html"><![CDATA[IT企業で働く人のデスク環境を写真や本人のコメント付きで紹介。転職先の雰囲気を把握したい人に向け、さまざまな職種の社員がどんな環境で働いているかをチェックする。今回は光インターネット回線の「NURO 光」に携わる人たちのデスク周りを見ていく。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Safariの日付を選ぶ仕組み」がカスタマーサポートに寄せられる苦情の3分の1を生み出していたという報告]]></title>
         <id>https://gigazine.net/news/20221228-safari-date-picker-customer-support-issues/</id>

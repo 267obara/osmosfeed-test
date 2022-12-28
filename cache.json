@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-cellphone-satphone/",
+          "author": null,
+          "description": "人工衛星と直接通信することで既存の通信ネットワークでは通信不可能な地域でも快適な通信が可能になるという衛星通信サービスが、一般のスマートフォンでも利用できるくらいに普及するための土台が整いつつあると、技術標準化機関であるアメリカ電気電子学会(IEEE)の発行する雑誌・IEEE Spectrumがまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-cellphone-satphone/",
+          "publishedOn": "2022-12-28T07:00:00.000Z",
+          "wordCount": 2462,
+          "title": "普通のスマホが衛星電話になれる時代が到来しつつある",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/cellphone-satphone/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221228-chip-inventories/",
           "author": null,
           "description": "2020年以降、新型コロナウイルス感染症(COVID-19)のパンデミックや暗号資産マイニングの需要増が原因で世界的な半導体不足が続いており、「半導体不足は2024年まで続く」とIntelのCEOが発言したり、半導体を注文してから実際に納品されるまでのリードタイムが20週を突破したりしていました。しかしその一方で、近年では半導体不足の緩和が起きていると同時に、消費者がPCやスマートフォンなどの買い控えを行ったことで、半導体チップは逆に在庫が膨らむ供給過剰になっていることが報じられています。\n続きを読む...",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T06:17:03.278Z</updated>
+    <updated>2022-12-28T07:12:11.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[普通のスマホが衛星電話になれる時代が到来しつつある]]></title>
+        <id>https://gigazine.net/news/20221228-cellphone-satphone/</id>
+        <link href="https://gigazine.net/news/20221228-cellphone-satphone/"/>
+        <updated>2022-12-28T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人工衛星と直接通信することで既存の通信ネットワークでは通信不可能な地域でも快適な通信が可能になるという衛星通信サービスが、一般のスマートフォンでも利用できるくらいに普及するための土台が整いつつあると、技術標準化機関であるアメリカ電気電子学会(IEEE)の発行する雑誌・IEEE Spectrumがまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[半導体不足が解消される一方でPCやスマホが売れなくなりチップの在庫が爆増中、各メーカーの声はどのようなものか？]]></title>
         <id>https://gigazine.net/news/20221228-chip-inventories/</id>

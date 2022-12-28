@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-central-african-republic-sangocoin/",
+          "author": null,
+          "description": "2022年4月、中央アフリカ共和国の大統領府は仮想通貨のビットコインを法定通貨として採用することを発表しました。国家が法定通貨に仮想通貨を採用すると発表したのはエルサルバドルに次いで世界で2番目。さらに中央アフリカ共和国は独自の仮想通貨「サンゴコイン」をトークンとして発行すると2022年7月に発表し、世界中から注目を集めました。しかし、この中央アフリカ共和国の経済政策は、記事作成時点だとうまくいってない模様です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-central-african-republic-sangocoin/",
+          "publishedOn": "2022-12-28T00:00:00.000Z",
+          "wordCount": 2459,
+          "title": "ビットコインを法定通貨として採用した後に中途半端な仮想通貨「サンゴコイン」を開始した中央アフリカ共和国はどうなったのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/central-african-republic-sangocoin/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221228-anker-521-power-bank/",
           "author": null,
           "description": "外出先でノートPCやスマートフォンを頻繁に使用するという人の場合、バッグの中にそれぞれの充電器を欠かさず持っていることも多いかと思います。そんな時に便利なのが、MacBookなどの充電器としても使える合計最大45W出力に対応したモバイルバッテリー「Anker 521 Power Bank」です。モバイルバッテリーとして使用する際は最大20Wの出力で2台の端末に給電することが可能で、コンセントに挿せばMacBook Airなどの充電器としても使えるということで、実際に触ってみました。\n続きを読む...",
@@ -4413,6 +4423,46 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17110",
+          "author": null,
+          "description": "情報処理推進機構は、10月9日に実施した令和4年度秋期情報処理技術者試験の応用情報技術者試験、高度試験および情報処理安全確保支援士試験の合格者を、12月22日に発表した。データベーススペシャリスト試験では、14歳の中学生が合格し、最年少記録を6年ぶりに更新されている。",
+          "link": "http://codezine.jp/article/detail/17110",
+          "publishedOn": "2022-12-28T00:00:00.000Z",
+          "wordCount": 4307,
+          "title": "令和4年度秋期情報処理技術者試験、14歳がデータベーススペシャリストに、72歳が応用情報技術者に合格し、最年少記録・最年長記録を更新",
+          "imageUrl": "https://codezine.jp/static/images/article/17110/13269_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17112",
+          "author": null,
+          "description": "GNU／Linuxディストリビューション「Debian」の開発チームは、最新安定版となる「Debian 11（コードネーム：bullseye）」の6番目のアップデート「Debian 11.6」を、12月17日（現地時間）に公開した。",
+          "link": "http://codezine.jp/article/detail/17112",
+          "publishedOn": "2022-12-28T00:00:00.000Z",
+          "wordCount": 4314,
+          "title": "GNU／Linuxディストリビューション「Debian 11.6」が公開、カーネルをアップデート",
+          "imageUrl": "https://codezine.jp/static/images/article/17112/14408_ig.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17122",
+          "author": null,
+          "description": "米Dockerは、クライアント向けコンテナ基盤「Docker Desktop」で使用できるプラグインの中から、12月に登場したおすすめプラグイン2種類を12月22日（現地時間）公開のブログで紹介した。",
+          "link": "http://codezine.jp/article/detail/17122",
+          "publishedOn": "2022-12-28T00:00:00.000Z",
+          "wordCount": 4317,
+          "title": "Docker、12月に登場したおすすめプラグインを紹介",
+          "imageUrl": "https://codezine.jp/static/images/article/17122/12883_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17123",
+          "author": null,
+          "description": "Women in Agile Tokyo 2023実行委員会は、企業でアジャイルを実践し、普及を支援する“アジャイルリーダー”のためのイベント「Women in Agile Tokyo 2023」を、2023年2月17日に大崎ブライトコア（東京都品川区）の3階にて開催する。チケット料金は5000円。",
+          "link": "http://codezine.jp/article/detail/17123",
+          "publishedOn": "2022-12-28T00:00:00.000Z",
+          "wordCount": 4335,
+          "title": "企業でアジャイルを実践する“アジャイルリーダー”のためのイベント「Women in Agile Tokyo 2023」、2023年2月17日に開催",
+          "imageUrl": "https://codezine.jp/static/images/article/17123/17123.jpg"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17022",
           "author": null,
           "description": "要件定義はプロジェクトの成否を左右するほど重要なものですが、いざその担当になったとき、不安なく要件定義書をまとめることはできるでしょうか。失敗しながら学ぶことも大切とはいえ、最初から知識があればより効率的に要件定義を進められます。今回は、書籍『図解まるわかり 要件定義のきほん』（翔泳社）から、要件定義の特徴や機能、その全体像について紹介します。",
@@ -6446,6 +6496,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news058.html",
+          "author": null,
+          "description": "世代を跨いだチャットコミュニケーションのヒントとして若者言葉をクイズ化。「ぬい」の意味は？",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news058.html",
+          "publishedOn": "2022-12-28T00:45:00.000Z",
+          "wordCount": 2600,
+          "title": "ネット若者語「ぬい」、どんな意味？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/28/cover_news058.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news081.html",
+          "author": null,
+          "description": "アップルジャパンが、2021年9月期までの2年間で計約140億円の消費税を追徴課税されたことが関係者への取材で分かった。iPhoneなどの免税販売で転売目的の取引が疑われる事例が相次ぎ、免税要件を満たしていないと指摘されたという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news081.html",
+          "publishedOn": "2022-12-28T00:00:00.000Z",
+          "wordCount": 2325,
+          "title": "Apple日本法人に140億円追徴　iPhone免税販売巡り",
+          "imageUrl": "https://image.itmedia.co.jp/images/logo/1200x630_500x500_news.gif"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/27/news169.html",
           "author": null,

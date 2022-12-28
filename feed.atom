@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T04:16:01.888Z</updated>
+    <updated>2022-12-28T05:12:32.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Safariの日付を選ぶ仕組み」がカスタマーサポートに寄せられる苦情の3分の1を生み出していたという報告]]></title>
+        <id>https://gigazine.net/news/20221228-safari-date-picker-customer-support-issues/</id>
+        <link href="https://gigazine.net/news/20221228-safari-date-picker-customer-support-issues/"/>
+        <updated>2022-12-28T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleが開発するウェブブラウザのSafariは、iPhoneやiPad、Macなどで使用されている標準的なブラウザです。ところが、効果的な高血圧薬を推奨する遺伝子検査のスタートアップ・Geneticureの創設者であるロバート・トーマス氏が、「Safariの日付を選ぶ仕組み」によって高齢のユーザーが戸惑ってしまい、Geneticureのカスタマーサポートに寄せられる苦情の3分の1を生み出していたと報告しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[画像生成AIで「アニメの中割り画像を作る方法」が発見される、実際に中割り生成用の画像を作成できるウェブサービスも公開中]]></title>
+        <id>https://gigazine.net/news/20221228-nakawari-novelai/</id>
+        <link href="https://gigazine.net/news/20221228-nakawari-novelai/"/>
+        <updated>2022-12-28T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメーションでは動きポイントとなる原画と原画の間に、「中割り」と呼ばれるカットを挟むことで実際にキャラクターや物体が動いているように見せています。そんな中割りを、二次元画像の生成に優れた画像生成AIの「NovelAI」で作成する方法を発見したと、Twitterユーザーのあお(@ao_love_yuimop)氏が解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SNSでのシャドウバンは現実に起きており「自分はシャドウバンされた」と10人に1人が感じているという声]]></title>
         <id>https://gigazine.net/news/20221228-shadowbanning-social-media/</id>

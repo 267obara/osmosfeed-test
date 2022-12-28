@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221228-safari-date-picker-customer-support-issues/",
+          "author": null,
+          "description": "Appleが開発するウェブブラウザのSafariは、iPhoneやiPad、Macなどで使用されている標準的なブラウザです。ところが、効果的な高血圧薬を推奨する遺伝子検査のスタートアップ・Geneticureの創設者であるロバート・トーマス氏が、「Safariの日付を選ぶ仕組み」によって高齢のユーザーが戸惑ってしまい、Geneticureのカスタマーサポートに寄せられる苦情の3分の1を生み出していたと報告しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-safari-date-picker-customer-support-issues/",
+          "publishedOn": "2022-12-28T05:00:00.000Z",
+          "wordCount": 2436,
+          "title": "「Safariの日付を選ぶ仕組み」がカスタマーサポートに寄せられる苦情の3分の1を生み出していたという報告",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/safari-date-picker-customer-support-issues/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221228-nakawari-novelai/",
+          "author": null,
+          "description": "アニメーションでは動きポイントとなる原画と原画の間に、「中割り」と呼ばれるカットを挟むことで実際にキャラクターや物体が動いているように見せています。そんな中割りを、二次元画像の生成に優れた画像生成AIの「NovelAI」で作成する方法を発見したと、Twitterユーザーのあお(@ao_love_yuimop)氏が解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221228-nakawari-novelai/",
+          "publishedOn": "2022-12-28T04:30:00.000Z",
+          "wordCount": 2475,
+          "title": "画像生成AIで「アニメの中割り画像を作る方法」が発見される、実際に中割り生成用の画像を作成できるウェブサービスも公開中",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/28/nakawari-novelai/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221228-shadowbanning-social-media/",
           "author": null,
           "description": "SNSへ投稿したコンテンツへの周囲の反応が妙に少なく、コンテンツが誰にも見られていないのではないかという感覚を覚えるという報告が寄せられています。もちろん他人の興味関心を引くコンテンツではなかったという場合もあり得ますが、場合によってはSNSから「シャドウバン」をされた可能性もあります。ほとんどの場合ユーザーへの警告なしに行われるシャドウバンについて、透明性を高めるべきだという声をワシントン・ポストが取り上げています。\n続きを読む...",

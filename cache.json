@@ -6818,26 +6818,6 @@
           "wordCount": 1356,
           "title": "AWS、シムシティのように都市などの大規模3Dシミュレーション演算をクラウド上で可能にする「AWS SimSpace Weaver」発表。AWS re:Invent 2022",
           "imageUrl": "https://www.publickey1.jp/2022/simspaceweaver01.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/amazon_opensearch_serviceamazon_opensearch_serverlessaws_reinvent_2022.html",
-          "author": null,
-          "description": "Amazon Web Services（AWS）の年次イベント「AWS re:Invent 2022」が米ラスベガスで開催中です。 2日目の基調講演では、検索エンジンサービスのAmazon OpenSearch Serviceをサーバレス化...",
-          "link": "https://www.publickey1.jp/blog/22/amazon_opensearch_serviceamazon_opensearch_serverlessaws_reinvent_2022.html",
-          "publishedOn": "2022-11-29T19:29:03.000Z",
-          "wordCount": 1403,
-          "title": "［速報］Amazon OpenSearch Serviceをサーバレス化する「Amazon OpenSearch Serverless」プレビュー版登場。AWS re:Invent 2022",
-          "imageUrl": "https://www.publickey1.jp/2022/opensearchserverlessprev.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/amazon_auroraoltpredshiftdwhamazon_aurora_zero-etl_integration_with_amazon_redshiftaws_reinvent_2022.html",
-          "author": null,
-          "description": "Amazon Web Services（AWS）の年次イベント「AWS re:Invent 2022」が米ラスベガスで開催中です。 2日目の基調講演には、AWS CEOのAdam Selipsky氏が生バンドの演奏とともに登場しました。 S...",
-          "link": "https://www.publickey1.jp/blog/22/amazon_auroraoltpredshiftdwhamazon_aurora_zero-etl_integration_with_amazon_redshiftaws_reinvent_2022.html",
-          "publishedOn": "2022-11-29T19:22:08.000Z",
-          "wordCount": 1378,
-          "title": "［速報］Amazon AuroraのOLTPとRedshiftのDWHを統合する「Amazon Aurora zero-ETL integration with Amazon Redshift」発表。AWS re:Invent 2022",
-          "imageUrl": "https://www.publickey1.jp/2022/aurorazeroetl01.png"
         }
       ]
     },

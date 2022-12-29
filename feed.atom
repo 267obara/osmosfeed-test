@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T07:11:50.379Z</updated>
+    <updated>2022-12-29T08:16:59.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11655,26 +11655,6 @@
         <link href="https://www.publickey1.jp/blog/22/aws3daws_simspace_weaveraws_reinvent_2022.html"/>
         <updated>2022-11-30T16:06:53.000Z</updated>
         <summary type="html"><![CDATA[Amazon Web Services（AWS）は、米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」で、現実の都市の規模で何百万ものオブジェクトが相互に連携する大規模な3Dシミュレーションのための演算をクラウド上で...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［速報］Amazon OpenSearch Serviceをサーバレス化する「Amazon OpenSearch Serverless」プレビュー版登場。AWS re:Invent 2022]]></title>
-        <id>https://www.publickey1.jp/blog/22/amazon_opensearch_serviceamazon_opensearch_serverlessaws_reinvent_2022.html</id>
-        <link href="https://www.publickey1.jp/blog/22/amazon_opensearch_serviceamazon_opensearch_serverlessaws_reinvent_2022.html"/>
-        <updated>2022-11-29T19:29:03.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Web Services（AWS）の年次イベント「AWS re:Invent 2022」が米ラスベガスで開催中です。 2日目の基調講演では、検索エンジンサービスのAmazon OpenSearch Serviceをサーバレス化...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［速報］Amazon AuroraのOLTPとRedshiftのDWHを統合する「Amazon Aurora zero-ETL integration with Amazon Redshift」発表。AWS re:Invent 2022]]></title>
-        <id>https://www.publickey1.jp/blog/22/amazon_auroraoltpredshiftdwhamazon_aurora_zero-etl_integration_with_amazon_redshiftaws_reinvent_2022.html</id>
-        <link href="https://www.publickey1.jp/blog/22/amazon_auroraoltpredshiftdwhamazon_aurora_zero-etl_integration_with_amazon_redshiftaws_reinvent_2022.html"/>
-        <updated>2022-11-29T19:22:08.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Web Services（AWS）の年次イベント「AWS re:Invent 2022」が米ラスベガスで開催中です。 2日目の基調講演には、AWS CEOのAdam Selipsky氏が生バンドの演奏とともに登場しました。 S...]]></summary>
         <author>
             <name>Publickey</name>
         </author>

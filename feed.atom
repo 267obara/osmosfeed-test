@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T22:12:22.508Z</updated>
+    <updated>2022-12-29T23:14:09.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[会えない人にお年玉を贈る3つのデジタルな方法]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/30/news047.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/30/news047.html"/>
+        <updated>2022-12-29T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この数年で一気に普及した“ペイ払い”などを利用して、デジタルでお年玉を送る方法を考えてみましょう。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[内容証明郵便・配達証明が24時間いつでもPCから送信できる「e内容証明」の簡単な使い方]]></title>
         <id>https://gigazine.net/news/20221229-enaiyo-review/</id>

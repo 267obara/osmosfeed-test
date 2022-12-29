@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T10:13:49.804Z</updated>
+    <updated>2022-12-29T11:11:03.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[カンボジアで地雷を嗅ぎ当てる「ヒーローラッツ」はいかにして元軍人たちを変えたのか？]]></title>
+        <id>https://gigazine.net/news/20221229-land-mine-detection-rats/</id>
+        <link href="https://gigazine.net/news/20221229-land-mine-detection-rats/"/>
+        <updated>2022-12-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[タンザニアに本拠を置く社会的企業のAnti-Personsmijnen Ontmijnende Product Ontwikkeling(APOPO)は、地雷除去のために訓練されたネズミであるヒーローラッツを用いた活動をカンボジアで展開しています。そんなヒーローラッツが、持ち前の愛らしさでカンボジアの地雷除去活動を取り巻く文化まで変えてしまったいきさつを、人類学者のDarcie DeAngelo氏がレポートしました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アメリカは世界最大の半導体ファウンドリ・TSMCを台湾から奪っているのか？]]></title>
         <id>https://gigazine.net/news/20221229-is-us-stealing-tsmc/</id>

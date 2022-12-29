@@ -6817,6 +6817,26 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/29/news071.html",
+          "author": null,
+          "description": "12月29日午前10時ごろから、Twitterにログインしづらい障害が発生している。Webブラウザ版ではログインが強制的に解除され、その後ログインできない事象が確認されている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/29/news071.html",
+          "publishedOn": "2022-12-29T02:00:00.000Z",
+          "wordCount": 2589,
+          "title": "Twitterに障害　Web版などで強制ログアウトからログインできない状態に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/29/cover_news071.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/29/news040.html",
+          "author": null,
+          "description": "世代を跨いだチャットコミュニケーションのヒントとして若者言葉をクイズ化。「きちゃ」の意味は？",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/29/news040.html",
+          "publishedOn": "2022-12-29T02:00:00.000Z",
+          "wordCount": 2593,
+          "title": "ネット若者語「きちゃ」、どんな意味？　いつ使う？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/29/cover_news040.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/29/news056.html",
           "author": null,
           "description": "値上げの続いた2022年。年内で一区切り……というわけでもなく、2023年にも価格引き上げが控えている。本記事では2023年にITサービス・ハードウェアを値上げする4社の情報をまとめる。",

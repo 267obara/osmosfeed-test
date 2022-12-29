@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T06:16:42.468Z</updated>
+    <updated>2022-12-29T07:11:50.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ねこホーダイ」サービス停止　会員急増で「適切なサービス担保できない」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/29/news088.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/29/news088.html"/>
+        <updated>2022-12-29T06:37:00.000Z</updated>
+        <summary type="html"><![CDATA[野良猫に関する事業を手掛けるのら猫バンクは、会員制サービス「ねこホーダイ」を停止すると発表した。想定を大きく上回る会員数の増加によりサービスを円滑に提供できない状況になったという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紛争地帯や災害現場など過酷な場所でも走破できるトヨタ車のみを国連やNGOに販売する会社とは？]]></title>
         <id>https://gigazine.net/news/20221229-toyota-gibraltar-stockholdings/</id>

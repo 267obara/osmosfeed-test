@@ -6847,6 +6847,16 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/29/news088.html",
+          "author": null,
+          "description": "野良猫に関する事業を手掛けるのら猫バンクは、会員制サービス「ねこホーダイ」を停止すると発表した。想定を大きく上回る会員数の増加によりサービスを円滑に提供できない状況になったという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/29/news088.html",
+          "publishedOn": "2022-12-29T06:37:00.000Z",
+          "wordCount": 2604,
+          "title": "「ねこホーダイ」サービス停止　会員急増で「適切なサービス担保できない」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/29/cover_news088.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/29/news078.html",
           "author": null,
           "description": "「OM SYSTEM」ロゴを付けた初めてのカメラ「OM-5」が登場。名前から「OM-1」の下位モデルを期待した人もいたかと思うが、それは違った。「E-M5 Mark III」の後継機といった内容である。",

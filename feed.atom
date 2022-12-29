@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T04:16:41.153Z</updated>
+    <updated>2022-12-29T05:12:16.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地図アプリやカーナビなどに欠かせない衛星測位システム「GPS」「GLONASS」「ガリレオ」の違いとは？]]></title>
+        <id>https://gigazine.net/news/20221229-gps-glonass-galileo/</id>
+        <link href="https://gigazine.net/news/20221229-gps-glonass-galileo/"/>
+        <updated>2022-12-29T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[地球上で位置情報を測定する際には、人工衛星を用いたさまざまな衛星測位システム(GNSS)が利用できます。GNSSは地図アプリやカーナビなど多くの場所で利用されており、日本ではアメリカが運営するGPSが一般的です。そんなGPSとその他のGNSSであるGLONASSやガリレオについて、GNSSのデータを収集している「GPSrChive」が比較を行っています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OM SYSTEMロゴの「OM-5」登場　ちょっと地味だけど基本性能の高い手頃な一眼カメラ]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/29/news078.html</id>

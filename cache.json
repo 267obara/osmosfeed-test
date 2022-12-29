@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221229-gps-glonass-galileo/",
+          "author": null,
+          "description": "地球上で位置情報を測定する際には、人工衛星を用いたさまざまな衛星測位システム(GNSS)が利用できます。GNSSは地図アプリやカーナビなど多くの場所で利用されており、日本ではアメリカが運営するGPSが一般的です。そんなGPSとその他のGNSSであるGLONASSやガリレオについて、GNSSのデータを収集している「GPSrChive」が比較を行っています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221229-gps-glonass-galileo/",
+          "publishedOn": "2022-12-29T05:00:00.000Z",
+          "wordCount": 2444,
+          "title": "地図アプリやカーナビなどに欠かせない衛星測位システム「GPS」「GLONASS」「ガリレオ」の違いとは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/29/gps-glonass-galileo/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221229-chatni-tomato-garlic/",
           "author": null,
           "description": "インドやネパールなどの国々で愛用されている調味料「チャツネ(チャトニ)」には、マンゴーチャツネやトマトチャツネなど多くの種類が存在しています。実は、チャツネは家でも簡単に作れる気軽な調味料で、から揚げやうどんなどインド風の料理以外との相性も抜群です。「GIGAZINE読者にもチャツネの魅力を知って欲しい！」というわけで、赤いチャツネと緑のチャツネを作る方法を大量の画像付きでまとめてみました。\n続きを読む...",

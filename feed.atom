@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T02:35:21.048Z</updated>
+    <updated>2022-12-29T03:14:32.815Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[肉にもカレーにも何にでも合う自分で作れる万能調味料「赤いチャツネ」と「緑のチャツネ」の作り方]]></title>
+        <id>https://gigazine.net/news/20221229-chatni-tomato-garlic/</id>
+        <link href="https://gigazine.net/news/20221229-chatni-tomato-garlic/"/>
+        <updated>2022-12-29T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[インドやネパールなどの国々で愛用されている調味料「チャツネ(チャトニ)」には、マンゴーチャツネやトマトチャツネなど多くの種類が存在しています。実は、チャツネは家でも簡単に作れる気軽な調味料で、から揚げやうどんなどインド風の料理以外との相性も抜群です。「GIGAZINE読者にもチャツネの魅力を知って欲しい！」というわけで、赤いチャツネと緑のチャツネを作る方法を大量の画像付きでまとめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterに障害　Web版などで強制ログアウトからログインできない状態に]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/29/news071.html</id>

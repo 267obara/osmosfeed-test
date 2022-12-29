@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T08:16:59.842Z</updated>
+    <updated>2022-12-29T09:12:32.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アメリカは世界最大の半導体ファウンドリ・TSMCを台湾から奪っているのか？]]></title>
+        <id>https://gigazine.net/news/20221229-is-us-stealing-tsmc/</id>
+        <link href="https://gigazine.net/news/20221229-is-us-stealing-tsmc/"/>
+        <updated>2022-12-29T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[台湾の半導体製造企業(ファウンドリ)で業界1位のシェアを持つTSMCは、近年アメリカのアリゾナ州や日本の熊本県など台湾以外にファブを構える動きを見せています。中国とアメリカの対立に板挟みになる形でアメリカ進出を進めるTSMCは、台湾内で「アメリカに盗まれている」と言われることもあるとのこと。この問題について、アジアのビジネスや経済を扱うYouTubeチャンネル・Asianometryのチャンネル主は台湾人の友人から「TSMCについてどう思う？」と聞かれることが何度かあったそうで、この問題について以下のムービーで解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「ねこホーダイ」サービス停止　会員急増で「適切なサービス担保できない」]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/29/news088.html</id>

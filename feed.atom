@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-28T23:13:09.325Z</updated>
+    <updated>2022-12-29T01:07:09.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年に値上げするITサービス・ハード製品まとめ　価格高騰の波いつまで]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/29/news056.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/29/news056.html"/>
+        <updated>2022-12-29T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[値上げの続いた2022年。年内で一区切り……というわけでもなく、2023年にも価格引き上げが控えている。本記事では2023年にITサービス・ハードウェアを値上げする4社の情報をまとめる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無料で遊べるパネルをクルクル回して正しい絵を導き出すパズルゲーム「Rotaboxes」]]></title>
+        <id>https://gigazine.net/news/20221229-rotaboxes/</id>
+        <link href="https://gigazine.net/news/20221229-rotaboxes/"/>
+        <updated>2022-12-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[バラバラにされた絵をパタパタと動かして元通りにするゲームといえば「スライド＆ゴー」などが挙げられますが、似ているようで少し違うパズルゲーム「Rotaboxes」というものもあります。どんなものなのか実際に遊んでみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスク氏に翻弄された2022年を振り返る]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/28/news089.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/28/news089.html"/>
+        <updated>2022-12-28T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年は海外速報担当の筆者にとってはイーロン・マスク氏に翻弄された年でした。同氏によるTwitter買収の顛末をまとめておきます。2023年にTwitterがなくなることはないでしょうが、現状で抱える爆弾についても触れます。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲームデバッグはもう古い？　現代的なゲームテストの考え方となる「ソフトウェアテストの7原則」とは]]></title>
         <id>http://codezine.jp/article/detail/17032</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221229-rotaboxes/",
+          "author": null,
+          "description": "バラバラにされた絵をパタパタと動かして元通りにするゲームといえば「スライド＆ゴー」などが挙げられますが、似ているようで少し違うパズルゲーム「Rotaboxes」というものもあります。どんなものなのか実際に遊んでみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221229-rotaboxes/",
+          "publishedOn": "2022-12-29T00:00:00.000Z",
+          "wordCount": 2435,
+          "title": "無料で遊べるパネルをクルクル回して正しい絵を導き出すパズルゲーム「Rotaboxes」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/29/rotaboxes/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221229-most-beautiful-faces-2022/",
           "author": null,
           "description": "毎年年末に映画評論サイトのTC Candlerが発表する「世界で最も美しい顔トップ100」の2022年版が発表されました。2021年版では日本から女優の山本舞香、小松菜奈、石原さとみ、TWICEの湊崎紗夏(サナ)と平井もも(モモ)、PURPLE K!SSの毛利小雪(ユキ)の6人が選出されていましたが、2022年版では山本舞香、小松菜奈、石原さとみ、モモ、ユキが選外となり、新たにAKB48の行天優莉奈、XGのHARVEY、女優の大和田南那、NiziUのニナ、LE SSERAFIMのカズハが選出されています。そんな「世界で最も美しい顔トップ100」の2022年版の全画像をまとめてみました。\n続きを読む...",
@@ -6806,6 +6816,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/29/news056.html",
+          "author": null,
+          "description": "値上げの続いた2022年。年内で一区切り……というわけでもなく、2023年にも価格引き上げが控えている。本記事では2023年にITサービス・ハードウェアを値上げする4社の情報をまとめる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/29/news056.html",
+          "publishedOn": "2022-12-29T00:30:00.000Z",
+          "wordCount": 2629,
+          "title": "2023年に値上げするITサービス・ハード製品まとめ　価格高騰の波いつまで",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/29/cover_news056.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/28/news089.html",
+          "author": null,
+          "description": "2022年は海外速報担当の筆者にとってはイーロン・マスク氏に翻弄された年でした。同氏によるTwitter買収の顛末をまとめておきます。2023年にTwitterがなくなることはないでしょうが、現状で抱える爆弾についても触れます。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/28/news089.html",
+          "publishedOn": "2022-12-28T23:00:00.000Z",
+          "wordCount": 2627,
+          "title": "イーロン・マスク氏に翻弄された2022年を振り返る",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/28/cover_news089.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/28/news171.html",
           "author": null,

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221229-toyota-gibraltar-stockholdings/",
+          "author": null,
+          "description": "過酷な環境でも走破できるトヨタ車のみを紛争地帯や国連機関に販売する「Toyota Gibraltar Stockholdings(TGS：トヨタ・ジブラルタル・ストックホールディングス)」という会社について、BBCの人気自動車番組トップ・ギアのチームが運営する公式ウェブメディアがまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221229-toyota-gibraltar-stockholdings/",
+          "publishedOn": "2022-12-29T06:00:00.000Z",
+          "wordCount": 2446,
+          "title": "紛争地帯や災害現場など過酷な場所でも走破できるトヨタ車のみを国連やNGOに販売する会社とは？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/29/toyota-gibraltar-stockholdings/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221229-gps-glonass-galileo/",
           "author": null,
           "description": "地球上で位置情報を測定する際には、人工衛星を用いたさまざまな衛星測位システム(GNSS)が利用できます。GNSSは地図アプリやカーナビなど多くの場所で利用されており、日本ではアメリカが運営するGPSが一般的です。そんなGPSとその他のGNSSであるGLONASSやガリレオについて、GNSSのデータを収集している「GPSrChive」が比較を行っています。\n続きを読む...",

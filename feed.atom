@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T05:12:16.610Z</updated>
+    <updated>2022-12-29T06:16:42.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[紛争地帯や災害現場など過酷な場所でも走破できるトヨタ車のみを国連やNGOに販売する会社とは？]]></title>
+        <id>https://gigazine.net/news/20221229-toyota-gibraltar-stockholdings/</id>
+        <link href="https://gigazine.net/news/20221229-toyota-gibraltar-stockholdings/"/>
+        <updated>2022-12-29T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[過酷な環境でも走破できるトヨタ車のみを紛争地帯や国連機関に販売する「Toyota Gibraltar Stockholdings(TGS：トヨタ・ジブラルタル・ストックホールディングス)」という会社について、BBCの人気自動車番組トップ・ギアのチームが運営する公式ウェブメディアがまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地図アプリやカーナビなどに欠かせない衛星測位システム「GPS」「GLONASS」「ガリレオ」の違いとは？]]></title>
         <id>https://gigazine.net/news/20221229-gps-glonass-galileo/</id>

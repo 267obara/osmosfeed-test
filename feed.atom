@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T14:11:29.450Z</updated>
+    <updated>2022-12-30T15:13:08.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11806,26 +11806,6 @@
         <link href="http://codezine.jp/article/detail/16957"/>
         <updated>2022-12-01T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[アドビは、12月1日に記者発表会を開催し、2022年の振り返りと、同社が新たに発足した「アドビ未来デジタルラボ」について紹介した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[未経験からエンジニアを目指す転職支援サービス「ENたま」、リニューアルオープン]]></title>
-        <id>http://codezine.jp/article/detail/16951</id>
-        <link href="http://codezine.jp/article/detail/16951"/>
-        <updated>2022-12-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[エンライズグループは、未経験からエンジニアを目指す人向け転職支援と、ITエンジニアを採用したい企業向け採用支援の2つのサービス機能を持つ「ENたま」のサイトをリニューアルオープンした。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yahoo! JAPANがキラメックスと業務提携しエンジニアへのリスキリングを支援する「Yahoo!テックアカデミー」を開設、受講者募集]]></title>
-        <id>http://codezine.jp/article/detail/16952</id>
-        <link href="http://codezine.jp/article/detail/16952"/>
-        <updated>2022-12-01T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヤフー（以下Yahoo! JAPAN）は、ユナイテッドの連結子会社でデジタル教育事業を展開するキラメックスと業務提携し、有料のオンラインプログラミングスクール「Yahoo!テックアカデミー」を開設した。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
         </author>

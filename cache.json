@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221230-silk-road-ross-ulbricht/",
+          "author": null,
+          "description": "違法ドラッグなどが販売されていたウェブサイト「シルクロード」の創設者であるロス・ウルブリヒト氏はすでに逮捕され、終身刑2回に仮釈放なしの懲役40年という、非暴力的な初犯の犯罪に対して前例のない厳しい判決が下されています。非常に重い判決が言い渡されたウルブリヒト氏ですが、このような判決は重すぎるとして、支援団体が立ちあがり抗議活動が行われています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221230-silk-road-ross-ulbricht/",
+          "publishedOn": "2022-12-30T09:00:00.000Z",
+          "wordCount": 2419,
+          "title": "匿名の商取引を可能にするダークウェブの元祖「シルクロード」を作成した本人は今どこで何をしているのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/30/silk-road-ross-ulbricht/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221230-tesla-model-y-is-best-selling-car-in-europe/",
           "author": null,
           "description": "中国では需要が落ち込んでいることが指摘されているテスラのSUV「モデルY」が、ヨーロッパではフォルクスワーゲンの「Golf」などを抜いて1カ月に最も売れた自動車のトップに立ったことがわかりました。\n続きを読む...",
@@ -6876,6 +6886,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/30/news082.html",
+          "author": null,
+          "description": "2022年、Appleは新型「MacBook Air 」を発表したが、筆者はあえて「MacBook Pro」の14インチを選んだ。だいぶ個人的な理由もあるが「2022年に買ったもの」として簡単に振り返りたい。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/30/news082.html",
+          "publishedOn": "2022-12-30T08:00:00.000Z",
+          "wordCount": 2637,
+          "title": "M2の“Air”ではなくあえて「MacBook Pro 14インチ」を選んだワケ　2022年買ってよかったもの",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/30/cover_news082.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/30/news078.html",
           "author": null,

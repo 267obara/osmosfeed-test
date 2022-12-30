@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T08:16:21.620Z</updated>
+    <updated>2022-12-30T09:12:31.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[匿名の商取引を可能にするダークウェブの元祖「シルクロード」を作成した本人は今どこで何をしているのか？]]></title>
+        <id>https://gigazine.net/news/20221230-silk-road-ross-ulbricht/</id>
+        <link href="https://gigazine.net/news/20221230-silk-road-ross-ulbricht/"/>
+        <updated>2022-12-30T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[違法ドラッグなどが販売されていたウェブサイト「シルクロード」の創設者であるロス・ウルブリヒト氏はすでに逮捕され、終身刑2回に仮釈放なしの懲役40年という、非暴力的な初犯の犯罪に対して前例のない厳しい判決が下されています。非常に重い判決が言い渡されたウルブリヒト氏ですが、このような判決は重すぎるとして、支援団体が立ちあがり抗議活動が行われています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M2の“Air”ではなくあえて「MacBook Pro 14インチ」を選んだワケ　2022年買ってよかったもの]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/30/news082.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/30/news082.html"/>
+        <updated>2022-12-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年、Appleは新型「MacBook Air 」を発表したが、筆者はあえて「MacBook Pro」の14インチを選んだ。だいぶ個人的な理由もあるが「2022年に買ったもの」として簡単に振り返りたい。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[テスラのモデルYがヨーロッパで1番売れた自動車ランキング1位を奪還]]></title>
         <id>https://gigazine.net/news/20221230-tesla-model-y-is-best-selling-car-in-europe/</id>

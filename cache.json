@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221230-momo-steamed-gyoza/",
+          "author": null,
+          "description": "餃子(ぎょうざ)には、焼き餃子や水餃子、揚げ餃子など多様な形態が存在しています。ふらっと立ち寄ったネパール料理店でネパール風蒸し餃子「モモ」を食べてみたところ、パクチーの風味がブワッと広がるパクチー好きにはたまらない逸品だったので、作り方をネパール料理本で調べて作ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221230-momo-steamed-gyoza/",
+          "publishedOn": "2022-12-30T03:00:00.000Z",
+          "wordCount": 2468,
+          "title": "モチッとした皮にパクチーたっぷりのタネが包まれたネパール風蒸し餃子「モモ」の作り方",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/30/momo-steamed-gyoza/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221230-cryptboard/",
           "author": null,
           "description": "複数のデバイス間でテキストやファイルをやり取りする際、通常はメールやSNSなどを使用しますが、こうしたツールでは安全性が気になるという人もいるはず。「CryptBoard.io」は、複数のデバイス間で暗号化したテキストやファイルを安全に送受信できる上にアカウント登録も不要とのことで、どんなサービスになっているのか実際に使って確かめてみました。\n続きを読む...",

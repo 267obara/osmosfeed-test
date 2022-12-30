@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221230-milk-good-or-bad/",
+          "author": null,
+          "description": "牛乳はタンパク質やカルシウムが豊富なことから健康にいいとされることがある一方、「牛乳を飲む人はがんになりやすい」という研究結果が出ていることから体に悪いとする見方もあります。そんな牛乳や乳製品が健康にいいのかどうかについて、デンマーク・オランダ・イギリスの研究者らが肥満や2型糖尿病、がんなどの発症率の観点から総合的に論じました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221230-milk-good-or-bad/",
+          "publishedOn": "2022-12-30T11:00:00.000Z",
+          "wordCount": 2469,
+          "title": "結局「牛乳や乳製品」は健康にいいのか悪いのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/30/milk-good-or-bad/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221230-freetube/",
           "author": null,
           "description": "Googleアカウントにログイン不要でYouTubeを広告なしでサクサクと視聴できる専用プレーヤーが「FreeTube」です。Cookieによる追跡がなくプライベートな環境でYouTubeを再生可能で、Googleアカウントにログインしなくてもチャンネル登録ができる専用ブラウザで、Windows・Mac・Linux向けが無償で配信されています。\n続きを読む...",

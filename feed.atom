@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T10:13:52.130Z</updated>
+    <updated>2022-12-30T11:10:51.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[結局「牛乳や乳製品」は健康にいいのか悪いのか？]]></title>
+        <id>https://gigazine.net/news/20221230-milk-good-or-bad/</id>
+        <link href="https://gigazine.net/news/20221230-milk-good-or-bad/"/>
+        <updated>2022-12-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[牛乳はタンパク質やカルシウムが豊富なことから健康にいいとされることがある一方、「牛乳を飲む人はがんになりやすい」という研究結果が出ていることから体に悪いとする見方もあります。そんな牛乳や乳製品が健康にいいのかどうかについて、デンマーク・オランダ・イギリスの研究者らが肥満や2型糖尿病、がんなどの発症率の観点から総合的に論じました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無料でYouTubeを広告なし＆ログイン不要でサクサク視聴できるプレイヤー「FreeTube」]]></title>
         <id>https://gigazine.net/news/20221230-freetube/</id>

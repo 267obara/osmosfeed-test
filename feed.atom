@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-29T23:14:09.298Z</updated>
+    <updated>2022-12-30T01:07:05.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[複数デバイス間でテキストやファイルを暗号化して安全に送受信できる「CryptBoard.io」を使ってみた]]></title>
+        <id>https://gigazine.net/news/20221230-cryptboard/</id>
+        <link href="https://gigazine.net/news/20221230-cryptboard/"/>
+        <updated>2022-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[複数のデバイス間でテキストやファイルをやり取りする際、通常はメールやSNSなどを使用しますが、こうしたツールでは安全性が気になるという人もいるはず。「CryptBoard.io」は、複数のデバイス間で暗号化したテキストやファイルを安全に送受信できる上にアカウント登録も不要とのことで、どんなサービスになっているのか実際に使って確かめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterの4億人データ侵害でアイルランド当局が調査開始]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/30/news060.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/30/news060.html"/>
+        <updated>2022-12-29T23:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterの約4億人分のユーザーデータがデータ売買フォーラムで売りに出された。売り主はTwitterのマスクCEOに対し、GDPR違反で高額の罰金を科せられなくなければデータを買い取れと呼び掛けている。アイルランドのDPCは、この件の調査を開始するとしている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[会えない人にお年玉を贈る3つのデジタルな方法]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2212/30/news047.html</id>

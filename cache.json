@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221230-cryptboard/",
+          "author": null,
+          "description": "複数のデバイス間でテキストやファイルをやり取りする際、通常はメールやSNSなどを使用しますが、こうしたツールでは安全性が気になるという人もいるはず。「CryptBoard.io」は、複数のデバイス間で暗号化したテキストやファイルを安全に送受信できる上にアカウント登録も不要とのことで、どんなサービスになっているのか実際に使って確かめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221230-cryptboard/",
+          "publishedOn": "2022-12-30T00:00:00.000Z",
+          "wordCount": 2469,
+          "title": "複数デバイス間でテキストやファイルを暗号化して安全に送受信できる「CryptBoard.io」を使ってみた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/30/cryptboard/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221229-enaiyo-review/",
           "author": null,
           "description": "近くの郵便局が内容証明郵便を扱っておらず、ちょっと遠い郵便局まで行く必要があり、なおかつそう頻繁に送るものではないので書式を間違えたときなどの書き直し・印刷しなおし・押印しなおしなどがとにかく手間だったので、思い切って「e内容証明」に切り替えました。窓口に並ぶ必要もなく、なおかつ24時間いつでも送信可能、支払いはクレジットカードでOKなのでめちゃくちゃラクです。\n続きを読む...",
@@ -6856,6 +6866,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/30/news060.html",
+          "author": null,
+          "description": "Twitterの約4億人分のユーザーデータがデータ売買フォーラムで売りに出された。売り主はTwitterのマスクCEOに対し、GDPR違反で高額の罰金を科せられなくなければデータを買い取れと呼び掛けている。アイルランドのDPCは、この件の調査を開始するとしている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/30/news060.html",
+          "publishedOn": "2022-12-29T23:06:00.000Z",
+          "wordCount": 2601,
+          "title": "Twitterの4億人データ侵害でアイルランド当局が調査開始",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/30/l_yu_ryushi.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/30/news047.html",
           "author": null,

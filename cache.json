@@ -6867,6 +6867,26 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/30/news049.html",
+          "author": null,
+          "description": "世代を跨いだチャットコミュニケーションのヒントとして若者言葉をクイズ化。「赤スパ」の意味は？",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/30/news049.html",
+          "publishedOn": "2022-12-30T02:00:00.000Z",
+          "wordCount": 2603,
+          "title": "ネット若者語「赤スパ」、どんな意味？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/30/cover_news049.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/30/news057.html",
+          "author": null,
+          "description": "2022年は防災面においても激動の年だった。今年1年間の災害とその影響について、記事で振り返りながら、今われわれにできる対策について提案したい。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/30/news057.html",
+          "publishedOn": "2022-12-30T01:00:00.000Z",
+          "wordCount": 2346,
+          "title": "毎月、何らかの災害が起きていた──22年振り返りとこれからの備え",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/30/cover_news057.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2212/30/news060.html",
           "author": null,
           "description": "Twitterの約4億人分のユーザーデータがデータ売買フォーラムで売りに出された。売り主はTwitterのマスクCEOに対し、GDPR違反で高額の罰金を科せられなくなければデータを買い取れと呼び掛けている。アイルランドのDPCは、この件の調査を開始するとしている。",

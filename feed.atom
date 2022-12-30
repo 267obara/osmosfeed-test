@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T09:12:31.899Z</updated>
+    <updated>2022-12-30T10:13:52.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無料でYouTubeを広告なし＆ログイン不要でサクサク視聴できるプレイヤー「FreeTube」]]></title>
+        <id>https://gigazine.net/news/20221230-freetube/</id>
+        <link href="https://gigazine.net/news/20221230-freetube/"/>
+        <updated>2022-12-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleアカウントにログイン不要でYouTubeを広告なしでサクサクと視聴できる専用プレーヤーが「FreeTube」です。Cookieによる追跡がなくプライベートな環境でYouTubeを再生可能で、Googleアカウントにログインしなくてもチャンネル登録ができる専用ブラウザで、Windows・Mac・Linux向けが無償で配信されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[匿名の商取引を可能にするダークウェブの元祖「シルクロード」を作成した本人は今どこで何をしているのか？]]></title>
         <id>https://gigazine.net/news/20221230-silk-road-ross-ulbricht/</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T05:12:10.645Z</updated>
+    <updated>2022-12-30T06:17:05.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11753,16 +11753,6 @@
         <summary type="html"><![CDATA[ヤフー（以下Yahoo! JAPAN）は、ユナイテッドの連結子会社でデジタル教育事業を展開するキラメックスと業務提携し、有料のオンラインプログラミングスクール「Yahoo!テックアカデミー」を開設した。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［速報］Amazon S3にファイルを置くとAmazon Redshiftに自動で取り込まれる「Amazon Redshift auto-copy from S3」発表]]></title>
-        <id>https://www.publickey1.jp/blog/22/amazon_s3amazon_redshiftamazon_redshift_auto-copy_from_s3.html</id>
-        <link href="https://www.publickey1.jp/blog/22/amazon_s3amazon_redshiftamazon_redshift_auto-copy_from_s3.html"/>
-        <updated>2022-11-30T18:15:48.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」で、Amazon S3からAmazon Redshiftへデータを自動的にコピーする新サービス「Amazon Re...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>

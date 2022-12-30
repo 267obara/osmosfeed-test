@@ -6858,16 +6858,6 @@
           "wordCount": 1340,
           "title": "［速報］AWS、サーバレスアプリのビジュアル開発ツール「Application Composer」発表。AWS re:Invent 2022",
           "imageUrl": "https://www.publickey1.jp/2022/awsapplicationcomposer03.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/amazon_s3amazon_redshiftamazon_redshift_auto-copy_from_s3.html",
-          "author": null,
-          "description": "Amazon Web Services（AWS）は、米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」で、Amazon S3からAmazon Redshiftへデータを自動的にコピーする新サービス「Amazon Re...",
-          "link": "https://www.publickey1.jp/blog/22/amazon_s3amazon_redshiftamazon_redshift_auto-copy_from_s3.html",
-          "publishedOn": "2022-11-30T18:15:48.000Z",
-          "wordCount": 1361,
-          "title": "［速報］Amazon S3にファイルを置くとAmazon Redshiftに自動で取り込まれる「Amazon Redshift auto-copy from S3」発表",
-          "imageUrl": "https://www.publickey1.jp/2022/autocopyfs2.png"
         }
       ]
     },

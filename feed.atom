@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T03:14:21.568Z</updated>
+    <updated>2022-12-30T04:15:37.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[老化を遅らせ生物学的年齢を若返らせるプロジェクト「Blueprint」では一体何を行うのか？]]></title>
+        <id>https://gigazine.net/news/20221230-project-blueprint-health/</id>
+        <link href="https://gigazine.net/news/20221230-project-blueprint-health/"/>
+        <updated>2022-12-30T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人間は老化を避けることはできませんが、健康的な生活を送ることで老化を遅らせることができるとされています。医療機器メーカー「Kernel」のCEOであるブライアン・ジョンソン氏は、日常のありとあらゆる習慣を健康的なものにすることで体内年齢と実年齢と逆転させることに成功しています。そんなジョンソン氏が、老化を遅らせるために行ってきた数々の習慣をまとめたのが「Blueprint」です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[モチッとした皮にパクチーたっぷりのタネが包まれたネパール風蒸し餃子「モモ」の作り方]]></title>
         <id>https://gigazine.net/news/20221230-momo-steamed-gyoza/</id>
@@ -11750,16 +11761,6 @@
         <link href="https://www.publickey1.jp/blog/22/amazon_s3amazon_redshiftamazon_redshift_auto-copy_from_s3.html"/>
         <updated>2022-11-30T18:15:48.000Z</updated>
         <summary type="html"><![CDATA[Amazon Web Services（AWS）は、米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」で、Amazon S3からAmazon Redshiftへデータを自動的にコピーする新サービス「Amazon Re...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS、シムシティのように都市などの大規模3Dシミュレーション演算をクラウド上で可能にする「AWS SimSpace Weaver」発表。AWS re:Invent 2022]]></title>
-        <id>https://www.publickey1.jp/blog/22/aws3daws_simspace_weaveraws_reinvent_2022.html</id>
-        <link href="https://www.publickey1.jp/blog/22/aws3daws_simspace_weaveraws_reinvent_2022.html"/>
-        <updated>2022-11-30T16:06:53.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Web Services（AWS）は、米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」で、現実の都市の規模で何百万ものオブジェクトが相互に連携する大規模な3Dシミュレーションのための演算をクラウド上で...]]></summary>
         <author>
             <name>Publickey</name>
         </author>

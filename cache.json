@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221230-project-blueprint-health/",
+          "author": null,
+          "description": "人間は老化を避けることはできませんが、健康的な生活を送ることで老化を遅らせることができるとされています。医療機器メーカー「Kernel」のCEOであるブライアン・ジョンソン氏は、日常のありとあらゆる習慣を健康的なものにすることで体内年齢と実年齢と逆転させることに成功しています。そんなジョンソン氏が、老化を遅らせるために行ってきた数々の習慣をまとめたのが「Blueprint」です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221230-project-blueprint-health/",
+          "publishedOn": "2022-12-30T04:00:00.000Z",
+          "wordCount": 2425,
+          "title": "老化を遅らせ生物学的年齢を若返らせるプロジェクト「Blueprint」では一体何を行うのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/30/project-blueprint-health/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221230-momo-steamed-gyoza/",
           "author": null,
           "description": "餃子(ぎょうざ)には、焼き餃子や水餃子、揚げ餃子など多様な形態が存在しています。ふらっと立ち寄ったネパール料理店でネパール風蒸し餃子「モモ」を食べてみたところ、パクチーの風味がブワッと広がるパクチー好きにはたまらない逸品だったので、作り方をネパール料理本で調べて作ってみました。\n続きを読む...",
@@ -6858,16 +6868,6 @@
           "wordCount": 1361,
           "title": "［速報］Amazon S3にファイルを置くとAmazon Redshiftに自動で取り込まれる「Amazon Redshift auto-copy from S3」発表",
           "imageUrl": "https://www.publickey1.jp/2022/autocopyfs2.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/aws3daws_simspace_weaveraws_reinvent_2022.html",
-          "author": null,
-          "description": "Amazon Web Services（AWS）は、米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」で、現実の都市の規模で何百万ものオブジェクトが相互に連携する大規模な3Dシミュレーションのための演算をクラウド上で...",
-          "link": "https://www.publickey1.jp/blog/22/aws3daws_simspace_weaveraws_reinvent_2022.html",
-          "publishedOn": "2022-11-30T16:06:53.000Z",
-          "wordCount": 1356,
-          "title": "AWS、シムシティのように都市などの大規模3Dシミュレーション演算をクラウド上で可能にする「AWS SimSpace Weaver」発表。AWS re:Invent 2022",
-          "imageUrl": "https://www.publickey1.jp/2022/simspaceweaver01.png"
         }
       ]
     },

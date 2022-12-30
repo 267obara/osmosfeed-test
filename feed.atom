@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T13:17:17.065Z</updated>
+    <updated>2022-12-30T14:11:29.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Switchをゲットしたらプレイすべき10のゲーム]]></title>
+        <id>https://gigazine.net/news/20221230-10-best-games-nintendo-switch/</id>
+        <link href="https://gigazine.net/news/20221230-10-best-games-nintendo-switch/"/>
+        <updated>2022-12-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[発売から5年が経過して2022年9月時点での累計販売台数は1億1433万台を突破している「Nintendo Switch」。2022年もそんなNintendo Switch向けのゲームがたくさんリリースされており、ミリオンセラーを記録したタイトルも複数あります。とどまるところを知らない人気っぷりのNintendo Switchのうち、プレイすべき10のタイトルを、海外メディアのThe Vergeがまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[結局「牛乳や乳製品」は健康にいいのか悪いのか？]]></title>
         <id>https://gigazine.net/news/20221230-milk-good-or-bad/</id>

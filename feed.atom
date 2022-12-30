@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T21:11:23.855Z</updated>
+    <updated>2022-12-30T22:11:59.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11798,16 +11798,6 @@
         <summary type="html"><![CDATA[Amazon Web Services（AWS）が米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」。最後の基調講演にはAmazon.com VP兼CTOのWerner Vogels博士が登壇しました。 Vogels...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アドビ、外部の有識者を交えた「アドビ未来デジタルラボ」を発足　及川卓也氏らが参画]]></title>
-        <id>http://codezine.jp/article/detail/16957</id>
-        <link href="http://codezine.jp/article/detail/16957"/>
-        <updated>2022-12-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アドビは、12月1日に記者発表会を開催し、2022年の振り返りと、同社が新たに発足した「アドビ未来デジタルラボ」について紹介した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
 </feed>

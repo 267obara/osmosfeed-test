@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221230-tesla-model-y-is-best-selling-car-in-europe/",
+          "author": null,
+          "description": "中国では需要が落ち込んでいることが指摘されているテスラのSUV「モデルY」が、ヨーロッパではフォルクスワーゲンの「Golf」などを抜いて1カ月に最も売れた自動車のトップに立ったことがわかりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221230-tesla-model-y-is-best-selling-car-in-europe/",
+          "publishedOn": "2022-12-30T07:00:00.000Z",
+          "wordCount": 2439,
+          "title": "テスラのモデルYがヨーロッパで1番売れた自動車ランキング1位を奪還",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/30/tesla-model-y-is-best-selling-car-in-europe/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221230-project-blueprint-health/",
           "author": null,
           "description": "人間は老化を避けることはできませんが、健康的な生活を送ることで老化を遅らせることができるとされています。医療機器メーカー「Kernel」のCEOであるブライアン・ジョンソン氏は、日常のありとあらゆる習慣を健康的なものにすることで体内年齢と実年齢と逆転させることに成功しています。そんなジョンソン氏が、老化を遅らせるために行ってきた数々の習慣をまとめたのが「Blueprint」です。\n続きを読む...",
@@ -6866,6 +6876,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/30/news078.html",
+          "author": null,
+          "description": "IT業界における流行語を決める「IT流行語アワード」。読者の皆さまに、2022年に話題になったIT用語やイベント、事件などの中から「今年一番話題になったのはこれだ！」というワードを教えていただきました。",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/30/news078.html",
+          "publishedOn": "2022-12-30T06:00:00.000Z",
+          "wordCount": 2600,
+          "title": "2022年、NEWS読者に最も注目されたIT業界ワードトップ5　AIがワンツーフィニッシュ、3位は？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/30/cover_news078.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/30/news049.html",
           "author": null,

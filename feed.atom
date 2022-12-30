@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T06:17:05.279Z</updated>
+    <updated>2022-12-30T07:11:53.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[テスラのモデルYがヨーロッパで1番売れた自動車ランキング1位を奪還]]></title>
+        <id>https://gigazine.net/news/20221230-tesla-model-y-is-best-selling-car-in-europe/</id>
+        <link href="https://gigazine.net/news/20221230-tesla-model-y-is-best-selling-car-in-europe/"/>
+        <updated>2022-12-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国では需要が落ち込んでいることが指摘されているテスラのSUV「モデルY」が、ヨーロッパではフォルクスワーゲンの「Golf」などを抜いて1カ月に最も売れた自動車のトップに立ったことがわかりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年、NEWS読者に最も注目されたIT業界ワードトップ5　AIがワンツーフィニッシュ、3位は？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/30/news078.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/30/news078.html"/>
+        <updated>2022-12-30T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IT業界における流行語を決める「IT流行語アワード」。読者の皆さまに、2022年に話題になったIT用語やイベント、事件などの中から「今年一番話題になったのはこれだ！」というワードを教えていただきました。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[老化を遅らせ生物学的年齢を若返らせるプロジェクト「Blueprint」では一体何を行うのか？]]></title>
         <id>https://gigazine.net/news/20221230-project-blueprint-health/</id>

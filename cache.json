@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221231-domdom-youlinji-cheese-burger/",
+          "author": null,
+          "description": "ドムドムハンバーガーで2022年ラストの期間限定新商品として「油淋鶏ーズ(ユーリンチーズ)バーガー」が登場したので、2022年の締めに食べに行ってきました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-domdom-youlinji-cheese-burger/",
+          "publishedOn": "2022-12-31T09:00:00.000Z",
+          "wordCount": 2421,
+          "title": "油淋鶏をたっぷりチーズが完全に包み込むドムドムハンバーガーの「油淋鶏ーズバーガー」を食べてきた",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/domdom-youlinji-cheese-burger/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20221231-sirako-mosoka-soba/",
+          "author": null,
+          "description": "2022年を締めくくる年越しそばの具材として何を入れようかな～ということで先週からあーでもないこーでもないと迷いまくった結果、「白子がいいのではないか？」ということで買ってきました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-sirako-mosoka-soba/",
+          "publishedOn": "2022-12-31T08:30:00.000Z",
+          "wordCount": 2414,
+          "title": "年越しそばとして爆速＆お手軽簡単な「白子みそかそば」の作り方",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/sirako-mosoka-soba/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221231-topvalu-oseti/",
           "author": null,
           "description": "15時半頃にようやくトップバリューのおせち和風三段重「慶（よろこび）」が届いたのですが、開封してみると何かが変。よく見てみるとどこかのお重から甘くてねちゃくちゃする液体が漏れ出したような跡があり、お重を持つ度に手について拭く羽目に。どこかの時点で何かが漏れ出てしまったようです。\n続きを読む...",
@@ -6918,26 +6938,6 @@
           "wordCount": 1273,
           "title": "HPEがNutanix買収に向けて交渉中と米ブルームバーグが報道。縮小するオンプレミス市場での買収の思惑とは？",
           "imageUrl": "https://www.publickey1.jp/fbico_pblky.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/awsidecicdamazon_codecatalystaws_reinvent_2022.html",
-          "author": null,
-          "description": "Amazon Web Services（AWS）は米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」で、AWS上で開発チームのための環境一式を提供する「Amazon CodeCatalyst」を発表しました。 Ama...",
-          "link": "https://www.publickey1.jp/blog/22/awsidecicdamazon_codecatalystaws_reinvent_2022.html",
-          "publishedOn": "2022-12-01T20:23:49.000Z",
-          "wordCount": 1340,
-          "title": "［速報］AWS上で開発環境一式、フレームワーク、初期コード、IDE、ビルド環境、CI/CDなど提供する「Amazon CodeCatalyst」発表。AWS re:Invent 2022",
-          "imageUrl": "https://www.publickey1.jp/2022/amazoncodecatalyst02.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/awsapplication_composeraws_reinvent_2022.html",
-          "author": null,
-          "description": "Amazon Web Services（AWS）が米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」。最後の基調講演にはAmazon.com VP兼CTOのWerner Vogels博士が登壇しました。 Vogels...",
-          "link": "https://www.publickey1.jp/blog/22/awsapplication_composeraws_reinvent_2022.html",
-          "publishedOn": "2022-12-01T20:21:16.000Z",
-          "wordCount": 1340,
-          "title": "［速報］AWS、サーバレスアプリのビジュアル開発ツール「Application Composer」発表。AWS re:Invent 2022",
-          "imageUrl": "https://www.publickey1.jp/2022/awsapplicationcomposer03.png"
         }
       ]
     },

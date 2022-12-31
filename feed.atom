@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T08:15:58.288Z</updated>
+    <updated>2022-12-31T09:11:54.256Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[油淋鶏をたっぷりチーズが完全に包み込むドムドムハンバーガーの「油淋鶏ーズバーガー」を食べてきた]]></title>
+        <id>https://gigazine.net/news/20221231-domdom-youlinji-cheese-burger/</id>
+        <link href="https://gigazine.net/news/20221231-domdom-youlinji-cheese-burger/"/>
+        <updated>2022-12-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドムドムハンバーガーで2022年ラストの期間限定新商品として「油淋鶏ーズ(ユーリンチーズ)バーガー」が登場したので、2022年の締めに食べに行ってきました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年越しそばとして爆速＆お手軽簡単な「白子みそかそば」の作り方]]></title>
+        <id>https://gigazine.net/news/20221231-sirako-mosoka-soba/</id>
+        <link href="https://gigazine.net/news/20221231-sirako-mosoka-soba/"/>
+        <updated>2022-12-31T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年を締めくくる年越しそばの具材として何を入れようかな～ということで先週からあーでもないこーでもないと迷いまくった結果、「白子がいいのではないか？」ということで買ってきました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[トップバリューのおせち和風三段重「慶（よろこび）」を買ったら何かが漏れていてねちゃくちゃに]]></title>
         <id>https://gigazine.net/news/20221231-topvalu-oseti/</id>
@@ -11844,26 +11866,6 @@
         <summary type="html"><![CDATA[OpenAIは、会話形式でやり取りする言語モデル「ChatGPT」を、11月30日（現地時間）にリサーチプレビュー公開した。リサーチプレビュー中は無料で使用できる。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［速報］AWS上で開発環境一式、フレームワーク、初期コード、IDE、ビルド環境、CI/CDなど提供する「Amazon CodeCatalyst」発表。AWS re:Invent 2022]]></title>
-        <id>https://www.publickey1.jp/blog/22/awsidecicdamazon_codecatalystaws_reinvent_2022.html</id>
-        <link href="https://www.publickey1.jp/blog/22/awsidecicdamazon_codecatalystaws_reinvent_2022.html"/>
-        <updated>2022-12-01T20:23:49.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Web Services（AWS）は米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」で、AWS上で開発チームのための環境一式を提供する「Amazon CodeCatalyst」を発表しました。 Ama...]]></summary>
-        <author>
-            <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[［速報］AWS、サーバレスアプリのビジュアル開発ツール「Application Composer」発表。AWS re:Invent 2022]]></title>
-        <id>https://www.publickey1.jp/blog/22/awsapplication_composeraws_reinvent_2022.html</id>
-        <link href="https://www.publickey1.jp/blog/22/awsapplication_composeraws_reinvent_2022.html"/>
-        <updated>2022-12-01T20:21:16.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Web Services（AWS）が米ラスベガスで開催中の年次イベント「AWS re:Invent 2022」。最後の基調講演にはAmazon.com VP兼CTOのWerner Vogels博士が登壇しました。 Vogels...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>

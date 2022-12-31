@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-30T23:12:46.218Z</updated>
+    <updated>2022-12-31T01:04:45.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PlayStationでプレイすべき9つのゲーム]]></title>
+        <id>https://gigazine.net/news/20221231-9-best-games-2022-playstation/</id>
+        <link href="https://gigazine.net/news/20221231-9-best-games-2022-playstation/"/>
+        <updated>2022-12-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[年末のボーナスやお年玉で新しいゲームを買い、ゲームの世界にどっぷり浸かりたいと考えている人も少なくないはず。そんな人にオススメしたいPlayStation 4(PS4)やPlayStation 5(PS5)でプレイできる最高のゲームを、海外メディアのThe Vergeがまとめています。2022年に話題をさらった超大作から、猫が主役のあの作品、人気作のリメイクやリマスターまで、さまざまなタイトルが挙げられているので年末年始にゲーム漬けになりたい人は必見です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Switchをゲットしたらプレイすべき10のゲーム]]></title>
         <id>https://gigazine.net/news/20221230-10-best-games-nintendo-switch/</id>

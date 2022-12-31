@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221231-unclutter/",
+          "author": null,
+          "description": "有料会員への加入誘導のような余計な表示をなくしてくれるだけでなく、ダークモードにしたりハイライトを入れたりして記事を読みやすくできるGoogle ChromeおよびMozilla Firefox向け拡張機能の「Unclutter」を実際に使用して、どれくらい記事が読みやすくなるのかを確認してみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-unclutter/",
+          "publishedOn": "2022-12-31T11:00:00.000Z",
+          "wordCount": 2472,
+          "title": "記事からゴチャゴチャした表示を除外して読みやすくしてくれる「Unclutter」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/unclutter/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221231-tips-turn-down-tinnitus/",
           "author": null,
           "description": "耳の中でいろいろな音が鳴るように感じる耳鳴りには、世界各国で多くの人々が悩まされています。慢性的に続く人もいれば、ふとした瞬間に突然症状が発生する人までさまざま。このような耳鳴りにどのように向き合っていけばいいのかについて、バージニア大学の耳鼻咽喉科教授であるブラッドリー・ケッサー氏が解説しています。\n続きを読む...",
@@ -6621,16 +6631,6 @@
           "wordCount": 4348,
           "title": "AWS、データベース・サービスでブルー／グリーン・デプロイメントを自動化するサービスを開始",
           "imageUrl": "https://codezine.jp/static/images/article/16958/13107_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16954",
-          "author": null,
-          "description": "OpenAIは、会話形式でやり取りする言語モデル「ChatGPT」を、11月30日（現地時間）にリサーチプレビュー公開した。リサーチプレビュー中は無料で使用できる。",
-          "link": "http://codezine.jp/article/detail/16954",
-          "publishedOn": "2022-12-01T23:00:00.000Z",
-          "wordCount": 4334,
-          "title": "OpenAIが会話向け言語モデル「ChatGPT」を公開、リサーチプレビュー中は無料で使用可能",
-          "imageUrl": "https://codezine.jp/static/images/article/16954/12670_og_1.png"
         }
       ]
     },

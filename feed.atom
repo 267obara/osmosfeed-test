@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T22:11:39.780Z</updated>
+    <updated>2022-12-31T23:12:30.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11778,16 +11778,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/03/news046.html"/>
         <updated>2022-12-02T23:03:00.000Z</updated>
         <summary type="html"><![CDATA[Twitterは11月半ばに凍結解除したイェ（元カニエ・ウェスト）のアカウントを再凍結した。マスクCEOは「最善を尽くしたが、彼は再度暴力の扇動に関するTwitterルールに違反した。アカウントは停止だ」とツイートした。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「受け入れられない」　クリスタ、画像生成AIの実装を見送り　ユーザーから苦情相次ぐ]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/02/news175.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news175.html"/>
-        <updated>2022-12-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[セルシスが、CLIP STUDIO PAINTに試験的に導入するとしていたAI画像生成機能について、搭載を見送ると発表した。ユーザーからの批判を受け、方針転換したとしている。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

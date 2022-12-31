@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T16:16:52.002Z</updated>
+    <updated>2022-12-31T17:10:46.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11848,16 +11848,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/02/news126.html"/>
         <updated>2022-12-02T05:31:00.000Z</updated>
         <summary type="html"><![CDATA[Teslaは2017年に発表した大型電気トラック「SEMI」の出荷イベントを開催した。2019年に予定されていた出荷を同日開始した。マスクCEOは2024年までに5万台生産すると語った。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W杯クロアチア戦の勝率は32％、JX通信社がシミュレーション　優勝する確率は0.8％]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/02/news115.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news115.html"/>
-        <updated>2022-12-02T04:39:00.000Z</updated>
-        <summary type="html"><![CDATA[JX通信社は2日、開催中のサッカー世界大会「FIFA ワールドカップ カタール 2022」（W杯）で日本代表が次の対戦相手であるクロアチアに勝利する確率は32.3%というシミュレーション結果を発表した。スペイン戦より高水準という。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

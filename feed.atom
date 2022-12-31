@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T03:14:06.328Z</updated>
+    <updated>2022-12-31T04:15:50.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[年末ジャンボ宝くじ(第945回全国自治宝くじ)の当せん番号一覧]]></title>
+        <id>https://gigazine.net/news/20221231-jumbo-takarakuji-945/</id>
+        <link href="https://gigazine.net/news/20221231-jumbo-takarakuji-945/"/>
+        <updated>2022-12-31T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年度年末ジャンボ宝くじの当選結果はこちら。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お店レベルの本格濃厚スパイスカレー「たっぷりチキンのココナッツカレー」を自分で作る方法]]></title>
         <id>https://gigazine.net/news/20221231-coconut-curry/</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T17:10:46.163Z</updated>
+    <updated>2022-12-31T18:15:01.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11838,16 +11838,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/02/news134.html"/>
         <updated>2022-12-02T06:35:00.000Z</updated>
         <summary type="html"><![CDATA[「有隣堂 ヨドバシAKIBA店」が2023年1月9日に閉店する。「ヨドバシカメラ マルチメディアAkiba」7階にある大型書店だ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teslaの大型電気トラック「SEMI」をようやく納車開始]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/02/news126.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news126.html"/>
-        <updated>2022-12-02T05:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Teslaは2017年に発表した大型電気トラック「SEMI」の出荷イベントを開催した。2019年に予定されていた出荷を同日開始した。マスクCEOは2024年までに5万台生産すると語った。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221231-all-access-ranking/",
+          "author": null,
+          "description": "まずはGoogleアナリティクスでの測定結果に基づいて、2022年に作成された記事の第10位から順に並べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-all-access-ranking/",
+          "publishedOn": "2022-12-31T12:00:00.000Z",
+          "wordCount": 2498,
+          "title": "なんと1位になったのはコレ！GIGAZINEの記事＆YouTubeトップ10ランキング2022",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/all-access-ranking/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221231-unclutter/",
           "author": null,
           "description": "有料会員への加入誘導のような余計な表示をなくしてくれるだけでなく、ダークモードにしたりハイライトを入れたりして記事を読みやすくできるGoogle ChromeおよびMozilla Firefox向け拡張機能の「Unclutter」を実際に使用して、どれくらい記事が読みやすくなるのかを確認してみました。\n続きを読む...",

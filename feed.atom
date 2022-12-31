@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T11:10:08.493Z</updated>
+    <updated>2022-12-31T12:22:33.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[なんと1位になったのはコレ！GIGAZINEの記事＆YouTubeトップ10ランキング2022]]></title>
+        <id>https://gigazine.net/news/20221231-all-access-ranking/</id>
+        <link href="https://gigazine.net/news/20221231-all-access-ranking/"/>
+        <updated>2022-12-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[まずはGoogleアナリティクスでの測定結果に基づいて、2022年に作成された記事の第10位から順に並べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[記事からゴチャゴチャした表示を除外して読みやすくしてくれる「Unclutter」]]></title>
         <id>https://gigazine.net/news/20221231-unclutter/</id>

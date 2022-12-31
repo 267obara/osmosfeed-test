@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T21:10:56.924Z</updated>
+    <updated>2022-12-31T22:11:39.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11788,16 +11788,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/02/news175.html"/>
         <updated>2022-12-02T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[セルシスが、CLIP STUDIO PAINTに試験的に導入するとしていたAI画像生成機能について、搭載を見送ると発表した。ユーザーからの批判を受け、方針転換したとしている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ポケモンGO」で3日に“メガレイドデー”　無料パス5枚配布、「メガラグラージ」など初登場]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/02/news166.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news166.html"/>
-        <updated>2022-12-02T09:19:00.000Z</updated>
-        <summary type="html"><![CDATA[ポケモンGOで3日午後2時から「ホウエンメガレイド」が開催されます。「メガラグラージ」「メガジュカイン」「メガバシャーモ」が初登場。無料レイドパスも5枚もらえます。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

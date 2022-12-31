@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T19:09:53.283Z</updated>
+    <updated>2022-12-31T20:12:47.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11820,16 +11820,6 @@
         <summary type="html"><![CDATA[AVILENは、「年末年始の学びを応援！AI学習講座割引キャンペーン」を12月1日～2023年1月15日の期間に開催する。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑞起「X68000 Z」、3日にクラファン開始　約5万円]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/02/news144.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news144.html"/>
-        <updated>2022-12-02T07:27:00.000Z</updated>
-        <summary type="html"><![CDATA[瑞起は往年のシャープ製パソコン「X68000」を現代風にアレンジした「X68000 Z LIMITED EDITION EARLY ACCESS KIT」のクラウドファンディングを実施する。支援購入は4万9500円。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

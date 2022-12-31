@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T18:15:01.474Z</updated>
+    <updated>2022-12-31T19:09:53.283Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11828,16 +11828,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/02/news144.html"/>
         <updated>2022-12-02T07:27:00.000Z</updated>
         <summary type="html"><![CDATA[瑞起は往年のシャープ製パソコン「X68000」を現代風にアレンジした「X68000 Z LIMITED EDITION EARLY ACCESS KIT」のクラウドファンディングを実施する。支援購入は4万9500円。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[書店「有隣堂」ヨドバシAKIBA店、閉店へ　利用者「ショック」「残念」「ありがとう」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/02/news134.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/02/news134.html"/>
-        <updated>2022-12-02T06:35:00.000Z</updated>
-        <summary type="html"><![CDATA[「有隣堂 ヨドバシAKIBA店」が2023年1月9日に閉店する。「ヨドバシカメラ マルチメディアAkiba」7階にある大型書店だ。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

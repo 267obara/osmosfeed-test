@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230101-akeome-kotoyoro/",
+          "author": null,
+          "description": "あけましておめでとうございます！2023年1月1日になりました！今年もGIGAZINEをなにとぞよろしくお願いします、ぺこりん。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-akeome-kotoyoro/",
+          "publishedOn": "2022-12-31T15:00:00.000Z",
+          "wordCount": 2482,
+          "title": "あけましておめでとうございます、今年もGIGAZINEをよろしくです",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/akeome-kotoyoro/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221231-all-access-ranking/",
           "author": null,
           "description": "まずはGoogleアナリティクスでの測定結果に基づいて、2022年に作成された記事の第10位から順に並べてみました。\n続きを読む...",
@@ -6601,16 +6611,6 @@
           "wordCount": 4334,
           "title": "AVILEN、来年1/15までAI学習講座を割引価格で提供、E資格講座など4講座が対象",
           "imageUrl": "https://codezine.jp/static/images/article/16963/16963_fig01.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16799",
-          "author": null,
-          "description": "本記事では、ExcelライクなスプレッドシートをWebページに表示できるグレープシティのJavaScriptライブラリ「SpreadJS」を、JavaScriptのフレームワークVue.jsと組み合わせて利用する例を紹介します。サーバー側はマイクロソフトのASP.NET CoreでWeb APIを作成して、Web APIから取得したデータをSpreadJSで表示させます。",
-          "link": "http://codezine.jp/article/detail/16799",
-          "publishedOn": "2022-12-02T03:00:00.000Z",
-          "wordCount": 4443,
-          "title": "「SpreadJS」のスプレッドシートをVue.js＋ASP.NET Coreで活用してデータ集計するWebページを作ろう",
-          "imageUrl": "https://codezine.jp/static/images/article/16799/16799_ognew.png"
         }
       ]
     },

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T14:10:49.251Z</updated>
+    <updated>2022-12-31T15:12:23.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あけましておめでとうございます、今年もGIGAZINEをよろしくです]]></title>
+        <id>https://gigazine.net/news/20230101-akeome-kotoyoro/</id>
+        <link href="https://gigazine.net/news/20230101-akeome-kotoyoro/"/>
+        <updated>2022-12-31T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[あけましておめでとうございます！2023年1月1日になりました！今年もGIGAZINEをなにとぞよろしくお願いします、ぺこりん。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[なんと1位になったのはコレ！GIGAZINEの記事＆YouTubeトップ10ランキング2022]]></title>
         <id>https://gigazine.net/news/20221231-all-access-ranking/</id>
@@ -11859,16 +11870,6 @@
         <summary type="html"><![CDATA[米Microsoftが提供する「Outlook」「Microsoft Teams」「Skype」で障害が発生。メール送信や検索、決済などの機能が使えないなどの問題が出ている。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「SpreadJS」のスプレッドシートをVue.js＋ASP.NET Coreで活用してデータ集計するWebページを作ろう]]></title>
-        <id>http://codezine.jp/article/detail/16799</id>
-        <link href="http://codezine.jp/article/detail/16799"/>
-        <updated>2022-12-02T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本記事では、ExcelライクなスプレッドシートをWebページに表示できるグレープシティのJavaScriptライブラリ「SpreadJS」を、JavaScriptのフレームワークVue.jsと組み合わせて利用する例を紹介します。サーバー側はマイクロソフトのASP.NET CoreでWeb APIを作成して、Web APIから取得したデータをSpreadJSで表示させます。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
 </feed>

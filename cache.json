@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221231-tips-turn-down-tinnitus/",
+          "author": null,
+          "description": "耳の中でいろいろな音が鳴るように感じる耳鳴りには、世界各国で多くの人々が悩まされています。慢性的に続く人もいれば、ふとした瞬間に突然症状が発生する人までさまざま。このような耳鳴りにどのように向き合っていけばいいのかについて、バージニア大学の耳鼻咽喉科教授であるブラッドリー・ケッサー氏が解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-tips-turn-down-tinnitus/",
+          "publishedOn": "2022-12-31T10:00:00.000Z",
+          "wordCount": 2434,
+          "title": "耳鳴りはなぜ発生するのか？どうすれば耳鳴りを和らげられるのか？",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/tips-turn-down-tinnitus/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20221231-domdom-youlinji-cheese-burger/",
           "author": null,
           "description": "ドムドムハンバーガーで2022年ラストの期間限定新商品として「油淋鶏ーズ(ユーリンチーズ)バーガー」が登場したので、2022年の締めに食べに行ってきました。\n続きを読む...",
@@ -6946,6 +6956,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2212/31/news037.html",
+          "author": null,
+          "description": "世代を跨いだチャットコミュニケーションのヒントとして若者言葉をクイズ化。「エケチェン」の意味は？",
+          "link": "https://www.itmedia.co.jp/news/articles/2212/31/news037.html",
+          "publishedOn": "2022-12-31T09:00:00.000Z",
+          "wordCount": 2606,
+          "title": "ネット若者語「エケチェン」、どんな意味？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/31/cover_news037.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2212/30/news082.html",
           "author": null,

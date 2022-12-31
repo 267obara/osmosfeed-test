@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T09:11:54.256Z</updated>
+    <updated>2022-12-31T10:12:35.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[耳鳴りはなぜ発生するのか？どうすれば耳鳴りを和らげられるのか？]]></title>
+        <id>https://gigazine.net/news/20221231-tips-turn-down-tinnitus/</id>
+        <link href="https://gigazine.net/news/20221231-tips-turn-down-tinnitus/"/>
+        <updated>2022-12-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[耳の中でいろいろな音が鳴るように感じる耳鳴りには、世界各国で多くの人々が悩まされています。慢性的に続く人もいれば、ふとした瞬間に突然症状が発生する人までさまざま。このような耳鳴りにどのように向き合っていけばいいのかについて、バージニア大学の耳鼻咽喉科教授であるブラッドリー・ケッサー氏が解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[油淋鶏をたっぷりチーズが完全に包み込むドムドムハンバーガーの「油淋鶏ーズバーガー」を食べてきた]]></title>
         <id>https://gigazine.net/news/20221231-domdom-youlinji-cheese-burger/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ネット若者語「エケチェン」、どんな意味？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2212/31/news037.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2212/31/news037.html"/>
+        <updated>2022-12-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[世代を跨いだチャットコミュニケーションのヒントとして若者言葉をクイズ化。「エケチェン」の意味は？]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

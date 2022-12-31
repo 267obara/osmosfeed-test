@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T02:31:43.313Z</updated>
+    <updated>2022-12-31T03:14:06.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お店レベルの本格濃厚スパイスカレー「たっぷりチキンのココナッツカレー」を自分で作る方法]]></title>
+        <id>https://gigazine.net/news/20221231-coconut-curry/</id>
+        <link href="https://gigazine.net/news/20221231-coconut-curry/"/>
+        <updated>2022-12-31T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[カレー屋さんでカレーを食べた際に「自分でも作れたらいつでもおいしいカレーを食べられるのに……」と考えたことがある人は多いはず。しかし、本格的なカレーを作ろうとすると「何時間も煮込む必要があるのかな」「特殊な材料が必要なのでは？」と考えてしまい、最初の一歩をなかなか踏み出せないものです。そこで、カレー大好き編集部員が編み出した比較的入手しやすい材料だけで作れる「チキンがゴロゴロ入った濃厚ココナッツカレー」のレシピを大量の写真付きでまとめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[治療用「がんワクチン」実現の可能性や課題について専門家はどう見ているのか？]]></title>
         <id>https://gigazine.net/news/20221231-cancer-vaccines-future/</id>

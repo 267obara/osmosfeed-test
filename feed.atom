@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T04:15:50.514Z</updated>
+    <updated>2022-12-31T05:11:32.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウェブデザインの基礎知識がクイズ形式で問われるサイト「Semblance: a frontend design quiz」]]></title>
+        <id>https://gigazine.net/news/20221231-web-design-12-quiz/</id>
+        <link href="https://gigazine.net/news/20221231-web-design-12-quiz/"/>
+        <updated>2022-12-31T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近年ではさまざまなデザインのウェブサイトがインターネット上に広がっています。そんなウェブデザインにおけるピクセル単位の変化に気づく能力を測る12個のクイズが「Semblance: a frontend design quiz」にまとめられています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年末ジャンボ宝くじ(第945回全国自治宝くじ)の当せん番号一覧]]></title>
         <id>https://gigazine.net/news/20221231-jumbo-takarakuji-945/</id>

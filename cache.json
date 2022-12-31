@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20221231-web-design-12-quiz/",
+          "author": null,
+          "description": "近年ではさまざまなデザインのウェブサイトがインターネット上に広がっています。そんなウェブデザインにおけるピクセル単位の変化に気づく能力を測る12個のクイズが「Semblance: a frontend design quiz」にまとめられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20221231-web-design-12-quiz/",
+          "publishedOn": "2022-12-31T05:00:00.000Z",
+          "wordCount": 2464,
+          "title": "ウェブデザインの基礎知識がクイズ形式で問われるサイト「Semblance: a frontend design quiz」",
+          "imageUrl": "https://i.gzn.jp/img/2022/12/31/web-design-12-quiz/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20221231-jumbo-takarakuji-945/",
           "author": null,
           "description": "2021年度年末ジャンボ宝くじの当選結果はこちら。\n続きを読む...",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T07:11:37.669Z</updated>
+    <updated>2023-01-01T08:16:18.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[闘技場を動き回って戦い進めるデッキ構築型ストラテジーゲーム「Alina of the Arena」プレイレビュー]]></title>
+        <id>https://gigazine.net/news/20230101-alina-of-the-arena/</id>
+        <link href="https://gigazine.net/news/20230101-alina-of-the-arena/"/>
+        <updated>2023-01-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ローグライクデッキ構築ゲームの「Slay the Spire」と、ターン制ストラテージゲーム「Into the Breach」の要素を組み合わせたローグライクデッキ構築戦術ゲーム「Alina of the Arena」がSteamで配信されています。「ローグライクデッキ構築戦術ゲーム」とはいったいどういうゲームなのか気になったので、実際に遊んでみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[構造的に上昇したインフレと金融抑圧が15年から20年続くと経済学者が警告]]></title>
         <id>https://gigazine.net/news/20230101-10-to-15-inflation-phase/</id>

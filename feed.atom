@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T10:13:16.891Z</updated>
+    <updated>2023-01-01T11:10:09.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウェブはスイスではなくフランスで発明された]]></title>
+        <id>https://gigazine.net/news/20230101-web-was-invented-in-france-not-switzerland/</id>
+        <link href="https://gigazine.net/news/20230101-web-was-invented-in-france-not-switzerland/"/>
+        <updated>2023-01-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ウェブの開発にはさまざまな人々が携わっていますが、最もよく知られているのが、CERNに勤務していティム・バーナーズ＝リー氏がハイパーテキストシステム「WorldWideWeb」を開発したことによる貢献です。CERNの所在地から「ウェブはスイス発祥」と言われることがありますが、実は厳密にはフランスだったとデザイナーのデビッド・ガルブレイス氏がブログで指摘しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「因幡の白うさぎ」伝説の地・鳥取の白兎神社に行ってきた]]></title>
         <id>https://gigazine.net/news/20230101-tottori-hakuto-shrine/</id>
@@ -11834,16 +11845,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/03/news034.html"/>
         <updated>2022-12-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Google製のお絵描きゲーム「Quick, Draw!」は、手軽に遊べるWebアプリだ。お題を基に絵を描き、AIが何を描いたか判定する。実はこのコンテンツの狙いは「◯◯データ」の収集にあった。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter、イェ（カニエ・ウェスト）のアカウントを再凍結]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/03/news046.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/03/news046.html"/>
-        <updated>2022-12-02T23:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterは11月半ばに凍結解除したイェ（元カニエ・ウェスト）のアカウントを再凍結した。マスクCEOは「最善を尽くしたが、彼は再度暴力の扇動に関するTwitterルールに違反した。アカウントは停止だ」とツイートした。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

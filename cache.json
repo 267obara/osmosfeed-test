@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230101-web-was-invented-in-france-not-switzerland/",
+          "author": null,
+          "description": "ウェブの開発にはさまざまな人々が携わっていますが、最もよく知られているのが、CERNに勤務していティム・バーナーズ＝リー氏がハイパーテキストシステム「WorldWideWeb」を開発したことによる貢献です。CERNの所在地から「ウェブはスイス発祥」と言われることがありますが、実は厳密にはフランスだったとデザイナーのデビッド・ガルブレイス氏がブログで指摘しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-web-was-invented-in-france-not-switzerland/",
+          "publishedOn": "2023-01-01T11:00:00.000Z",
+          "wordCount": 2447,
+          "title": "ウェブはスイスではなくフランスで発明された",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/web-was-invented-in-france-not-switzerland/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230101-tottori-hakuto-shrine/",
           "author": null,
           "description": "古事記に記載のある「因幡の白うさぎ」の神話の地である鳥取県の白兎神社に行ってきました。主神が白兎神であることから、参道には多くの兎が配されていました。\n続きを読む...",
@@ -11365,16 +11375,6 @@
           "wordCount": 2661,
           "title": "お絵描きWebアプリ「Quick, Draw!」　Google製の楽しいゲーム　目的は「◯◯データ」の収集？",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/03/cover_news034.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/03/news046.html",
-          "author": null,
-          "description": "Twitterは11月半ばに凍結解除したイェ（元カニエ・ウェスト）のアカウントを再凍結した。マスクCEOは「最善を尽くしたが、彼は再度暴力の扇動に関するTwitterルールに違反した。アカウントは停止だ」とツイートした。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/03/news046.html",
-          "publishedOn": "2022-12-02T23:03:00.000Z",
-          "wordCount": 2598,
-          "title": "Twitter、イェ（カニエ・ウェスト）のアカウントを再凍結",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/03/cover_news046.jpg"
         }
       ]
     }

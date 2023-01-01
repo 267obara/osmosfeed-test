@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230101-10-to-15-inflation-phase/",
+          "author": null,
+          "description": "高止まりするインフレの影響を受け、中央銀行は金利引き上げなどを行い対応措置をとり始めています。インフレの悪循環をかねてから警告していたという経済学者のラッセル・ネイピア氏は、「構造的に上昇したインフレと金融抑圧が15年から20年続く」と主張し、投資家が新しい世界にどのように備える必要があるかについて、見解を共有しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-10-to-15-inflation-phase/",
+          "publishedOn": "2023-01-01T06:00:00.000Z",
+          "wordCount": 2440,
+          "title": "構造的に上昇したインフレと金融抑圧が15年から20年続くと経済学者が警告",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/10-to-15-inflation-phase/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230101-nuclear-fusion-useful/",
           "author": null,
           "description": "未来のエネルギーとして大きく期待されている核融合は、連鎖反応で暴走してしまう危険性が高い核分裂と比べると非常に安全とされており、実現に向けて研究が進められていますが、科学系ニュースサイトのIEEE Spectrumは「核融合発電の商業化への長い道のりの小さな一歩にすぎません」と述べています。\n続きを読む...",

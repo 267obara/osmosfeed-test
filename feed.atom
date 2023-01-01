@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T11:10:09.880Z</updated>
+    <updated>2023-01-01T12:24:11.511Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11835,16 +11835,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/02/news172.html"/>
         <updated>2022-12-03T01:00:00.000Z</updated>
         <summary type="html"><![CDATA[国民生活センターが、バッテリーなどで電熱線を発熱させて暖を取る防寒着「電熱ウェア」について、利用時は異常な発熱に注意するよう注意を呼び掛けた。同センターには電熱ウェアに起因する衣服の焼損・やけどの相談が複数寄せられているという。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[お絵描きWebアプリ「Quick, Draw!」　Google製の楽しいゲーム　目的は「◯◯データ」の収集？]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/03/news034.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/03/news034.html"/>
-        <updated>2022-12-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google製のお絵描きゲーム「Quick, Draw!」は、手軽に遊べるWebアプリだ。お題を基に絵を描き、AIが何を描いたか判定する。実はこのコンテンツの狙いは「◯◯データ」の収集にあった。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230102-sexual-economics/",
+          "author": null,
+          "description": "セックスを経済的観点から捉え、女性をセックスの売り手、男性を買い手と考えて文化や性的傾向を考える「性的経済学」という理論が、経済学者のロイ・バウマイスター氏とキャスリーン・ヴォース氏により提唱されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230102-sexual-economics/",
+          "publishedOn": "2023-01-01T23:00:00.000Z",
+          "wordCount": 2473,
+          "title": "セックスを女性の資源と捉える「性的経済学」",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/02/sexual-economics/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230101-overfitting-machine-learning-goodharts-law/",
           "author": null,
           "description": "機械学習における過学習(過剰適合／オーバーフィッティング)とは、AIが学習データのみに最適化されてしまい、未知のデータに対する予測能力が低くなってしまうという現象です。そんな過学習と同様の現象が機械学習分野だけでなく社会全体のさまざまな場面でも発生していると、Google傘下の人工知能研究所・Google Brainの研究者であり近年の画像生成AIに広く用いられている「拡散モデル」の論文執筆者でもあるJascha Sohl-Dickstein氏が主張しています。\n続きを読む...",

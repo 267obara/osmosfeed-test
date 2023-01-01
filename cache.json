@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230101-overfitting-machine-learning-goodharts-law/",
+          "author": null,
+          "description": "機械学習における過学習(過剰適合／オーバーフィッティング)とは、AIが学習データのみに最適化されてしまい、未知のデータに対する予測能力が低くなってしまうという現象です。そんな過学習と同様の現象が機械学習分野だけでなく社会全体のさまざまな場面でも発生していると、Google傘下の人工知能研究所・Google Brainの研究者であり近年の画像生成AIに広く用いられている「拡散モデル」の論文執筆者でもあるJascha Sohl-Dickstein氏が主張しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230101-overfitting-machine-learning-goodharts-law/",
+          "publishedOn": "2023-01-01T14:00:00.000Z",
+          "wordCount": 2457,
+          "title": "学習データに最適化されすぎて本来の目的が達成できなくなる「過学習」と同様の現象はAIだけでなく社会全体で起こっているという主張",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/01/overfitting-machine-learning-goodharts-law/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230101-web-was-invented-in-france-not-switzerland/",
           "author": null,
           "description": "ウェブの開発にはさまざまな人々が携わっていますが、最もよく知られているのが、CERNに勤務していティム・バーナーズ＝リー氏がハイパーテキストシステム「WorldWideWeb」を開発したことによる貢献です。CERNの所在地から「ウェブはスイス発祥」と言われることがありますが、実は厳密にはフランスだったとデザイナーのデビッド・ガルブレイス氏がブログで指摘しています。\n続きを読む...",

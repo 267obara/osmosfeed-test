@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T13:16:13.943Z</updated>
+    <updated>2023-01-01T14:11:12.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[学習データに最適化されすぎて本来の目的が達成できなくなる「過学習」と同様の現象はAIだけでなく社会全体で起こっているという主張]]></title>
+        <id>https://gigazine.net/news/20230101-overfitting-machine-learning-goodharts-law/</id>
+        <link href="https://gigazine.net/news/20230101-overfitting-machine-learning-goodharts-law/"/>
+        <updated>2023-01-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[機械学習における過学習(過剰適合／オーバーフィッティング)とは、AIが学習データのみに最適化されてしまい、未知のデータに対する予測能力が低くなってしまうという現象です。そんな過学習と同様の現象が機械学習分野だけでなく社会全体のさまざまな場面でも発生していると、Google傘下の人工知能研究所・Google Brainの研究者であり近年の画像生成AIに広く用いられている「拡散モデル」の論文執筆者でもあるJascha Sohl-Dickstein氏が主張しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウェブはスイスではなくフランスで発明された]]></title>
         <id>https://gigazine.net/news/20230101-web-was-invented-in-france-not-switzerland/</id>

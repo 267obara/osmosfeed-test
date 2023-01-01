@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T08:16:18.031Z</updated>
+    <updated>2023-01-01T09:12:16.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「因幡の白うさぎ」伝説の地・鳥取の白兎神社に行ってきた]]></title>
+        <id>https://gigazine.net/news/20230101-tottori-hakuto-shrine/</id>
+        <link href="https://gigazine.net/news/20230101-tottori-hakuto-shrine/"/>
+        <updated>2023-01-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[古事記に記載のある「因幡の白うさぎ」の神話の地である鳥取県の白兎神社に行ってきました。主神が白兎神であることから、参道には多くの兎が配されていました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[闘技場を動き回って戦い進めるデッキ構築型ストラテジーゲーム「Alina of the Arena」プレイレビュー]]></title>
         <id>https://gigazine.net/news/20230101-alina-of-the-arena/</id>

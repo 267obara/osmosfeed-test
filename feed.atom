@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-12-31T23:12:30.349Z</updated>
+    <updated>2023-01-01T01:16:33.741Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Netflixで見るべき10の映画＆ドラマ＆アニメ]]></title>
+        <id>https://gigazine.net/news/20230101-10-best-shows-netflix/</id>
+        <link href="https://gigazine.net/news/20230101-10-best-shows-netflix/"/>
+        <updated>2023-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ストリーミングサービスの普及により、「Netflix」などのサービスで映画・ドラマ・アニメを視聴するようになったという人も多いはず。しかし、Netflixのようなサービスを長く使っていると、「次に何を見るべきか」に悩まされることがあります。そんな次にNetflixで何を見ればいいか悩んでいる人や、年始のお休み期間で暇な時間が有り余っているという人にオススメな、「Netflixで見るべき10の映画＆ドラマ＆アニメ」をThe Vergeがまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あけましておめでとうございます、今年もGIGAZINEをよろしくです]]></title>
         <id>https://gigazine.net/news/20230101-akeome-kotoyoro/</id>

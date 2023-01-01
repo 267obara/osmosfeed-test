@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T04:15:40.121Z</updated>
+    <updated>2023-01-01T05:11:42.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[核融合の「ブレークスルー」が実用的な核融合発電の実現にまだつながらない理由とは？]]></title>
+        <id>https://gigazine.net/news/20230101-nuclear-fusion-useful/</id>
+        <link href="https://gigazine.net/news/20230101-nuclear-fusion-useful/"/>
+        <updated>2023-01-01T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[未来のエネルギーとして大きく期待されている核融合は、連鎖反応で暴走してしまう危険性が高い核分裂と比べると非常に安全とされており、実現に向けて研究が進められていますが、科学系ニュースサイトのIEEE Spectrumは「核融合発電の商業化への長い道のりの小さな一歩にすぎません」と述べています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[肉汁染み出るジューシーな豚肉がゴロゴロ入ったスパイスカレー「ポークビンダルー」の作り方]]></title>
         <id>https://gigazine.net/news/20230101-curry-pork-vindaloo/</id>

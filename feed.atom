@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T02:49:12.666Z</updated>
+    <updated>2023-01-01T03:18:46.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[肉汁染み出るジューシーな豚肉がゴロゴロ入ったスパイスカレー「ポークビンダルー」の作り方]]></title>
+        <id>https://gigazine.net/news/20230101-curry-pork-vindaloo/</id>
+        <link href="https://gigazine.net/news/20230101-curry-pork-vindaloo/"/>
+        <updated>2023-01-01T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[年末年始は「おせち」や「お雑煮」などの和風の料理を食べる機会が増えますが、読者の中には「和食に飽きちゃったな……」と感じている人も多いはず。そこで、ジューシーな豚肉をガッツリ楽しめるスパイスカレー「ポークビンダルー」の作り方を大量の写真付きでまとめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflixで見るべき10の映画＆ドラマ＆アニメ]]></title>
         <id>https://gigazine.net/news/20230101-10-best-shows-netflix/</id>

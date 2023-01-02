@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T17:11:41.385Z</updated>
+    <updated>2023-01-02T18:15:57.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11915,16 +11915,6 @@
         <summary type="html"><![CDATA[Hewlett Packard Enterprise（HPE）がハイパーコンバージドシステム大手のNutanixの買収に向けて交渉していると米ブルームバーグが報道し、話題となっています。 ＨＰＥ、クラウド会社ニュータニックスの買収に関心－関...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABEMA、クロアチア戦でアクセス制限の可能性　サッカーW杯カタール大会]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/04/news050.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/04/news050.html"/>
-        <updated>2022-12-04T05:23:00.000Z</updated>
-        <summary type="html"><![CDATA[ABEMAは、6日の午前0時（5日深夜）に始まる日本対クロアチア戦で、アクセスが集中した場合に入場制限をかける可能性があると明らかにした。「快適な聴環境を維持するため」という。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

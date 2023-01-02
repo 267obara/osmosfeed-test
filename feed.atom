@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-01T23:13:03.520Z</updated>
+    <updated>2023-01-02T01:06:26.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自分のハンドルネームがネットのどこで使われているかがわかる「HandleFinder」]]></title>
+        <id>https://gigazine.net/news/20230102-handlefinder/</id>
+        <link href="https://gigazine.net/news/20230102-handlefinder/"/>
+        <updated>2023-01-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SNSやウェブサービスを利用する際に必要となるIDに、自分の本名ではなくハンドルネームを使うという人は多いはず。しかし、何億人もの人が利用するインターネットで、自分が使っているハンドルネームと同じIDをたまたま別の人が使っているということもあり得ます。「HandleFinder」を使えば、自分のハンドルネームがどのSNSで使われているかを簡単に検索することができます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[セックスを女性の資源と捉える「性的経済学」]]></title>
         <id>https://gigazine.net/news/20230102-sexual-economics/</id>

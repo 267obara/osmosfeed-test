@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230102-handlefinder/",
+          "author": null,
+          "description": "SNSやウェブサービスを利用する際に必要となるIDに、自分の本名ではなくハンドルネームを使うという人は多いはず。しかし、何億人もの人が利用するインターネットで、自分が使っているハンドルネームと同じIDをたまたま別の人が使っているということもあり得ます。「HandleFinder」を使えば、自分のハンドルネームがどのSNSで使われているかを簡単に検索することができます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230102-handlefinder/",
+          "publishedOn": "2023-01-02T00:00:00.000Z",
+          "wordCount": 2415,
+          "title": "自分のハンドルネームがネットのどこで使われているかがわかる「HandleFinder」",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/02/handlefinder/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230102-sexual-economics/",
           "author": null,
           "description": "セックスを経済的観点から捉え、女性をセックスの売り手、男性を買い手と考えて文化や性的傾向を考える「性的経済学」という理論が、経済学者のロイ・バウマイスター氏とキャスリーン・ヴォース氏により提唱されています。\n続きを読む...",

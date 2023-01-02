@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T15:13:36.115Z</updated>
+    <updated>2023-01-02T16:17:56.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「しぶんぎ座流星群」4日未明が見ごろ　太平洋側「バッチリ見える」　生配信も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/03/news029.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/03/news029.html"/>
+        <updated>2023-01-02T15:01:00.000Z</updated>
+        <summary type="html"><![CDATA[年始めの天体ショー「しぶんぎ座流星群」が1月3日の深夜から4日未明にかけて見ごろに。ウェザーニュースによると、太平洋側は晴れて、関東から西日本は流星が「バッチリ見える」。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自転車のヘルメットに取り付けたGoProでドローンを飛ばせないエリアの3Dマップを作成する方法]]></title>
         <id>https://gigazine.net/news/20230102-creating-aerial-imagery-bike-helmet-camera/</id>

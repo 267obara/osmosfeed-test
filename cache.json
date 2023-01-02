@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230102-creating-aerial-imagery-bike-helmet-camera/",
+          "author": null,
+          "description": "ドローンを使うと上空から建造物や街の様子を撮影し、ソフトウェアを利用して3Dマップを作成することができますが、場所によってはドローンを飛ばすことが禁じられている場合があります。そこで、自転車のヘルメットに取り付けられた360度カメラだけを使い、ドローンを使わないで3Dマップを作成する方法について、ソフトウェアエンジニアのJake Coppinger氏が解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230102-creating-aerial-imagery-bike-helmet-camera/",
+          "publishedOn": "2023-01-02T14:00:00.000Z",
+          "wordCount": 2450,
+          "title": "自転車のヘルメットに取り付けたGoProでドローンを飛ばせないエリアの3Dマップを作成する方法",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/02/creating-aerial-imagery-bike-helmet-camera/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230102-james-webb-telescope-gay-rights/",
           "author": null,
           "description": "2021年12月25日に打ち上げられたジェイムズ・ウェッブ宇宙望遠鏡は、2022年7月に本格的な稼働を開始して以来さまざまな発見や貴重なデータを科学界にもたらしています。しかし、ジェイムズ・ウェッブ宇宙望遠鏡の名前の元となったNASAの2代目長官であるジェイムズ・E・ウェッブは同性愛嫌悪者であると主張する声があることから、命名には一騒動あったとThe New York Timesが伝えています。\n続きを読む...",

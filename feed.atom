@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T13:19:14.519Z</updated>
+    <updated>2023-01-02T14:11:53.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自転車のヘルメットに取り付けたGoProでドローンを飛ばせないエリアの3Dマップを作成する方法]]></title>
+        <id>https://gigazine.net/news/20230102-creating-aerial-imagery-bike-helmet-camera/</id>
+        <link href="https://gigazine.net/news/20230102-creating-aerial-imagery-bike-helmet-camera/"/>
+        <updated>2023-01-02T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドローンを使うと上空から建造物や街の様子を撮影し、ソフトウェアを利用して3Dマップを作成することができますが、場所によってはドローンを飛ばすことが禁じられている場合があります。そこで、自転車のヘルメットに取り付けられた360度カメラだけを使い、ドローンを使わないで3Dマップを作成する方法について、ソフトウェアエンジニアのJake Coppinger氏が解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジェイムズ・ウェッブ宇宙望遠鏡の命名が同性愛嫌悪をめぐる争いに発展した経緯とは？]]></title>
         <id>https://gigazine.net/news/20230102-james-webb-telescope-gay-rights/</id>

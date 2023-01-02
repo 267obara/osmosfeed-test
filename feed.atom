@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T10:14:16.081Z</updated>
+    <updated>2023-01-02T11:10:53.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ジェイムズ・ウェッブ宇宙望遠鏡の命名が同性愛嫌悪をめぐる争いに発展した経緯とは？]]></title>
+        <id>https://gigazine.net/news/20230102-james-webb-telescope-gay-rights/</id>
+        <link href="https://gigazine.net/news/20230102-james-webb-telescope-gay-rights/"/>
+        <updated>2023-01-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年12月25日に打ち上げられたジェイムズ・ウェッブ宇宙望遠鏡は、2022年7月に本格的な稼働を開始して以来さまざまな発見や貴重なデータを科学界にもたらしています。しかし、ジェイムズ・ウェッブ宇宙望遠鏡の名前の元となったNASAの2代目長官であるジェイムズ・E・ウェッブは同性愛嫌悪者であると主張する声があることから、命名には一騒動あったとThe New York Timesが伝えています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[実写版「超電磁マシーン ボルテスⅤ」の原作リスペクトてんこ盛りな長尺予告映像公開]]></title>
         <id>https://gigazine.net/news/20230102-voltes-v-legacy-mega-trailer/</id>

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T02:35:46.064Z</updated>
+    <updated>2023-01-02T03:14:32.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パクチー＆ガーリックで大量の鶏肉が一瞬で消える「激うまチキンティッカ」の作り方]]></title>
+        <id>https://gigazine.net/news/20230102-chicken-tikka/</id>
+        <link href="https://gigazine.net/news/20230102-chicken-tikka/"/>
+        <updated>2023-01-02T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[鶏肉は比較的安価に入手でき、煮る・焼く・揚げるといったどんな調理法でもおいしく食べられる優秀食材です。しかし、「鶏肉を何度も食べているうちにレパートリーが尽きてしまった」という状態に陥ることもしばしば。そこで、腹ぺこGIGAZINE読者のおなかを満たすべく、ニンニクたっぷりの濃厚風味かつ柔らかくてジューシーな「チキンティッカ」の作り方をまとめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自分のハンドルネームがネットのどこで使われているかがわかる「HandleFinder」]]></title>
         <id>https://gigazine.net/news/20230102-handlefinder/</id>

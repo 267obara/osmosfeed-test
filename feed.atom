@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T07:12:13.053Z</updated>
+    <updated>2023-01-02T08:17:34.340Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[実写版「超電磁マシーン ボルテスⅤ」の原作リスペクトてんこ盛りな長尺予告映像公開]]></title>
+        <id>https://gigazine.net/news/20230102-voltes-v-legacy-mega-trailer/</id>
+        <link href="https://gigazine.net/news/20230102-voltes-v-legacy-mega-trailer/"/>
+        <updated>2023-01-02T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[フィリピンのテレビ局・GMA Networksが東映の許諾・監修のもと制作を進めている「超電磁マシーン ボルテスⅤ」の実写版である「Voltes V: Legacy(ボルテスV：レガシー)」の、5分30秒の長尺予告編が公開されました。いよいよ2023年に放送予定ということで、さらに多くの新規シーンの内容が明らかになっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ミツバチは木製ボールをコロコロ転がす遊びに興じることが研究で明らかに]]></title>
         <id>https://gigazine.net/news/20230102-bees-like-roll-little-wooden-balls/</id>

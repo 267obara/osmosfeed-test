@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-exifcleaner/",
+          "author": null,
+          "description": "写真ファイルには、撮影したカメラの情報や位置情報などを含むExif情報が含まれています。Exif情報は画像の管理に役立つものですが、他人と写真を共有する際にはプライバシーの漏えいにつながる可能性もあります。ドラッグ＆ドロップだけでExif情報を簡単に削除できる無料アプリ「ExifCleaner」を見つけたので、実際に使ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-exifcleaner/",
+          "publishedOn": "2023-01-03T22:00:00.000Z",
+          "wordCount": 2438,
+          "title": "ドラッグ＆ドロップで画像ファイルのExif情報をサクッと削除できる無料アプリ「ExifCleaner」レビュー",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/exifcleaner/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-shorter-days-winter-blues/",
           "author": null,
           "description": "秋や冬になって日が短くなると気分が落ち込んで憂うつになってしまったり、睡眠時間が長くなってしまったり、つい食べ過ぎてしまったりする人は多いはず。「冬季うつ」とも呼ばれる季節性感情障害にどう対処すればいいのか、ニューヨーク州立大学の健康福祉学准教授であるLina Begdache氏が解説しています。\n続きを読む...",
@@ -5034,26 +5044,6 @@
           "wordCount": 2494,
           "title": "Amazonのベストセラーメーカーが1年で後発メーカーに敗れ9億円以上の損失を出し倒産するまで",
           "imageUrl": "https://i.gzn.jp/img/2022/12/05/7-million-dollar-amazon-bankrupt/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221205-call-of-duty-skin/",
-          "author": null,
-          "description": "日本を含む世界中でプレイされてる人気シューティングゲームのコール オブ デューティシリーズでは、武器やキャラクターの見た目を変化させるスキンパックが配付されています。そんなスキンパックの中でも真っ黒な見た目の有料スキンパック「Los Angeles Thievesパック2023」がSteamの売上上位に食い込む事態が発生しました。同スキンは真っ黒な見た目が特徴で、視認性の低さに着目したプレイヤーが購入しているようです。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221205-call-of-duty-skin/",
-          "publishedOn": "2022-12-05T10:00:00.000Z",
-          "wordCount": 2665,
-          "title": "大人気ゲームCoDのカモフラ性能高すぎスキンが人気すぎてSteamの売上上位に食い込む事態が発生",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/05/call-of-duty-skin/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221205-headline/",
-          "author": null,
-          "description": "2023年4月放送予定のTVアニメ「この素晴らしい世界に爆焔を！」のPVが公開されています。本作は「この素晴らしい世界に祝福を！」のスピンオフで、めぐみんがカズマたちと出会う以前の紅魔の里での姿が描かれます。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221205-headline/",
-          "publishedOn": "2022-12-05T09:26:00.000Z",
-          "wordCount": 8494,
-          "title": "2022年12月5日のヘッドラインニュース",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/05/headline/00.png"
         }
       ]
     },
@@ -7006,6 +6996,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/04/news021.html",
+          "author": null,
+          "description": "Teslaは2022年通年と第4四半期の車両生産、納車台数を発表した。第4四半期の納車台数は過去最高だったがアナリスト予測には届かなかった。同社の株価は一時前営業日比14％下落した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/04/news021.html",
+          "publishedOn": "2023-01-03T21:48:00.000Z",
+          "wordCount": 2593,
+          "title": "Tesla、発表した納車台数が予想に届かず株価がさらに下落",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/04/cover_news021.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/03/news033.html",
           "author": null,
@@ -11185,36 +11185,6 @@
           "wordCount": 2338,
           "title": "冬のエアコン、まだ寒いのに「弱運転」になる原因は〇　対策して節電も",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news180.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/05/news168.html",
-          "author": null,
-          "description": "GMOクリック証券は12月5日から、27歳以下の顧客の株式取引手数料を無料化する。28歳の誕生日前日の取引までが対象。既存ユーザーや未成年口座も適用となる。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/05/news168.html",
-          "publishedOn": "2022-12-05T09:57:00.000Z",
-          "wordCount": 2590,
-          "title": "GMOクリック証券、27歳以下の株式取引手数料を無料化",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news168.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/05/news143.html",
-          "author": null,
-          "description": "最近、画像生成AIが話題だ。しかし世の中にはまだあまり知られていないAIも多く存在する。本連載では面白いAI、癖のあるAIを紹介する。第1回はAI開発を手掛けるデジタルレシピの「W杯を見るために仕事や飲み会を断る」だ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/05/news143.html",
-          "publishedOn": "2022-12-05T09:45:00.000Z",
-          "wordCount": 2598,
-          "title": "AIに“W杯を見るための仕事の断り方”を考えてもらおう！　説得文生成AI、限定公開中",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news143.png"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/05/news163.html",
-          "author": null,
-          "description": "最近、Twitterを騒がせているのは、スマートフォンアプリ「Meitu」の「AIイラストメーカー」だ。「AIのやつ」などと呼ばれることもある。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/05/news163.html",
-          "publishedOn": "2022-12-05T09:31:00.000Z",
-          "wordCount": 2649,
-          "title": "AIで、3歳児のラクガキが“超美麗”に!?　「Meitu」で実験してみた",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news163.jpg"
         }
       ]
     }

@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T21:12:20.742Z</updated>
+    <updated>2023-01-03T22:12:43.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ドラッグ＆ドロップで画像ファイルのExif情報をサクッと削除できる無料アプリ「ExifCleaner」レビュー]]></title>
+        <id>https://gigazine.net/news/20230104-exifcleaner/</id>
+        <link href="https://gigazine.net/news/20230104-exifcleaner/"/>
+        <updated>2023-01-03T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[写真ファイルには、撮影したカメラの情報や位置情報などを含むExif情報が含まれています。Exif情報は画像の管理に役立つものですが、他人と写真を共有する際にはプライバシーの漏えいにつながる可能性もあります。ドラッグ＆ドロップだけでExif情報を簡単に削除できる無料アプリ「ExifCleaner」を見つけたので、実際に使ってみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla、発表した納車台数が予想に届かず株価がさらに下落]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/04/news021.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/04/news021.html"/>
+        <updated>2023-01-03T21:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Teslaは2022年通年と第4四半期の車両生産、納車台数を発表した。第4四半期の納車台数は過去最高だったがアナリスト予測には届かなかった。同社の株価は一時前営業日比14％下落した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日照時間が短くなると憂うつになってしまう「冬季うつ」にどう対処すればいいのか？]]></title>
         <id>https://gigazine.net/news/20230104-shorter-days-winter-blues/</id>
@@ -11640,58 +11661,6 @@
         <link href="https://gigazine.net/news/20221205-7-million-dollar-amazon-bankrupt/"/>
         <updated>2022-12-05T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Amazonで2019年から2021年まで2年間、「マッサージガン」のベストセラー製品を販売していたというDavid氏が、後発メーカーから「偽の著作権侵害」などの妨害を受け、2022年11月に倒産し、その損失が700万ドル(約9億4000万円)に上ったことを報告しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大人気ゲームCoDのカモフラ性能高すぎスキンが人気すぎてSteamの売上上位に食い込む事態が発生]]></title>
-        <id>https://gigazine.net/news/20221205-call-of-duty-skin/</id>
-        <link href="https://gigazine.net/news/20221205-call-of-duty-skin/"/>
-        <updated>2022-12-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[日本を含む世界中でプレイされてる人気シューティングゲームのコール オブ デューティシリーズでは、武器やキャラクターの見た目を変化させるスキンパックが配付されています。そんなスキンパックの中でも真っ黒な見た目の有料スキンパック「Los Angeles Thievesパック2023」がSteamの売上上位に食い込む事態が発生しました。同スキンは真っ黒な見た目が特徴で、視認性の低さに着目したプレイヤーが購入しているようです。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GMOクリック証券、27歳以下の株式取引手数料を無料化]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news168.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news168.html"/>
-        <updated>2022-12-05T09:57:00.000Z</updated>
-        <summary type="html"><![CDATA[GMOクリック証券は12月5日から、27歳以下の顧客の株式取引手数料を無料化する。28歳の誕生日前日の取引までが対象。既存ユーザーや未成年口座も適用となる。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIに“W杯を見るための仕事の断り方”を考えてもらおう！　説得文生成AI、限定公開中]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news143.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news143.html"/>
-        <updated>2022-12-05T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[最近、画像生成AIが話題だ。しかし世の中にはまだあまり知られていないAIも多く存在する。本連載では面白いAI、癖のあるAIを紹介する。第1回はAI開発を手掛けるデジタルレシピの「W杯を見るために仕事や飲み会を断る」だ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIで、3歳児のラクガキが“超美麗”に!?　「Meitu」で実験してみた]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news163.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news163.html"/>
-        <updated>2022-12-05T09:31:00.000Z</updated>
-        <summary type="html"><![CDATA[最近、Twitterを騒がせているのは、スマートフォンアプリ「Meitu」の「AIイラストメーカー」だ。「AIのやつ」などと呼ばれることもある。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年12月5日のヘッドラインニュース]]></title>
-        <id>https://gigazine.net/news/20221205-headline/</id>
-        <link href="https://gigazine.net/news/20221205-headline/"/>
-        <updated>2022-12-05T09:26:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年4月放送予定のTVアニメ「この素晴らしい世界に爆焔を！」のPVが公開されています。本作は「この素晴らしい世界に祝福を！」のスピンオフで、めぐみんがカズマたちと出会う以前の紅魔の里での姿が描かれます。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

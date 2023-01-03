@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T17:11:48.871Z</updated>
+    <updated>2023-01-03T18:16:03.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11775,37 +11775,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前澤友作さん「イーロンとミーティング終了」　9日朝に「宇宙に関する重大な発表」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news119.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news119.html"/>
-        <updated>2022-12-05T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[実業家の前澤友作さんがイーロン・マスク氏とオンラインでミーティング。自身のTwitterアカウントで「日本時間で12月9日朝頃に宇宙に関する重大な発表ができることになりました」と予告した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国政府がスマホ追跡や顔認識などを駆使し抗議者を追跡し自宅を特定、大規模な監視が裕福な都市の中流階級の人々に向けられたのは初めて]]></title>
-        <id>https://gigazine.net/news/20221205-china-phones-and-faces-track/</id>
-        <link href="https://gigazine.net/news/20221205-china-phones-and-faces-track/"/>
-        <updated>2022-12-05T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[厳格な新型コロナウイルス感染症対策(COVID-19)へ抗議活動を行った中国の国民が、過去10年をかけて中国政府が構築してきた強力な監視ツールにより正確に追跡されていることがニューヨーク・タイムズより伝えられました。政府がどのようなツールを使い、どのように人々を追跡しているのかについて、ニューヨーク・タイムズが解説しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[経産省、Web3実証実験でメタバース内イベント実施　NFT所持が入場権に]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news105.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news105.html"/>
-        <updated>2022-12-05T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[経済産業省は、メタバースとNFTに関する実証実験の第1弾として、メタバース上でイベントを実施すると発表した。参加者が対象NFTを所持することでイベントやメタバースへの入場券を取得できる仕組みで、課題の洗い出しをする。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

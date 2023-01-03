@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T14:12:12.768Z</updated>
+    <updated>2023-01-03T15:14:33.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11850,48 +11850,6 @@
         <summary type="html"><![CDATA[国立天文台が、約1000人分の個人情報を保存したUSBメモリを紛失したとして謝罪した。情報の不正使用は確認されていないが、USBメモリはいまだ見つかっていないとしている。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppleがiPhone生産の40～45%をインドに移してリスクの高い中国からの脱却を検討中]]></title>
-        <id>https://gigazine.net/news/20221205-apple-plan-move-production/</id>
-        <link href="https://gigazine.net/news/20221205-apple-plan-move-production/"/>
-        <updated>2022-12-05T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[iPhoneのほとんどはFoxconnを始めとする電子機器製造企業の中国工場で製造が行われていますが、昨今の新型コロナウイルス感染症(COVID-19)によるロックダウンや従業員の抗議デモ、サプライチェーンの混乱などの影響を鑑み、Appleが製造拠点をインドやベトナムに移す計画を加速させていると伝えられています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[povo2.0、1年で6回線以上の新規契約は事務手数料を有料に　MNP踏み台排除]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news077.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news077.html"/>
-        <updated>2022-12-05T02:58:00.000Z</updated>
-        <summary type="html"><![CDATA[KDDIは12月20日以降、直近1年間に同一名義で6回線以上新規契約する場合、契約事務手数料を設定すると発表した。1回線あたり3300円を請求する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「zenly」、来年2月3日にサービス終了　若年層に人気の位置情報共有アプリ]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news087.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news087.html"/>
-        <updated>2022-12-05T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[米Snapchatは、位置情報共有サービス「zenly」を2023年2月3日に終了する。もともと、zenlyの日本語公式アカウントが9月1日に「数カ月後に提供を終了する」とツイートしていたが、正式にサービス終了日が発表された形だ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitterのヘイトスピーチがイーロン・マスクの買収後に急増していると研究者が報告、マスク氏は「全くの虚偽」と反論]]></title>
-        <id>https://gigazine.net/news/20221205-twitter-hate-speech-rise-unprecedented/</id>
-        <link href="https://gigazine.net/news/20221205-twitter-hate-speech-rise-unprecedented/"/>
-        <updated>2022-12-05T02:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterを買収したイーロン・マスク氏は「言論の自由」を掲げ、差別発言やヘイトスピーチで凍結されたアカウントの復活を進めています。そんな中、デジタルヘイト対策センターや名誉毀損防止同盟などの研究チームが、「Twitterでは前例のないレベルでヘイトスピーチが増加している」と報告しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

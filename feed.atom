@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T20:14:25.409Z</updated>
+    <updated>2023-01-03T21:12:20.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日照時間が短くなると憂うつになってしまう「冬季うつ」にどう対処すればいいのか？]]></title>
+        <id>https://gigazine.net/news/20230104-shorter-days-winter-blues/</id>
+        <link href="https://gigazine.net/news/20230104-shorter-days-winter-blues/"/>
+        <updated>2023-01-03T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[秋や冬になって日が短くなると気分が落ち込んで憂うつになってしまったり、睡眠時間が長くなってしまったり、つい食べ過ぎてしまったりする人は多いはず。「冬季うつ」とも呼ばれる季節性感情障害にどう対処すればいいのか、ニューヨーク州立大学の健康福祉学准教授であるLina Begdache氏が解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PublickeyのIT業界予想2023。クラウドのコスト上昇懸念、Passkeyの普及、AIによる開発支援の進化、WebAssembly環境の充実など]]></title>
         <id>https://www.publickey1.jp/blog/23/publickeyit2023passkeyaiwebassembly.html</id>
@@ -11684,36 +11695,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ホロライブ・にじさんじ、中傷対策で協力　「タレントの人生を狂わせる」攻撃に歯止め]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news156.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news156.html"/>
-        <updated>2022-12-05T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[バーチャルYouTuber事務所を運営するカバーとANYCOLORが、所属タレントへの誹謗中傷対策で協力すると発表した。連携体制を強化し、名誉毀損や“荒らし”行為などに対処していく。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【キャリア相談会も実施】12月9日開催、Developers CAREER Boostおすすめセッション]]></title>
-        <id>http://codezine.jp/article/detail/16969</id>
-        <link href="http://codezine.jp/article/detail/16969"/>
-        <updated>2022-12-05T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[翔泳社 CodeZine編集部が12月9日（金）に開催するオンラインイベント「Developers CAREER Boost」。今回は、今週末に迫った本イベントの見どころについてご紹介します。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「pixivプレミアム」が自動解約される不具合　クレカ決済刷新が原因　「自身で再登録を」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news149.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news149.html"/>
-        <updated>2022-12-05T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[「pixivプレミアム」（月額550円）で、ユーザーが意図せず自動解約される不具合が起きている。クレジットカード決済システム・請求サイクル刷新が原因だ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

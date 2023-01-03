@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-shorter-days-winter-blues/",
+          "author": null,
+          "description": "秋や冬になって日が短くなると気分が落ち込んで憂うつになってしまったり、睡眠時間が長くなってしまったり、つい食べ過ぎてしまったりする人は多いはず。「冬季うつ」とも呼ばれる季節性感情障害にどう対処すればいいのか、ニューヨーク州立大学の健康福祉学准教授であるLina Begdache氏が解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-shorter-days-winter-blues/",
+          "publishedOn": "2023-01-03T21:00:00.000Z",
+          "wordCount": 2439,
+          "title": "日照時間が短くなると憂うつになってしまう「冬季うつ」にどう対処すればいいのか？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/shorter-days-winter-blues/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230103-ian-fleming-how-to-write-thriller/",
           "author": null,
           "description": "イギリス秘密情報部のエージェントを主人公にした超人気作「ジェームズ・ボンド(007)」シリーズの作者であるイアン・フレミングが、死去する前年に記した「人気の出るスリラー小説の書き方」について、文学系ウェブメディアのLiterary Hubが掲載しています。\n続きを読む...",
@@ -6681,16 +6691,6 @@
           "wordCount": 4348,
           "title": "PythonでGraph APIを操作できる「Microsoft Graph Python SDK」をプレビューとして公開",
           "imageUrl": "https://codezine.jp/static/images/article/16967/13201_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16969",
-          "author": null,
-          "description": "翔泳社 CodeZine編集部が12月9日（金）に開催するオンラインイベント「Developers CAREER Boost」。今回は、今週末に迫った本イベントの見どころについてご紹介します。",
-          "link": "http://codezine.jp/article/detail/16969",
-          "publishedOn": "2022-12-05T09:00:00.000Z",
-          "wordCount": 4336,
-          "title": "【キャリア相談会も実施】12月9日開催、Developers CAREER Boostおすすめセッション",
-          "imageUrl": "https://codezine.jp/static/images/article/16969/16969_ogp.png"
         }
       ]
     },
@@ -11215,26 +11215,6 @@
           "wordCount": 2649,
           "title": "AIで、3歳児のラクガキが“超美麗”に!?　「Meitu」で実験してみた",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news163.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/05/news156.html",
-          "author": null,
-          "description": "バーチャルYouTuber事務所を運営するカバーとANYCOLORが、所属タレントへの誹謗中傷対策で協力すると発表した。連携体制を強化し、名誉毀損や“荒らし”行為などに対処していく。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/05/news156.html",
-          "publishedOn": "2022-12-05T09:10:00.000Z",
-          "wordCount": 2591,
-          "title": "ホロライブ・にじさんじ、中傷対策で協力　「タレントの人生を狂わせる」攻撃に歯止め",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news156.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/05/news149.html",
-          "author": null,
-          "description": "「pixivプレミアム」（月額550円）で、ユーザーが意図せず自動解約される不具合が起きている。クレジットカード決済システム・請求サイクル刷新が原因だ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/05/news149.html",
-          "publishedOn": "2022-12-05T08:55:00.000Z",
-          "wordCount": 2590,
-          "title": "「pixivプレミアム」が自動解約される不具合　クレカ決済刷新が原因　「自身で再登録を」",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news149.jpg"
         }
       ]
     }

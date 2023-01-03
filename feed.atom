@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T10:14:24.785Z</updated>
+    <updated>2023-01-03T11:10:59.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「ダークモード」に意味はあるのか？]]></title>
+        <id>https://gigazine.net/news/20230103-dark-mode-good-idea/</id>
+        <link href="https://gigazine.net/news/20230103-dark-mode-good-idea/"/>
+        <updated>2023-01-03T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[黒を基調としたレイアウトにする「ダークモード」は、画面を見やすくして眼精疲労を予防したり、端末のバッテリー節約に役立ったりしてくれると考えられているため、OSやブラウザ、アプリなどさまざまなソフトウェアがダークモードに対応しています。しかし、いろいろと調べた結果ダークモードを使うのをやめたという開発者のKev Quirk氏が、なぜその結論に至ったのかを解説しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地声がリムル様になってきたという岡咲美保さんが「劇場版 転生したらスライムだった件」新春舞台挨拶に登壇、続編にも意欲]]></title>
         <id>https://gigazine.net/news/20230103-ten-sura-namba-greeting-report/</id>
@@ -11928,36 +11939,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/05/news064.html"/>
         <updated>2022-12-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[改正航空法が12月5日に施行され、操縦者の目が届かない距離でも、ドローンを住宅地など人がいるエリアの上空を自動で飛ばすことが認められる。人手不足に悩む物流分野の企業で事業化を目指す動きが加速する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「2足歩行の人間」が「4足歩行のロボット」を全身運動で直感操作するとこうなる]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news032.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news032.html"/>
-        <updated>2022-12-04T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[韓国のソウル大学校と米ジョージア工科大学に所属する研究者らは、人が直感的に4足歩行ロボットを制御できる手法を提案した研究報告を発表した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スマホで「隠しカメラ」を手軽に見つけられるアプリ　赤外線カメラを付け、熱画像を取得　米国チームが開発]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news031.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news031.html"/>
-        <updated>2022-12-04T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米セントルイス・ワシントン大学、米テネシー大学に所属する研究者らは、熱画像で隠しカメラを見つけられるアプリを提案した研究報告を発表した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TwitterのマスクCEO、「Appleは（Twitterでの）広告を完全に再開した」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news062.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news062.html"/>
-        <updated>2022-12-04T22:52:00.000Z</updated>
-        <summary type="html"><![CDATA[TwitterのマスクCEOは、「Appleが広告を完全に再開した」と語った。他の広告主も戻ってくると思うとも。「Twitter Files」に関する「スペース」での発言だ。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

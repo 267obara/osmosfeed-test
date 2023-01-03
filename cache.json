@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230103-dark-mode-good-idea/",
+          "author": null,
+          "description": "黒を基調としたレイアウトにする「ダークモード」は、画面を見やすくして眼精疲労を予防したり、端末のバッテリー節約に役立ったりしてくれると考えられているため、OSやブラウザ、アプリなどさまざまなソフトウェアがダークモードに対応しています。しかし、いろいろと調べた結果ダークモードを使うのをやめたという開発者のKev Quirk氏が、なぜその結論に至ったのかを解説しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230103-dark-mode-good-idea/",
+          "publishedOn": "2023-01-03T11:00:00.000Z",
+          "wordCount": 2425,
+          "title": "「ダークモード」に意味はあるのか？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/03/dark-mode-good-idea/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230103-ten-sura-namba-greeting-report/",
           "author": null,
           "description": "2022年11月25日(金)に公開されて観客動員95万人・興行収入12億円を突破する大ヒットの「劇場版 転生したらスライムだった件 紅蓮の絆編」の新春舞台挨拶が開催され、リムル役・岡咲美保さんと杉本紳朗プロデューサーが登壇しました。\n続きを読む...",
@@ -11445,36 +11455,6 @@
           "wordCount": 2328,
           "title": "ドローンの自動飛行、住宅地上空も5日に解禁",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/l_DOQA6K5CKFPBDKAEG27AKXNDHI_1.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/05/news032.html",
-          "author": null,
-          "description": "韓国のソウル大学校と米ジョージア工科大学に所属する研究者らは、人が直感的に4足歩行ロボットを制御できる手法を提案した研究報告を発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/05/news032.html",
-          "publishedOn": "2022-12-04T23:00:00.000Z",
-          "wordCount": 2676,
-          "title": "「2足歩行の人間」が「4足歩行のロボット」を全身運動で直感操作するとこうなる",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news032.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/05/news031.html",
-          "author": null,
-          "description": "米セントルイス・ワシントン大学、米テネシー大学に所属する研究者らは、熱画像で隠しカメラを見つけられるアプリを提案した研究報告を発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/05/news031.html",
-          "publishedOn": "2022-12-04T23:00:00.000Z",
-          "wordCount": 2687,
-          "title": "スマホで「隠しカメラ」を手軽に見つけられるアプリ　赤外線カメラを付け、熱画像を取得　米国チームが開発",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news031.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/05/news062.html",
-          "author": null,
-          "description": "TwitterのマスクCEOは、「Appleが広告を完全に再開した」と語った。他の広告主も戻ってくると思うとも。「Twitter Files」に関する「スペース」での発言だ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/05/news062.html",
-          "publishedOn": "2022-12-04T22:52:00.000Z",
-          "wordCount": 2606,
-          "title": "TwitterのマスクCEO、「Appleは（Twitterでの）広告を完全に再開した」",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news062.jpg"
         }
       ]
     }

@@ -6781,26 +6781,6 @@
           "wordCount": 4518,
           "title": "LINEが開発者に提供している機能を詳しく解説、アプリ開発環境を準備しよう",
           "imageUrl": "https://codezine.jp/static/images/article/16857/16857_ogp.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16965",
-          "author": null,
-          "description": "北大発認定ベンチャー企業である調和技研は、データテック技術を基盤としたAIライフサイクルにおけるプラットフォームやサービスを提供しているAOSデータと戦略的提携を行い、AIライフサイクル基盤のAIデータ、およびAI産業実装ソリューションのAIシステム構築・運用プロジェクトにおけるワンストップサービスを12月1日より共同で提供開始した。",
-          "link": "http://codezine.jp/article/detail/16965",
-          "publishedOn": "2022-12-05T01:00:00.000Z",
-          "wordCount": 4328,
-          "title": "北大発AI研究開発ベンチャーの調和技研がAOSデータと提携、システム構築・受託開発サービスを開始",
-          "imageUrl": "https://codezine.jp/static/images/article/16965/16965_ogp.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16966",
-          "author": null,
-          "description": "日本ディープラーニング協会（以下JDLA）は、2023年3月3日、4日に開催を予定している2023年第1回「G検定（ジェネラリスト検定）」の受験申込受付を12月1日13時から開始した。受付は2023年2月22日まで。",
-          "link": "http://codezine.jp/article/detail/16966",
-          "publishedOn": "2022-12-05T01:00:00.000Z",
-          "wordCount": 4338,
-          "title": "日本ディープラーニング協会、G検定の受験申し込みを開始、合格者による学習法講座などのイベントも開催",
-          "imageUrl": "https://codezine.jp/static/images/article/16966/16966_ogp.png"
         }
       ]
     },
@@ -11425,16 +11405,6 @@
           "wordCount": 2593,
           "title": "「zenly」、来年2月3日にサービス終了　若年層に人気の位置情報共有アプリ",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news087.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/05/news076.html",
-          "author": null,
-          "description": "AWSが、同社の優れたパートナーを表彰する「2022 AWS Partner of the Year」を発表。「SI Partners of the Year」のグローバル選出は日本のクラスメソッド、アジア太平洋・日本の選出はアイレットだった。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/05/news076.html",
-          "publishedOn": "2022-12-05T01:18:00.000Z",
-          "wordCount": 2675,
-          "title": "AWS、SIer世界一にクラスメソッドを選出　アジア太平洋一はアイレット",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news076.jpg"
         }
       ]
     }

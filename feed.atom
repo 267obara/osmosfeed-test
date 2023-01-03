@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T15:14:33.974Z</updated>
+    <updated>2023-01-03T16:18:54.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PublickeyのIT業界予想2023。クラウドのコスト上昇懸念、Passkeyの普及、AIによる開発支援の進化、WebAssembly環境の充実など]]></title>
+        <id>https://www.publickey1.jp/blog/23/publickeyit2023passkeyaiwebassembly.html</id>
+        <link href="https://www.publickey1.jp/blog/23/publickeyit2023passkeyaiwebassembly.html"/>
+        <updated>2023-01-03T15:12:00.000Z</updated>
+        <summary type="html"><![CDATA[新年明けましておめでとうございます。今年もPublickeyをどうぞよろしくおねがいいたします。 さて今年最初の記事では2023年のIT業界、特にPublickeyが主な守備範囲としているエンタープライズ系のIT業界はどうなるのか、Publ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人気が出るスリラー小説の書き方を「007」シリーズの生みの親であるイアン・フレミングが解説]]></title>
         <id>https://gigazine.net/news/20230103-ian-fleming-how-to-write-thriller/</id>
@@ -11807,49 +11817,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白人至上主義者で悪名高いネオナチのTwitterアカウントが復活、早速ヘイトスピーチを擁護]]></title>
-        <id>https://gigazine.net/news/20221205-andrew-anglin-twitter/</id>
-        <link href="https://gigazine.net/news/20221205-andrew-anglin-twitter/"/>
-        <updated>2022-12-05T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカの極右や白人至上主義者が集まるサイト「デイリー・ストーマー」を運営していることで知られるアンドリュー・アングリン氏のTwitterアカウントが、サイトを立ち上げた直後にBANされてから約10年ぶりに復活しました。これはTwitterのCEOとなったイーロン・マスク氏による「言論の自由」を復活させる取り組みの一環とみられており、アングリン氏はTwitterに復帰して間もなく、ヒトラーとナチスへの愛を宣言するアメリカ人ラッパーへの支持を表明しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チャットAI「ChatGPT」のコンテンツフィルターを解除して「銃の作り方」などを回答させる方法が発見される]]></title>
-        <id>https://gigazine.net/news/20221205-chatgpt-content-filter/</id>
-        <link href="https://gigazine.net/news/20221205-chatgpt-content-filter/"/>
-        <updated>2022-12-05T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAIが開発したチャットAI「ChatGPT」は、日本語や英語で質問文を入力すると違和感の少ない言葉で回答してくれます。そんなChatGPTには不適切な質問をブロックするコンテンツフィルターが設定されているのですが、フィルターを解除する方法が発見されたので、実際に試してみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[辛さより酸味強めでズルズルすすれる「東京純豆腐監修 純豆腐チゲラーメン」を食べてみた]]></title>
-        <id>https://gigazine.net/news/20221205-sundubu-jjigae-noodle/</id>
-        <link href="https://gigazine.net/news/20221205-sundubu-jjigae-noodle/"/>
-        <updated>2022-12-05T03:17:00.000Z</updated>
-        <summary type="html"><![CDATA[韓国の鍋料理の1つ・純豆腐の専門店である「東京純豆腐」の人気メニュー「豚キムチスンドゥブ」をカップ麺で再現した「東京純豆腐監修 純豆腐チゲラーメン」が2022年11月28日(月)から登場したので、買ってきて食べてみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国立天文台でUSBメモリ紛失　個人情報を最大1048人分保存　最後に見たのは21年11月]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news090.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news090.html"/>
-        <updated>2022-12-05T03:15:00.000Z</updated>
-        <summary type="html"><![CDATA[国立天文台が、約1000人分の個人情報を保存したUSBメモリを紛失したとして謝罪した。情報の不正使用は確認されていないが、USBメモリはいまだ見つかっていないとしている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

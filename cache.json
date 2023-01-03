@@ -5084,36 +5084,6 @@
           "wordCount": 2476,
           "title": "変電所が銃で襲撃され非常事態宣言と同時に夜間外出禁止令を発令するというとんでもない事態がアメリカで発生",
           "imageUrl": "https://i.gzn.jp/img/2022/12/05/moore-power-grid-attack/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221205-andrew-anglin-twitter/",
-          "author": null,
-          "description": "アメリカの極右や白人至上主義者が集まるサイト「デイリー・ストーマー」を運営していることで知られるアンドリュー・アングリン氏のTwitterアカウントが、サイトを立ち上げた直後にBANされてから約10年ぶりに復活しました。これはTwitterのCEOとなったイーロン・マスク氏による「言論の自由」を復活させる取り組みの一環とみられており、アングリン氏はTwitterに復帰して間もなく、ヒトラーとナチスへの愛を宣言するアメリカ人ラッパーへの支持を表明しています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221205-andrew-anglin-twitter/",
-          "publishedOn": "2022-12-05T04:00:00.000Z",
-          "wordCount": 2772,
-          "title": "白人至上主義者で悪名高いネオナチのTwitterアカウントが復活、早速ヘイトスピーチを擁護",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/05/andrew-anglin-twitter/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221205-chatgpt-content-filter/",
-          "author": null,
-          "description": "OpenAIが開発したチャットAI「ChatGPT」は、日本語や英語で質問文を入力すると違和感の少ない言葉で回答してくれます。そんなChatGPTには不適切な質問をブロックするコンテンツフィルターが設定されているのですが、フィルターを解除する方法が発見されたので、実際に試してみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221205-chatgpt-content-filter/",
-          "publishedOn": "2022-12-05T03:30:00.000Z",
-          "wordCount": 2657,
-          "title": "チャットAI「ChatGPT」のコンテンツフィルターを解除して「銃の作り方」などを回答させる方法が発見される",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/05/chatgpt-content-filter/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221205-sundubu-jjigae-noodle/",
-          "author": null,
-          "description": "韓国の鍋料理の1つ・純豆腐の専門店である「東京純豆腐」の人気メニュー「豚キムチスンドゥブ」をカップ麺で再現した「東京純豆腐監修 純豆腐チゲラーメン」が2022年11月28日(月)から登場したので、買ってきて食べてみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221205-sundubu-jjigae-noodle/",
-          "publishedOn": "2022-12-05T03:17:00.000Z",
-          "wordCount": 2495,
-          "title": "辛さより酸味強めでズルズルすすれる「東京純豆腐監修 純豆腐チゲラーメン」を食べてみた",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/05/sundubu-jjigae-noodle/00.jpg"
         }
       ]
     },
@@ -6769,6 +6739,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/23/publickeyit2023passkeyaiwebassembly.html",
+          "author": null,
+          "description": "新年明けましておめでとうございます。今年もPublickeyをどうぞよろしくおねがいいたします。 さて今年最初の記事では2023年のIT業界、特にPublickeyが主な守備範囲としているエンタープライズ系のIT業界はどうなるのか、Publ...",
+          "link": "https://www.publickey1.jp/blog/23/publickeyit2023passkeyaiwebassembly.html",
+          "publishedOn": "2023-01-03T15:12:00.000Z",
+          "wordCount": 1235,
+          "title": "PublickeyのIT業界予想2023。クラウドのコスト上昇懸念、Passkeyの普及、AIによる開発支援の進化、WebAssembly環境の充実など",
+          "imageUrl": "https://www.publickey1.jp/fbico_pblky.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/22/publickey20221curl23.html",
           "author": null,
@@ -11355,16 +11335,6 @@
           "wordCount": 2592,
           "title": "経産省、Web3実証実験でメタバース内イベント実施　NFT所持が入場権に",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news105.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/05/news090.html",
-          "author": null,
-          "description": "国立天文台が、約1000人分の個人情報を保存したUSBメモリを紛失したとして謝罪した。情報の不正使用は確認されていないが、USBメモリはいまだ見つかっていないとしている。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/05/news090.html",
-          "publishedOn": "2022-12-05T03:15:00.000Z",
-          "wordCount": 2590,
-          "title": "国立天文台でUSBメモリ紛失　個人情報を最大1048人分保存　最後に見たのは21年11月",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/05/cover_news090.jpg"
         }
       ]
     }

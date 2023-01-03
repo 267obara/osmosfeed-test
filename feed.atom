@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T16:18:54.250Z</updated>
+    <updated>2023-01-03T17:11:48.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11806,17 +11806,6 @@
         <summary type="html"><![CDATA[経済産業省は、メタバースとNFTに関する実証実験の第1弾として、メタバース上でイベントを実施すると発表した。参加者が対象NFTを所持することでイベントやメタバースへの入場券を取得できる仕組みで、課題の洗い出しをする。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[変電所が銃で襲撃され非常事態宣言と同時に夜間外出禁止令を発令するというとんでもない事態がアメリカで発生]]></title>
-        <id>https://gigazine.net/news/20221205-moore-power-grid-attack/</id>
-        <link href="https://gigazine.net/news/20221205-moore-power-grid-attack/"/>
-        <updated>2022-12-05T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカ・ノースカロライナ州ムーア郡で、複数の変電所に異常が発生して4万軒以上の住宅やオフィスが停電状態になったと報じられています。当局は少なくとも2つの変電所が銃撃によって損傷したことを確認したと報告しており、非常事態を宣言すると同時に夜間外出禁止令も発令する事態に発展しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

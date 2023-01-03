@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T06:15:42.046Z</updated>
+    <updated>2023-01-03T07:12:08.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[iPhoneのバッテリー交換費用が2023年3月から3000円値上げ]]></title>
+        <id>https://gigazine.net/news/20230103-apple-iphone-battery-replacement-raising/</id>
+        <link href="https://gigazine.net/news/20230103-apple-iphone-battery-replacement-raising/"/>
+        <updated>2023-01-03T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AppleはiPhone向けにバッテリーサービス(バッテリー交換)を提供していますが、このバッテリー交換費用が2023年3月から3000円値上げされることが発表されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寒い冬に立ち向かうほんのり甘くてスパイシーなホットチャイの作り方]]></title>
         <id>https://gigazine.net/news/20230103-chai-spice/</id>

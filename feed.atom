@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T18:16:03.494Z</updated>
+    <updated>2023-01-03T19:10:58.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11755,26 +11755,6 @@
         <summary type="html"><![CDATA[コンカーが、同社で初めて国内にデータセンターを設立する。2024年下半期に開設予定。並行して、自社サービスを政府のクラウドサービス認定制度「政府情報システムのためのセキュリティ評価制度」（ISMAP）登録に向けた取り組みも進める。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「そんな急に」　家族SNS「ウェルノート」終了、1カ月前に突然告知　DL機能なし、ユーザー困惑]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news127.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news127.html"/>
-        <updated>2022-12-05T07:06:00.000Z</updated>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[考古学者がNetflixの人気ドキュメンタリーに「事実無根なのでフィクションとして分類」するよう求める公開書簡を発表]]></title>
-        <id>https://gigazine.net/news/20221205-netflix-docuseries-ancient-apocalypse-fiction/</id>
-        <link href="https://gigazine.net/news/20221205-netflix-docuseries-ancient-apocalypse-fiction/"/>
-        <updated>2022-12-05T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカ考古学協会が、作家のグラハム・ハンコック氏が出演するNetflixのドキュメンタリー番組「Ancient Apocalypse(邦題：太古からの啓示)」が虚偽の主張をあたかも事実のように扱っており考古学をおとしめているとして、ドキュメンタリーではなくフィクション作品として再分類することを要請する声明を発表しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

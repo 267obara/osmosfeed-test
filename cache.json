@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230103-chai-spice/",
+          "author": null,
+          "description": "とにかく寒い日には、ほっとする温かい飲み物が飲みたくなります。インドなどで愛飲されている「チャイ」は、紅茶をショウガやシナモンなどのスパイスと共に煮出した飲み物で、ショウガのわずかな刺激で体をポカポカに温めつつシナモンの優しい香りで心も体も落ち着くという寒い日にピッタリの飲み物です。そんなチャイの作り方を大量の写真付きで分かりやすくまとめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230103-chai-spice/",
+          "publishedOn": "2023-01-03T03:00:00.000Z",
+          "wordCount": 2440,
+          "title": "寒い冬に立ち向かうほんのり甘くてスパイシーなホットチャイの作り方",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/03/chai-spice/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230103-ai-unmask-anonymous-chess-players/",
           "author": null,
           "description": "複雑な領域で人間の意思決定能力を超えるAIの出現により、将棋や囲碁、チェス、ストラテジーゲームなどでAIが人間を凌駕するようになりました。そんな中、チェスの駒運びからプレイヤーが誰なのかを高い精度で特定できるAIが発表され、オンラインチェスにおけるプライバシーが脅かされているのではないかと危惧されています。\n続きを読む...",
@@ -7048,26 +7058,6 @@
           "wordCount": 1276,
           "title": "WasmバイナリをWin/Mac/Linuxで実行可能なバイナリファイルへ変換可能に「Wasmer 3.0」正式リリース",
           "imageUrl": "https://www.publickey1.jp/2022/wasmer3ga.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/awssiersiersi.html",
-          "author": null,
-          "description": "Amazon Web Servicesは、米ラスベガスで開催した年次イベント「AWS re:Invent 2022」で同社の優れたパートナーを表彰する「2022 AWS Partner of the Year」を発表しました。 各部門はグロ...",
-          "link": "https://www.publickey1.jp/blog/22/awssiersiersi.html",
-          "publishedOn": "2022-12-04T15:09:04.000Z",
-          "wordCount": 1302,
-          "title": "AWSのSIer世界一に日本の「クラスメソッド」が選出、アジア太平洋では「アイレット」が選出。クラウド専門のSIerがリードするクラウドのSIビジネス",
-          "imageUrl": "https://www.publickey1.jp/2022/classmethd_awsglobal.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/hpenutanix.html",
-          "author": null,
-          "description": "Hewlett Packard Enterprise（HPE）がハイパーコンバージドシステム大手のNutanixの買収に向けて交渉していると米ブルームバーグが報道し、話題となっています。 ＨＰＥ、クラウド会社ニュータニックスの買収に関心－関...",
-          "link": "https://www.publickey1.jp/blog/22/hpenutanix.html",
-          "publishedOn": "2022-12-04T15:00:38.000Z",
-          "wordCount": 1273,
-          "title": "HPEがNutanix買収に向けて交渉中と米ブルームバーグが報道。縮小するオンプレミス市場での買収の思惑とは？",
-          "imageUrl": "https://www.publickey1.jp/fbico_pblky.png"
         }
       ]
     },

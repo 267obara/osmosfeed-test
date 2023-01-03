@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-stella-monolith/",
+          "author": null,
+          "description": "Domina Gamesから、対戦型カードゲーム「Stella Monolith」が2022年11月3日(木)に登場しました。「Bread Rondo」シリーズや「Lemures」をデザインしたポーン氏がデザインを務めており、大いなる遺産を求める王女が忠実な騎士を率いて戦うゲームになっているとのことで、実際に遊んでみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-stella-monolith/",
+          "publishedOn": "2023-01-03T23:00:00.000Z",
+          "wordCount": 2483,
+          "title": "王女を守る騎士を率いて戦う「戦略」がモノを言う対戦型カードゲーム「Stella Monolith」プレイレビュー",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/stella-monolith/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-exifcleaner/",
           "author": null,
           "description": "写真ファイルには、撮影したカメラの情報や位置情報などを含むExif情報が含まれています。Exif情報は画像の管理に役立つものですが、他人と写真を共有する際にはプライバシーの漏えいにつながる可能性もあります。ドラッグ＆ドロップだけでExif情報を簡単に削除できる無料アプリ「ExifCleaner」を見つけたので、実際に使ってみました。\n続きを読む...",
@@ -5034,16 +5044,6 @@
           "wordCount": 2532,
           "title": "アンチチートツールを搭載した人気ゲーム「コール オブ デューティ モダン・ウォーフェアII」で誤BANされるプレイヤーが大量発生している",
           "imageUrl": "https://i.gzn.jp/img/2022/12/05/call-of-duty-mw2-false-ban/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221205-7-million-dollar-amazon-bankrupt/",
-          "author": null,
-          "description": "Amazonで2019年から2021年まで2年間、「マッサージガン」のベストセラー製品を販売していたというDavid氏が、後発メーカーから「偽の著作権侵害」などの妨害を受け、2022年11月に倒産し、その損失が700万ドル(約9億4000万円)に上ったことを報告しています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221205-7-million-dollar-amazon-bankrupt/",
-          "publishedOn": "2022-12-05T11:00:00.000Z",
-          "wordCount": 2494,
-          "title": "Amazonのベストセラーメーカーが1年で後発メーカーに敗れ9億円以上の損失を出し倒産するまで",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/05/7-million-dollar-amazon-bankrupt/00_m.jpg"
         }
       ]
     },

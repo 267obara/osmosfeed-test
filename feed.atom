@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T22:12:43.378Z</updated>
+    <updated>2023-01-03T23:13:42.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[王女を守る騎士を率いて戦う「戦略」がモノを言う対戦型カードゲーム「Stella Monolith」プレイレビュー]]></title>
+        <id>https://gigazine.net/news/20230104-stella-monolith/</id>
+        <link href="https://gigazine.net/news/20230104-stella-monolith/"/>
+        <updated>2023-01-03T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Domina Gamesから、対戦型カードゲーム「Stella Monolith」が2022年11月3日(木)に登場しました。「Bread Rondo」シリーズや「Lemures」をデザインしたポーン氏がデザインを務めており、大いなる遺産を求める王女が忠実な騎士を率いて戦うゲームになっているとのことで、実際に遊んでみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ドラッグ＆ドロップで画像ファイルのExif情報をサクッと削除できる無料アプリ「ExifCleaner」レビュー]]></title>
         <id>https://gigazine.net/news/20230104-exifcleaner/</id>
@@ -11653,17 +11664,6 @@
         <summary type="html"><![CDATA[部屋の中はまだ寒いのに、エアコンが勝手に弱運転になり、いつまでたっても暖まらないなんてことはありませんか？　ここで設定温度を上げると無駄に電力を消費してしまう可能性があります。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazonのベストセラーメーカーが1年で後発メーカーに敗れ9億円以上の損失を出し倒産するまで]]></title>
-        <id>https://gigazine.net/news/20221205-7-million-dollar-amazon-bankrupt/</id>
-        <link href="https://gigazine.net/news/20221205-7-million-dollar-amazon-bankrupt/"/>
-        <updated>2022-12-05T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonで2019年から2021年まで2年間、「マッサージガン」のベストセラー製品を販売していたというDavid氏が、後発メーカーから「偽の著作権侵害」などの妨害を受け、2022年11月に倒産し、その損失が700万ドル(約9億4000万円)に上ったことを報告しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T11:10:59.466Z</updated>
+    <updated>2023-01-03T12:27:22.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11921,26 +11921,6 @@
         <summary type="html"><![CDATA[日本ディープラーニング協会（以下JDLA）は、2023年3月3日、4日に開催を予定している2023年第1回「G検定（ジェネラリスト検定）」の受験申込受付を12月1日13時から開始した。受付は2023年2月22日まで。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万博ノベルティーにゲームアプリ？　環境負荷減らす]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news065.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news065.html"/>
-        <updated>2022-12-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年大阪・関西万博の資源循環型の会場運営に関する審議会が開催され、来場者に配るノベルティーをゲームアプリなど電子的なものを含め環境負荷の少ないものとする方針を明らかにした。基準は22年度中に策定する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ドローンの自動飛行、住宅地上空も5日に解禁]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news064.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news064.html"/>
-        <updated>2022-12-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[改正航空法が12月5日に施行され、操縦者の目が届かない距離でも、ドローンを住宅地など人がいるエリアの上空を自動で飛ばすことが認められる。人手不足に悩む物流分野の企業で事業化を目指す動きが加速する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

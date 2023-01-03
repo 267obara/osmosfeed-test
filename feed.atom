@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T09:13:12.718Z</updated>
+    <updated>2023-01-03T10:14:24.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[地声がリムル様になってきたという岡咲美保さんが「劇場版 転生したらスライムだった件」新春舞台挨拶に登壇、続編にも意欲]]></title>
+        <id>https://gigazine.net/news/20230103-ten-sura-namba-greeting-report/</id>
+        <link href="https://gigazine.net/news/20230103-ten-sura-namba-greeting-report/"/>
+        <updated>2023-01-03T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年11月25日(金)に公開されて観客動員95万人・興行収入12億円を突破する大ヒットの「劇場版 転生したらスライムだった件 紅蓮の絆編」の新春舞台挨拶が開催され、リムル役・岡咲美保さんと杉本紳朗プロデューサーが登壇しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTubeで広告ブロック・ダウンロード・SponsorBlockなどさまざまなプラグインを利用可能なデスクトップアプリ「youtube-music」レビュー]]></title>
         <id>https://gigazine.net/news/20230103-youtube-music-th-ch/</id>

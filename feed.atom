@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T19:10:58.220Z</updated>
+    <updated>2023-01-03T20:14:25.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11712,47 +11712,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/05/news149.html"/>
         <updated>2022-12-05T08:55:00.000Z</updated>
         <summary type="html"><![CDATA[「pixivプレミアム」（月額550円）で、ユーザーが意図せず自動解約される不具合が起きている。クレジットカード決済システム・請求サイクル刷新が原因だ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[食器に残った食器洗い機用の「リンス」が腸のバリアを破壊してしまうという研究結果]]></title>
-        <id>https://gigazine.net/news/20221205-gut-barrier-damage-dishwasher-rinse/</id>
-        <link href="https://gigazine.net/news/20221205-gut-barrier-damage-dishwasher-rinse/"/>
-        <updated>2022-12-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[食器洗い機は日々の家事負担を軽減してくれる非常に便利な家電であり、一度使い始めたら手洗いに戻れなくなったという人も多いはず。そんな食器洗い機には、乾燥効率を高めたり乾燥後の見た目をきれいにするリンス剤(すすぎ剤／乾燥仕上げ剤)を用いることがありますが、このリンス剤が食器に残留して腸のバリアを破壊する危険があるという研究結果が発表されました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[この先スマートウォッチはどこへ向かうべきか？　日本には世界にまだない“巨大なニーズ”がある]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news142.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news142.html"/>
-        <updated>2022-12-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Googleが同社初となるスマートウォッチ「Pixel Watch」を発売したことから、またあらためてスマートウォッチに注目が集まっている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「X68000 Z」クラファン、1時間で達成　5時間で1億円集まる]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news136.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news136.html"/>
-        <updated>2022-12-05T07:44:00.000Z</updated>
-        <summary type="html"><![CDATA[往年のシャープ製パソコン「X68000」を現代風にアレンジした「X68000 Z」のクラウドファンディングが12月3日にスタートし、目標額の3300万円を開始約1時間で達成した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コンカー、日本にデータセンター設立　“政府認定クラウドサービス”登録も目指す]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news133.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news133.html"/>
-        <updated>2022-12-05T07:39:00.000Z</updated>
-        <summary type="html"><![CDATA[コンカーが、同社で初めて国内にデータセンターを設立する。2024年下半期に開設予定。並行して、自社サービスを政府のクラウドサービス認定制度「政府情報システムのためのセキュリティ評価制度」（ISMAP）登録に向けた取り組みも進める。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

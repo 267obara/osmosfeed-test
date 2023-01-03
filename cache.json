@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230103-ai-unmask-anonymous-chess-players/",
+          "author": null,
+          "description": "複雑な領域で人間の意思決定能力を超えるAIの出現により、将棋や囲碁、チェス、ストラテジーゲームなどでAIが人間を凌駕するようになりました。そんな中、チェスの駒運びからプレイヤーが誰なのかを高い精度で特定できるAIが発表され、オンラインチェスにおけるプライバシーが脅かされているのではないかと危惧されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230103-ai-unmask-anonymous-chess-players/",
+          "publishedOn": "2023-01-03T00:00:00.000Z",
+          "wordCount": 2436,
+          "title": "AIが匿名のチェスプレーヤーの正体を特定してプライバシーリスクをもたらす可能性",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/03/ai-unmask-anonymous-chess-players/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230102-creating-aerial-imagery-bike-helmet-camera/",
           "author": null,
           "description": "ドローンを使うと上空から建造物や街の様子を撮影し、ソフトウェアを利用して3Dマップを作成することができますが、場所によってはドローンを飛ばすことが禁じられている場合があります。そこで、自転車のヘルメットに取り付けられた360度カメラだけを使い、ドローンを使わないで3Dマップを作成する方法について、ソフトウェアエンジニアのJake Coppinger氏が解説しています。\n続きを読む...",
@@ -7066,6 +7076,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/03/news033.html",
+          "author": null,
+          "description": "Python用深層学習用フレームワーク「PyTorch」のnightly版が侵害されたとして、プロジェクトがアンインストールを呼び掛けた。2022年25日から30日の間にインストールされたパッケージが対象だ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/03/news033.html",
+          "publishedOn": "2023-01-02T22:54:00.000Z",
+          "wordCount": 2608,
+          "title": "PyTorchのnightlyに侵害　「すぐにアンインストールしてください」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/03/cover_news033.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/03/news029.html",
           "author": null,

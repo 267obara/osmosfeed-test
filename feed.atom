@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T08:17:26.313Z</updated>
+    <updated>2023-01-03T09:13:12.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YouTubeで広告ブロック・ダウンロード・SponsorBlockなどさまざまなプラグインを利用可能なデスクトップアプリ「youtube-music」レビュー]]></title>
+        <id>https://gigazine.net/news/20230103-youtube-music-th-ch/</id>
+        <link href="https://gigazine.net/news/20230103-youtube-music-th-ch/"/>
+        <updated>2023-01-03T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[YouTubeが公式に配布しているChromeアプリ版YouTube Musicとほぼ同じインターフェイスを実現し、広告ブロックやホットキー、ダウンロード、イントロ・アウトロのスキップなどさまざまなプラグインを利用可能な非公式デスクトップアプリが「youtube-music」です。導入から実際に使用してみるところまでを実際に試してみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPhoneのバッテリー交換費用が2023年3月から3000円値上げ]]></title>
         <id>https://gigazine.net/news/20230103-apple-iphone-battery-replacement-raising/</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230103-youtube-music-th-ch/",
+          "author": null,
+          "description": "YouTubeが公式に配布しているChromeアプリ版YouTube Musicとほぼ同じインターフェイスを実現し、広告ブロックやホットキー、ダウンロード、イントロ・アウトロのスキップなどさまざまなプラグインを利用可能な非公式デスクトップアプリが「youtube-music」です。導入から実際に使用してみるところまでを実際に試してみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230103-youtube-music-th-ch/",
+          "publishedOn": "2023-01-03T09:00:00.000Z",
+          "wordCount": 2493,
+          "title": "YouTubeで広告ブロック・ダウンロード・SponsorBlockなどさまざまなプラグインを利用可能なデスクトップアプリ「youtube-music」レビュー",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/03/youtube-music-th-ch/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230103-apple-iphone-battery-replacement-raising/",
           "author": null,
           "description": "AppleはiPhone向けにバッテリーサービス(バッテリー交換)を提供していますが、このバッテリー交換費用が2023年3月から3000円値上げされることが発表されました。\n続きを読む...",

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-airbnb-removed-negative-review/",
+          "author": null,
+          "description": "民泊サービスのAirbnbは、ホストとなる現地の人とゲストとなる旅行者を仲介するプラットフォームを提供しており、ゲストはその他のユーザーのために利用した部屋やホストについてのレビューを書き込むことができます。そんなAirbnbで、ホストの詐欺的なやり口への不満を書き込んだところ、Airbnbに削除されてしまったという人物が不満を訴えています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-airbnb-removed-negative-review/",
+          "publishedOn": "2023-01-04T23:00:00.000Z",
+          "wordCount": 2429,
+          "title": "Airbnbにネガティブなレビューを投稿したら削除されてしまったという報告、ポジティブなレビューすら削除されたという声も",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/airbnb-removed-negative-review/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230105-barnes-and-nobles-turnaround/",
           "author": null,
           "description": "Amazonの台頭により、かつて書店でしか手に入らなかった「本」は自宅にいながら購入できるようになりました。街中に店舗を構える書店が軒並み縮小していくなか、昔ながらの本屋であるバーンズ＆ノーブルが再び成長を遂げています。バーンズ＆ノーブルがどのような戦略を採ったのかについて、大衆文化ライターのテッド・ジョイア氏が明らかにしています。\n続きを読む...",
@@ -5044,16 +5054,6 @@
           "wordCount": 2503,
           "title": "「もしここに隕石が落ちるとどうなるのか？」を地図でクリックするだけでシミュレーションできる「Asteroid Launcher」",
           "imageUrl": "https://i.gzn.jp/img/2022/12/06/asteroid-launcher/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-nijisanji-liver-comment-network/",
-          "author": null,
-          "description": "ANYCOLORが運営するVTuberグループ「にじさんじ」には、英語圏のNijisanji ENや中華圏のVirtuaRealも含めると記事作成時点で約150名のライバーが属しています。配信の内容はライバーによって大きく異なり、それに伴って視聴者層やコメントの雰囲気も変わります。そんなにじさんじライバーの視聴者コメントを分析し、コメントの雰囲気の遠近を可視化したムービーを、カレーうまさんが投稿しています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-nijisanji-liver-comment-network/",
-          "publishedOn": "2022-12-06T11:00:00.000Z",
-          "wordCount": 2509,
-          "title": "にじさんじライバーの配信コメントを分析して「コメントの雰囲気」を視覚化したムービーが示す興味深い結果とは？",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/nijisanji-liver-comment-network/00.png"
         }
       ]
     },
@@ -6996,6 +6996,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news053.html",
+          "author": null,
+          "description": "Salesforceは大規模なリストラを発表した。従業員の約10％を解雇し、一部のオフィスを閉鎖する。マーク・ベニオフ共同CEOは従業員宛書簡で「雇用を増やし過ぎた。責任は私にある」と語った。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news053.html",
+          "publishedOn": "2023-01-04T22:16:00.000Z",
+          "wordCount": 2599,
+          "title": "Salesforce、10％のリストラ　「パンデミックで雇用し過ぎた」とベニオフ共同CEO",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news053.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/04/news040.html",
           "author": null,
@@ -10975,16 +10985,6 @@
           "wordCount": 2705,
           "title": "他人のスマホの現在地を特定できるサイバー攻撃　Bluetoothの欠陥を利用　米国チームが指摘",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news050.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news163.html",
-          "author": null,
-          "description": "東北電力と東京ガスが出資した新電力会社のシナジアパワーは、12月1日付で東京地方裁判所に破産手続開始の申し立てを行った。長引く燃料価格の高騰などで事業の継続が難しくなり、11月末でサービスを終了していた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news163.html",
-          "publishedOn": "2022-12-06T10:36:00.000Z",
-          "wordCount": 2592,
-          "title": "東北電力と東京ガスが出資した新電力が破産",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news163.jpg"
         }
       ]
     }

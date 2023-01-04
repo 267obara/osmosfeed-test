@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T22:13:04.975Z</updated>
+    <updated>2023-01-04T23:13:39.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Airbnbにネガティブなレビューを投稿したら削除されてしまったという報告、ポジティブなレビューすら削除されたという声も]]></title>
+        <id>https://gigazine.net/news/20230105-airbnb-removed-negative-review/</id>
+        <link href="https://gigazine.net/news/20230105-airbnb-removed-negative-review/"/>
+        <updated>2023-01-04T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[民泊サービスのAirbnbは、ホストとなる現地の人とゲストとなる旅行者を仲介するプラットフォームを提供しており、ゲストはその他のユーザーのために利用した部屋やホストについてのレビューを書き込むことができます。そんなAirbnbで、ホストの詐欺的なやり口への不満を書き込んだところ、Airbnbに削除されてしまったという人物が不満を訴えています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salesforce、10％のリストラ　「パンデミックで雇用し過ぎた」とベニオフ共同CEO]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news053.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news053.html"/>
+        <updated>2023-01-04T22:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Salesforceは大規模なリストラを発表した。従業員の約10％を解雇し、一部のオフィスを閉鎖する。マーク・ベニオフ共同CEOは従業員宛書簡で「雇用を増やし過ぎた。責任は私にある」と語った。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[電子書籍で失敗しAmazonに惨敗した老舗書店チェーンがリアル書店で売上を好転させた方法]]></title>
         <id>https://gigazine.net/news/20230105-barnes-and-nobles-turnaround/</id>
@@ -11444,27 +11465,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[にじさんじライバーの配信コメントを分析して「コメントの雰囲気」を視覚化したムービーが示す興味深い結果とは？]]></title>
-        <id>https://gigazine.net/news/20221206-nijisanji-liver-comment-network/</id>
-        <link href="https://gigazine.net/news/20221206-nijisanji-liver-comment-network/"/>
-        <updated>2022-12-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ANYCOLORが運営するVTuberグループ「にじさんじ」には、英語圏のNijisanji ENや中華圏のVirtuaRealも含めると記事作成時点で約150名のライバーが属しています。配信の内容はライバーによって大きく異なり、それに伴って視聴者層やコメントの雰囲気も変わります。そんなにじさんじライバーの視聴者コメントを分析し、コメントの雰囲気の遠近を可視化したムービーを、カレーうまさんが投稿しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東北電力と東京ガスが出資した新電力が破産]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news163.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news163.html"/>
-        <updated>2022-12-06T10:36:00.000Z</updated>
-        <summary type="html"><![CDATA[東北電力と東京ガスが出資した新電力会社のシナジアパワーは、12月1日付で東京地方裁判所に破産手続開始の申し立てを行った。長引く燃料価格の高騰などで事業の継続が難しくなり、11月末でサービスを終了していた。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

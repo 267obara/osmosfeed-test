@@ -5124,46 +5124,6 @@
           "wordCount": 2503,
           "title": "中国系ハッカーが新型コロナ給付金27億円超を盗み出したことが判明",
           "imageUrl": "https://i.gzn.jp/img/2022/12/06/chinese-hacker-steals-covid-benefits/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-microsoft-raising-prices-xbox/",
-          "author": null,
-          "description": "MicrosoftのゲームブランドであるXboxが、自社製タイトルの基本販売価格を59.99ドル(日本だと税込7590円)から69.99ドル(約9600円)に引き上げることが明らかになりました。新しい販売価格は「Starfield」「Forza Motorsport」「Redfall」といった今後リリース予定のタイトルに適用されます。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-microsoft-raising-prices-xbox/",
-          "publishedOn": "2022-12-06T03:00:00.000Z",
-          "wordCount": 2558,
-          "title": "Xboxが自社製タイトルの販売価格を約1400円値上げすると認める",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/microsoft-raising-prices-xbox/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-adobe-stock-guidelines-generative-ai/",
-          "author": null,
-          "description": "ロイヤリティフリーの画像を多数販売するAdobeのサービス「Adobe Stock」が、新たにジェネレーティブ(生成)AIを利用したアーティストからの画像を受け入れ、他の画像と同じように販売する方針を明らかにしました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-adobe-stock-guidelines-generative-ai/",
-          "publishedOn": "2022-12-06T02:50:00.000Z",
-          "wordCount": 2508,
-          "title": "AdobeがAIで作られたストック写真を販売",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/adobe-stock-guidelines-generative-ai/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-familymart-chicken-yuzu-pepper/",
-          "author": null,
-          "description": "ファミリーマートの人気ホットスナック「ファミチキ」に大分県産柚子こしょうを合わせた「ファミチキ(柚子こしょう)」が2022年12月6日(火)に登場しました。食べた瞬間に柚子の香りと青唐辛子のピリピリした辛味を楽しめるとのことなので、実際に食べて味を確かめてみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-familymart-chicken-yuzu-pepper/",
-          "publishedOn": "2022-12-06T02:45:00.000Z",
-          "wordCount": 2468,
-          "title": "柚子の爽やかな酸味とピリ辛ペッパーがチキンの味を最大限に引き出す「ファミチキ(柚子こしょう)」試食レビュー",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/familymart-chicken-yuzu-pepper/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-chatgpt-banned-temporary/",
-          "author": null,
-          "description": "プログラミング技術に関するナレッジコミュニティのStack Overflowで、対話向け言語モデルの「ChatGPT」による回答が急増したことを受けて、一時的にChatGPTを使用した投稿が禁止されました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-chatgpt-banned-temporary/",
-          "publishedOn": "2022-12-06T02:39:00.000Z",
-          "wordCount": 2492,
-          "title": "会話AI「ChatGPT」の回答の投稿がコーディングQ＆AサイトのStack Overflowで一時的に禁止される",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/chatgpt-banned-temporary/00.jpg"
         }
       ]
     },
@@ -11235,26 +11195,6 @@
           "wordCount": 2612,
           "title": "日本ハムファイターズの新球場「エスコンフィールド」、完全キャッシュレス化　現金取扱なし",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news098.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news090.html",
-          "author": null,
-          "description": "米AWSが、ゲーム開発向けサービス「Amazon GameLift」でオンプレミスサーバなどを管理できる新機能「Amazon GameLift Anywhere」の一般提供を開始。ゲームサーバの管理を一元化でき、運用の複雑さを改善できるという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news090.html",
-          "publishedOn": "2022-12-06T02:44:00.000Z",
-          "wordCount": 2622,
-          "title": "「Amazon GameLift」でオンプレサーバを活用できる「Anywhere」一般提供　AWSのゲーム開発向けサービスに新機能",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news090.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news088.html",
-          "author": null,
-          "description": "ビックカメラの通販サイト「ビックカメラ・ドットコム」は6日、恒例の「新春福箱」の抽選販売受付を始めた。「ノートパソコン福箱」（4万9800円～）など57種を用意。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news088.html",
-          "publishedOn": "2022-12-06T02:35:00.000Z",
-          "wordCount": 2340,
-          "title": "ビックカメラ「新春福箱」抽選受付を開始　GoPro、ノートPC、iPadなど57種",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news088.jpg"
         }
       ]
     }

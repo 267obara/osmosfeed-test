@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T14:13:37.592Z</updated>
+    <updated>2023-01-04T15:16:18.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11682,70 +11682,6 @@
         <summary type="html"><![CDATA[米Amazon Web Servicesは、AWSでアプリケーションを迅速かつ簡単に計画、開発、コラボレーション、構築、配信することを可能にし、全体にスムーズな開発ライフサイクルを実現する統合型のソフトウェア開発・配信サービス「Amazon Code Catalyst」を、12月1日（現地時間）にプレビューリリースした。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xboxが自社製タイトルの販売価格を約1400円値上げすると認める]]></title>
-        <id>https://gigazine.net/news/20221206-microsoft-raising-prices-xbox/</id>
-        <link href="https://gigazine.net/news/20221206-microsoft-raising-prices-xbox/"/>
-        <updated>2022-12-06T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MicrosoftのゲームブランドであるXboxが、自社製タイトルの基本販売価格を59.99ドル(日本だと税込7590円)から69.99ドル(約9600円)に引き上げることが明らかになりました。新しい販売価格は「Starfield」「Forza Motorsport」「Redfall」といった今後リリース予定のタイトルに適用されます。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AdobeがAIで作られたストック写真を販売]]></title>
-        <id>https://gigazine.net/news/20221206-adobe-stock-guidelines-generative-ai/</id>
-        <link href="https://gigazine.net/news/20221206-adobe-stock-guidelines-generative-ai/"/>
-        <updated>2022-12-06T02:50:00.000Z</updated>
-        <summary type="html"><![CDATA[ロイヤリティフリーの画像を多数販売するAdobeのサービス「Adobe Stock」が、新たにジェネレーティブ(生成)AIを利用したアーティストからの画像を受け入れ、他の画像と同じように販売する方針を明らかにしました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柚子の爽やかな酸味とピリ辛ペッパーがチキンの味を最大限に引き出す「ファミチキ(柚子こしょう)」試食レビュー]]></title>
-        <id>https://gigazine.net/news/20221206-familymart-chicken-yuzu-pepper/</id>
-        <link href="https://gigazine.net/news/20221206-familymart-chicken-yuzu-pepper/"/>
-        <updated>2022-12-06T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ファミリーマートの人気ホットスナック「ファミチキ」に大分県産柚子こしょうを合わせた「ファミチキ(柚子こしょう)」が2022年12月6日(火)に登場しました。食べた瞬間に柚子の香りと青唐辛子のピリピリした辛味を楽しめるとのことなので、実際に食べて味を確かめてみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Amazon GameLift」でオンプレサーバを活用できる「Anywhere」一般提供　AWSのゲーム開発向けサービスに新機能]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news090.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news090.html"/>
-        <updated>2022-12-06T02:44:00.000Z</updated>
-        <summary type="html"><![CDATA[米AWSが、ゲーム開発向けサービス「Amazon GameLift」でオンプレミスサーバなどを管理できる新機能「Amazon GameLift Anywhere」の一般提供を開始。ゲームサーバの管理を一元化でき、運用の複雑さを改善できるという。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[会話AI「ChatGPT」の回答の投稿がコーディングQ＆AサイトのStack Overflowで一時的に禁止される]]></title>
-        <id>https://gigazine.net/news/20221206-chatgpt-banned-temporary/</id>
-        <link href="https://gigazine.net/news/20221206-chatgpt-banned-temporary/"/>
-        <updated>2022-12-06T02:39:00.000Z</updated>
-        <summary type="html"><![CDATA[プログラミング技術に関するナレッジコミュニティのStack Overflowで、対話向け言語モデルの「ChatGPT」による回答が急増したことを受けて、一時的にChatGPTを使用した投稿が禁止されました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビックカメラ「新春福箱」抽選受付を開始　GoPro、ノートPC、iPadなど57種]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news088.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news088.html"/>
-        <updated>2022-12-06T02:35:00.000Z</updated>
-        <summary type="html"><![CDATA[ビックカメラの通販サイト「ビックカメラ・ドットコム」は6日、恒例の「新春福箱」の抽選販売受付を始めた。「ノートパソコン福箱」（4万9800円～）など57種を用意。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

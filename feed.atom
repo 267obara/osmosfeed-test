@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T10:15:39.790Z</updated>
+    <updated>2023-01-04T11:11:38.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 11のあちこちに過去のWindowsのUI要素が残っている]]></title>
+        <id>https://gigazine.net/news/20230104-windows-11-ui-layer/</id>
+        <link href="https://gigazine.net/news/20230104-windows-11-ui-layer/"/>
+        <updated>2023-01-04T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Windows 11ではデザインの一貫性がWindows 10から大きく改善され、「Fluent Design」という新しいデザイン言語に合わせてUIが大幅に再設計されました。また、WinUI 3の導入によって開発者はこれらの要素を自分のアプリに簡単に統合することもできます。デザインの面で大きく進化を遂げているWindows 11ですが、そのデザイン改善は完全なものではなく、要所要所にWindows 10やWindows 8、Windows Vistaなど過去のWindowsのUI要素が残っていると、Windowsのビルドについて扱うブログ・NTDEVが解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ジョブズがGoogle幹部に「Appleのブラウザ開発チームを引き抜こうとするな」と怒りの電話をかけた記録]]></title>
         <id>https://gigazine.net/news/20230104-call-from-steve-jobs/</id>
@@ -11763,37 +11774,6 @@
         <summary type="html"><![CDATA[NTT東日本などは、部活動の遠隔指導の実証実験を開始した。バドミントン男子シングルス東京五輪代表の桃田賢斗らが北海道の中学生に、オンラインで技術を伝授した。地方における指導者不足解消などが期待され、同社は、2023年の事業化を目指す。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SlackのバターフィールドCEO、1月に退任]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news070.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news070.html"/>
-        <updated>2022-12-05T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Slackの共同創業者でCEOのスチュワート・バターフィールド氏が退任する。後任には親会社Salesforceの上級副社長、リディアン・ジョーンズ氏が指名された。数日前にはSlack買収に貢献したブラット・テイラー共同CEOも退任を発表している。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あのGoProの小型軽量モデル「GoPro HERO11 Black Mini」が届いたので「GoPro HERO11 Black」と外観を比較してみた]]></title>
-        <id>https://gigazine.net/news/20221206-gopro-hero11-black-mini-unboxing/</id>
-        <link href="https://gigazine.net/news/20221206-gopro-hero11-black-mini-unboxing/"/>
-        <updated>2022-12-05T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[強力ブレ補正機能や防水性能を備えたアクションカメラ「GoProシリーズ」に、小型モデル「GoPro HERO11 Black Mini」が加わりました。GoPro HERO11 Black Miniは小型モデルながら「GoPro HERO11 Black」と同等のカメラ性能を備えており、最大5.3K60fpsのムービー撮影に対応しています。そんなGoPro HERO11 Black Miniが編集部にやってきたので、まずはGoPro HERO11 Blackと外観を比較してみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PythonでGraph APIを操作できる「Microsoft Graph Python SDK」をプレビューとして公開]]></title>
-        <id>http://codezine.jp/article/detail/16967</id>
-        <link href="http://codezine.jp/article/detail/16967"/>
-        <updated>2022-12-05T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米Microsoftは、Python言語からMicrosoft Graph APIの操作を可能にするSDK「Microsoft Graph Python SDK」を11月28日にプレビュー版として公開した。Microsoft Graph APIは、Microsoft 365やWindowsなど、同社がクラウド上で提供しているサービスのデータへのアクセスを可能にするAPI。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
 </feed>

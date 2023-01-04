@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-windows-11-ui-layer/",
+          "author": null,
+          "description": "Windows 11ではデザインの一貫性がWindows 10から大きく改善され、「Fluent Design」という新しいデザイン言語に合わせてUIが大幅に再設計されました。また、WinUI 3の導入によって開発者はこれらの要素を自分のアプリに簡単に統合することもできます。デザインの面で大きく進化を遂げているWindows 11ですが、そのデザイン改善は完全なものではなく、要所要所にWindows 10やWindows 8、Windows Vistaなど過去のWindowsのUI要素が残っていると、Windowsのビルドについて扱うブログ・NTDEVが解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-windows-11-ui-layer/",
+          "publishedOn": "2023-01-04T11:00:00.000Z",
+          "wordCount": 2500,
+          "title": "Windows 11のあちこちに過去のWindowsのUI要素が残っている",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/windows-11-ui-layer/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-call-from-steve-jobs/",
           "author": null,
           "description": "テクノロジー企業の内部メールを複数公開しているウェブサイト「Internal Tech Emails」が「スティーブ・ジョブズがGoogleの幹部に怒りの電話をかけた際のGoogle社内メール」を公開しました。メールの内容からはGoogleによるApple社員の引き抜きに対するジョブズの怒りやGoogle幹部の慌てる様子が読み取れます。\n続きを読む...",
@@ -5134,16 +5144,6 @@
           "wordCount": 2740,
           "title": "2022年度11月分のGIGAZINEのアクセス解析結果",
           "imageUrl": "https://i.gzn.jp/img/2022/12/06/access/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-gopro-hero11-black-mini-unboxing/",
-          "author": null,
-          "description": "強力ブレ補正機能や防水性能を備えたアクションカメラ「GoProシリーズ」に、小型モデル「GoPro HERO11 Black Mini」が加わりました。GoPro HERO11 Black Miniは小型モデルながら「GoPro HERO11 Black」と同等のカメラ性能を備えており、最大5.3K60fpsのムービー撮影に対応しています。そんなGoPro HERO11 Black Miniが編集部にやってきたので、まずはGoPro HERO11 Blackと外観を比較してみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-gopro-hero11-black-mini-unboxing/",
-          "publishedOn": "2022-12-05T23:00:00.000Z",
-          "wordCount": 2649,
-          "title": "あのGoProの小型軽量モデル「GoPro HERO11 Black Mini」が届いたので「GoPro HERO11 Black」と外観を比較してみた",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/gopro-hero11-black-mini-unboxing/00.jpg"
         }
       ]
     },
@@ -6821,16 +6821,6 @@
           "wordCount": 4331,
           "title": "アン・コンサルティングが「フリーランスエンジニアへの転向意識調査」を実施、正社員エンジニアの40％はフリーランスに興味を持つ",
           "imageUrl": "https://codezine.jp/static/images/article/16971/16971_opg.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16967",
-          "author": null,
-          "description": "米Microsoftは、Python言語からMicrosoft Graph APIの操作を可能にするSDK「Microsoft Graph Python SDK」を11月28日にプレビュー版として公開した。Microsoft Graph APIは、Microsoft 365やWindowsなど、同社がクラウド上で提供しているサービスのデータへのアクセスを可能にするAPI。",
-          "link": "http://codezine.jp/article/detail/16967",
-          "publishedOn": "2022-12-05T23:00:00.000Z",
-          "wordCount": 4348,
-          "title": "PythonでGraph APIを操作できる「Microsoft Graph Python SDK」をプレビューとして公開",
-          "imageUrl": "https://codezine.jp/static/images/article/16967/13201_og.jpg"
         }
       ]
     },
@@ -11295,16 +11285,6 @@
           "wordCount": 2327,
           "title": "深刻すぎる部活の指導者不足　ICTで遠隔指導は可能か",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/l_O3HISKDYVFBZBI2UAHAGSYNQW4_1.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news070.html",
-          "author": null,
-          "description": "Slackの共同創業者でCEOのスチュワート・バターフィールド氏が退任する。後任には親会社Salesforceの上級副社長、リディアン・ジョーンズ氏が指名された。数日前にはSlack買収に貢献したブラット・テイラー共同CEOも退任を発表している。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news070.html",
-          "publishedOn": "2022-12-05T23:01:00.000Z",
-          "wordCount": 2599,
-          "title": "SlackのバターフィールドCEO、1月に退任",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news070.jpg"
         }
       ]
     }

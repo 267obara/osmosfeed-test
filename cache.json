@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-twitter-political-advertising-policy/",
+          "author": null,
+          "description": "2023年1月4日に、Twitterが理念に基づく広告のポリシーの緩和を発表しました。加えて、今後数週間以内に政治に関する広告の制限を緩和することも発表しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-twitter-political-advertising-policy/",
+          "publishedOn": "2023-01-04T05:00:00.000Z",
+          "wordCount": 2759,
+          "title": "Twitterが「政治的な広告」の拡大を発表",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/twitter-political-advertising-policy/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-geforce-rtx-4070-ti/",
           "author": null,
           "description": "NVIDIAがデスクトップ向けGPUの新モデルとして「GeForce RTX 4070 Ti」を発表しました。このGeForce RTX 4070 Tiは2022年10月に発表されるも発売中止となった「GeForce RTX 4080 12GB」が名前を変えて登場したものであり、2023年1月5日に発売されます。\n続きを読む...",

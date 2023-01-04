@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T04:16:17.131Z</updated>
+    <updated>2023-01-04T05:12:22.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterが「政治的な広告」の拡大を発表]]></title>
+        <id>https://gigazine.net/news/20230104-twitter-political-advertising-policy/</id>
+        <link href="https://gigazine.net/news/20230104-twitter-political-advertising-policy/"/>
+        <updated>2023-01-04T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年1月4日に、Twitterが理念に基づく広告のポリシーの緩和を発表しました。加えて、今後数週間以内に政治に関する広告の制限を緩和することも発表しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIAが「GeForce RTX 4070 Ti」を発表、発売中止になったGeForce RTX 4080 12GBが名前を変えてついに登場]]></title>
         <id>https://gigazine.net/news/20230104-geforce-rtx-4070-ti/</id>

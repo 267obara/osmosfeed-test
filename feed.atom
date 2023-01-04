@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T19:12:58.575Z</updated>
+    <updated>2023-01-04T20:14:44.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11513,27 +11513,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/06/news138.html"/>
         <updated>2022-12-06T08:25:00.000Z</updated>
         <summary type="html"><![CDATA[auかんたん決済で「App Store」「Google Play」利用を促進するキャンペーン。「App Store」「Google Play」の支払いの20％をPontaポイントで還元]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazonで購入したグラボが偽物だったので返品すると「正しい製品が返送されるまで返金しない」とむちゃくちゃな対応をされたという報告]]></title>
-        <id>https://gigazine.net/news/20221206-amazon-shipped-fake-product-refuses-refund/</id>
-        <link href="https://gigazine.net/news/20221206-amazon-shipped-fake-product-refuses-refund/"/>
-        <updated>2022-12-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Amazonは注文ミスや「思っていたのと違う商品だった」など、わりとシンプルな理由でも返品を受け付けてくれますが、9万円超のグラフィックボードを注文して偽物が届いたから返品したにもかかわらず、Amazonから「本物を返すように」と理不尽な要求をされた事例が報告されています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIスゴっ！　下手な漫画が秒で“プロ並み”に　「ネームだけで原稿完成」の時代に？]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news129.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news129.html"/>
-        <updated>2022-12-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AIイラストメーカーを使うと、平面っぽい雑な絵が、立体的で表情も動きのある、描き込まれた美しいイラストに変わった。イラストAIが、「絵を描く」の意味を変えつつある。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

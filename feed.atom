@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T20:14:44.598Z</updated>
+    <updated>2023-01-04T21:12:23.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[良好な関係を築くための基本的な7つの会話スキルとは？]]></title>
+        <id>https://gigazine.net/news/20230105-conversation-skills-essential/</id>
+        <link href="https://gigazine.net/news/20230105-conversation-skills-essential/"/>
+        <updated>2023-01-04T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[円滑なコミュニケーションを行うことで、会話をスムーズに進めて成功に導くことが可能です。誰かと会話をする際に必要となるスキルを、アメリカ在住の作家であるTynan氏が解説しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React for Web/Reat Native両対応のUIフレームワーク「Tamagui 1.0」正式リリース。最適化コンパイラで高速なレンダリングなど実現]]></title>
         <id>https://www.publickey1.jp/blog/23/react_for_webreat_nativeuitamagui_10.html</id>
@@ -11475,46 +11486,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe、アドビストックでAI生成画像受け入れのガイドラインを策定]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news154.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news154.html"/>
-        <updated>2022-12-06T09:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Adobeはストック画像サービス「Adobe Stock」で画像生成AIで作成したコンテンツを受け入れると発表した。細かいガイドラインを厳守すればAI生成画像を登録可能だ。「最高のコンテンツを作成するには、使うツールに関係なく、専門知識、センス、想像力が必要」としている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“ハイスペPC”じゃなくても安定したライブ配信ができるクラウドサービス「easylive.io」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news139.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news139.html"/>
-        <updated>2022-12-06T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イスラエルに拠点を持つLiveU社の「easylive.io」は、スポーツ中継などさまざまな用途で利用できるクラウド型ライブ配信サービスだ。11月に開催された「Inter BEE 2022」の会場で、販売代理を手掛ける伊藤忠ケーブルシステムの担当者に話を聞いた。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタル庁、初心者向け「Webアクセシビリティー」導入ガイド無償公開　非技術者向け、専門用語は少なめに]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news144.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news144.html"/>
-        <updated>2022-12-06T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[デジタル庁は、Webサイトへのアクセスしやすさ「Webアクセシビリティー」の解説資料「ウェブアクセシビリティ導入ガイドブック」を公開した。技術者ではないデザイナーや行政人材など初心者を対象にした資料という。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[auかんたん決済で、「App Store」「Google Play」利用の20％還元キャンペーン　上限で1万Pontaポイント]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news138.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news138.html"/>
-        <updated>2022-12-06T08:25:00.000Z</updated>
-        <summary type="html"><![CDATA[auかんたん決済で「App Store」「Google Play」利用を促進するキャンペーン。「App Store」「Google Play」の支払いの20％をPontaポイントで還元]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

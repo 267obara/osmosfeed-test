@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-conversation-skills-essential/",
+          "author": null,
+          "description": "円滑なコミュニケーションを行うことで、会話をスムーズに進めて成功に導くことが可能です。誰かと会話をする際に必要となるスキルを、アメリカ在住の作家であるTynan氏が解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-conversation-skills-essential/",
+          "publishedOn": "2023-01-04T21:00:00.000Z",
+          "wordCount": 2420,
+          "title": "良好な関係を築くための基本的な7つの会話スキルとは？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/conversation-skills-essential/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-youtube-brick-experiment-channel-earnings/",
           "author": null,
           "description": "YouTubeでレゴ製の作品を投稿している「Brick Experiment Channel」が、過去5年にわたるチャンネル運営による収益の実態を赤裸々に公開しています。\n続きを読む...",
@@ -10995,46 +11005,6 @@
           "wordCount": 2612,
           "title": "サッカーW杯でちょっと話題　コンテンツ配信を支える技術「CDN」って何の略？",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news155.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news154.html",
-          "author": null,
-          "description": "Adobeはストック画像サービス「Adobe Stock」で画像生成AIで作成したコンテンツを受け入れると発表した。細かいガイドラインを厳守すればAI生成画像を登録可能だ。「最高のコンテンツを作成するには、使うツールに関係なく、専門知識、センス、想像力が必要」としている。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news154.html",
-          "publishedOn": "2022-12-06T09:04:00.000Z",
-          "wordCount": 2608,
-          "title": "Adobe、アドビストックでAI生成画像受け入れのガイドラインを策定",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news154.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news139.html",
-          "author": null,
-          "description": "イスラエルに拠点を持つLiveU社の「easylive.io」は、スポーツ中継などさまざまな用途で利用できるクラウド型ライブ配信サービスだ。11月に開催された「Inter BEE 2022」の会場で、販売代理を手掛ける伊藤忠ケーブルシステムの担当者に話を聞いた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news139.html",
-          "publishedOn": "2022-12-06T09:00:00.000Z",
-          "wordCount": 2611,
-          "title": "“ハイスペPC”じゃなくても安定したライブ配信ができるクラウドサービス「easylive.io」",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news139.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news144.html",
-          "author": null,
-          "description": "デジタル庁は、Webサイトへのアクセスしやすさ「Webアクセシビリティー」の解説資料「ウェブアクセシビリティ導入ガイドブック」を公開した。技術者ではないデザイナーや行政人材など初心者を対象にした資料という。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news144.html",
-          "publishedOn": "2022-12-06T08:40:00.000Z",
-          "wordCount": 2593,
-          "title": "デジタル庁、初心者向け「Webアクセシビリティー」導入ガイド無償公開　非技術者向け、専門用語は少なめに",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news144.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news138.html",
-          "author": null,
-          "description": "auかんたん決済で「App Store」「Google Play」利用を促進するキャンペーン。「App Store」「Google Play」の支払いの20％をPontaポイントで還元",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news138.html",
-          "publishedOn": "2022-12-06T08:25:00.000Z",
-          "wordCount": 2359,
-          "title": "auかんたん決済で、「App Store」「Google Play」利用の20％還元キャンペーン　上限で1万Pontaポイント",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news138.png"
         }
       ]
     }

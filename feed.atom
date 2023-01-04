@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T15:16:18.955Z</updated>
+    <updated>2023-01-04T16:24:11.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[React for Web/Reat Native両対応のUIフレームワーク「Tamagui 1.0」正式リリース。最適化コンパイラで高速なレンダリングなど実現]]></title>
+        <id>https://www.publickey1.jp/blog/23/react_for_webreat_nativeuitamagui_10.html</id>
+        <link href="https://www.publickey1.jp/blog/23/react_for_webreat_nativeuitamagui_10.html"/>
+        <updated>2023-01-04T15:25:07.000Z</updated>
+        <summary type="html"><![CDATA[React for WebとReact Nativeの両方に対応しオープンソースで開発されているクロスプラットフォーム対応のUIフレームワーク「Tamagui 1.0」が正式にリリースされました。 Tamaguiを用いると、レスポンシブデザ...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTubeで登録者数300万人弱の有名チャンネルの収益実態はこんな感じ、レゴ作品を投稿し続けた場合の年収は？]]></title>
         <id>https://gigazine.net/news/20230104-youtube-brick-experiment-channel-earnings/</id>
@@ -11599,89 +11609,6 @@
         <summary type="html"><![CDATA[OpenAIのアルトマンCEOは、ChatGPTのユーザー数が100万人を突破したとツイートした。公開したのは11月30日のことだ。プレビュー版の現在は無料だが、永遠に無料というわけにはいかないとも。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「PayPayを使うバイト」に注意　SNSで勧誘、アカウント情報だまし取る例も]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news108.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news108.html"/>
-        <updated>2022-12-06T04:23:00.000Z</updated>
-        <summary type="html"><![CDATA[SNSなどで勧誘されたアルバイトで、PayPayのアカウント情報や残高をだまし取られるなどのトラブルに注意。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ひろゆき、初の児童書を出版　子供に世の中の攻略法を伝授　YouTubeでも小学生の悩みに回答]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news106.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news106.html"/>
-        <updated>2022-12-06T04:04:00.000Z</updated>
-        <summary type="html"><![CDATA[小学館は「ひろゆき」こと西村博之さんが書いた初の児童書「よのなかの攻略法」を12月7日に発売すると発表した。小学生が抱える勉強や友達、恋、いじめなどの悩みをひろゆきさんが回答する子ども向けの学習まんが。一部内容はYouTube上でも公開している。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[対話型チャットAI「ChatGPT」開始から1週間も経たないうちにユーザーが100万人を突破、そもそもChatGPTとは一体何なのか？]]></title>
-        <id>https://gigazine.net/news/20221206-chatgpt-users-1-million/</id>
-        <link href="https://gigazine.net/news/20221206-chatgpt-users-1-million/"/>
-        <updated>2022-12-06T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AIの研究・開発を行う団体「OpenAI」のサム・アルトマンCEOが、2022年12月1日にテスト版が一般公開された「ChatGPT」のユーザー数が100万人を突破したと発表しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロン・マスクの脳インプラント企業「Neuralink」が違法な動物実験を繰り返しているとして政府の調査を受けていることが明らかに]]></title>
-        <id>https://gigazine.net/news/20221206-musk-neuralink-faces-federal-probe/</id>
-        <link href="https://gigazine.net/news/20221206-musk-neuralink-faces-federal-probe/"/>
-        <updated>2022-12-06T03:39:00.000Z</updated>
-        <summary type="html"><![CDATA[電気自動車メーカーのテスラや宇宙開発企業のSpaceXの創業者であり、Twitterを買収したことでも有名な事業家のイーロン・マスク氏は、他にも脳神経にコンピューターを接続することを試みる脳インプラント企業・Neuralinkを立ち上げています。このNeuralinkが、違法な動物実験を繰り返しているとしてアメリカ政府の調査を受けていると報じられました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本ハムファイターズの新球場「エスコンフィールド」、完全キャッシュレス化　現金取扱なし]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news098.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news098.html"/>
-        <updated>2022-12-06T03:36:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年3月に開業する北海道日本ハムファイターズの新球場「ES CON FIELD HOKKAIDO（エスコンフィールド）」は完全キャッシュレス化され、現金は取り扱わない計画だ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国系ハッカーが新型コロナ給付金27億円超を盗み出したことが判明]]></title>
-        <id>https://gigazine.net/news/20221206-chinese-hacker-steals-covid-benefits/</id>
-        <link href="https://gigazine.net/news/20221206-chinese-hacker-steals-covid-benefits/"/>
-        <updated>2022-12-06T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[中国政府と関連のあるハッカーグループ・APT41が、アメリカ中小企業局の融資や失業保険基金など、新型コロナウイルス感染症対策の給付金を少なくとも2000万ドル(約27億円)盗み出したことが明らかになりました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Foundation、ソフトウェアを安全に使用・開発する方法を無料で学べるオンラインコースを発表]]></title>
-        <id>http://codezine.jp/article/detail/16972</id>
-        <link href="http://codezine.jp/article/detail/16972"/>
-        <updated>2022-12-06T03:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Linux Foundationは、オープンソースやその他のソフトウェアを安全に使用・開発する方法について無料で学べるオンラインコース「セキュアソフトウェア開発（LFD121-JP）」を、12月5日に発表した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS、統合ソフトウェア開発・配信サービス「Amazon Code Catalyst」をプレビューリリース]]></title>
-        <id>http://codezine.jp/article/detail/16973</id>
-        <link href="http://codezine.jp/article/detail/16973"/>
-        <updated>2022-12-06T03:20:00.000Z</updated>
-        <summary type="html"><![CDATA[米Amazon Web Servicesは、AWSでアプリケーションを迅速かつ簡単に計画、開発、コラボレーション、構築、配信することを可能にし、全体にスムーズな開発ライフサイクルを実現する統合型のソフトウェア開発・配信サービス「Amazon Code Catalyst」を、12月1日（現地時間）にプレビューリリースした。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
 </feed>

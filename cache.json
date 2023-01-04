@@ -5094,36 +5094,6 @@
           "wordCount": 2519,
           "title": "世界中の10人に4人が魔法や呪いを信じているという研究結果",
           "imageUrl": "https://i.gzn.jp/img/2022/12/06/witchcraft-beliefs-around-the-world/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-chatgpt-users-1-million/",
-          "author": null,
-          "description": "AIの研究・開発を行う団体「OpenAI」のサム・アルトマンCEOが、2022年12月1日にテスト版が一般公開された「ChatGPT」のユーザー数が100万人を突破したと発表しました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-chatgpt-users-1-million/",
-          "publishedOn": "2022-12-06T04:00:00.000Z",
-          "wordCount": 2807,
-          "title": "対話型チャットAI「ChatGPT」開始から1週間も経たないうちにユーザーが100万人を突破、そもそもChatGPTとは一体何なのか？",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/chatgpt-users-1-million/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-musk-neuralink-faces-federal-probe/",
-          "author": null,
-          "description": "電気自動車メーカーのテスラや宇宙開発企業のSpaceXの創業者であり、Twitterを買収したことでも有名な事業家のイーロン・マスク氏は、他にも脳神経にコンピューターを接続することを試みる脳インプラント企業・Neuralinkを立ち上げています。このNeuralinkが、違法な動物実験を繰り返しているとしてアメリカ政府の調査を受けていると報じられました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-musk-neuralink-faces-federal-probe/",
-          "publishedOn": "2022-12-06T03:39:00.000Z",
-          "wordCount": 2515,
-          "title": "イーロン・マスクの脳インプラント企業「Neuralink」が違法な動物実験を繰り返しているとして政府の調査を受けていることが明らかに",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/musk-neuralink-faces-federal-probe/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-chinese-hacker-steals-covid-benefits/",
-          "author": null,
-          "description": "中国政府と関連のあるハッカーグループ・APT41が、アメリカ中小企業局の融資や失業保険基金など、新型コロナウイルス感染症対策の給付金を少なくとも2000万ドル(約27億円)盗み出したことが明らかになりました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-chinese-hacker-steals-covid-benefits/",
-          "publishedOn": "2022-12-06T03:30:00.000Z",
-          "wordCount": 2503,
-          "title": "中国系ハッカーが新型コロナ給付金27億円超を盗み出したことが判明",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/chinese-hacker-steals-covid-benefits/00_m.jpg"
         }
       ]
     },
@@ -6751,26 +6721,6 @@
           "wordCount": 4336,
           "title": "デジタル庁、ウェブアクセシビリティに関する初心者向けガイドブックを公開",
           "imageUrl": "https://codezine.jp/static/images/article/16974/16974_og.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16972",
-          "author": null,
-          "description": "Linux Foundationは、オープンソースやその他のソフトウェアを安全に使用・開発する方法について無料で学べるオンラインコース「セキュアソフトウェア開発（LFD121-JP）」を、12月5日に発表した。",
-          "link": "http://codezine.jp/article/detail/16972",
-          "publishedOn": "2022-12-06T03:20:00.000Z",
-          "wordCount": 4336,
-          "title": "Linux Foundation、ソフトウェアを安全に使用・開発する方法を無料で学べるオンラインコースを発表",
-          "imageUrl": "https://codezine.jp/static/images/article/16972/16972_fig01.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16973",
-          "author": null,
-          "description": "米Amazon Web Servicesは、AWSでアプリケーションを迅速かつ簡単に計画、開発、コラボレーション、構築、配信することを可能にし、全体にスムーズな開発ライフサイクルを実現する統合型のソフトウェア開発・配信サービス「Amazon Code Catalyst」を、12月1日（現地時間）にプレビューリリースした。",
-          "link": "http://codezine.jp/article/detail/16973",
-          "publishedOn": "2022-12-06T03:20:00.000Z",
-          "wordCount": 4359,
-          "title": "AWS、統合ソフトウェア開発・配信サービス「Amazon Code Catalyst」をプレビューリリース",
-          "imageUrl": "https://codezine.jp/static/images/article/16973/12597_og.jpg"
         }
       ]
     },
@@ -6779,6 +6729,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/23/react_for_webreat_nativeuitamagui_10.html",
+          "author": null,
+          "description": "React for WebとReact Nativeの両方に対応しオープンソースで開発されているクロスプラットフォーム対応のUIフレームワーク「Tamagui 1.0」が正式にリリースされました。 Tamaguiを用いると、レスポンシブデザ...",
+          "link": "https://www.publickey1.jp/blog/23/react_for_webreat_nativeuitamagui_10.html",
+          "publishedOn": "2023-01-04T15:25:07.000Z",
+          "wordCount": 1196,
+          "title": "React for Web/Reat Native両対応のUIフレームワーク「Tamagui 1.0」正式リリース。最適化コンパイラで高速なレンダリングなど実現",
+          "imageUrl": "https://www.publickey1.jp/2023/IBhKimp5.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/23/publickeyit2023passkeyaiwebassembly.html",
           "author": null,
@@ -11165,36 +11125,6 @@
           "wordCount": 2590,
           "title": "ChatGPT、公開6日目で100万ユーザー突破",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news110.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news108.html",
-          "author": null,
-          "description": "SNSなどで勧誘されたアルバイトで、PayPayのアカウント情報や残高をだまし取られるなどのトラブルに注意。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news108.html",
-          "publishedOn": "2022-12-06T04:23:00.000Z",
-          "wordCount": 2584,
-          "title": "「PayPayを使うバイト」に注意　SNSで勧誘、アカウント情報だまし取る例も",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news108.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news106.html",
-          "author": null,
-          "description": "小学館は「ひろゆき」こと西村博之さんが書いた初の児童書「よのなかの攻略法」を12月7日に発売すると発表した。小学生が抱える勉強や友達、恋、いじめなどの悩みをひろゆきさんが回答する子ども向けの学習まんが。一部内容はYouTube上でも公開している。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news106.html",
-          "publishedOn": "2022-12-06T04:04:00.000Z",
-          "wordCount": 2595,
-          "title": "ひろゆき、初の児童書を出版　子供に世の中の攻略法を伝授　YouTubeでも小学生の悩みに回答",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news106.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news098.html",
-          "author": null,
-          "description": "2023年3月に開業する北海道日本ハムファイターズの新球場「ES CON FIELD HOKKAIDO（エスコンフィールド）」は完全キャッシュレス化され、現金は取り扱わない計画だ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news098.html",
-          "publishedOn": "2022-12-06T03:36:00.000Z",
-          "wordCount": 2612,
-          "title": "日本ハムファイターズの新球場「エスコンフィールド」、完全キャッシュレス化　現金取扱なし",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news098.jpg"
         }
       ]
     }

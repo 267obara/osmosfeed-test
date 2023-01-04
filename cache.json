@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-acecook-otoriyose-nippon-ramen-udon/",
+          "author": null,
+          "description": "全国各地のこだわり素材を使った本格的な味わいを堪能できるエースコックの「お取り寄せNIPPON」シリーズ第4弾として、「駿河湾の宝石」と呼ばれるほど希少な桜えびだしの風味が香る塩ラーメンの「静岡駿河湾産桜えびだし塩ラーメン」が2023年1月2日(月)に新登場しました。同日からは、京都産のあい鴨ブランド「京鴨だし」をのうまみを利かせた和風うどんの「京都産京鴨だしうどん」も登場しているので、新作2種をまとめて味わってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-acecook-otoriyose-nippon-ramen-udon/",
+          "publishedOn": "2023-01-04T13:00:00.000Z",
+          "wordCount": 2434,
+          "title": "駿河湾産桜えびが塩スープで際立つ「静岡駿河湾産桜えびだし塩ラーメン」など「お取り寄せNIPPON」シリーズ新作2種を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/acecook-otoriyose-nippon-ramen-udon/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-truths-getting-laid-off/",
           "author": null,
           "description": "2022年半ばから経済が急減速した影響で、2022年には前年の10倍の技術職が職を失ったと報じられており、景気後退が本格化する2023年はさらに厳しい年となることが懸念されます。こうした中、AppleやUberのソフトウェアエンジニアとして働いた経歴を持つスティーブン・ブッチーニ氏が、最近解雇された人や解雇された経験がある人のための教訓を8つにまとめました。\n続きを読む...",
@@ -6801,26 +6811,6 @@
           "wordCount": 4495,
           "title": "「マージ」　～マンガでプログラミング用語解説",
           "imageUrl": "https://codezine.jp/static/images/article/16787/manga_ogp_211.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16970",
-          "author": null,
-          "description": "HonneWorksは、社会人向け匿名SNS「WorkCircle（ワークサークル）」のプレリリース版を12月5日に公開した。",
-          "link": "http://codezine.jp/article/detail/16970",
-          "publishedOn": "2022-12-06T01:00:00.000Z",
-          "wordCount": 4333,
-          "title": "IT業界で働く従業員向け匿名SNS「WorkCircle」、プレリリース版を12月5日に公開",
-          "imageUrl": "https://codezine.jp/static/images/article/16970/16971_ogp.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16971",
-          "author": null,
-          "description": "アン・コンサルティングは、正社員として働くエンジニアと、正社員を経験しフリーランスとして働くエンジニアに対して実施した「フリーランスエンジニアへの転向意識調査」の結果を12月2日に発表した。",
-          "link": "http://codezine.jp/article/detail/16971",
-          "publishedOn": "2022-12-06T01:00:00.000Z",
-          "wordCount": 4331,
-          "title": "アン・コンサルティングが「フリーランスエンジニアへの転向意識調査」を実施、正社員エンジニアの40％はフリーランスに興味を持つ",
-          "imageUrl": "https://codezine.jp/static/images/article/16971/16971_opg.png"
         }
       ]
     },

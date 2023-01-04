@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-truths-getting-laid-off/",
+          "author": null,
+          "description": "2022年半ばから経済が急減速した影響で、2022年には前年の10倍の技術職が職を失ったと報じられており、景気後退が本格化する2023年はさらに厳しい年となることが懸念されます。こうした中、AppleやUberのソフトウェアエンジニアとして働いた経歴を持つスティーブン・ブッチーニ氏が、最近解雇された人や解雇された経験がある人のための教訓を8つにまとめました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-truths-getting-laid-off/",
+          "publishedOn": "2023-01-04T12:00:00.000Z",
+          "wordCount": 2452,
+          "title": "ソフトウェアエンジニアが会社から解雇されて学んだ8つの教訓",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/truths-getting-laid-off/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-windows-11-ui-layer/",
           "author": null,
           "description": "Windows 11ではデザインの一貫性がWindows 10から大きく改善され、「Fluent Design」という新しいデザイン言語に合わせてUIが大幅に再設計されました。また、WinUI 3の導入によって開発者はこれらの要素を自分のアプリに簡単に統合することもできます。デザインの面で大きく進化を遂げているWindows 11ですが、そのデザイン改善は完全なものではなく、要所要所にWindows 10やWindows 8、Windows Vistaなど過去のWindowsのUI要素が残っていると、Windowsのビルドについて扱うブログ・NTDEVが解説しています。\n続きを読む...",
@@ -5134,16 +5144,6 @@
           "wordCount": 2492,
           "title": "会話AI「ChatGPT」の回答の投稿がコーディングQ＆AサイトのStack Overflowで一時的に禁止される",
           "imageUrl": "https://i.gzn.jp/img/2022/12/06/chatgpt-banned-temporary/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-access/",
-          "author": null,
-          "description": "この記事はGIGAZINEシークレットクラブの有料メンバー限定ですが、2023年1月31日までは誰でも閲覧可能です。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-access/",
-          "publishedOn": "2022-12-06T00:00:00.000Z",
-          "wordCount": 2740,
-          "title": "2022年度11月分のGIGAZINEのアクセス解析結果",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/access/00.jpg"
         }
       ]
     },
@@ -11265,26 +11265,6 @@
           "wordCount": 2340,
           "title": "ビックカメラ「新春福箱」抽選受付を開始　GoPro、ノートPC、iPadなど57種",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news088.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news075.html",
-          "author": null,
-          "description": "22歳の大学生が「趣味で作った」というアプリが、App Storeの無料アプリランキング1位になっている。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news075.html",
-          "publishedOn": "2022-12-06T00:25:00.000Z",
-          "wordCount": 2600,
-          "title": "22歳が趣味で作ったアプリ、ABEMA超え1位に　「zenly」代替の「NauNau」",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news075.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news073.html",
-          "author": null,
-          "description": "NTT東日本などは、部活動の遠隔指導の実証実験を開始した。バドミントン男子シングルス東京五輪代表の桃田賢斗らが北海道の中学生に、オンラインで技術を伝授した。地方における指導者不足解消などが期待され、同社は、2023年の事業化を目指す。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news073.html",
-          "publishedOn": "2022-12-06T00:00:00.000Z",
-          "wordCount": 2327,
-          "title": "深刻すぎる部活の指導者不足　ICTで遠隔指導は可能か",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/l_O3HISKDYVFBZBI2UAHAGSYNQW4_1.jpg"
         }
       ]
     }

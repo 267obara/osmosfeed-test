@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T11:11:38.797Z</updated>
+    <updated>2023-01-04T12:26:23.212Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ソフトウェアエンジニアが会社から解雇されて学んだ8つの教訓]]></title>
+        <id>https://gigazine.net/news/20230104-truths-getting-laid-off/</id>
+        <link href="https://gigazine.net/news/20230104-truths-getting-laid-off/"/>
+        <updated>2023-01-04T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年半ばから経済が急減速した影響で、2022年には前年の10倍の技術職が職を失ったと報じられており、景気後退が本格化する2023年はさらに厳しい年となることが懸念されます。こうした中、AppleやUberのソフトウェアエンジニアとして働いた経歴を持つスティーブン・ブッチーニ氏が、最近解雇された人や解雇された経験がある人のための教訓を8つにまとめました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11のあちこちに過去のWindowsのUI要素が残っている]]></title>
         <id>https://gigazine.net/news/20230104-windows-11-ui-layer/</id>
@@ -11743,37 +11754,6 @@
         <summary type="html"><![CDATA[アン・コンサルティングは、正社員として働くエンジニアと、正社員を経験しフリーランスとして働くエンジニアに対して実施した「フリーランスエンジニアへの転向意識調査」の結果を12月2日に発表した。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22歳が趣味で作ったアプリ、ABEMA超え1位に　「zenly」代替の「NauNau」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news075.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news075.html"/>
-        <updated>2022-12-06T00:25:00.000Z</updated>
-        <summary type="html"><![CDATA[22歳の大学生が「趣味で作った」というアプリが、App Storeの無料アプリランキング1位になっている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年度11月分のGIGAZINEのアクセス解析結果]]></title>
-        <id>https://gigazine.net/news/20221206-access/</id>
-        <link href="https://gigazine.net/news/20221206-access/"/>
-        <updated>2022-12-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この記事はGIGAZINEシークレットクラブの有料メンバー限定ですが、2023年1月31日までは誰でも閲覧可能です。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深刻すぎる部活の指導者不足　ICTで遠隔指導は可能か]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news073.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news073.html"/>
-        <updated>2022-12-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[NTT東日本などは、部活動の遠隔指導の実証実験を開始した。バドミントン男子シングルス東京五輪代表の桃田賢斗らが北海道の中学生に、オンラインで技術を伝授した。地方における指導者不足解消などが期待され、同社は、2023年の事業化を目指す。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-geforce-rtx-4070-ti/",
+          "author": null,
+          "description": "NVIDIAがデスクトップ向けGPUの新モデルとして「GeForce RTX 4070 Ti」を発表しました。このGeForce RTX 4070 Tiは2022年10月に発表されるも発売中止となった「GeForce RTX 4080 12GB」が名前を変えて登場したものであり、2023年1月5日に発売されます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-geforce-rtx-4070-ti/",
+          "publishedOn": "2023-01-04T04:00:00.000Z",
+          "wordCount": 2583,
+          "title": "NVIDIAが「GeForce RTX 4070 Ti」を発表、発売中止になったGeForce RTX 4080 12GBが名前を変えてついに登場",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/geforce-rtx-4070-ti/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20230104-nvidia-geforce-rtx-40-laptop/",
+          "author": null,
+          "description": "NVIDIAがGeForce RTX 40 シリーズのノートPC向けGPU「GeForce RTX 40 Series Laptops」を発表しました。GeForce RTX 40 Series Laptopsでは前世代GPUと比べてゲーミング性能や省電力性能が向上しており、当該GPUを搭載したノートPCは2023年2月8日から順次発売予定です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-nvidia-geforce-rtx-40-laptop/",
+          "publishedOn": "2023-01-04T03:32:00.000Z",
+          "wordCount": 2649,
+          "title": "NVIDIAがノートPC向けGPU「GeForce RTX 40 Series Laptops」を発表、前世代GPUよりもパフォーマンスや省電力性能が向上",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/nvidia-geforce-rtx-40-laptop/000.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230104-apples-mixed-reality-headset-report/",
+          "author": null,
+          "description": "Appleは独自のMRヘッドセットを開発中であると以前から報じられており、すでに「Reality One」や「Reality Pro」といった名称の商標出願を行ったことがわかっています。新たに海外メディアのThe Informationが、Appleが開発中のMRヘッドセットについてのレポートを公開し、「物理的なダイヤルでVRと現実世界の表示を切り替え可能」「AirPods Proと連携可能」「腰に装着する外部バッテリー」といった詳細が明らかとなりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-apples-mixed-reality-headset-report/",
+          "publishedOn": "2023-01-04T03:30:00.000Z",
+          "wordCount": 2537,
+          "title": "Appleが開発するMRヘッドセットの詳細が報じられる、ダイヤルでVRと現実を切り替え可能＆AirPodsとの連携など",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/apples-mixed-reality-headset-report/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-mcdonalds-new-samuraimac/",
           "author": null,
           "description": "食べ応えを追求したというマクドナルドの「サムライマック」に、2023年1月4日(水)から、新たに「和風バーベキュー たまご肉厚ビーフ」と「にんにく ザク切りポテト肉厚ビーフ」が加わったので、さっそく食べに行ってきました。\n続きを読む...",
@@ -7058,16 +7088,6 @@
           "wordCount": 1257,
           "title": "GitHub CEO トーマス・ドムケ氏が来日。いずれコードの80％がAIで作成されるようになると予言",
           "imageUrl": "https://www.publickey1.jp/2022/github_dohmke01.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/wasmwinmaclinuxwasmer_30.html",
-          "author": null,
-          "description": "スタンドアロンのWebAssemblyランタイム「Wasmer」の最新版「Wasmer 3.0」が正式リリースされました。  Announcing Wasmer 3.0https://t.co/Nay8Po9FXk&mdash; Wasme...",
-          "link": "https://www.publickey1.jp/blog/22/wasmwinmaclinuxwasmer_30.html",
-          "publishedOn": "2022-12-05T15:18:49.000Z",
-          "wordCount": 1276,
-          "title": "WasmバイナリをWin/Mac/Linuxで実行可能なバイナリファイルへ変換可能に「Wasmer 3.0」正式リリース",
-          "imageUrl": "https://www.publickey1.jp/2022/wasmer3ga.png"
         }
       ]
     },
@@ -11255,16 +11275,6 @@
           "wordCount": 2610,
           "title": "サッカーW杯クロアチア戦、日本はPKで敗北　ABEMA視聴数は2300万超え",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news068.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news062.html",
-          "author": null,
-          "description": "AbemaTVが運営する動画配信サービス「ABEMA」は、「FIFA ワールドカップ カタール 2022」決勝トーナメントの1回戦、「日本VSクロアチア戦」において入場制限を実施した。現在は再びアクセスできるようになっている。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news062.html",
-          "publishedOn": "2022-12-05T16:10:00.000Z",
-          "wordCount": 2603,
-          "title": "ABEMA、入場制限を一時発動　日本の先制ゴール後にアクセス集中か（追記あり）",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news062.jpg"
         }
       ]
     }

@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T03:14:33.357Z</updated>
+    <updated>2023-01-04T04:16:17.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIAが「GeForce RTX 4070 Ti」を発表、発売中止になったGeForce RTX 4080 12GBが名前を変えてついに登場]]></title>
+        <id>https://gigazine.net/news/20230104-geforce-rtx-4070-ti/</id>
+        <link href="https://gigazine.net/news/20230104-geforce-rtx-4070-ti/"/>
+        <updated>2023-01-04T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAがデスクトップ向けGPUの新モデルとして「GeForce RTX 4070 Ti」を発表しました。このGeForce RTX 4070 Tiは2022年10月に発表されるも発売中止となった「GeForce RTX 4080 12GB」が名前を変えて登場したものであり、2023年1月5日に発売されます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIAがノートPC向けGPU「GeForce RTX 40 Series Laptops」を発表、前世代GPUよりもパフォーマンスや省電力性能が向上]]></title>
+        <id>https://gigazine.net/news/20230104-nvidia-geforce-rtx-40-laptop/</id>
+        <link href="https://gigazine.net/news/20230104-nvidia-geforce-rtx-40-laptop/"/>
+        <updated>2023-01-04T03:32:00.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAがGeForce RTX 40 シリーズのノートPC向けGPU「GeForce RTX 40 Series Laptops」を発表しました。GeForce RTX 40 Series Laptopsでは前世代GPUと比べてゲーミング性能や省電力性能が向上しており、当該GPUを搭載したノートPCは2023年2月8日から順次発売予定です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleが開発するMRヘッドセットの詳細が報じられる、ダイヤルでVRと現実を切り替え可能＆AirPodsとの連携など]]></title>
+        <id>https://gigazine.net/news/20230104-apples-mixed-reality-headset-report/</id>
+        <link href="https://gigazine.net/news/20230104-apples-mixed-reality-headset-report/"/>
+        <updated>2023-01-04T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは独自のMRヘッドセットを開発中であると以前から報じられており、すでに「Reality One」や「Reality Pro」といった名称の商標出願を行ったことがわかっています。新たに海外メディアのThe Informationが、Appleが開発中のMRヘッドセットについてのレポートを公開し、「物理的なダイヤルでVRと現実世界の表示を切り替え可能」「AirPods Proと連携可能」「腰に装着する外部バッテリー」といった詳細が明らかとなりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[パティと相性抜群のソースでしっかりお腹が満たされるマクドナルド・サムライマック「和風バーベキュー たまご肉厚ビーフ」「にんにく ザク切りポテト肉厚ビーフ」試食レビュー]]></title>
         <id>https://gigazine.net/news/20230104-mcdonalds-new-samuraimac/</id>
@@ -11727,26 +11760,6 @@
         <summary type="html"><![CDATA[12月6日に開催された「FIFA ワールドカップ カタール 2022」決勝トーナメントの1回戦「日本VSクロアチア戦」。勝負はPKまでもつれ込んだが、日本の敗北に終わった。試合を配信していた動画サービス「ABEMA」の視聴数は、試合終了直後の午前2時46分時点で約2300万まで増加。2日のスペイン戦で記録した1700万人を上回った。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ABEMA、入場制限を一時発動　日本の先制ゴール後にアクセス集中か（追記あり）]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news062.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news062.html"/>
-        <updated>2022-12-05T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[AbemaTVが運営する動画配信サービス「ABEMA」は、「FIFA ワールドカップ カタール 2022」決勝トーナメントの1回戦、「日本VSクロアチア戦」において入場制限を実施した。現在は再びアクセスできるようになっている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WasmバイナリをWin/Mac/Linuxで実行可能なバイナリファイルへ変換可能に「Wasmer 3.0」正式リリース]]></title>
-        <id>https://www.publickey1.jp/blog/22/wasmwinmaclinuxwasmer_30.html</id>
-        <link href="https://www.publickey1.jp/blog/22/wasmwinmaclinuxwasmer_30.html"/>
-        <updated>2022-12-05T15:18:49.000Z</updated>
-        <summary type="html"><![CDATA[スタンドアロンのWebAssemblyランタイム「Wasmer」の最新版「Wasmer 3.0」が正式リリースされました。  Announcing Wasmer 3.0https://t.co/Nay8Po9FXk&mdash; Wasme...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>

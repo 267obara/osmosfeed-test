@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-barnes-and-nobles-turnaround/",
+          "author": null,
+          "description": "Amazonの台頭により、かつて書店でしか手に入らなかった「本」は自宅にいながら購入できるようになりました。街中に店舗を構える書店が軒並み縮小していくなか、昔ながらの本屋であるバーンズ＆ノーブルが再び成長を遂げています。バーンズ＆ノーブルがどのような戦略を採ったのかについて、大衆文化ライターのテッド・ジョイア氏が明らかにしています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-barnes-and-nobles-turnaround/",
+          "publishedOn": "2023-01-04T22:00:00.000Z",
+          "wordCount": 2423,
+          "title": "電子書籍で失敗しAmazonに惨敗した老舗書店チェーンがリアル書店で売上を好転させた方法",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/barnes-and-nobles-turnaround/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230105-conversation-skills-essential/",
           "author": null,
           "description": "円滑なコミュニケーションを行うことで、会話をスムーズに進めて成功に導くことが可能です。誰かと会話をする際に必要となるスキルを、アメリカ在住の作家であるTynan氏が解説しています。\n続きを読む...",
@@ -5044,26 +5054,6 @@
           "wordCount": 2509,
           "title": "にじさんじライバーの配信コメントを分析して「コメントの雰囲気」を視覚化したムービーが示す興味深い結果とは？",
           "imageUrl": "https://i.gzn.jp/img/2022/12/06/nijisanji-liver-comment-network/00.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-amazon-shopper-panel-ad-verification/",
-          "author": null,
-          "description": "Amazonが一部のユーザー向けに、端末のトラフィックの追跡を許可する代わりに2ドル(約270円)を報酬として支払うプログラムを開始しました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-amazon-shopper-panel-ad-verification/",
-          "publishedOn": "2022-12-06T10:00:00.000Z",
-          "wordCount": 2571,
-          "title": "Amazonにスマホデータを渡すとお金もらえるプログラムがスタート、ただし報酬はたったの月2ドル",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/amazon-shopper-panel-ad-verification/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-headline/",
-          "author": null,
-          "description": "週刊少年マガジン連載のヒーローバトル漫画「戦隊大失格」のアニメ化が発表されました。監督は「TIGER＆BUNNY」「神撃のバハムート GENESIS」「鴉-KARAS-」のさとうけいいちが務めます。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-headline/",
-          "publishedOn": "2022-12-06T09:20:00.000Z",
-          "wordCount": 4729,
-          "title": "2022年12月6日のヘッドラインニュース",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/headline/00.png"
         }
       ]
     },
@@ -10995,16 +10985,6 @@
           "wordCount": 2592,
           "title": "東北電力と東京ガスが出資した新電力が破産",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news163.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news155.html",
-          "author": null,
-          "description": "デキるITビジネスパーソンなら誰もが知っている基礎知識をクイズ化。「CDN」は何の略？",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news155.html",
-          "publishedOn": "2022-12-06T09:21:00.000Z",
-          "wordCount": 2612,
-          "title": "サッカーW杯でちょっと話題　コンテンツ配信を支える技術「CDN」って何の略？",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news155.jpg"
         }
       ]
     }

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T23:13:42.206Z</updated>
+    <updated>2023-01-04T01:07:34.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[年始は要注意！サーバーやHDDレコーダーの重度障害を復旧しまくるデータ復旧のプロによくある障害や業者の選び方について聞いてみた]]></title>
+        <id>https://gigazine.net/news/20230104-digital-data-recovery/</id>
+        <link href="https://gigazine.net/news/20230104-digital-data-recovery/"/>
+        <updated>2023-01-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[年末年始の長期休暇に合わせて普段実行しない大規模なデータ移行を行ったり、久しぶりにサーバーの電源を落としたりすると、ストレージに不具合が発生してデータが失われてしまうことがあります。95.2％という業界屈指の復旧成功率と累計36万件の相談実績を持つデータ復旧のスペシャリスト集団「デジタルデータリカバリー」では、構成不明なサーバーを完全に元通りに復旧したり、泥まみれになったHDDレコーダーからデータを無事に取り出したりと、他の復旧業者では断られてしまうような高難度ケースでもデータを復旧してくれるとのこと。そんなデジタルデータリカバリーの中の人と話す機会を得られたので、データ復旧業者の選び方や高難度ケースの復旧事例について詳しく聞いてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[王女を守る騎士を率いて戦う「戦略」がモノを言う対戦型カードゲーム「Stella Monolith」プレイレビュー]]></title>
         <id>https://gigazine.net/news/20230104-stella-monolith/</id>
@@ -11632,38 +11643,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ひっくり返すとハート型の姿を見せる甘いいちごの大福アイス「雪見だいふく ハートのいちご」試食レビュー]]></title>
-        <id>https://gigazine.net/news/20221205-yukimi-daifuku-heart-strawberry/</id>
-        <link href="https://gigazine.net/news/20221205-yukimi-daifuku-heart-strawberry/"/>
-        <updated>2022-12-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[とちおとめいちごを使用した雪見だいふくの新フレーバー「雪見だいふく ハートのいちご」がロッテから登場しました。いちごの味わいがしっかり感じられるのに加え、ハートの形で見た目も楽しめるとのことなので、どんなものなのか確かめるべく実際に食べてみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アンチチートツールを搭載した人気ゲーム「コール オブ デューティ モダン・ウォーフェアII」で誤BANされるプレイヤーが大量発生している]]></title>
-        <id>https://gigazine.net/news/20221205-call-of-duty-mw2-false-ban/</id>
-        <link href="https://gigazine.net/news/20221205-call-of-duty-mw2-false-ban/"/>
-        <updated>2022-12-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[オンライン対戦ゲームで遊んでいると、不正な手段を用いて勝つチートプレイヤーとマッチングすることがあります。チートプレイヤーの存在はゲームから公平性を奪い、正当なプレイヤーのやる気を失わせるため、開発企業や運営企業もアンチチートツールをゲームに導入していますが、このアンチチートツールによる誤検出で、チート行為をしていないにもかかわらずアカウントをBANされてしまってゲームをプレイできなくなる人が続出していると、元Microsoftの技術者であるマイク・スワンソン氏が問題提起しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冬のエアコン、まだ寒いのに「弱運転」になる原因は〇　対策して節電も]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/05/news180.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/05/news180.html"/>
-        <updated>2022-12-05T11:21:00.000Z</updated>
-        <summary type="html"><![CDATA[部屋の中はまだ寒いのに、エアコンが勝手に弱運転になり、いつまでたっても暖まらないなんてことはありませんか？　ここで設定温度を上げると無駄に電力を消費してしまう可能性があります。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

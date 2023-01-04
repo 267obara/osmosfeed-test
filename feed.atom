@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T01:07:34.321Z</updated>
+    <updated>2023-01-04T02:37:34.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GG Voice & Actionに訊く──「当たり前」に潜むジェンダーギャップに気づき、身近なところから変えていくには？]]></title>
+        <id>http://codezine.jp/article/detail/16778</id>
+        <link href="http://codezine.jp/article/detail/16778"/>
+        <updated>2023-01-04T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「テクノロジーで人の困りごとを解決し、世界を変えることができるIT業界ってかっこいい」とデザイン方面からITの世界に入った宮内あかりさん。今回は、ジェンダーギャップを考えるコミュニティ「GG Voice & Action」代表を務める宮内さんに、コミュニティ立ち上げの経緯や活動内容、ジェンダーについて訊いた。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[次世代ワイヤレス給電規格「Qi2」にAppleのMagSafe技術が採用される]]></title>
+        <id>https://gigazine.net/news/20230104-qi2-apple-magsafe/</id>
+        <link href="https://gigazine.net/news/20230104-qi2-apple-magsafe/"/>
+        <updated>2023-01-04T01:40:00.000Z</updated>
+        <summary type="html"><![CDATA[ワイヤレス給電の国際規格「Qi(チー)」を策定するWireless Power Consortium(WPC)が、次世代のワイヤレス給電規格となる「Qi2」を発表しました。WPCによれば、Qi2の中核となる技術にはWPCのメンバーであるAppleのMagSafe技術が採用されるとのことです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仮想通貨取引所「FTX」の元CEOが最大115年の懲役に直面するもマネーロンダリングを含む8件の刑事告発すべてについて無罪を主張]]></title>
+        <id>https://gigazine.net/news/20230104-ftx-ceo-sam-bankman-fried-guilty/</id>
+        <link href="https://gigazine.net/news/20230104-ftx-ceo-sam-bankman-fried-guilty/"/>
+        <updated>2023-01-04T01:31:00.000Z</updated>
+        <summary type="html"><![CDATA[世界最大級の仮想通貨取引所として知られていたFTXは、2022年11月に実質的に破綻しました。FTXの破綻を巡っては「創業者であるサム・バンクマン・フリード容疑者らの詐欺である」という指摘が挙がっており、2022年12月12日にはバハマ警察がバンクマン・フリード容疑者を逮捕しました。バンクマン・フリード容疑者の身柄はアメリカに引き渡されており、最長115年の懲役を求める刑事訴訟に直面しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleの「MagSafe」技術、次世代無線給電規格「Qi2」のベースに]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/04/news023.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/04/news023.html"/>
+        <updated>2023-01-04T01:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Wireless Power Consortium（WPC）は次世代無線給電規格「Qi2」（チーツー）を発表した。Appleの磁石式充電方式「MagSafe」をベースに構築する。2023年ホリデーシーズンには対応製品が登場する見込みだ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[バルテス、「ソフトウェア品質セミナー」に新コース「不具合分析 実践編」を追加]]></title>
+        <id>http://codezine.jp/article/detail/17125</id>
+        <link href="http://codezine.jp/article/detail/17125"/>
+        <updated>2023-01-04T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[バルテスは、同社が提供する「ソフトウェア品質セミナー」において、新たに「不具合分析 実践編」を追加したことを12月26日に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LAPRAS、エンジニア採用が優れた企業を表彰する「LAPRAS SCOUT AWARD 2022」発表]]></title>
+        <id>http://codezine.jp/article/detail/17126</id>
+        <link href="http://codezine.jp/article/detail/17126"/>
+        <updated>2023-01-04T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[LAPRASは、エンジニア採用サービス「LAPRAS SCOUT」を活用し、優れたエンジニア採用活動を行った企業を表彰する「LAPRAS SCOUT AWARD 2022」を発表した。最優秀賞など6社を選出し表彰した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログラミング言語PHPに関する国内イベント「PHPerKaigi 2023」が2023年3月23日〜3月25日に開催]]></title>
+        <id>http://codezine.jp/article/detail/17127</id>
+        <link href="http://codezine.jp/article/detail/17127"/>
+        <updated>2023-01-04T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[プログラミング言語PHPに関する国内イベント「PHPerKaigi（ペチパーカイギ）2023」が2023年3月23日〜3月25日にオンラインとオフラインのハイブリッド開催される。また、3月23日に前夜祭として夕方からいくつかのトークセッションが予定されている。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クリエイティブスクール「nests」、個別サポートする機能を備えたWebエンジニア育成「プログラミングコース」を開講]]></title>
+        <id>http://codezine.jp/article/detail/17128</id>
+        <link href="http://codezine.jp/article/detail/17128"/>
+        <updated>2023-01-04T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ネストは、ナディアをはじめとする大手制作会社が支援・プロデュースするデジタル人材育成のアカデミー「nests」に、エンジニア育成の為の専門コース「プログラミングコース」を2023年4月に開講することを発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年始は要注意！サーバーやHDDレコーダーの重度障害を復旧しまくるデータ復旧のプロによくある障害や業者の選び方について聞いてみた]]></title>
         <id>https://gigazine.net/news/20230104-digital-data-recovery/</id>
@@ -11632,17 +11714,6 @@
         <summary type="html"><![CDATA[スタンドアロンのWebAssemblyランタイム「Wasmer」の最新版「Wasmer 3.0」が正式リリースされました。  Announcing Wasmer 3.0https://t.co/Nay8Po9FXk&mdash; Wasme...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詐欺師はスパムメールにわざと誤字脱字を入れることでカモを選別している]]></title>
-        <id>https://gigazine.net/news/20221205-scammers-spell-reason/</id>
-        <link href="https://gigazine.net/news/20221205-scammers-spell-reason/"/>
-        <updated>2022-12-05T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スパムメールの中には「主人がオオアリクイに殺されて1年が過ぎました」というような意味不明な内容のものが存在しており、こうした荒唐無稽な文面には「詐欺にだまされやすい人だけを見つける」という意図があるとされています。同様に、海外のスパムメールにはわざとスペルミスや文法ミスを紛れ込ませて、文章をきちんと読まない人だけをふるいにかける手口があることを専門家が指摘しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

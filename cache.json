@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-qi2-apple-magsafe/",
+          "author": null,
+          "description": "ワイヤレス給電の国際規格「Qi(チー)」を策定するWireless Power Consortium(WPC)が、次世代のワイヤレス給電規格となる「Qi2」を発表しました。WPCによれば、Qi2の中核となる技術にはWPCのメンバーであるAppleのMagSafe技術が採用されるとのことです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-qi2-apple-magsafe/",
+          "publishedOn": "2023-01-04T01:40:00.000Z",
+          "wordCount": 2472,
+          "title": "次世代ワイヤレス給電規格「Qi2」にAppleのMagSafe技術が採用される",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/qi2-apple-magsafe/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230104-ftx-ceo-sam-bankman-fried-guilty/",
+          "author": null,
+          "description": "世界最大級の仮想通貨取引所として知られていたFTXは、2022年11月に実質的に破綻しました。FTXの破綻を巡っては「創業者であるサム・バンクマン・フリード容疑者らの詐欺である」という指摘が挙がっており、2022年12月12日にはバハマ警察がバンクマン・フリード容疑者を逮捕しました。バンクマン・フリード容疑者の身柄はアメリカに引き渡されており、最長115年の懲役を求める刑事訴訟に直面しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-ftx-ceo-sam-bankman-fried-guilty/",
+          "publishedOn": "2023-01-04T01:31:00.000Z",
+          "wordCount": 2431,
+          "title": "仮想通貨取引所「FTX」の元CEOが最大115年の懲役に直面するもマネーロンダリングを含む8件の刑事告発すべてについて無罪を主張",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/ftx-ceo-sam-bankman-fried-guilty/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-digital-data-recovery/",
           "author": null,
           "description": "年末年始の長期休暇に合わせて普段実行しない大規模なデータ移行を行ったり、久しぶりにサーバーの電源を落としたりすると、ストレージに不具合が発生してデータが失われてしまうことがあります。95.2％という業界屈指の復旧成功率と累計36万件の相談実績を持つデータ復旧のスペシャリスト集団「デジタルデータリカバリー」では、構成不明なサーバーを完全に元通りに復旧したり、泥まみれになったHDDレコーダーからデータを無事に取り出したりと、他の復旧業者では断られてしまうような高難度ケースでもデータを復旧してくれるとのこと。そんなデジタルデータリカバリーの中の人と話す機会を得られたので、データ復旧業者の選び方や高難度ケースの復旧事例について詳しく聞いてみました。\n続きを読む...",
@@ -5024,16 +5044,6 @@
           "wordCount": 3046,
           "title": "日産車やホンダ車をハッキングして個人情報を取得＆リモートでロックを解除したりクラクションを鳴らしたりする手法が見つかる",
           "imageUrl": "https://i.gzn.jp/img/2022/12/06/car-telematic-services-hacking-vin-number/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221205-scammers-spell-reason/",
-          "author": null,
-          "description": "スパムメールの中には「主人がオオアリクイに殺されて1年が過ぎました」というような意味不明な内容のものが存在しており、こうした荒唐無稽な文面には「詐欺にだまされやすい人だけを見つける」という意図があるとされています。同様に、海外のスパムメールにはわざとスペルミスや文法ミスを紛れ込ませて、文章をきちんと読まない人だけをふるいにかける手口があることを専門家が指摘しました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221205-scammers-spell-reason/",
-          "publishedOn": "2022-12-05T14:00:00.000Z",
-          "wordCount": 2483,
-          "title": "詐欺師はスパムメールにわざと誤字脱字を入れることでカモを選別している",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/05/scammers-spell-reason/00.jpg"
         }
       ]
     },
@@ -5042,6 +5052,56 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/16778",
+          "author": null,
+          "description": "「テクノロジーで人の困りごとを解決し、世界を変えることができるIT業界ってかっこいい」とデザイン方面からITの世界に入った宮内あかりさん。今回は、ジェンダーギャップを考えるコミュニティ「GG Voice & Action」代表を務める宮内さんに、コミュニティ立ち上げの経緯や活動内容、ジェンダーについて訊いた。",
+          "link": "http://codezine.jp/article/detail/16778",
+          "publishedOn": "2023-01-04T02:00:00.000Z",
+          "wordCount": 4438,
+          "title": "GG Voice & Actionに訊く──「当たり前」に潜むジェンダーギャップに気づき、身近なところから変えていくには？",
+          "imageUrl": "https://codezine.jp/static/images/article/16778/16778_og.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17125",
+          "author": null,
+          "description": "バルテスは、同社が提供する「ソフトウェア品質セミナー」において、新たに「不具合分析 実践編」を追加したことを12月26日に発表した。",
+          "link": "http://codezine.jp/article/detail/17125",
+          "publishedOn": "2023-01-04T01:00:00.000Z",
+          "wordCount": 4251,
+          "title": "バルテス、「ソフトウェア品質セミナー」に新コース「不具合分析 実践編」を追加",
+          "imageUrl": "https://codezine.jp/static/images/article/17125/17125_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17126",
+          "author": null,
+          "description": "LAPRASは、エンジニア採用サービス「LAPRAS SCOUT」を活用し、優れたエンジニア採用活動を行った企業を表彰する「LAPRAS SCOUT AWARD 2022」を発表した。最優秀賞など6社を選出し表彰した。",
+          "link": "http://codezine.jp/article/detail/17126",
+          "publishedOn": "2023-01-04T01:00:00.000Z",
+          "wordCount": 4263,
+          "title": "LAPRAS、エンジニア採用が優れた企業を表彰する「LAPRAS SCOUT AWARD 2022」発表",
+          "imageUrl": "https://codezine.jp/static/images/article/17126/17126_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17127",
+          "author": null,
+          "description": "プログラミング言語PHPに関する国内イベント「PHPerKaigi（ペチパーカイギ）2023」が2023年3月23日〜3月25日にオンラインとオフラインのハイブリッド開催される。また、3月23日に前夜祭として夕方からいくつかのトークセッションが予定されている。",
+          "link": "http://codezine.jp/article/detail/17127",
+          "publishedOn": "2023-01-04T01:00:00.000Z",
+          "wordCount": 4249,
+          "title": "プログラミング言語PHPに関する国内イベント「PHPerKaigi 2023」が2023年3月23日〜3月25日に開催",
+          "imageUrl": "https://codezine.jp/static/images/article/17127/16568_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17128",
+          "author": null,
+          "description": "ネストは、ナディアをはじめとする大手制作会社が支援・プロデュースするデジタル人材育成のアカデミー「nests」に、エンジニア育成の為の専門コース「プログラミングコース」を2023年4月に開講することを発表した。",
+          "link": "http://codezine.jp/article/detail/17128",
+          "publishedOn": "2023-01-04T01:00:00.000Z",
+          "wordCount": 4244,
+          "title": "クリエイティブスクール「nests」、個別サポートする機能を備えたWebエンジニア育成「プログラミングコース」を開講",
+          "imageUrl": "https://codezine.jp/static/images/article/17128/17127_ogp.png"
+        },
         {
           "id": "http://codezine.jp/article/detail/17032",
           "author": null,
@@ -6986,6 +7046,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/04/news023.html",
+          "author": null,
+          "description": "Wireless Power Consortium（WPC）は次世代無線給電規格「Qi2」（チーツー）を発表した。Appleの磁石式充電方式「MagSafe」をベースに構築する。2023年ホリデーシーズンには対応製品が登場する見込みだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/04/news023.html",
+          "publishedOn": "2023-01-04T01:17:00.000Z",
+          "wordCount": 2605,
+          "title": "Appleの「MagSafe」技術、次世代無線給電規格「Qi2」のベースに",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/04/cover_news023.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/04/news021.html",
           "author": null,

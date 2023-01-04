@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T17:14:47.048Z</updated>
+    <updated>2023-01-04T18:17:10.206Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11567,17 +11567,6 @@
         <summary type="html"><![CDATA[2023年春に解禁が予定されている「給与デジタル払い」に対し、25％が利用意向を示した。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[16～19歳は「34％が違法コンテンツを閲覧」「27％が荒らし経験あり」「22％が暴力を扇動したことがある」という衝撃の分析結果]]></title>
-        <id>https://gigazine.net/news/20221206-young-people-cybercrime/</id>
-        <link href="https://gigazine.net/news/20221206-young-people-cybercrime/"/>
-        <updated>2022-12-06T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[インターネット上では、多くの人々によって犯罪行為や荒らし行為が行われています。新たにヨーロッパで行われた研究では、16～19歳の34％が違法コンテンツを所持し、22％が暴力を扇動しているといった実態が明らかになりました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

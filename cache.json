@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-airtag-united-airlines-missing-luggage/",
+          "author": null,
+          "description": "Appleの落とし物トラッカー「AirTag」は、カバンや財布などに入れておくと紛失時に位置情報を追跡できる500円玉サイズのデバイスであり、「信頼できない引っ越し業者を追跡するために家具に忍ばせる」「航空機の手荷物に入れてロストした際に現在地を特定する」といった使い方が注目されています。ある女性がAirTagをスーツケースに忍び込ませたところ、航空会社が手荷物として預かったスーツケースを紛失した上に、「荷物は配送センターで保管されている」とうそをついたことが明らかになりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-airtag-united-airlines-missing-luggage/",
+          "publishedOn": "2023-01-04T08:00:00.000Z",
+          "wordCount": 2993,
+          "title": "スーツケースに忍び込ませたAppleの落とし物トラッカー「AirTag」が航空会社のうそを暴く",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/airtag-united-airlines-missing-luggage/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-shopify-no-meetings/",
           "author": null,
           "description": "eコマースプラットフォームを展開するShopifyが、3人以上で行われる定期的な社内会議を永久的に廃止する方針を固めたことが明らかになりました。\n続きを読む...",

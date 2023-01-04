@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T02:37:34.916Z</updated>
+    <updated>2023-01-04T03:14:33.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[パティと相性抜群のソースでしっかりお腹が満たされるマクドナルド・サムライマック「和風バーベキュー たまご肉厚ビーフ」「にんにく ザク切りポテト肉厚ビーフ」試食レビュー]]></title>
+        <id>https://gigazine.net/news/20230104-mcdonalds-new-samuraimac/</id>
+        <link href="https://gigazine.net/news/20230104-mcdonalds-new-samuraimac/"/>
+        <updated>2023-01-04T03:08:00.000Z</updated>
+        <summary type="html"><![CDATA[食べ応えを追求したというマクドナルドの「サムライマック」に、2023年1月4日(水)から、新たに「和風バーベキュー たまご肉厚ビーフ」と「にんにく ザク切りポテト肉厚ビーフ」が加わったので、さっそく食べに行ってきました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoogleがRISC-V向けAndroidの開発を積極的に行うと発表]]></title>
+        <id>https://gigazine.net/news/20230104-google-android-risc-v-support/</id>
+        <link href="https://gigazine.net/news/20230104-google-android-risc-v-support/"/>
+        <updated>2023-01-04T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleが命令セットアーキテクチャ「RISC-V」に最適化したAndroidの開発を行っていることが分かりました。2022年12月開催のサミット「RISC-V Summit」に登壇したGoogleはRISC-Vを「ティア1(最優先)のプラットフォーム」と見なすことを望んでいますが、実現には数年かかるという見方を示しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intelが最大24コアの第13世代Coreモバイル向けプロセッサを発表]]></title>
+        <id>https://gigazine.net/news/20230104-intel-13th-gen-core-mobile/</id>
+        <link href="https://gigazine.net/news/20230104-intel-13th-gen-core-mobile/"/>
+        <updated>2023-01-04T02:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Intelが2023年1月4日に、第13世代Intel Coreモバイルプロセッサ・ファミリーを発表しました。新しいラインナップには、ノートPC向けとしては初となる24コアのフラッグシップモデルである「Intel Core i9-13980HX」を筆頭とした32のプロセッサが含まれます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GG Voice & Actionに訊く──「当たり前」に潜むジェンダーギャップに気づき、身近なところから変えていくには？]]></title>
         <id>http://codezine.jp/article/detail/16778</id>

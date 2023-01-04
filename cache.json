@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-mcdonalds-new-samuraimac/",
+          "author": null,
+          "description": "食べ応えを追求したというマクドナルドの「サムライマック」に、2023年1月4日(水)から、新たに「和風バーベキュー たまご肉厚ビーフ」と「にんにく ザク切りポテト肉厚ビーフ」が加わったので、さっそく食べに行ってきました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-mcdonalds-new-samuraimac/",
+          "publishedOn": "2023-01-04T03:08:00.000Z",
+          "wordCount": 2427,
+          "title": "パティと相性抜群のソースでしっかりお腹が満たされるマクドナルド・サムライマック「和風バーベキュー たまご肉厚ビーフ」「にんにく ザク切りポテト肉厚ビーフ」試食レビュー",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/mcdonalds-new-samuraimac/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230104-google-android-risc-v-support/",
+          "author": null,
+          "description": "Googleが命令セットアーキテクチャ「RISC-V」に最適化したAndroidの開発を行っていることが分かりました。2022年12月開催のサミット「RISC-V Summit」に登壇したGoogleはRISC-Vを「ティア1(最優先)のプラットフォーム」と見なすことを望んでいますが、実現には数年かかるという見方を示しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-google-android-risc-v-support/",
+          "publishedOn": "2023-01-04T03:00:00.000Z",
+          "wordCount": 2449,
+          "title": "GoogleがRISC-V向けAndroidの開発を積極的に行うと発表",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/google-android-risc-v-support/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230104-intel-13th-gen-core-mobile/",
+          "author": null,
+          "description": "Intelが2023年1月4日に、第13世代Intel Coreモバイルプロセッサ・ファミリーを発表しました。新しいラインナップには、ノートPC向けとしては初となる24コアのフラッグシップモデルである「Intel Core i9-13980HX」を筆頭とした32のプロセッサが含まれます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-intel-13th-gen-core-mobile/",
+          "publishedOn": "2023-01-04T02:51:00.000Z",
+          "wordCount": 2479,
+          "title": "Intelが最大24コアの第13世代Coreモバイル向けプロセッサを発表",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/intel-13th-gen-core-mobile/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-qi2-apple-magsafe/",
           "author": null,
           "description": "ワイヤレス給電の国際規格「Qi(チー)」を策定するWireless Power Consortium(WPC)が、次世代のワイヤレス給電規格となる「Qi2」を発表しました。WPCによれば、Qi2の中核となる技術にはWPCのメンバーであるAppleのMagSafe技術が採用されるとのことです。\n続きを読む...",

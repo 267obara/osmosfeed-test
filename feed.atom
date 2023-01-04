@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T09:13:20.008Z</updated>
+    <updated>2023-01-04T10:15:39.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ジョブズがGoogle幹部に「Appleのブラウザ開発チームを引き抜こうとするな」と怒りの電話をかけた記録]]></title>
+        <id>https://gigazine.net/news/20230104-call-from-steve-jobs/</id>
+        <link href="https://gigazine.net/news/20230104-call-from-steve-jobs/"/>
+        <updated>2023-01-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テクノロジー企業の内部メールを複数公開しているウェブサイト「Internal Tech Emails」が「スティーブ・ジョブズがGoogleの幹部に怒りの電話をかけた際のGoogle社内メール」を公開しました。メールの内容からはGoogleによるApple社員の引き抜きに対するジョブズの怒りやGoogle幹部の慌てる様子が読み取れます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年1月4日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20230104-headline/</id>
+        <link href="https://gigazine.net/news/20230104-headline/"/>
+        <updated>2023-01-04T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年1月11日(水)からマクドナルドの「とろけるホットパイ」に「ベルギーショコラパイ」と「クッキー＆クリームパイ」が期間限定登場します。「ベルギーショコラパイ」は2022年に続いての登場、「クッキー＆クリームパイ」は新作です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スーツケースに忍び込ませたAppleの落とし物トラッカー「AirTag」が航空会社のうそを暴く]]></title>
         <id>https://gigazine.net/news/20230104-airtag-united-airlines-missing-luggage/</id>
@@ -11772,27 +11794,6 @@
         <summary type="html"><![CDATA[米Microsoftは、Python言語からMicrosoft Graph APIの操作を可能にするSDK「Microsoft Graph Python SDK」を11月28日にプレビュー版として公開した。Microsoft Graph APIは、Microsoft 365やWindowsなど、同社がクラウド上で提供しているサービスのデータへのアクセスを可能にするAPI。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チャットAI「ChatGPT」内部に仮想マシンを作成する試み、内部には仮想インターネットが存在しChatGPTが創造した世界にもChatGPTが存在]]></title>
-        <id>https://gigazine.net/news/20221206-virtual-machine-inside-chatgpt/</id>
-        <link href="https://gigazine.net/news/20221206-virtual-machine-inside-chatgpt/"/>
-        <updated>2022-12-05T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[大学生レベルの自由記述問題を解いたり、プログラムのコードを書いたりすることもできると話題の対話AI「ChatGPT」の内側に仮想マシンを作ることができると、AI企業・DeepMindのジョナス・デグレイブ氏が報告しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPTによる回答をStack Overflowが一時的に禁止　大量のもっともらしいが不正確な回答に対処しきれず]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news069.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news069.html"/>
-        <updated>2022-12-05T21:47:00.000Z</updated>
-        <summary type="html"><![CDATA[質問するともっともらしい回答をくれるOpenAIの「ChatGPT」。プログラミング関連のQ&AサイトStack OverflowがChatGPTで生成した回答の投稿を一時的に禁止した。このAIで生成したとみられる不正確な回答が急増したため。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

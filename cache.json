@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-call-from-steve-jobs/",
+          "author": null,
+          "description": "テクノロジー企業の内部メールを複数公開しているウェブサイト「Internal Tech Emails」が「スティーブ・ジョブズがGoogleの幹部に怒りの電話をかけた際のGoogle社内メール」を公開しました。メールの内容からはGoogleによるApple社員の引き抜きに対するジョブズの怒りやGoogle幹部の慌てる様子が読み取れます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-call-from-steve-jobs/",
+          "publishedOn": "2023-01-04T10:00:00.000Z",
+          "wordCount": 2692,
+          "title": "ジョブズがGoogle幹部に「Appleのブラウザ開発チームを引き抜こうとするな」と怒りの電話をかけた記録",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/call-from-steve-jobs/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230104-headline/",
+          "author": null,
+          "description": "2023年1月11日(水)からマクドナルドの「とろけるホットパイ」に「ベルギーショコラパイ」と「クッキー＆クリームパイ」が期間限定登場します。「ベルギーショコラパイ」は2022年に続いての登場、「クッキー＆クリームパイ」は新作です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-headline/",
+          "publishedOn": "2023-01-04T09:30:00.000Z",
+          "wordCount": 28700,
+          "title": "2023年1月4日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/headline/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-airtag-united-airlines-missing-luggage/",
           "author": null,
           "description": "Appleの落とし物トラッカー「AirTag」は、カバンや財布などに入れておくと紛失時に位置情報を追跡できる500円玉サイズのデバイスであり、「信頼できない引っ越し業者を追跡するために家具に忍ばせる」「航空機の手荷物に入れてロストした際に現在地を特定する」といった使い方が注目されています。ある女性がAirTagをスーツケースに忍び込ませたところ、航空会社が手荷物として預かったスーツケースを紛失した上に、「荷物は配送センターで保管されている」とうそをついたことが明らかになりました。\n続きを読む...",
@@ -5124,16 +5144,6 @@
           "wordCount": 2649,
           "title": "あのGoProの小型軽量モデル「GoPro HERO11 Black Mini」が届いたので「GoPro HERO11 Black」と外観を比較してみた",
           "imageUrl": "https://i.gzn.jp/img/2022/12/06/gopro-hero11-black-mini-unboxing/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221206-virtual-machine-inside-chatgpt/",
-          "author": null,
-          "description": "大学生レベルの自由記述問題を解いたり、プログラムのコードを書いたりすることもできると話題の対話AI「ChatGPT」の内側に仮想マシンを作ることができると、AI企業・DeepMindのジョナス・デグレイブ氏が報告しています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221206-virtual-machine-inside-chatgpt/",
-          "publishedOn": "2022-12-05T22:00:00.000Z",
-          "wordCount": 2484,
-          "title": "チャットAI「ChatGPT」内部に仮想マシンを作成する試み、内部には仮想インターネットが存在しChatGPTが創造した世界にもChatGPTが存在",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/06/virtual-machine-inside-chatgpt/00_m.jpg"
         }
       ]
     },
@@ -11295,16 +11305,6 @@
           "wordCount": 2599,
           "title": "SlackのバターフィールドCEO、1月に退任",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news070.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news069.html",
-          "author": null,
-          "description": "質問するともっともらしい回答をくれるOpenAIの「ChatGPT」。プログラミング関連のQ&AサイトStack OverflowがChatGPTで生成した回答の投稿を一時的に禁止した。このAIで生成したとみられる不正確な回答が急増したため。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news069.html",
-          "publishedOn": "2022-12-05T21:47:00.000Z",
-          "wordCount": 2601,
-          "title": "ChatGPTによる回答をStack Overflowが一時的に禁止　大量のもっともらしいが不正確な回答に対処しきれず",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news069.jpg"
         }
       ]
     }

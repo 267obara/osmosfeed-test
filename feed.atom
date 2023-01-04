@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T18:17:10.206Z</updated>
+    <updated>2023-01-04T19:12:58.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11534,37 +11534,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/06/news129.html"/>
         <updated>2022-12-06T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[AIイラストメーカーを使うと、平面っぽい雑な絵が、立体的で表情も動きのある、描き込まれた美しいイラストに変わった。イラストAIが、「絵を描く」の意味を変えつつある。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[チェスAI不正疑惑のハンス・ニーマンによる訴訟は売名行為であるとしてChess.comが棄却を申し立て]]></title>
-        <id>https://gigazine.net/news/20221206-chess-com-says-lawsuit-is-public-relatoins-stunt/</id>
-        <link href="https://gigazine.net/news/20221206-chess-com-says-lawsuit-is-public-relatoins-stunt/"/>
-        <updated>2022-12-06T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[チェスの大会でAIを用いて不正をした疑いをかけられているグランドマスターのハンス・ニーマン氏が、マグヌス・カールセン氏とオンラインチェスプラットフォーム・Chess.comが共謀して自らを陥れ名誉を毀損(きそん)したとして1億ドルの賠償を求める訴えを起こした件で、Chess.comが「ニーマン氏の訴えに利はなく、単なる売名行為」として、裁判所に訴えの棄却を申し立てました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[指定した複数の電波だけ吸い取るシート、凸版が開発　干渉防ぎ通信品質向上に]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news126.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news126.html"/>
-        <updated>2022-12-06T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[凸版印刷が、特定の周波数の電波を限定的に吸収するシート「マルチバンド対応ミリ波吸収体」を開発した。電波干渉や漏えいを防ぐことで、通信品質の向上を実現できるとしている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25％が「給与デジタル払い」を使いたい　マネフォ調査]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news123.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news123.html"/>
-        <updated>2022-12-06T06:37:00.000Z</updated>
-        <summary type="html"><![CDATA[2023年春に解禁が予定されている「給与デジタル払い」に対し、25％が利用意向を示した。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

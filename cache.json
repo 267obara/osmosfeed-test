@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230104-shopify-no-meetings/",
+          "author": null,
+          "description": "eコマースプラットフォームを展開するShopifyが、3人以上で行われる定期的な社内会議を永久的に廃止する方針を固めたことが明らかになりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-shopify-no-meetings/",
+          "publishedOn": "2023-01-04T07:00:00.000Z",
+          "wordCount": 2603,
+          "title": "3人以上の定期的な会議をすべて「永久に」キャンセルするとShopifyが決定、経営陣は「会議はバグ」「本日をもってバグを修正する」と宣言",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/shopify-no-meetings/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230104-nvidia-geforce-now-on-car/",
+          "author": null,
+          "description": "NVIDIAが自動車メーカーと提携してクラウドゲーミングサービス「GeForce NOW」を自動車の車載ディスプレイで楽しめるようにすることを発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230104-nvidia-geforce-now-on-car/",
+          "publishedOn": "2023-01-04T06:39:00.000Z",
+          "wordCount": 2506,
+          "title": "NVIDIAがクラウドゲーミングサービス「GeForce NOW」を自動車でプレイ可能にすることを発表",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/04/nvidia-geforce-now-on-car/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230104-twitter-political-advertising-policy/",
           "author": null,
           "description": "2023年1月4日に、Twitterが理念に基づく広告のポリシーの緩和を発表しました。加えて、今後数週間以内に政治に関する広告の制限を緩和することも発表しています。\n続きを読む...",

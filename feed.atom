@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T06:17:09.021Z</updated>
+    <updated>2023-01-04T07:12:05.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3人以上の定期的な会議をすべて「永久に」キャンセルするとShopifyが決定、経営陣は「会議はバグ」「本日をもってバグを修正する」と宣言]]></title>
+        <id>https://gigazine.net/news/20230104-shopify-no-meetings/</id>
+        <link href="https://gigazine.net/news/20230104-shopify-no-meetings/"/>
+        <updated>2023-01-04T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[eコマースプラットフォームを展開するShopifyが、3人以上で行われる定期的な社内会議を永久的に廃止する方針を固めたことが明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIAがクラウドゲーミングサービス「GeForce NOW」を自動車でプレイ可能にすることを発表]]></title>
+        <id>https://gigazine.net/news/20230104-nvidia-geforce-now-on-car/</id>
+        <link href="https://gigazine.net/news/20230104-nvidia-geforce-now-on-car/"/>
+        <updated>2023-01-04T06:39:00.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIAが自動車メーカーと提携してクラウドゲーミングサービス「GeForce NOW」を自動車の車載ディスプレイで楽しめるようにすることを発表しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter、2019年からの政治広告規制を緩和すると予告]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2301/04/news040.html</id>

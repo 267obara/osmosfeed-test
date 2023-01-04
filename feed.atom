@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T05:12:22.119Z</updated>
+    <updated>2023-01-04T06:17:09.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitter、2019年からの政治広告規制を緩和すると予告]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/04/news040.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/04/news040.html"/>
+        <updated>2023-01-04T05:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterは政治広告の規制を緩和すると発表した。同社は2019年、「政治的なメッセージは、金を使って届けるものではない」として禁止した。緩和の理由は説明していない。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterが「政治的な広告」の拡大を発表]]></title>
         <id>https://gigazine.net/news/20230104-twitter-political-advertising-policy/</id>
@@ -11761,16 +11771,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サッカーW杯クロアチア戦、日本はPKで敗北　ABEMA視聴数は2300万超え]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/06/news068.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/06/news068.html"/>
-        <updated>2022-12-05T17:53:00.000Z</updated>
-        <summary type="html"><![CDATA[12月6日に開催された「FIFA ワールドカップ カタール 2022」決勝トーナメントの1回戦「日本VSクロアチア戦」。勝負はPKまでもつれ込んだが、日本の敗北に終わった。試合を配信していた動画サービス「ABEMA」の視聴数は、試合終了直後の午前2時46分時点で約2300万まで増加。2日のスペイン戦で記録した1700万人を上回った。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

@@ -7107,6 +7107,16 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/04/news040.html",
+          "author": null,
+          "description": "Twitterは政治広告の規制を緩和すると発表した。同社は2019年、「政治的なメッセージは、金を使って届けるものではない」として禁止した。緩和の理由は説明していない。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/04/news040.html",
+          "publishedOn": "2023-01-04T05:38:00.000Z",
+          "wordCount": 2602,
+          "title": "Twitter、2019年からの政治広告規制を緩和すると予告",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/04/cover_news040.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2301/04/news023.html",
           "author": null,
           "description": "Wireless Power Consortium（WPC）は次世代無線給電規格「Qi2」（チーツー）を発表した。Appleの磁石式充電方式「MagSafe」をベースに構築する。2023年ホリデーシーズンには対応製品が登場する見込みだ。",
@@ -11275,16 +11285,6 @@
           "wordCount": 2601,
           "title": "ChatGPTによる回答をStack Overflowが一時的に禁止　大量のもっともらしいが不正確な回答に対処しきれず",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news069.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/06/news068.html",
-          "author": null,
-          "description": "12月6日に開催された「FIFA ワールドカップ カタール 2022」決勝トーナメントの1回戦「日本VSクロアチア戦」。勝負はPKまでもつれ込んだが、日本の敗北に終わった。試合を配信していた動画サービス「ABEMA」の視聴数は、試合終了直後の午前2時46分時点で約2300万まで増加。2日のスペイン戦で記録した1700万人を上回った。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/06/news068.html",
-          "publishedOn": "2022-12-05T17:53:00.000Z",
-          "wordCount": 2610,
-          "title": "サッカーW杯クロアチア戦、日本はPKで敗北　ABEMA視聴数は2300万超え",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/06/cover_news068.jpg"
         }
       ]
     }

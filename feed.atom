@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T20:14:45.914Z</updated>
+    <updated>2023-01-05T21:12:14.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterでグレタ・トゥーンベリに絡みに行った女性差別インフルエンサーが直後に人身売買の容疑で逮捕されてしまう]]></title>
+        <id>https://gigazine.net/news/20230106-detained-romania-influencer-misogynist/</id>
+        <link href="https://gigazine.net/news/20230106-detained-romania-influencer-misogynist/"/>
+        <updated>2023-01-05T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[女性差別的な発言でTwitterなど多くのソーシャルメディアから追放されていたインフルエンサーのアンドリュー・テイト容疑者が、兄弟らとともに人身売買やレイプなどの容疑で逮捕および勾留されたことが分かりました。テイト容疑者は、イーロン・マスク氏により凍結が解除されたTwitterアカウントで環境活動家のグレタ・トゥーンベリ氏と舌戦を繰り広げたことで一時海外のソーシャルメディア上で話題となっていました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[わずか175g、シャープがVRヘッドマウントディスプレイ試作機をCESで披露　コントローラーを持つ必要なし]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2301/06/news058.html</id>
@@ -11483,27 +11494,6 @@
         <link href="https://gigazine.net/news/20221207-headline/"/>
         <updated>2022-12-07T09:23:00.000Z</updated>
         <summary type="html"><![CDATA[アニメ「チェンソーマン」のポップアップショップ「チェンソーマン大交流展」が12月9日(金)からベースヤードトーキョーで開催されます。会場では限定グッズの販売が行われるほか、アニメ制作を手がけるMAPPA監修によるアニメ設定資料の展示や大型モニターでの映像放映、販売用フィギュアの展示などが行われます。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不動産屋いらずの“セルフ内見”、スマホ1つで　ユカイ工学とFLIEが実証実験]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/07/news156.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news156.html"/>
-        <updated>2022-12-07T08:45:00.000Z</updated>
-        <summary type="html"><![CDATA[ユカイ工学は7日、不動産の直接取引サイト「FLIE」と共同でマンションの“セルフ内見”を可能にする「スマビュー」実証実験を始めた。「不動産会社とのやり取り、当日の営業担当者立ち会いは一切必要ない」。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google検索をするとChatGPTの回答も表示してくれるブラウザ拡張機能「ChatGPT for Google」]]></title>
-        <id>https://gigazine.net/news/20221207-chatgpt-for-google/</id>
-        <link href="https://gigazine.net/news/20221207-chatgpt-for-google/"/>
-        <updated>2022-12-07T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[対話型AI「ChatGPT」はユーザーと自由に対話して自然な文章を出力するモデルで、ビジネスアドバイザーとして十分使えると評価されるほどの能力を持っています。そんなChatGPTの回答をGoogleの検索結果と一緒に表示するChrome・Firefox拡張機能が登場したので、実際に使ってみました。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-headline/",
+          "author": null,
+          "description": "「アイドルマスター シンデレラガールズ」と「東京女子プロレス」のコラボ第2弾決定が発表されました。「アイドル」というキーワードをもとに、格闘技観戦を趣味とする桐野アヤとアイドルグループ・アップアップガールズのメンバーでもある渡辺未詩選手、ミリタリー系アイドルの大和亜季と次代を担う鈴芽選手のコラボが行われます。コラボイラストをもとにしたグッズが近日から受注となるほか、特別コスチュームの制作・ポートレート販売等も予定されているとのことです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-headline/",
+          "publishedOn": "2023-01-05T09:41:00.000Z",
+          "wordCount": 6100,
+          "title": "2023年1月5日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230105-phone-cameras-struggle-dark-skin/",
           "author": null,
           "description": "近年のスマートフォンカメラは非常に優れた性能を持っていますが、時には肌の色が実際とはやや違った色味になっていたり、濃い肌の色をした人の顔が暗い場所ではっきり写りにくかったりするケースがあります。そこでアメリカの日刊紙であるワシントン・ポストが、AppleのiPhone 14 Pro Max・SamsungのGalaxy S22 Ultra・GoogleのPixel 7 Proの3機種を用いて、「濃い肌の色」をどれほど正確に撮影できるのか比較しています。\n続きを読む...",
@@ -5154,16 +5164,6 @@
           "wordCount": 2700,
           "title": "小さなGoPro「GoPro HERO11 Black Mini」の撮影性能は「GoPro HERO11 Black」と同等なのか徹底検証してみた",
           "imageUrl": "https://i.gzn.jp/img/2022/12/07/gopro-hero11-black-mini-movie/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-infinite-mac-kanjitalk/",
-          "author": null,
-          "description": "元GoogleエンジニアのMihai Parparita氏が公開している、ブラウザ上でClassic Mac OSを体験できる「Inifinite Mac」で、日本語版Macintosh用OS「漢字Talk」のバージョン7.5.3 リリース2を再現した「kanjitalk7.app」が公開されたので、実際に触ってみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-infinite-mac-kanjitalk/",
-          "publishedOn": "2022-12-06T22:00:00.000Z",
-          "wordCount": 2525,
-          "title": "無料で日本語版Macintosh用OS「漢字Talk」をブラウザ上で体験できる「kanjitalk7.app」",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/infinite-mac-kanjitalk/00.png"
         }
       ]
     },

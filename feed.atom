@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T09:13:56.503Z</updated>
+    <updated>2023-01-05T10:14:52.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年1月5日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20230105-headline/</id>
+        <link href="https://gigazine.net/news/20230105-headline/"/>
+        <updated>2023-01-05T09:41:00.000Z</updated>
+        <summary type="html"><![CDATA[「アイドルマスター シンデレラガールズ」と「東京女子プロレス」のコラボ第2弾決定が発表されました。「アイドル」というキーワードをもとに、格闘技観戦を趣味とする桐野アヤとアイドルグループ・アップアップガールズのメンバーでもある渡辺未詩選手、ミリタリー系アイドルの大和亜季と次代を担う鈴芽選手のコラボが行われます。コラボイラストをもとにしたグッズが近日から受注となるほか、特別コスチュームの制作・ポートレート販売等も予定されているとのことです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アイルランド、Metaにまた罰金　GDPR違反で約547億円]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2301/05/news137.html</id>
@@ -11815,17 +11826,6 @@
         <summary type="html"><![CDATA[米オハイオ州立大学に所属する研究者らは、Bluetoothを使用するモバイル機器には、攻撃者がユーザーの位置を追跡できる不具合があることを実証した研究報告を発表した。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料で日本語版Macintosh用OS「漢字Talk」をブラウザ上で体験できる「kanjitalk7.app」]]></title>
-        <id>https://gigazine.net/news/20221207-infinite-mac-kanjitalk/</id>
-        <link href="https://gigazine.net/news/20221207-infinite-mac-kanjitalk/"/>
-        <updated>2022-12-06T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[元GoogleエンジニアのMihai Parparita氏が公開している、ブラウザ上でClassic Mac OSを体験できる「Inifinite Mac」で、日本語版Macintosh用OS「漢字Talk」のバージョン7.5.3 リリース2を再現した「kanjitalk7.app」が公開されたので、実際に触ってみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-comedy-widlife-photography-2022/",
+          "author": null,
+          "description": "東アフリカ在住の野生動物の写真家であるポール・ジョインソン・ヒックス氏が立ち上げた、野生動物の笑える瞬間を激写した写真を競い合うコンテストがComedy Widlife Photographyです。このComedy Widlife Photographyの2022年度受賞者が発表されており、動物たちのちょっぴり笑えるお茶目な姿の数々を楽しむことができます。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-comedy-widlife-photography-2022/",
+          "publishedOn": "2023-01-05T12:00:00.000Z",
+          "wordCount": 2541,
+          "title": "野生動物の笑える瞬間を激写した写真コンテスト「Comedy Widlife Photography 2022」の受賞者が決まる",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/comedy-widlife-photography-2022/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230105-virtual-person/",
           "author": null,
           "description": "アニメーションと音響技術と機械学習を組み合わせ、歌ったり配信で交流したりもできる「デジタルヒューマン」が中国で急速に普及しており、スキャンダルのない仮想インフルエンサーとしての活躍が期待されています。すでに中国のテクノロジー企業が積極的に開発を進めているだけでなく、政府もバーチャルコンテンツの普及に多額の予算を計上しています。\n続きを読む...",
@@ -5154,16 +5164,6 @@
           "wordCount": 2547,
           "title": "Apple Carは1400万円未満の価格・カスタムチップ搭載・完全自動運転機能なしで2026年にリリースされるとの報道",
           "imageUrl": "https://i.gzn.jp/img/2022/12/07/apple-self-driving-car-2026/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-himitsu-no-miyazono-04b/",
-          "author": null,
-          "description": "◆あらすじ「友達ができない体質」の宮園花音(みやぞのかのん)はある日、自分と同じ名字を持つアンドロイドと名乗る少女、宮園凛音(みやぞのりおん)と出会う。凛音は、さんざん花音の日常をはちゃめちゃにして、突然動きを止めてしまった。明かされた花音の「秘密」と凛音の「過去」。すべてを受け止めて、花音はもう一度凛音に会いに行く。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-himitsu-no-miyazono-04b/",
-          "publishedOn": "2022-12-07T00:00:00.000Z",
-          "wordCount": 2510,
-          "title": "【無料マンガ】秘密の宮園 第4話(後編)「花音と凛音」＆さらなる秘密が明かされる5話本編をチラ見せ",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/himitsu-no-miyazono-04b/00.jpg"
         }
       ]
     },
@@ -6801,16 +6801,6 @@
           "wordCount": 4327,
           "title": "MatrixFlow、AIの素材が売り買いできる「MatrixFlowマーケットプレイス」をリリース",
           "imageUrl": "https://codezine.jp/static/images/article/16980/16980_ogp.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16977",
-          "author": null,
-          "description": "米VMwareは、Webアプリケーション開発フレームワークの最新バージョンである「Spring Boot 3.0」の一般公開にあわせて、サンプルアプリのセット「Spring WS Samples」をアップグレードしたことを、12月2日（現地時間）に発表した。",
-          "link": "http://codezine.jp/article/detail/16977",
-          "publishedOn": "2022-12-07T00:00:00.000Z",
-          "wordCount": 4349,
-          "title": "Spring Boot 3.0の一般提供にあわせてサンプルアプリセットがアップグレード",
-          "imageUrl": "https://codezine.jp/static/images/article/16977/13165_og.jpg"
         }
       ]
     },
@@ -11295,36 +11285,6 @@
           "wordCount": 2600,
           "title": "App Storeの最低価格が50円に　10円刻みで設定も　価格テーブル900種類に急拡大",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news082.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/07/news080.html",
-          "author": null,
-          "description": "半導体ファウンドリ世界最大手のTSMCが米アリゾナ州に3nm工場を建設すると発表した。発表式典にはバイデン大統領やAppleのクックCEOが出席。クック氏はこの工場で生産するプロセッサをApple製品で採用すると語った。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/07/news080.html",
-          "publishedOn": "2022-12-07T00:11:00.000Z",
-          "wordCount": 2605,
-          "title": "台湾TSMCの2つ目のアリゾナ工場式典にバイデン大統領やAppleのクックCEOが出席",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news080.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/07/news077.html",
-          "author": null,
-          "description": "特殊詐欺の被害防止を巡り、警視庁がセブンイレブンなどと協力してコンビニエンスストアのATMでAIを活用した実証実験を11月からスタート。警視庁犯罪抑止対策本部の高崎光管理官は「ソフトとハード両面から詐欺撲滅を進めたい」と話している。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/07/news077.html",
-          "publishedOn": "2022-12-07T00:00:00.000Z",
-          "wordCount": 2338,
-          "title": "ATMをAIが監視　「姿勢」から詐欺判断　STOP！！ 特殊詐欺",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/l_ASE37KAH2NPJ7E6WUNLKIBT74M_1.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/07/news076.html",
-          "author": null,
-          "description": "日本郵便などが、開発中の物流専用国産ドローンの概要を公開した。5日に施行された改正航空法では飛行区分「レベル4」が追加され、補助者の配置なしに有人地帯での目視外飛行が認められることから、2023年度中のレベル4認証取得を目指す方針だ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/07/news076.html",
-          "publishedOn": "2022-12-07T00:00:00.000Z",
-          "wordCount": 2323,
-          "title": "日本郵便「物流専用ドローン」の概要公開",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/l_56LRTC4KY5PLNBKYPRKQG4KNTI_1.jpg"
         }
       ]
     }

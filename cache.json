@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-ryushi-selling-twitter-400-million-users-data/",
+          "author": null,
+          "description": "Twitterの脆弱(ぜいじゃく)性を突いて盗み出したとされる4億人分のユーザーデータを、Ryushiと名乗るハッカーが売り出そうとしていることが分かりました。RyushiはTwitterやイーロン・マスクCEOを相手取ってデータの購入を迫り、「EUの一般データ保護規則(GDPR)による多額の罰金を食らう前に即刻購入せよ」と要求しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-ryushi-selling-twitter-400-million-users-data/",
+          "publishedOn": "2023-01-05T14:00:00.000Z",
+          "wordCount": 2503,
+          "title": "ハッカー「Ryushi」が4億以上のTwitterアカウントの個人情報削除と引き換えに20万ドルを要求、自衛方法はコレ",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/ryushi-selling-twitter-400-million-users-data/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230105-mos-watagashi-cinnamoroll/",
           "author": null,
           "description": "モスシェイクのバニラ味にピンク色のヨーグルトソースやわたがしを合わせた「まぜるシェイクヨーグルト風味with わたがし＜限定シナモロールカップ＞」が2023年1月5日(木)に登場しました。カップにはシナモロールのキャラクターたちがプリントされており、見た目も味も楽しめる一品に仕上がっているとのこと。どんな味がするのか気になったので、実際にモスバーガーに行って飲んでみました。\n続きを読む...",
@@ -6741,26 +6751,6 @@
           "wordCount": 4340,
           "title": "高速コンパイラを搭載した「PyTorch 2.0」を公開、正式版は2023年3月に登場の予定",
           "imageUrl": "https://codezine.jp/static/images/article/16982/12597_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16910",
-          "author": null,
-          "description": "Gitはバージョン管理システムの一つです。本連載では、株式会社MIXIで行っているGit研修の内容をもとに、3回にわたりGitについて解説します。第2回となる本記事では、Gitをチーム開発で使う方法について解説します。",
-          "link": "http://codezine.jp/article/detail/16910",
-          "publishedOn": "2022-12-07T02:00:00.000Z",
-          "wordCount": 4555,
-          "title": "Gitによるチーム開発のいろはを基礎から学ぼう！",
-          "imageUrl": "https://codezine.jp/static/images/article/16910/16559_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16964",
-          "author": null,
-          "description": "とある鉄道会社の社内SEの悲哀を描く技術系コメディ！ 姫路と京都を結ぶ京姫鉄道株式会社。広報部システム課に配属された祝園アカネは、今日もトラブルにてんてこまい！ 小説版『こうしす！社内SE祝園アカネの情報セキュリティ事件簿』の期間限定Kindle Unlimited配信を記念して、マンガ版「こうしす！」の傑作選をお届けします。情報処理安全確保支援士 祝園アカネの解説付き。",
-          "link": "http://codezine.jp/article/detail/16964",
-          "publishedOn": "2022-12-07T02:00:00.000Z",
-          "wordCount": 4478,
-          "title": "情報セキュリティ対策に必要なのは、本当にインシデントゼロの精神論？",
-          "imageUrl": "https://codezine.jp/static/images/article/16964/16964_og.jpg"
         }
       ]
     },
@@ -7066,6 +7056,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news154.html",
+          "author": null,
+          "description": "ユカイ工学は5日、頭にライトを付けた照明ロボット「LIGHTONY」を発表した。「CES2023」でデモンストレーションを行う。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news154.html",
+          "publishedOn": "2023-01-05T13:28:00.000Z",
+          "wordCount": 2344,
+          "title": "一緒に“寝落ち”する照明ロボット「ライトニー」、ユカイ工学が開発中",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news154.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news153.html",
+          "author": null,
+          "description": "パナソニック傘下のShiftallが、VRヘッドマウントディスプレイ「MeganeX」を正式発表した。高性能と軽量感、装着感にこだわり、年間2000時間以上メタバース内で過ごすヘビーユーザーにも快適なプレイ環境を提供するという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news153.html",
+          "publishedOn": "2023-01-05T13:00:00.000Z",
+          "wordCount": 2603,
+          "title": "5.2KのハイエンドVRヘッドセット「MeganeX」、約25万円　パナ子会社のShiftallが今春発売",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news153.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/05/news147.html",
           "author": null,
@@ -11215,16 +11225,6 @@
           "wordCount": 2605,
           "title": "ビルボードにボカロ曲チャート登場　ニコ動上のオリジナル曲TOP20を毎週発表",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news092.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/07/news088.html",
-          "author": null,
-          "description": "開発発注プラットフォーム「ISSUE」を提供するResource（東京都練馬区）は、webエンジニアの各業務委託単価とその技術能力関係をまとめた業務委託単価表を公開した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/07/news088.html",
-          "publishedOn": "2022-12-07T01:52:00.000Z",
-          "wordCount": 2601,
-          "title": "Webエンジニア「業務委託単価表」公開　時給ごとに必要とされる技術力は？",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news088.jpg"
         }
       ]
     }

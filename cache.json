@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-virtual-person/",
+          "author": null,
+          "description": "アニメーションと音響技術と機械学習を組み合わせ、歌ったり配信で交流したりもできる「デジタルヒューマン」が中国で急速に普及しており、スキャンダルのない仮想インフルエンサーとしての活躍が期待されています。すでに中国のテクノロジー企業が積極的に開発を進めているだけでなく、政府もバーチャルコンテンツの普及に多額の予算を計上しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-virtual-person/",
+          "publishedOn": "2023-01-05T11:00:00.000Z",
+          "wordCount": 2446,
+          "title": "Vtuberとは違って中の人が本当にいない「デジタルヒューマン」産業がスキャンダルのないインフルエンサーを目指して中国で急成長中",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/virtual-person/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230105-headline/",
           "author": null,
           "description": "「アイドルマスター シンデレラガールズ」と「東京女子プロレス」のコラボ第2弾決定が発表されました。「アイドル」というキーワードをもとに、格闘技観戦を趣味とする桐野アヤとアイドルグループ・アップアップガールズのメンバーでもある渡辺未詩選手、ミリタリー系アイドルの大和亜季と次代を担う鈴芽選手のコラボが行われます。コラボイラストをもとにしたグッズが近日から受注となるほか、特別コスチュームの制作・ポートレート販売等も予定されているとのことです。\n続きを読む...",
@@ -5154,16 +5164,6 @@
           "wordCount": 2510,
           "title": "【無料マンガ】秘密の宮園 第4話(後編)「花音と凛音」＆さらなる秘密が明かされる5話本編をチラ見せ",
           "imageUrl": "https://i.gzn.jp/img/2022/12/07/himitsu-no-miyazono-04b/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-gopro-hero11-black-mini-movie/",
-          "author": null,
-          "description": "2022年11月に登場した小型アクションカメラ「GoPro HERO11 Black Mini」は、従来のGoProより小型なボディに「GoPro HERO11 Black」と同等のムービー撮影性能を備えていることがアピールされています。そんなGoPro HERO11 Black Miniが編集部に届いたので、外観チェックに続いてブレ補正性能や画角調整範囲などを徹底検証してみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-gopro-hero11-black-mini-movie/",
-          "publishedOn": "2022-12-06T23:00:00.000Z",
-          "wordCount": 2700,
-          "title": "小さなGoPro「GoPro HERO11 Black Mini」の撮影性能は「GoPro HERO11 Black」と同等なのか徹底検証してみた",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/gopro-hero11-black-mini-movie/00.jpg"
         }
       ]
     },
@@ -6811,16 +6811,6 @@
           "wordCount": 4349,
           "title": "Spring Boot 3.0の一般提供にあわせてサンプルアプリセットがアップグレード",
           "imageUrl": "https://codezine.jp/static/images/article/16977/13165_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16974",
-          "author": null,
-          "description": "デジタル庁は、“誰1人取り残されない、人に優しいデジタル化”を実現すべく継続的に取り組んでいる「ウェブアクセシビリティ」向上の一環として、ウェブアクセシビリティにはじめて取り組む行政官や事業者向けに、ウェブアクセシビリティの考え方や取り組み方のポイントを解説する「ウェブアクセシビリティ導入ガイドブック」を12月5日に公開している。",
-          "link": "http://codezine.jp/article/detail/16974",
-          "publishedOn": "2022-12-06T23:00:00.000Z",
-          "wordCount": 4336,
-          "title": "デジタル庁、ウェブアクセシビリティに関する初心者向けガイドブックを公開",
-          "imageUrl": "https://codezine.jp/static/images/article/16974/16974_og.png"
         }
       ]
     },
@@ -7126,6 +7116,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news147.html",
+          "author": null,
+          "description": "「この絵画を描いたのはかつての巨匠か、それともAIか。あなたに分かりますか？」──そんな2択クイズを出題するWebサイト「AI or Art」が公開中だ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news147.html",
+          "publishedOn": "2023-01-05T10:22:00.000Z",
+          "wordCount": 2623,
+          "title": "この絵画を描いたのは人間、それともAI？　2択クイズ「AI or Art」で審美眼を格付けチェック",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news147.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/05/news137.html",
           "author": null,
@@ -11325,16 +11325,6 @@
           "wordCount": 2323,
           "title": "日本郵便「物流専用ドローン」の概要公開",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/l_56LRTC4KY5PLNBKYPRKQG4KNTI_1.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/07/news050.html",
-          "author": null,
-          "description": "米オハイオ州立大学に所属する研究者らは、Bluetoothを使用するモバイル機器には、攻撃者がユーザーの位置を追跡できる不具合があることを実証した研究報告を発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/07/news050.html",
-          "publishedOn": "2022-12-06T23:00:00.000Z",
-          "wordCount": 2705,
-          "title": "他人のスマホの現在地を特定できるサイバー攻撃　Bluetoothの欠陥を利用　米国チームが指摘",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news050.jpg"
         }
       ]
     }

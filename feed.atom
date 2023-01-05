@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T10:14:52.501Z</updated>
+    <updated>2023-01-05T11:11:42.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vtuberとは違って中の人が本当にいない「デジタルヒューマン」産業がスキャンダルのないインフルエンサーを目指して中国で急成長中]]></title>
+        <id>https://gigazine.net/news/20230105-virtual-person/</id>
+        <link href="https://gigazine.net/news/20230105-virtual-person/"/>
+        <updated>2023-01-05T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメーションと音響技術と機械学習を組み合わせ、歌ったり配信で交流したりもできる「デジタルヒューマン」が中国で急速に普及しており、スキャンダルのない仮想インフルエンサーとしての活躍が期待されています。すでに中国のテクノロジー企業が積極的に開発を進めているだけでなく、政府もバーチャルコンテンツの普及に多額の予算を計上しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[この絵画を描いたのは人間、それともAI？　2択クイズ「AI or Art」で審美眼を格付けチェック]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news147.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news147.html"/>
+        <updated>2023-01-05T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[「この絵画を描いたのはかつての巨匠か、それともAIか。あなたに分かりますか？」──そんな2択クイズを出題するWebサイト「AI or Art」が公開中だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023年1月5日のヘッドラインニュース]]></title>
         <id>https://gigazine.net/news/20230105-headline/</id>
@@ -11793,37 +11814,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/07/news076.html"/>
         <updated>2022-12-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[日本郵便などが、開発中の物流専用国産ドローンの概要を公開した。5日に施行された改正航空法では飛行区分「レベル4」が追加され、補助者の配置なしに有人地帯での目視外飛行が認められることから、2023年度中のレベル4認証取得を目指す方針だ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小さなGoPro「GoPro HERO11 Black Mini」の撮影性能は「GoPro HERO11 Black」と同等なのか徹底検証してみた]]></title>
-        <id>https://gigazine.net/news/20221207-gopro-hero11-black-mini-movie/</id>
-        <link href="https://gigazine.net/news/20221207-gopro-hero11-black-mini-movie/"/>
-        <updated>2022-12-06T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年11月に登場した小型アクションカメラ「GoPro HERO11 Black Mini」は、従来のGoProより小型なボディに「GoPro HERO11 Black」と同等のムービー撮影性能を備えていることがアピールされています。そんなGoPro HERO11 Black Miniが編集部に届いたので、外観チェックに続いてブレ補正性能や画角調整範囲などを徹底検証してみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタル庁、ウェブアクセシビリティに関する初心者向けガイドブックを公開]]></title>
-        <id>http://codezine.jp/article/detail/16974</id>
-        <link href="http://codezine.jp/article/detail/16974"/>
-        <updated>2022-12-06T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[デジタル庁は、“誰1人取り残されない、人に優しいデジタル化”を実現すべく継続的に取り組んでいる「ウェブアクセシビリティ」向上の一環として、ウェブアクセシビリティにはじめて取り組む行政官や事業者向けに、ウェブアクセシビリティの考え方や取り組み方のポイントを解説する「ウェブアクセシビリティ導入ガイドブック」を12月5日に公開している。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他人のスマホの現在地を特定できるサイバー攻撃　Bluetoothの欠陥を利用　米国チームが指摘]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/07/news050.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news050.html"/>
-        <updated>2022-12-06T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米オハイオ州立大学に所属する研究者らは、Bluetoothを使用するモバイル機器には、攻撃者がユーザーの位置を追跡できる不具合があることを実証した研究報告を発表した。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

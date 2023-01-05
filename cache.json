@@ -6,6 +6,46 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-madden-nfl-23-save-file/",
+          "author": null,
+          "description": "アメリカンフットボールゲーム「Madden NFL 23」のパブリッシャーであるElectronic Arts(EA)が、Madden NFL 23の一時的な「データストレージの問題」により、プレイヤーのセーブファイルが破損してしまったと発表しました。EAは、バックアップから復元できるのは、これらの破損したファイルの40％ほどだと述べています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-madden-nfl-23-save-file/",
+          "publishedOn": "2023-01-05T04:00:00.000Z",
+          "wordCount": 2568,
+          "title": "EAのゲーム「Madden NFL 23」のセーブデータがぶっ壊れて半分以上が回復不能に",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/madden-nfl-23-save-file/00_m.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20230105-asus-spatial-vision/",
+          "author": null,
+          "description": "3Dメガネなどの特別なウェアラブルデバイスを必要とせず、裸眼で立体映像を視聴できる技術「ASUS Spatial Vision」をASUSが発表しました。2D・3Dの切り替えを簡単に行い、3Dオブジェクトやエフェクトの詳細を画面上で確認できるため、ワークフローの効率化と時間・コストの削減が期待できるとされています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-asus-spatial-vision/",
+          "publishedOn": "2023-01-05T03:47:00.000Z",
+          "wordCount": 2633,
+          "title": "ASUSが裸眼で立体映像を視聴可能なOLEDテクノロジー「ASUS Spatial Vision」を発表、対応ノートPC「ASUS ProArt Studiobook 16 3D OLED(H7604)」「ASUS Vivobook Pro 16X 3D OLED」は2023年内に発売予定",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/asus-spatial-vision/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230105-nyc-bans-chatgpt-on-school-networks/",
+          "author": null,
+          "description": "学校のコンピューターおよびネットワークから高精度チャットAI「ChatGPT」へのアクセスを、ニューヨーク市教育局がブロックしたことがわかりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-nyc-bans-chatgpt-on-school-networks/",
+          "publishedOn": "2023-01-05T03:30:00.000Z",
+          "wordCount": 2437,
+          "title": "生徒と教師によるChatGPTの利用をニューヨーク市が禁止",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/nyc-bans-chatgpt-on-school-networks/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230105-meta-gdpr-fine/",
+          "author": null,
+          "description": "FacebookやInstagramなどのSNSでは、ユーザーの行動を分析してユーザーごとに最適化された広告を表示しています。このターゲティング広告システムについて「ターゲティング広告の配信を停止する選択肢をユーザーに与えなかった」として運営元のMetaが合計3億9000万ユーロ(約547億円)の罰金に直面しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-meta-gdpr-fine/",
+          "publishedOn": "2023-01-05T03:20:00.000Z",
+          "wordCount": 2446,
+          "title": "「FacebookとInstagramでユーザー追跡広告を強制表示していた」としてMetaが約547億円の罰金を科される",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/meta-gdpr-fine/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230105-twitter-down-australia/",
           "author": null,
           "description": "オーストラリアとニュージーランドのTwitterユーザーから、12時間以上Twitterにまともにアクセスできない状態が続いているという報告が相次ぎました。ユーザーからは「イーロン・マスクがTwitterのコスト削減に取り組んだ結果だ」という声も挙がっています。\n続きを読む...",
@@ -7056,6 +7096,46 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news084.html",
+          "author": null,
+          "description": "GMOインターネットグループは、執務室内でのマスクの着用を任意にして3カ月経った時点での社員の反応を調査して発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news084.html",
+          "publishedOn": "2023-01-05T03:30:00.000Z",
+          "wordCount": 2588,
+          "title": "「オフィスでマスクしなくてOK」3カ月続けたGMO　社員の反応は？",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news084.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news079.html",
+          "author": null,
+          "description": "米NVIDIAは、「GeForce NOW」が自動車に搭載されると発表した。韓国HyundaiなどのEVの車載モニターでゲームが遊べ、「充電時間を飽きさせないものにできる」としている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news079.html",
+          "publishedOn": "2023-01-05T03:30:00.000Z",
+          "wordCount": 2622,
+          "title": "車内でクラウドゲーム？　NVIDIAが“車載GeForce NOW”発表　充電時間の暇つぶしに",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news079.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news080.html",
+          "author": null,
+          "description": "「サイバーパンク桃太郎」の単行本発売へ。画像生成AI「Midjourney」を駆使して作られたフルカラーコミックだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news080.html",
+          "publishedOn": "2023-01-05T03:15:00.000Z",
+          "wordCount": 2597,
+          "title": "AI「Midjourney」で作った漫画が単行本に　「サイバーパンク桃太郎」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news080.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news076.html",
+          "author": null,
+          "description": "ユカイ工学は5日、生き物が呼吸するかのように膨らんだり縮んだりするロボットクッション「fufuly」を公開した。クッションを抱いてひと休みすると呼吸が深くなり、気持ちが穏やかになるという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news076.html",
+          "publishedOn": "2023-01-05T03:05:00.000Z",
+          "wordCount": 2345,
+          "title": "呼吸するクッション、ユカイ工学が公開　「呼吸が深くなり、気持ち穏やかに」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news076.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/05/news073.html",
           "author": null,

@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-04T23:13:39.524Z</updated>
+    <updated>2023-01-05T01:09:53.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「GIGAZINEマンガ大賞」2023年1月度募集開始＆2022年の応募を集計してみた]]></title>
+        <id>https://gigazine.net/news/20230105-gigazine-manga/</id>
+        <link href="https://gigazine.net/news/20230105-gigazine-manga/"/>
+        <updated>2023-01-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年もGIGAZINEマンガ大賞はマンガ・原作脚本・ポートフォリオによる作画担当・ネーム構成担当の応募も毎月締め切りで募集中です。2023年には最終回を迎える作品がある一方で、新連載＆連載再開も計画中ですので、ぜひそこに参加する作品の応募をお願いします。2022年はどのような応募傾向だったのか簡単にまとめてみましたので、その情報が見たい方は2022年マンガ大賞集計データをチェックお願いします。また、マンガの先行公開や過去の作品が読み放題の本棚、マンガ大賞審査への招待など特典盛りだくさんのGIGAZINEシークレットクラブ(GSC)も合わせてチェックしてみてください。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[関西2023年の展望　津波避難タワー、ドローン活用、AIで災害情報把握　災害その時に備えて]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news056.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news056.html"/>
+        <updated>2023-01-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[関西にも甚大な被害が予想される南海トラフ巨大地震、近年頻発する水害など、災害への備えを怠ることはできない。2023年は関東大震災から100年。災害から命を守る心構えを新たにしたい。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter、12月から散発的な障害　ネット民悲鳴]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news055.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news055.html"/>
+        <updated>2023-01-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterで2022年12月から散発的な障害が続いている。アクセスの際に必要な2段階認証の認証コードが届かなかったり、Twitterを使っていないのに認証コードがいきなり送り付けられるケースもみられる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Airbnbにネガティブなレビューを投稿したら削除されてしまったという報告、ポジティブなレビューすら削除されたという声も]]></title>
         <id>https://gigazine.net/news/20230105-airbnb-removed-negative-review/</id>
@@ -15,6 +46,36 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[オープンソースの画像処理／機械学習ライブラリ「OpenCV 4.7.0」がリリース]]></title>
+        <id>http://codezine.jp/article/detail/17129</id>
+        <link href="http://codezine.jp/article/detail/17129"/>
+        <updated>2023-01-04T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースの画像処理／機械学習ライブラリであるOpenCV（Open Source Computer Vision Library）の最新バージョンとなる、「OpenCV 4.7.0」が2022年12月29日（現地時間）にリリースされた。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[イヤフォンの“音漏れ”を利用したハンドジェスチャー入力　筑波大と北海道大が開発]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news025.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news025.html"/>
+        <updated>2023-01-04T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[筑波大学と北海道大学に所属する研究者らは、イヤフォンの音漏れを利用して耳を覆いかぶすように手を添えてハンドジェスチャー入力を行う手法を提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[貧血を簡単予測？　皮膚に貼る電子パッチで“血管”を監視　米国チームが開発]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news024.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news024.html"/>
+        <updated>2023-01-04T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米University of California San Diegoに所属する研究者らは、ヘモグロビンを含む深部組織の生体分子をモニタリングできる皮膚に貼れる光音響ベースの電子パッチを提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -11440,28 +11501,6 @@
         <link href="https://gigazine.net/news/20221206-nicovideo-peppermint/"/>
         <updated>2022-12-06T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[ニコニコ動画などで活動しているCYakigasi(やきがし)さんが、ニコニコ動画のサイトの表示や動画再生プレイヤーの機能を使いやすく改変できるUserCSS「Niconico-PepperMint」のv1.5を公開しました。Niconico-PepperMintを使用すると、ニコニコ動画ユーザーがよく見るランキングの広告動画を非表示にしたり、左右が狭いニコニコ大百科の記事を画面いっぱいに表示したりと、ニコニコ動画ユーザーのかゆいところに手が届く便利機能を豊富に使えるとのことなので、実際にブラウザにインストールして使ってみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハーゲンダッツの定番アイス「ハーゲン8」に新作「ショコラデュオ」が新登場したので食べてみた]]></title>
-        <id>https://gigazine.net/news/20221206-haagen-dazs-chocolat-duo/</id>
-        <link href="https://gigazine.net/news/20221206-haagen-dazs-chocolat-duo/"/>
-        <updated>2022-12-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ハーゲンダッツの通年商品である「ハーゲン8」に、新しく「ショコラデュオ」が追加されました。ショコラデュオはミルクショコラアイスクリームとカカオショコラアイスクリームの2つのチョコレートアイスを同時に楽しめるミニカップになっているということで、さっそくどんな味わいなのか食べて確かめてみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「もしここに隕石が落ちるとどうなるのか？」を地図でクリックするだけでシミュレーションできる「Asteroid Launcher」]]></title>
-        <id>https://gigazine.net/news/20221206-asteroid-launcher/</id>
-        <link href="https://gigazine.net/news/20221206-asteroid-launcher/"/>
-        <updated>2022-12-06T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[巨大隕石が衝突するとすさまじい被害が出ることは理解していても、実際にどれほど隕石が恐ろしいのかを実感するのは難しいもの。そんな隕石衝突について、隕石のサイズ・速度・角度・落下地点を自由に設定し、隕石衝突でどれほどの被害が出るのかをシミュレーションできるツールが「Asteroid Launcher」です。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

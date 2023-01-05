@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T08:18:11.995Z</updated>
+    <updated>2023-01-05T09:13:56.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アイルランド、Metaにまた罰金　GDPR違反で約547億円]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news137.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news137.html"/>
+        <updated>2023-01-05T08:28:00.000Z</updated>
+        <summary type="html"><![CDATA[アイルランドの規制当局は、MetaがGDPRに違反したとして総額3億9000万ユーロ（約547億円）の罰金を科すと発表した。また、3カ月以内にデータ処理業務を改善するよう命じた。Metaは控訴する構えだ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正月休みボケを吹っ飛ばせ　IT人材向け、2022年に無償公開された教材資料まとめ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news135.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news135.html"/>
+        <updated>2023-01-05T08:24:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年を迎えたが、まだ正月休みボケが抜けない人もいるかと思う。仕事へのモチベーションを上げられるように、2022年に企業や官公庁が公開したIT人材向けの教材や資料をまとめた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スマホカメラはどれほど「濃い肌の色」を正確に撮影できるのかApple・Samsung・Googleのハイエンドモデルで比較した結果とは？]]></title>
         <id>https://gigazine.net/news/20230105-phone-cameras-struggle-dark-skin/</id>
@@ -25,6 +45,16 @@
         <summary type="html"><![CDATA[〇（まる）は、4月にHMDを利用したメタバース上でのみ授業を行う「メタバース情報工学大学」を開校する。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[実は人間がテクノロジーの道具に？　“AIにはない人間の資質”を問う異色の展示「アンラーニング・ランゲージ」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news134.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news134.html"/>
+        <updated>2023-01-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[あなたが人に語った意見は本当にあなたが考えたものか。実はインターネットにそう考えるよう仕向けられたものではないか。テクノロジーは本当に人間の能力を拡張する道具なのか。実は人間の方がテクノロジーにとって便利な道具となっていないか。今や当たり前の社会インフラとなっているインターネットに、こうしたさまざまな疑問を投げかける展示を山口情報芸術センターが開いている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -11793,17 +11823,6 @@
         <link href="https://gigazine.net/news/20221207-infinite-mac-kanjitalk/"/>
         <updated>2022-12-06T22:00:00.000Z</updated>
         <summary type="html"><![CDATA[元GoogleエンジニアのMihai Parparita氏が公開している、ブラウザ上でClassic Mac OSを体験できる「Inifinite Mac」で、日本語版Macintosh用OS「漢字Talk」のバージョン7.5.3 リリース2を再現した「kanjitalk7.app」が公開されたので、実際に触ってみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTubeにCCライセンスの映画を使った動画を投稿したところ無関係の企業が著作権侵害を申し立てて削除されてしまう]]></title>
-        <id>https://gigazine.net/news/20221207-blenders-cc-by-licensed-film-youtube/</id>
-        <link href="https://gigazine.net/news/20221207-blenders-cc-by-licensed-film-youtube/"/>
-        <updated>2022-12-06T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[オープンソースの3DCGソフト「Blender」の開発団体であるBlender Foundationは、Blenderで作ったさまざまな映画を作品の共有や使用を許可するクリエイティブ・コモンズ・ライセンス(CCライセンス)でリリースしています。そんなBlenderのCCライセンスで公開された短編アニメーション映画を素材に使い、動画をYouTubeにアップロードしたところ、まったく無関係の企業が著作権侵害だとYouTubeに申し立てて削除されてしまう事態が発生しました。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

@@ -5164,16 +5164,6 @@
           "wordCount": 2525,
           "title": "無料で日本語版Macintosh用OS「漢字Talk」をブラウザ上で体験できる「kanjitalk7.app」",
           "imageUrl": "https://i.gzn.jp/img/2022/12/07/infinite-mac-kanjitalk/00.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-blenders-cc-by-licensed-film-youtube/",
-          "author": null,
-          "description": "オープンソースの3DCGソフト「Blender」の開発団体であるBlender Foundationは、Blenderで作ったさまざまな映画を作品の共有や使用を許可するクリエイティブ・コモンズ・ライセンス(CCライセンス)でリリースしています。そんなBlenderのCCライセンスで公開された短編アニメーション映画を素材に使い、動画をYouTubeにアップロードしたところ、まったく無関係の企業が著作権侵害だとYouTubeに申し立てて削除されてしまう事態が発生しました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-blenders-cc-by-licensed-film-youtube/",
-          "publishedOn": "2022-12-06T21:00:00.000Z",
-          "wordCount": 2520,
-          "title": "YouTubeにCCライセンスの映画を使った動画を投稿したところ無関係の企業が著作権侵害を申し立てて削除されてしまう",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/blenders-cc-by-licensed-film-youtube/00.jpg"
         }
       ]
     },
@@ -7136,6 +7126,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news137.html",
+          "author": null,
+          "description": "アイルランドの規制当局は、MetaがGDPRに違反したとして総額3億9000万ユーロ（約547億円）の罰金を科すと発表した。また、3カ月以内にデータ処理業務を改善するよう命じた。Metaは控訴する構えだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news137.html",
+          "publishedOn": "2023-01-05T08:28:00.000Z",
+          "wordCount": 2597,
+          "title": "アイルランド、Metaにまた罰金　GDPR違反で約547億円",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news137.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news135.html",
+          "author": null,
+          "description": "2023年を迎えたが、まだ正月休みボケが抜けない人もいるかと思う。仕事へのモチベーションを上げられるように、2022年に企業や官公庁が公開したIT人材向けの教材や資料をまとめた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news135.html",
+          "publishedOn": "2023-01-05T08:24:00.000Z",
+          "wordCount": 2618,
+          "title": "正月休みボケを吹っ飛ばせ　IT人材向け、2022年に無償公開された教材資料まとめ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news135.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news134.html",
+          "author": null,
+          "description": "あなたが人に語った意見は本当にあなたが考えたものか。実はインターネットにそう考えるよう仕向けられたものではないか。テクノロジーは本当に人間の能力を拡張する道具なのか。実は人間の方がテクノロジーにとって便利な道具となっていないか。今や当たり前の社会インフラとなっているインターネットに、こうしたさまざまな疑問を投げかける展示を山口情報芸術センターが開いている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news134.html",
+          "publishedOn": "2023-01-05T08:00:00.000Z",
+          "wordCount": 2597,
+          "title": "実は人間がテクノロジーの道具に？　“AIにはない人間の資質”を問う異色の展示「アンラーニング・ランゲージ」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news134.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/05/news122.html",
           "author": null,

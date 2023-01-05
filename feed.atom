@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T01:09:53.320Z</updated>
+    <updated>2023-01-05T02:38:29.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[宇宙から撮影するソニーの人工衛星「EYE」、通信確立に成功　一般向けサービスを春に開始]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news069.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news069.html"/>
+        <updated>2023-01-05T02:17:00.000Z</updated>
+        <summary type="html"><![CDATA[ソニーは5日、自社開発の高感度カメラを搭載した超小型人工衛星「EYE」が地上局との通信を確立したと発表した。一般の人たちが地上からカメラを操作し、宇宙空間から撮影できるサービスを春ごろに始める。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[渋谷区のサイトに攻撃　3日からアクセスしづらい状態続く　アノニマスが犯行声明]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news067.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news067.html"/>
+        <updated>2023-01-05T02:04:00.000Z</updated>
+        <summary type="html"><![CDATA[東京都渋谷区のWebサイトを閲覧しづらい状態が、1月3日から続いている。Anonymousが犯行声明を出している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salesforceが従業員の約10％を解雇し一部のオフィスを閉鎖すると発表]]></title>
+        <id>https://gigazine.net/news/20230105-salesforce-cut-staff/</id>
+        <link href="https://gigazine.net/news/20230105-salesforce-cut-staff/"/>
+        <updated>2023-01-05T02:02:00.000Z</updated>
+        <summary type="html"><![CDATA[クラウドベースの顧客関係管理(CRM)ソリューションサービス大手のSalesforceが従業員の約10％を解雇し、一部のオフィスを閉鎖することを発表しました。同社のマーク・ベニオフCEOは、「従業員の急増と困難な経済情勢」が従業員の解雇の原因であるとしています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【WWDC2022総復習】知ってる？ ロック画面以外でもiOS 16/iPadOS 16はこんなに進化したんです]]></title>
+        <id>http://codezine.jp/article/detail/16885</id>
+        <link href="http://codezine.jp/article/detail/16885"/>
+        <updated>2023-01-05T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Worldwide Developers Conference（以下、WWDC）は、Appleが毎年6月ごろに開催する開発者向けイベントです。iOSやwatchOSの最新機能も発表されるため、Appleファンも注目しています。セッション数は約200本もあり、情報量も多いです。そこで本連載では、2022年に開催されたWWDC22で、新しく追加されたAPIや新OSの便利な使い方をご紹介します。ざっとキーワードだけ拾いたい開発者やアップデートを知りたい方のキャッチアップに役立てると幸いです。第2回となる今回は、iPhoneのロック画面、iPadのデスクトップ級の機能およびパスキーについてご紹介します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazonが1万7000人以上を解雇へ、近年のテクノロジー企業で最多]]></title>
+        <id>https://gigazine.net/news/20230105-amazon-lay-off-more-than-first-planned/</id>
+        <link href="https://gigazine.net/news/20230105-amazon-lay-off-more-than-first-planned/"/>
+        <updated>2023-01-05T01:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Alexa事業の不振に苦しむAmazonが、1万7000人以上の従業員をレイオフすることが分かったと、Wall Street Journalが報じました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トヨタ・ホンダ・日産などの自動車で「遠隔ロック解除」「遠隔エンジン始動」「個人情報取得」が可能な脆弱性が発見される]]></title>
+        <id>https://gigazine.net/news/20230105-car-critical-vulnerabilities/</id>
+        <link href="https://gigazine.net/news/20230105-car-critical-vulnerabilities/"/>
+        <updated>2023-01-05T01:26:00.000Z</updated>
+        <summary type="html"><![CDATA[近年販売されている自動車には多くの半導体が搭載されており、エンジン始動やヘッドライトの点灯、ロックの解錠などが電子制御されています。セキュリティ研究者のサム・カリー氏が率いる研究チームは、トヨタやホンダ、日産、BMW、メルセデス・ベンツといったメーカーの自動車を分析し、外部から車両を操作する手法を導き出しました。さらに、各自動車メーカーのウェブサイトを分析した結果、ユーザーの個人情報を抜き出せる脆弱(ぜいじゃく)性も発見されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG、映像と音声を無線で受信する97インチのOLEDテレビ「M3」を披露]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news060.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news060.html"/>
+        <updated>2023-01-05T01:23:00.000Z</updated>
+        <summary type="html"><![CDATA[LG ElectronicsはCES 2023で、映像と音声を無線受信する97インチOLEDテレビ「M3」を発表した。4K 120Hzの映像と音声を無線伝送する。テレビと付属のボックスの間を人が遮っても映像が途切れにくいアルゴリズムを開発した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「GIGAZINEマンガ大賞」2023年1月度募集開始＆2022年の応募を集計してみた]]></title>
         <id>https://gigazine.net/news/20230105-gigazine-manga/</id>
@@ -11490,17 +11563,6 @@
         <link href="https://gigazine.net/news/20221207-using-chatgpt-as-a-co-founder/"/>
         <updated>2022-12-06T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[対話型AI「ChatGPT」は人間からの質問に的確に答えることができる文章生成AIで、大学生レベルの試験の自由記述問題に合格してしまうほどの文章作成能力を誇っていることなどで注目を集めています。そんなChatGPTをビジネスのアドバイザーとして使用したら素晴らしい回答が得られたということで、YouTuberのクリス・グリーニング氏がChatGPTとの対話文を公開しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ニコニコ動画の表示をすっきりさせてくれる「Niconico-PepperMint」をサクッと簡単にインストールして使ってみた]]></title>
-        <id>https://gigazine.net/news/20221206-nicovideo-peppermint/</id>
-        <link href="https://gigazine.net/news/20221206-nicovideo-peppermint/"/>
-        <updated>2022-12-06T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ニコニコ動画などで活動しているCYakigasi(やきがし)さんが、ニコニコ動画のサイトの表示や動画再生プレイヤーの機能を使いやすく改変できるUserCSS「Niconico-PepperMint」のv1.5を公開しました。Niconico-PepperMintを使用すると、ニコニコ動画ユーザーがよく見るランキングの広告動画を非表示にしたり、左右が狭いニコニコ大百科の記事を画面いっぱいに表示したりと、ニコニコ動画ユーザーのかゆいところに手が届く便利機能を豊富に使えるとのことなので、実際にブラウザにインストールして使ってみました。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

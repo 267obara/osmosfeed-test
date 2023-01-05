@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-new-york-repair-low/",
+          "author": null,
+          "description": "アメリカのニューヨーク州知事のキャシー・ホークル氏が、2022年12月28日に広い範囲の電子機器を対象にした「修理する権利」を認める「デジタル公正修理法」に署名しました。これにより同法が2023年7月1日から施行されることが決まりましたが、ホークル知事が署名した法案には、多くの条件や例外を伴う修正が含まれており、物議を醸しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-new-york-repair-low/",
+          "publishedOn": "2023-01-05T22:00:00.000Z",
+          "wordCount": 2463,
+          "title": "「修理する権利」を認める法律が法制化され2023年7月1日からニューヨークで有効に",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/new-york-repair-low/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-detained-romania-influencer-misogynist/",
           "author": null,
           "description": "女性差別的な発言でTwitterなど多くのソーシャルメディアから追放されていたインフルエンサーのアンドリュー・テイト容疑者が、兄弟らとともに人身売買やレイプなどの容疑で逮捕および勾留されたことが分かりました。テイト容疑者は、イーロン・マスク氏により凍結が解除されたTwitterアカウントで環境活動家のグレタ・トゥーンベリ氏と舌戦を繰り広げたことで一時海外のソーシャルメディア上で話題となっていました。\n続きを読む...",
@@ -5054,26 +5064,6 @@
           "wordCount": 2483,
           "title": "リチウムイオンバッテリーの再利用を禁止する法案は「絶対に狂っている」と修理する権利の擁護派が警告",
           "imageUrl": "https://i.gzn.jp/img/2022/12/07/ban-reuse-lithium-ion-batteries-bill/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-chatgpt-access-to-real-terminal-alice/",
-          "author": null,
-          "description": "OpenAIが開発したAI言語モデル「ChatGPT」は、非常に高精度な会話を人間と交わすことができると話題を呼び、テスト版の公開から1週間も経たないうちにユーザー数が100万人を突破しました。そんなChatGPTはプログラムのコードを書くなどのタスクもこなせることがわかっており、新たに「ChatGPTが現実の端末にアクセスすることを許可し、タスクを実行させる」というプロジェクトがGitHubで立ち上げられました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-chatgpt-access-to-real-terminal-alice/",
-          "publishedOn": "2022-12-07T10:00:00.000Z",
-          "wordCount": 2556,
-          "title": "ChatGPTをリアルの端末に接続してタスクを実行させる試みが進行中、「10年後には大量の中産階級の仕事が自動化されるだろう」と嘆くネットユーザーも",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/chatgpt-access-to-real-terminal-alice/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-headline/",
-          "author": null,
-          "description": "アニメ「チェンソーマン」のポップアップショップ「チェンソーマン大交流展」が12月9日(金)からベースヤードトーキョーで開催されます。会場では限定グッズの販売が行われるほか、アニメ制作を手がけるMAPPA監修によるアニメ設定資料の展示や大型モニターでの映像放映、販売用フィギュアの展示などが行われます。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-headline/",
-          "publishedOn": "2022-12-07T09:23:00.000Z",
-          "wordCount": 6811,
-          "title": "2022年12月7日のヘッドラインニュース",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/headline/00.png"
         }
       ]
     },
@@ -11005,16 +10995,6 @@
           "wordCount": 2596,
           "title": "「ソニック」生みの親、中裕司容疑者が再逮捕　インサイダー取引の疑い　共同報道",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news175.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/07/news167.html",
-          "author": null,
-          "description": "後期高齢者で構成されるVTuberグループ「メタばあちゃん」プロジェクトが始動。まずは85歳の女性が“中の人”を務めるVTuber「ひろこ」さんがデビュー。「75歳以上の女性」「認知症の診断を受けていない」などを条件に、新メンバーの募集も始めた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/07/news167.html",
-          "publishedOn": "2022-12-07T09:29:00.000Z",
-          "wordCount": 2598,
-          "title": "「後期高齢者VTuberグループ」爆誕　実年齢85歳の美少女がデビュー　「チャンネル登録してくれんかのう」",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news167.jpg"
         }
       ]
     }

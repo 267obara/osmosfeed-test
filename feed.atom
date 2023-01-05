@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T07:12:12.431Z</updated>
+    <updated>2023-01-05T08:18:11.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スマホカメラはどれほど「濃い肌の色」を正確に撮影できるのかApple・Samsung・Googleのハイエンドモデルで比較した結果とは？]]></title>
+        <id>https://gigazine.net/news/20230105-phone-cameras-struggle-dark-skin/</id>
+        <link href="https://gigazine.net/news/20230105-phone-cameras-struggle-dark-skin/"/>
+        <updated>2023-01-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[近年のスマートフォンカメラは非常に優れた性能を持っていますが、時には肌の色が実際とはやや違った色味になっていたり、濃い肌の色をした人の顔が暗い場所ではっきり写りにくかったりするケースがあります。そこでアメリカの日刊紙であるワシントン・ポストが、AppleのiPhone 14 Pro Max・SamsungのGalaxy S22 Ultra・GoogleのPixel 7 Proの3機種を用いて、「濃い肌の色」をどれほど正確に撮影できるのか比較しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エンジニアが場所や時間にとらわれず自由に働くことを目指した「メタバース情報工学大学」4月に開校]]></title>
+        <id>http://codezine.jp/article/detail/17132</id>
+        <link href="http://codezine.jp/article/detail/17132"/>
+        <updated>2023-01-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[〇（まる）は、4月にHMDを利用したメタバース上でのみ授業を行う「メタバース情報工学大学」を開校する。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“攻め”の25万円切り、パナから新型フルサイズミラーレス2機種　冷却ファン・6K30p・初の像面位相差AF]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news122.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news122.html"/>
+        <updated>2023-01-05T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[パナソニックが新型フルサイズミラーレスカメラ「DC-S5M2」を発表した。「LUMIX S5」の後継モデルで、想定売価はS5M2ボディ単体で24万8000円前後。また同社は、S5M2をベースに動画機能を強化した「DC-S5M2X」も併せて発表している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコインの最初のコア開発者がハッキングにより保有するBTCをすべて盗まれる事件が発生]]></title>
         <id>https://gigazine.net/news/20230105-bitcoin-developer-lost-in-hack/</id>

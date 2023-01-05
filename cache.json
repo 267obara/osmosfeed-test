@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-phone-cameras-struggle-dark-skin/",
+          "author": null,
+          "description": "近年のスマートフォンカメラは非常に優れた性能を持っていますが、時には肌の色が実際とはやや違った色味になっていたり、濃い肌の色をした人の顔が暗い場所ではっきり写りにくかったりするケースがあります。そこでアメリカの日刊紙であるワシントン・ポストが、AppleのiPhone 14 Pro Max・SamsungのGalaxy S22 Ultra・GoogleのPixel 7 Proの3機種を用いて、「濃い肌の色」をどれほど正確に撮影できるのか比較しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-phone-cameras-struggle-dark-skin/",
+          "publishedOn": "2023-01-05T08:00:00.000Z",
+          "wordCount": 2553,
+          "title": "スマホカメラはどれほど「濃い肌の色」を正確に撮影できるのかApple・Samsung・Googleのハイエンドモデルで比較した結果とは？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/phone-cameras-struggle-dark-skin/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230105-bitcoin-developer-lost-in-hack/",
           "author": null,
           "description": "ビットコインの最初のコア開発者の一人であるLuke Dashjr氏が、2022年12月31日に発生したハッキングの結果、保有するほぼすべてのビットコインが盗難にあったことを明かしました。同氏はアメリカ連邦捜査局(FBI)や警察に回収の支援を求めています。\n続きを読む...",
@@ -5173,6 +5183,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17132",
+          "author": null,
+          "description": "〇（まる）は、4月にHMDを利用したメタバース上でのみ授業を行う「メタバース情報工学大学」を開校する。",
+          "link": "http://codezine.jp/article/detail/17132",
+          "publishedOn": "2023-01-05T08:00:00.000Z",
+          "wordCount": 4289,
+          "title": "エンジニアが場所や時間にとらわれず自由に働くことを目指した「メタバース情報工学大学」4月に開校",
+          "imageUrl": "https://codezine.jp/static/images/article/17132/17132_ogp.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16885",
           "author": null,
           "description": "Worldwide Developers Conference（以下、WWDC）は、Appleが毎年6月ごろに開催する開発者向けイベントです。iOSやwatchOSの最新機能も発表されるため、Appleファンも注目しています。セッション数は約200本もあり、情報量も多いです。そこで本連載では、2022年に開催されたWWDC22で、新しく追加されたAPIや新OSの便利な使い方をご紹介します。ざっとキーワードだけ拾いたい開発者やアップデートを知りたい方のキャッチアップに役立てると幸いです。第2回となる今回は、iPhoneのロック画面、iPadのデスクトップ級の機能およびパスキーについてご紹介します。",
@@ -7116,6 +7136,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news122.html",
+          "author": null,
+          "description": "パナソニックが新型フルサイズミラーレスカメラ「DC-S5M2」を発表した。「LUMIX S5」の後継モデルで、想定売価はS5M2ボディ単体で24万8000円前後。また同社は、S5M2をベースに動画機能を強化した「DC-S5M2X」も併せて発表している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news122.html",
+          "publishedOn": "2023-01-05T07:30:00.000Z",
+          "wordCount": 2631,
+          "title": "“攻め”の25万円切り、パナから新型フルサイズミラーレス2機種　冷却ファン・6K30p・初の像面位相差AF",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news122.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/05/news116.html",
           "author": null,

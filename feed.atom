@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T16:20:47.021Z</updated>
+    <updated>2023-01-05T17:12:11.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11537,37 +11537,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/07/news131.html"/>
         <updated>2022-12-07T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[Google CloudのクラウドDWH「BigQuery」。DeNAではそのコスト管理に課題があった。そこで立ち上がったのは同社の「BQドクター」。取り組みの結果、1年で1600万円を削減できる見込みという。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[対話AI「ChatGPT」を使って未知の言語「スライム語」を発明するという試み]]></title>
-        <id>https://gigazine.net/news/20221207-chatgpt-invent-language/</id>
-        <link href="https://gigazine.net/news/20221207-chatgpt-invent-language/"/>
-        <updated>2022-12-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[人間が書いたものと見分けがつかないくらいに高精度な文章を書ける言語モデル「GPT-3」などを開発するAI研究組織のOpenAIがリリースした、対話に最適化されたAI言語モデルが「ChatGPT」です。このChatGPTに新しい言語を発明させるという取り組みに、ディラン・ブラック氏が挑戦しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【12/9（金）開催】エンジニアのキャリアにフォーカスするDevelopers CAREER Boost、おすすめトークセッション]]></title>
-        <id>http://codezine.jp/article/detail/16989</id>
-        <link href="http://codezine.jp/article/detail/16989"/>
-        <updated>2022-12-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[翔泳社 CodeZine編集部は、2022年12月9日に「Developers CAREER Boost」をオンラインで開催する。今回は、今週末に迫った本イベントのおすすめトークセッションを紹介する。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LINE「プロフィールNFT」正式公開　体験版は1万6000点以上販売]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/07/news118.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news118.html"/>
-        <updated>2022-12-07T04:39:00.000Z</updated>
-        <summary type="html"><![CDATA[NFTをLINEアプリのプロフィールアイコンにできる「プロフィールNFT」正式公開。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

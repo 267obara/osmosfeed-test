@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T12:26:29.124Z</updated>
+    <updated>2023-01-05T13:22:36.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[シナモロールが描かれたカップに爽やかイチゴ＆バニラシェイクが入った「まぜるシェイクヨーグルト風味with わたがし＜限定シナモロールカップ＞」をモスバーガーで飲んでみた]]></title>
+        <id>https://gigazine.net/news/20230105-mos-watagashi-cinnamoroll/</id>
+        <link href="https://gigazine.net/news/20230105-mos-watagashi-cinnamoroll/"/>
+        <updated>2023-01-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[モスシェイクのバニラ味にピンク色のヨーグルトソースやわたがしを合わせた「まぜるシェイクヨーグルト風味with わたがし＜限定シナモロールカップ＞」が2023年1月5日(木)に登場しました。カップにはシナモロールのキャラクターたちがプリントされており、見た目も味も楽しめる一品に仕上がっているとのこと。どんな味がするのか気になったので、実際にモスバーガーに行って飲んでみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[野生動物の笑える瞬間を激写した写真コンテスト「Comedy Widlife Photography 2022」の受賞者が決まる]]></title>
         <id>https://gigazine.net/news/20230105-comedy-widlife-photography-2022/</id>
@@ -11704,76 +11715,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/07/news088.html"/>
         <updated>2022-12-07T01:52:00.000Z</updated>
         <summary type="html"><![CDATA[開発発注プラットフォーム「ISSUE」を提供するResource（東京都練馬区）は、webエンジニアの各業務委託単価とその技術能力関係をまとめた業務委託単価表を公開した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女性エンジニアの学びと活躍を応援するカンファレンス「Women Developers Summit 2022」のベストスピーカー賞の結果を発表]]></title>
-        <id>http://codezine.jp/article/detail/16949</id>
-        <link href="http://codezine.jp/article/detail/16949"/>
-        <updated>2022-12-07T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[翔泳社 CodeZine編集部は、2022年11月2日に開催された「Women Developers Summit 2022」における、来場者アンケートなどを元に決定したベストスピーカー賞の受賞者を発表した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新刊紹介】『速習 React 第2版』発売、最新のReact 18やReact Hooksに対応]]></title>
-        <id>http://codezine.jp/article/detail/16960</id>
-        <link href="http://codezine.jp/article/detail/16960"/>
-        <updated>2022-12-07T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[執筆コミュニティ「WINGSプロジェクト」代表の山田祥寛さんのKindle本『速習 React 第2版』が10月30日に刊行されました。手軽に学べる初級者のためのReact解説書です。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP初学者・上級者向けのテキストブック「PHP Open Textbook」、2023年1月1日からベータ公開を予定]]></title>
-        <id>http://codezine.jp/article/detail/16976</id>
-        <link href="http://codezine.jp/article/detail/16976"/>
-        <updated>2022-12-07T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[BOSS-CON JAPANは、同法人の内部組織であるPHP技術者認定機構が、商用非商用問わず無償で改変権、利用権を付与する「PHP Open Textbook」を、2023年1月1日からベータ公開することを、12月6日に発表した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スリーシェイク、自動脆弱性診断ツール「Securify Scan」にAIによるフォーム自動入力機能を追加]]></title>
-        <id>http://codezine.jp/article/detail/16979</id>
-        <link href="http://codezine.jp/article/detail/16979"/>
-        <updated>2022-12-07T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[スリーシェイクは、自動脆弱性診断ツール「Securify Scan」にAIによるフォーム自動入力機能を追加したことを12月6日に発表した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MatrixFlow、AIの素材が売り買いできる「MatrixFlowマーケットプレイス」をリリース]]></title>
-        <id>http://codezine.jp/article/detail/16980</id>
-        <link href="http://codezine.jp/article/detail/16980"/>
-        <updated>2022-12-07T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ビジネスのためのAI活用プラットフォーム「MatrixFlow」を提供するMatrixFlowは、AI素材の流通基盤となるべく、MatrixFlowマーケットプレイスをリリースした。また、リリースに合わせて、AIの導入・活用を行いたい購入ユーザー、およびAI技術やデータを提供したい販売ユーザーの募集を開始する。また、12月20日にマーケットプレイスに関するオンライン説明会を開催する。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“けもみみ”の動きと感情の関係、電通大が調査　3Dモデルの球体に耳を生やして検証]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/07/news041.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news041.html"/>
-        <updated>2022-12-07T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[電気通信大学野嶋研究室に所属する四條らの研究チームは、「獣の耳」（けもみみ）の動的姿勢とそれが与える感情を調査した研究報告を発表した。けもみみの動きによって、その動作を見ている者がどのように感じるかを調査した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[App Storeの最低価格が50円に　10円刻みで設定も　価格テーブル900種類に急拡大]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/07/news082.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news082.html"/>
-        <updated>2022-12-07T00:52:00.000Z</updated>
-        <summary type="html"><![CDATA[App Storeの価格テーブル刷新。日本円では、これまで160円だった最低価格は50円に引き下げられ、「60円」「70円」など10円刻みの設定も可能になった。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

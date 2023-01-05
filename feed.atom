@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T14:12:52.108Z</updated>
+    <updated>2023-01-05T15:15:29.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ローカル環境を汚さない開発環境Devbox／AWS SIer世界一にクラスメソッド／VSCode WebでPythonの実行やデバッグ可能にほか、2022年12月の人気記事]]></title>
+        <id>https://www.publickey1.jp/blog/23/devboxaws_siervscode_webpython202212.html</id>
+        <link href="https://www.publickey1.jp/blog/23/devboxaws_siervscode_webpython202212.html"/>
+        <updated>2023-01-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[年末に風邪を引いてしまって、お正月はほぼ寝て過ごしてしまいました。仕事に支障のないときに寝込むなんて、いいのか悪いのか。本年もどうぞよろしくお願いいたします。 さて年が明けたところで、先月（2022年12月）の人気記事トップ10を紹介してい...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ハッカー「Ryushi」が4億以上のTwitterアカウントの個人情報削除と引き換えに20万ドルを要求、自衛方法はコレ]]></title>
         <id>https://gigazine.net/news/20230105-ryushi-selling-twitter-400-million-users-data/</id>
@@ -11612,112 +11622,6 @@
         <summary type="html"><![CDATA[ランティスが「アイドルマスター ミリオンライブ！」の一部楽曲を各種音楽配信サービスで誤配信したと明らかにした。配信楽曲は削除済み。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[とっても甘いキャラメルフラッペにマカロンがついてさらに贅沢になった「塩バターキャラメルフラッペ＆マカロン バニラ」などマクドナルドの新作3種を味わってみた]]></title>
-        <id>https://gigazine.net/news/20221207-mcdonalds-salted-butter-caramel-frappe/</id>
-        <link href="https://gigazine.net/news/20221207-mcdonalds-salted-butter-caramel-frappe/"/>
-        <updated>2022-12-07T03:12:00.000Z</updated>
-        <summary type="html"><![CDATA[マクドナルドから、北海道産生クリームとロレーヌ産岩塩を使った「塩バターキャラメルフラッペ」と、さらにマカロンをトッピングした「塩バターキャラメルフラッペ＆マカロン バニラ」、エスプレッソベースのラテにホワイトチョコレートフレーバーのシロップを合わせた「ホワイトチョコモカ」、チョコレートムースやいちごとラズベリーピューレを重ねた「チョコカシスケーキ」が一気に登場しました。これら新作がどんな味なのか気になったので、実際に食べてみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「アジャイル経営カンファレンス」が2023年1月27日にオンライン開催]]></title>
-        <id>http://codezine.jp/article/detail/16986</id>
-        <link href="http://codezine.jp/article/detail/16986"/>
-        <updated>2022-12-07T03:10:00.000Z</updated>
-        <summary type="html"><![CDATA[組織変革をリードする経営層やミドルマネジメントに、一歩を踏み出す勇気ときっかけを持ってもらうことを目指したオンラインイベント「アジャイル経営カンファレンス」が、2023年1月27日に開催される。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「エルデンリング」の無料アップデートでPvP専用エリア「闘技場」が追加される]]></title>
-        <id>https://gigazine.net/news/20221207-elden-ring-colosseum/</id>
-        <link href="https://gigazine.net/news/20221207-elden-ring-colosseum/"/>
-        <updated>2022-12-07T03:03:00.000Z</updated>
-        <summary type="html"><![CDATA[フロムソフトウェアが開発した大人気アクションRPG「ELDEN RING(エルデンリング)」に、プレイヤー同士の対戦専用エリア「闘技場」が追加されることが判明しました。「闘技場」は無料アップデートの一環として実装される予定で、アップデートの配信日は2022年12月7日(水)とされています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TSMCがアリゾナ州に3nmの半導体工場建設計画を発表しAppleのティム・クックCEOは「Appleシリコンをアリゾナ州で製造する」と明言]]></title>
-        <id>https://gigazine.net/news/20221207-tsmc-arizona-apple/</id>
-        <link href="https://gigazine.net/news/20221207-tsmc-arizona-apple/"/>
-        <updated>2022-12-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[世界最大の半導体ファウンドリであるTSMCは、アメリカのアリゾナ州で新たな半導体工場の建設を進めています。新たにTSMCが開催したイベントの中で、Appleのティム・クックCEOが「Appleがアリゾナ州に建設中の工場の最大の顧客になる」と発言しました。加えて、TSMCがアリゾナ州に2箇所目の工場建設計画を進めていることも明らかになっています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「Docker Desktop 4.15」が公開、検索機能を強化]]></title>
-        <id>http://codezine.jp/article/detail/16981</id>
-        <link href="http://codezine.jp/article/detail/16981"/>
-        <updated>2022-12-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米Dockerはクライアント向けコンテナ基盤「Docker Desktop」の新バージョン「Docker Desktop 4.15」を12月1日（現地時間）に公開した。Docker DesktopはWindows、macOS（Intel／Apple Silicon）、Linuxで動作する。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高速コンパイラを搭載した「PyTorch 2.0」を公開、正式版は2023年3月に登場の予定]]></title>
-        <id>http://codezine.jp/article/detail/16982</id>
-        <link href="http://codezine.jp/article/detail/16982"/>
-        <updated>2022-12-07T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PyTorch Foundationは、機械学習フレームワーク「PyTorch」の新版「PyTorch 2.0」を12月2日（現地時間）、開発者会議「PyTorch Conference」で発表した。PyTorch 2.0はまだ正式版ではないが、Nightly Buildの形で入手できる。正式版の公開は2023年3月初旬を予定している。PyTorchは修正BSDライセンスで公開しているオープンソース・ソフトウェアだ。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepMindが外交ゲーム「ディプロマシー」で他のプレイヤーと交渉してゲームに勝利できるAIを発表]]></title>
-        <id>https://gigazine.net/news/20221207-board-game-diplomacy-ai-deepmind/</id>
-        <link href="https://gigazine.net/news/20221207-board-game-diplomacy-ai-deepmind/"/>
-        <updated>2022-12-07T02:50:00.000Z</updated>
-        <summary type="html"><![CDATA[プロ棋士を破った囲碁AIのAlphaGoなどを手がけるDeepMindが新しく、交渉による合意形成が重要なボードゲームである「ディプロマシー」でコミュニケーションを行い、他のエージェントを打ち負かすことが可能なAIを発表しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ビルボードにボカロ曲チャート登場　ニコ動上のオリジナル曲TOP20を毎週発表]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/07/news092.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news092.html"/>
-        <updated>2022-12-07T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Billboard JAPANは、ニコニコ動画における“ボカロ曲”を対象とする人気チャート「ニコニコ VOCALOID SONGS TOP20」の公表を始めた。再生数やコメント数などのデータを基に、上位20位までのランキングを毎週水曜日に発表する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoftはモバイル検索におけるAppleとGoogleの独占を打破するべく「スーパーアプリ」の開発を検討している]]></title>
-        <id>https://gigazine.net/news/20221207-microsoft-super-app-for-mobile/</id>
-        <link href="https://gigazine.net/news/20221207-microsoft-super-app-for-mobile/"/>
-        <updated>2022-12-07T02:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoftが、ウェブ検索・メッセージング・ニュースフィード・ショッピングなどの機能を1つに統合したスマートフォン向けの「スーパーアプリ」の開発を検討していると報じられています。Microsoftは、このスーパーアプリによってAppleとGoogleが独占しているモバイル検索に食い込もうとしているようです。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Carは1400万円未満の価格・カスタムチップ搭載・完全自動運転機能なしで2026年にリリースされるとの報道]]></title>
-        <id>https://gigazine.net/news/20221207-apple-self-driving-car-2026/</id>
-        <link href="https://gigazine.net/news/20221207-apple-self-driving-car-2026/"/>
-        <updated>2022-12-07T02:28:00.000Z</updated>
-        <summary type="html"><![CDATA[長らくAppleが開発しているとウワサされている自動運転車について、Bloombergが「Appleは独自開発の自動運転車を2026年にリリース予定」と報じています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

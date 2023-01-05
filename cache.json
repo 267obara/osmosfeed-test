@@ -5074,26 +5074,6 @@
           "wordCount": 2537,
           "title": "Google検索をするとChatGPTの回答も表示してくれるブラウザ拡張機能「ChatGPT for Google」",
           "imageUrl": "https://i.gzn.jp/img/2022/12/07/chatgpt-for-google/00.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-particle-physics-computer-program-maintenance-retiree/",
-          "author": null,
-          "description": "1980年代に開発され、それ以来30年以上にわたって最先端の素粒子物理学で使われ続けているソフトウェア「FORM」の陳腐化が進んでおり、もし使えなくなればこの分野の研究者にとって手痛い打撃になる危険性があると、科学系ニュースサイトのQuanta Magazineが報じました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-particle-physics-computer-program-maintenance-retiree/",
-          "publishedOn": "2022-12-07T07:00:00.000Z",
-          "wordCount": 2473,
-          "title": "素粒子物理学に必須級のソフトウェア「FORM」の保守はたった1人の老科学者が担っている、新しい機器では使えなくなり研究が停滞する危険性",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/particle-physics-computer-program-maintenance-retiree/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-polyergus-ant/",
-          "author": null,
-          "description": "アリは繁殖を担う少数の女王アリと、育児やエサの調達を行う多数の働きアリ、餌を得るための狩りや巣の防衛を担う兵隊アリが巨大な群れを構成する社会性昆虫だといわれています。そんな中、なんと他のアリを洗脳してコミュニティをまるごと乗っ取ってしまうという戦略で生き残っている「サムライアリ」を、さまざまな科学をアニメーションで解説するYouTubeチャンネル・Kurzgesagtが取り上げています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-polyergus-ant/",
-          "publishedOn": "2022-12-07T06:36:00.000Z",
-          "wordCount": 2485,
-          "title": "他のアリを洗脳して巣をまるごと乗っ取ってしまうサムライアリの習性とは？",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/polyergus-ant/00_m.jpg"
         }
       ]
     },
@@ -6936,6 +6916,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news058.html",
+          "author": null,
+          "description": "シャープは5日（米国時間）、VR対応ヘッドマウントディスプレイの試作機を「CES2023」の会場で公開した。スマートフォン開発で培った独自デバイスや小型化技術を応用し、重量を約175gに抑えた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news058.html",
+          "publishedOn": "2023-01-05T18:05:00.000Z",
+          "wordCount": 2599,
+          "title": "わずか175g、シャープがVRヘッドマウントディスプレイ試作機をCESで披露　コントローラーを持つ必要なし",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news058.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/05/news154.html",
           "author": null,

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T18:17:06.970Z</updated>
+    <updated>2023-01-05T19:11:08.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[わずか175g、シャープがVRヘッドマウントディスプレイ試作機をCESで披露　コントローラーを持つ必要なし]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/06/news058.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/06/news058.html"/>
+        <updated>2023-01-05T18:05:00.000Z</updated>
+        <summary type="html"><![CDATA[シャープは5日（米国時間）、VR対応ヘッドマウントディスプレイの試作機を「CES2023」の会場で公開した。スマートフォン開発で培った独自デバイスや小型化技術を応用し、重量を約175gに抑えた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ローカル環境を汚さない開発環境Devbox／AWS SIer世界一にクラスメソッド／VSCode WebでPythonの実行やデバッグ可能にほか、2022年12月の人気記事]]></title>
         <id>https://www.publickey1.jp/blog/23/devboxaws_siervscode_webpython202212.html</id>
@@ -11507,28 +11517,6 @@
         <summary type="html"><![CDATA[Microsoftが、米Activision Blizzardの買収後、人気ゲーム「コール オブ デューティ」を任天堂に10年間提供し続けると発表。Xboxの責任者、フィル・スペンサー氏が自身のTwitterアカウントで契約締結を発表した。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[素粒子物理学に必須級のソフトウェア「FORM」の保守はたった1人の老科学者が担っている、新しい機器では使えなくなり研究が停滞する危険性]]></title>
-        <id>https://gigazine.net/news/20221207-particle-physics-computer-program-maintenance-retiree/</id>
-        <link href="https://gigazine.net/news/20221207-particle-physics-computer-program-maintenance-retiree/"/>
-        <updated>2022-12-07T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1980年代に開発され、それ以来30年以上にわたって最先端の素粒子物理学で使われ続けているソフトウェア「FORM」の陳腐化が進んでおり、もし使えなくなればこの分野の研究者にとって手痛い打撃になる危険性があると、科学系ニュースサイトのQuanta Magazineが報じました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他のアリを洗脳して巣をまるごと乗っ取ってしまうサムライアリの習性とは？]]></title>
-        <id>https://gigazine.net/news/20221207-polyergus-ant/</id>
-        <link href="https://gigazine.net/news/20221207-polyergus-ant/"/>
-        <updated>2022-12-07T06:36:00.000Z</updated>
-        <summary type="html"><![CDATA[アリは繁殖を担う少数の女王アリと、育児やエサの調達を行う多数の働きアリ、餌を得るための狩りや巣の防衛を担う兵隊アリが巨大な群れを構成する社会性昆虫だといわれています。そんな中、なんと他のアリを洗脳してコミュニティをまるごと乗っ取ってしまうという戦略で生き残っている「サムライアリ」を、さまざまな科学をアニメーションで解説するYouTubeチャンネル・Kurzgesagtが取り上げています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

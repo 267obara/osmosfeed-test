@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T06:15:52.230Z</updated>
+    <updated>2023-01-05T07:12:12.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ビットコインの最初のコア開発者がハッキングにより保有するBTCをすべて盗まれる事件が発生]]></title>
+        <id>https://gigazine.net/news/20230105-bitcoin-developer-lost-in-hack/</id>
+        <link href="https://gigazine.net/news/20230105-bitcoin-developer-lost-in-hack/"/>
+        <updated>2023-01-05T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビットコインの最初のコア開発者の一人であるLuke Dashjr氏が、2022年12月31日に発生したハッキングの結果、保有するほぼすべてのビットコインが盗難にあったことを明かしました。同氏はアメリカ連邦捜査局(FBI)や警察に回収の支援を求めています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon、1万8000人のリストラを正式発表]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news116.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news116.html"/>
+        <updated>2023-01-05T06:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Salesforceに続き、Amazonも大規模リストラを発表した。影響を受けるのは1万8000人以上。主にAmazon Storeと人事関連部門が対象だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ヤマト運輸装う偽の不在通知に注意　「SMSでの不在連絡は行っていない」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news111.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news111.html"/>
+        <updated>2023-01-05T06:34:00.000Z</updated>
+        <summary type="html"><![CDATA[ヤマト運輸を装う迷惑メールやSMSなどが出回っているとし、Twitterなどで同社が改めて注意を呼び掛けている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開発支援ツール「CircleCI」でセキュリティに問題発生　ユーザーに迅速な対応呼び掛け]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news110.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news110.html"/>
+        <updated>2023-01-05T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[米CircleCI社でセキュリティインシデントが発生。同社ツールユーザーのデータが侵害される可能性があるとして、データを守るための予防措置を取るよう呼び掛けた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宅食「ナッシュ」に不正アクセス、約6000件の顧客情報流出か　ランサムウェアに感染]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news077.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news077.html"/>
+        <updated>2023-01-05T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[ナッシュで約6000件の顧客情報が流出した可能性がある分かった。ランサムウェアにより社内PCの一部に保存されていた情報が暗号化され、一部システムに障害が発生した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ウイルスをモリモリ食べて繁殖する生き物が発見される]]></title>
         <id>https://gigazine.net/news/20230105-eating-viruses-microorganism-virovory/</id>

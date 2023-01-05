@@ -6,6 +6,46 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-twitter-down-australia/",
+          "author": null,
+          "description": "オーストラリアとニュージーランドのTwitterユーザーから、12時間以上Twitterにまともにアクセスできない状態が続いているという報告が相次ぎました。ユーザーからは「イーロン・マスクがTwitterのコスト削減に取り組んだ結果だ」という声も挙がっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-twitter-down-australia/",
+          "publishedOn": "2023-01-05T03:05:00.000Z",
+          "wordCount": 2975,
+          "title": "Twitterが12時間以上ダウンしてまともに動かないという事態がオーストラリアとニュージーランドで発生",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/twitter-down-australia/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230105-iphone-always-on-battery-drain/",
+          "author": null,
+          "description": "2022年に登場したiPhone 14 ProおよびiPhone 14 Pro Maxは、Apple Watch Series 5以降のモデルと同じように常時表示ディスプレイを採用しており、スリープ状態でも時計などをチェックすることが可能です。この常時表示ディスプレイを利用していると、一体どの程度バッテリーを消耗してしまうのかを、テクノロジー系YouTubeチャンネルのPhoneBuffが検証しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-iphone-always-on-battery-drain/",
+          "publishedOn": "2023-01-05T03:00:00.000Z",
+          "wordCount": 2506,
+          "title": "iPhone 14 Proの常時表示ディスプレイは一体どれくらいバッテリーを消耗するのか？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/iphone-always-on-battery-drain/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230105-microsoft-challenge-integrating-chatgpt-bing/",
+          "author": null,
+          "description": "AI研究団体のOpenAIが開発した対話型AIの「ChatGPT」は、2022年11月にテスト版が一般公開された途端にその驚異的な精度が話題となり、秀逸な回答例を集めたウェブサイトも登場しています。そんな中、OpenAIに多額の出資を行っているMicrosoftが、ChatGPTを検索エンジンのBingに統合して新機能をリリースすることを計画していると報じられました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-microsoft-challenge-integrating-chatgpt-bing/",
+          "publishedOn": "2023-01-05T02:55:00.000Z",
+          "wordCount": 2578,
+          "title": "Microsoftが超強力なチャットAI「ChatGPT」を使った新機能を検索エンジンのBingで展開する予定だと報じられる",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/microsoft-challenge-integrating-chatgpt-bing/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230105-tatami-stamina-chuka-soba/",
+          "author": null,
+          "description": "東京・小伝馬町にオープンした「中華そば たた味」の味を再現したというカップ麺「彗星の如く現れた行列店 中華そば たた味 スタミナ中華そば」がエースコックから登場しました。特製の刻みにんにくペーストを加えて「甘旨い味わい」に仕上がるとのことで、どんな味になるのか実際に食べて確かめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-tatami-stamina-chuka-soba/",
+          "publishedOn": "2023-01-05T02:45:00.000Z",
+          "wordCount": 2451,
+          "title": "にんにく醤油ラーメンの完成形「彗星の如く現れた行列店 中華そば たた味 スタミナ中華そば」試食レビュー",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/tatami-stamina-chuka-soba/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230105-salesforce-cut-staff/",
           "author": null,
           "description": "クラウドベースの顧客関係管理(CRM)ソリューションサービス大手のSalesforceが従業員の約10％を解雇し、一部のオフィスを閉鎖することを発表しました。同社のマーク・ベニオフCEOは、「従業員の急増と困難な経済情勢」が従業員の解雇の原因であるとしています。\n続きを読む...",
@@ -5054,16 +5094,6 @@
           "wordCount": 2520,
           "title": "YouTubeにCCライセンスの映画を使った動画を投稿したところ無関係の企業が著作権侵害を申し立てて削除されてしまう",
           "imageUrl": "https://i.gzn.jp/img/2022/12/07/blenders-cc-by-licensed-film-youtube/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-using-chatgpt-as-a-co-founder/",
-          "author": null,
-          "description": "対話型AI「ChatGPT」は人間からの質問に的確に答えることができる文章生成AIで、大学生レベルの試験の自由記述問題に合格してしまうほどの文章作成能力を誇っていることなどで注目を集めています。そんなChatGPTをビジネスのアドバイザーとして使用したら素晴らしい回答が得られたということで、YouTuberのクリス・グリーニング氏がChatGPTとの対話文を公開しました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-using-chatgpt-as-a-co-founder/",
-          "publishedOn": "2022-12-06T15:00:00.000Z",
-          "wordCount": 2605,
-          "title": "ChatGPTをビジネスのアドバイザーとして使った結果驚くべき回答が行われる",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/using-chatgpt-as-a-co-founder/00.jpg"
         }
       ]
     },
@@ -7026,6 +7056,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news073.html",
+          "author": null,
+          "description": "「スマホで年賀状」が、差出人不明の年賀状を大量誤送付。差出人の代わりに広告を誤って印字していた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news073.html",
+          "publishedOn": "2023-01-05T02:41:00.000Z",
+          "wordCount": 2588,
+          "title": "差出人不明の年賀状、大量に誤送付「スマホで年賀状」が謝罪　数十万人超に影響",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news073.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news072.html",
+          "author": null,
+          "description": "ソニーは、米国ラスベガスで開催中の総合家電見本市「CES 2023」において、ホンダと共同開発中のプロトタイプEVをお披露目した。ブランド名は「AFEELA」になるという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news072.html",
+          "publishedOn": "2023-01-05T02:30:00.000Z",
+          "wordCount": 2611,
+          "title": "ソニーとホンダの新EVブランドは「AFEELA」　CESでプロトタイプ車を発表",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news072.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/05/news069.html",
           "author": null,

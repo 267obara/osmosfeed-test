@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T05:12:35.452Z</updated>
+    <updated>2023-01-05T06:15:52.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ウイルスをモリモリ食べて繁殖する生き物が発見される]]></title>
+        <id>https://gigazine.net/news/20230105-eating-viruses-microorganism-virovory/</id>
+        <link href="https://gigazine.net/news/20230105-eating-viruses-microorganism-virovory/"/>
+        <updated>2023-01-05T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルスの脅威に見舞われている人類が痛感しているように、ウイルスは生き物の細胞に寄生し破壊しながら増殖するやっかいな病原体です。しかし、そんなウイルスを逆に食い物にしてパックマンばりの大逆転劇を演じる微生物がいることが分かりました。ウイルスを食べて繁殖する生物の発見により、草食や肉食に並ぶ新たな食性のカテゴリである「ウイルス食」が提唱されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無実の男性が顔認識システムの誤りのせいで1週間投獄される]]></title>
         <id>https://gigazine.net/news/20230105-facial-recognition-error/</id>

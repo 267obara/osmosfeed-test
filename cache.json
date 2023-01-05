@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-eating-viruses-microorganism-virovory/",
+          "author": null,
+          "description": "新型コロナウイルスの脅威に見舞われている人類が痛感しているように、ウイルスは生き物の細胞に寄生し破壊しながら増殖するやっかいな病原体です。しかし、そんなウイルスを逆に食い物にしてパックマンばりの大逆転劇を演じる微生物がいることが分かりました。ウイルスを食べて繁殖する生物の発見により、草食や肉食に並ぶ新たな食性のカテゴリである「ウイルス食」が提唱されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-eating-viruses-microorganism-virovory/",
+          "publishedOn": "2023-01-05T06:00:00.000Z",
+          "wordCount": 2422,
+          "title": "ウイルスをモリモリ食べて繁殖する生き物が発見される",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/eating-viruses-microorganism-virovory/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230105-facial-recognition-error/",
           "author": null,
           "description": "機械学習を用いた顔認識システムは地下鉄の運賃や食堂の支払いを自動で行うといったシステムのほか、政府による監視網や犯罪の捜査に用いられています。一方で、顔認識システムの正確性やプライバシー面での是非も議論されており、イタリア規制当局が一部の犯罪捜査・抑止目的以外には利用を禁止したり、アメリカの大都市が相次いで当局による使用を禁止したりしています。特に有色人種の認識で誤認を起こしやすいことが確認されており、2022年末ごろに無実の黒人男性が顔認識システムの間違いにより不当に逮捕されたケースを弁護士が発表しています。\n続きを読む...",

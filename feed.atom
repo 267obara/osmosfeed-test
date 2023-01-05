@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-05T04:16:55.422Z</updated>
+    <updated>2023-01-05T05:12:35.452Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無実の男性が顔認識システムの誤りのせいで1週間投獄される]]></title>
+        <id>https://gigazine.net/news/20230105-facial-recognition-error/</id>
+        <link href="https://gigazine.net/news/20230105-facial-recognition-error/"/>
+        <updated>2023-01-05T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[機械学習を用いた顔認識システムは地下鉄の運賃や食堂の支払いを自動で行うといったシステムのほか、政府による監視網や犯罪の捜査に用いられています。一方で、顔認識システムの正確性やプライバシー面での是非も議論されており、イタリア規制当局が一部の犯罪捜査・抑止目的以外には利用を禁止したり、アメリカの大都市が相次いで当局による使用を禁止したりしています。特に有色人種の認識で誤認を起こしやすいことが確認されており、2022年末ごろに無実の黒人男性が顔認識システムの間違いにより不当に逮捕されたケースを弁護士が発表しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PS5に新型の円形コントローラー「Project Leonardo」　ボタン配置など変更可　障害者向けにカスタマイズ性重視]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/05/news094.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/05/news094.html"/>
+        <updated>2023-01-05T04:28:00.000Z</updated>
+        <summary type="html"><![CDATA[障害者の利用を想定したPlayStation 5向け新型コントローラーが登場。コードネームは「Project Leonardo」。ボタンの配置や本体からスティックまでの距離などをカスタマイズできる点が特徴で、発売時期など詳細は後日発表する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EAのゲーム「Madden NFL 23」のセーブデータがぶっ壊れて半分以上が回復不能に]]></title>
         <id>https://gigazine.net/news/20230105-madden-nfl-23-save-file/</id>
@@ -11693,16 +11714,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub CEO トーマス・ドムケ氏が来日。いずれコードの80％がAIで作成されるようになると予言]]></title>
-        <id>https://www.publickey1.jp/blog/22/github_ceo_80ai.html</id>
-        <link href="https://www.publickey1.jp/blog/22/github_ceo_80ai.html"/>
-        <updated>2022-12-06T16:54:52.000Z</updated>
-        <summary type="html"><![CDATA[GitHub CEOのThomas Dohmke（トーマス・ドムケ）氏が来日し、記者会見を行いました。 ドムケ氏は2021年にNat Friedman氏の後を継いでCEOに就任した人物で、それまではGitHubのChief Product ...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>

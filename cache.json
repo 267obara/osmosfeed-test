@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230105-facial-recognition-error/",
+          "author": null,
+          "description": "機械学習を用いた顔認識システムは地下鉄の運賃や食堂の支払いを自動で行うといったシステムのほか、政府による監視網や犯罪の捜査に用いられています。一方で、顔認識システムの正確性やプライバシー面での是非も議論されており、イタリア規制当局が一部の犯罪捜査・抑止目的以外には利用を禁止したり、アメリカの大都市が相次いで当局による使用を禁止したりしています。特に有色人種の認識で誤認を起こしやすいことが確認されており、2022年末ごろに無実の黒人男性が顔認識システムの間違いにより不当に逮捕されたケースを弁護士が発表しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230105-facial-recognition-error/",
+          "publishedOn": "2023-01-05T05:00:00.000Z",
+          "wordCount": 2469,
+          "title": "無実の男性が顔認識システムの誤りのせいで1週間投獄される",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/05/facial-recognition-error/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230105-madden-nfl-23-save-file/",
           "author": null,
           "description": "アメリカンフットボールゲーム「Madden NFL 23」のパブリッシャーであるElectronic Arts(EA)が、Madden NFL 23の一時的な「データストレージの問題」により、プレイヤーのセーブファイルが破損してしまったと発表しました。EAは、バックアップから復元できるのは、これらの破損したファイルの40％ほどだと述べています。\n続きを読む...",
@@ -7078,16 +7088,6 @@
           "wordCount": 1347,
           "title": "クラウドネイティブ化がLINEのネットワーク開発にもたらしたスピード。テレコム企業はOSSとどう付き合うのか。Cloud Native Telecom Operator Meetup 2022［PR］",
           "imageUrl": "https://www.publickey1.jp/2022/cntom2022pr01.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/github_ceo_80ai.html",
-          "author": null,
-          "description": "GitHub CEOのThomas Dohmke（トーマス・ドムケ）氏が来日し、記者会見を行いました。 ドムケ氏は2021年にNat Friedman氏の後を継いでCEOに就任した人物で、それまではGitHubのChief Product ...",
-          "link": "https://www.publickey1.jp/blog/22/github_ceo_80ai.html",
-          "publishedOn": "2022-12-06T16:54:52.000Z",
-          "wordCount": 1257,
-          "title": "GitHub CEO トーマス・ドムケ氏が来日。いずれコードの80％がAIで作成されるようになると予言",
-          "imageUrl": "https://www.publickey1.jp/2022/github_dohmke01.png"
         }
       ]
     },
@@ -7096,6 +7096,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/05/news094.html",
+          "author": null,
+          "description": "障害者の利用を想定したPlayStation 5向け新型コントローラーが登場。コードネームは「Project Leonardo」。ボタンの配置や本体からスティックまでの距離などをカスタマイズできる点が特徴で、発売時期など詳細は後日発表する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/05/news094.html",
+          "publishedOn": "2023-01-05T04:28:00.000Z",
+          "wordCount": 2624,
+          "title": "PS5に新型の円形コントローラー「Project Leonardo」　ボタン配置など変更可　障害者向けにカスタマイズ性重視",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/05/cover_news094.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/05/news084.html",
           "author": null,

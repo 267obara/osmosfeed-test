@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-slack-private-github-code-stolen/",
+          "author": null,
+          "description": "チャットツール・Slackにおいて、GitHubに保管されていたプライベートなコードリポジトリが何者かによってダウンロードされていたことがわかりました。顧客データは含まれていないとのことで、Slackはただちに盗難に用いられたトークンを無効化するなどの対策を取っています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-slack-private-github-code-stolen/",
+          "publishedOn": "2023-01-06T02:34:00.000Z",
+          "wordCount": 2432,
+          "title": "SlackのGitHubアカウントからプライベートコードリポジトリが盗み出されていたことが判明",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/slack-private-github-code-stolen/00_m.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20230106-sony-playstation-5-shortage-over/",
+          "author": null,
+          "description": "世界最大級の家電見本市であるCES 2023が2023年1月6日からスタートしています。この中でソニーがプレスカンファレンスを開催しており、PlayStationの開発・販売を行うソニー・インタラクティブエンタテインメント(SIE)のジム・ライアンCEOが、PlayStation 5(PS5)の世界的な在庫不足がついに解消されたと発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-sony-playstation-5-shortage-over/",
+          "publishedOn": "2023-01-06T01:30:00.000Z",
+          "wordCount": 2716,
+          "title": "PS5の在庫不足が解消されたとPlayStation公式が発表",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/sony-playstation-5-shortage-over/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230106-openai-tender-offer/",
+          "author": null,
+          "description": "チャットAI「ChatGPT」を開発した研究機関のOpenAIが、株式公開買付けによる既存株式の売却を交渉中であることがウォール・ストリート・ジャーナルにより報じられました。OpenAIの評価額は約290億ドル(約3兆9000億円)となり、株式売却額は少なくとも3億ドル(約400億円)になると見られています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-openai-tender-offer/",
+          "publishedOn": "2023-01-06T01:30:00.000Z",
+          "wordCount": 2411,
+          "title": "「ChatGPT」開発のOpenAIが約400億円で株式公開買付けを交渉中との報道",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/openai-tender-offer/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-huawei-moving-safe-zone/",
           "author": null,
           "description": "中国の大手テクノロジー企業であるHuaweiに対して、アメリカ政府はかねてから「国家安全保障上の脅威」として厳しい規制を行っています。Huaweiは規制の影響でビジネスに大打撃を受けていましたが、2022年の売上高は前年比で微増となり、底を脱したことが報じられています。\n続きを読む...",
@@ -5044,26 +5074,6 @@
           "wordCount": 2701,
           "title": "最強の「Pi Zero」はどれなのかを示すベンチマーク結果",
           "imageUrl": "https://i.gzn.jp/img/2022/12/08/pi-zero-benchmark/00_m.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-next-wave-of-moores-law/",
-          "author": null,
-          "description": "「ムーアの法則」は「半導体の集積密度は18～24カ月で倍増し、チップの性能が倍になってもさらなる小型化が進む」という内容で、Intelの創業者の1人であるゴードン・ムーア氏が1965年に未来を予測したもの。そんなムーアの法則の次にくる「波」について、Intelの技術開発担当ゼネラルマネージャーであるアン・B・ケレハー氏が語っています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-next-wave-of-moores-law/",
-          "publishedOn": "2022-12-07T14:30:00.000Z",
-          "wordCount": 2485,
-          "title": "Intelが考える「ムーアの法則」の次の波とは？",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/next-wave-of-moores-law/00.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-ssd-working-life/",
-          "author": null,
-          "description": "技術の進歩によってHDDよりも読み書きが早く静かで耐衝撃性の高いSSDがPCのメインストレージに採用されるのが当たり前になっています。しかし、記憶装置にフラッシュメモリを採用しているSSDの書き込み回数には上限があり、使い方に応じて寿命が変化します。Apple関連のニュースを扱うブログ・The Eclectic Light Companyが、Macに採用されているSSDの寿命について解説しています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-ssd-working-life/",
-          "publishedOn": "2022-12-07T14:00:00.000Z",
-          "wordCount": 2524,
-          "title": "SSDの寿命を見積もるためには何に注目すればいいのか？",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/ssd-working-life/00_m.jpg"
         }
       ]
     },
@@ -5072,6 +5082,56 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/17034",
+          "author": null,
+          "description": "Webプログラマーであり二児の母でありながら、『ルビィのぼうけん』シリーズ（翔泳社）など、子ども向けのIT関連本も含め、翻訳者としても活躍する株式会社万葉の鳥井 雪氏。「小学校高学年に分かるように文章を書くテクニックは、特殊でありつつも、あらゆる仕事に応用できる示唆に富んでいる」と語る。その\"寄り道\"経験は、単なる知見の共有にとどまらず、どのようにして自身のキャリアに影響を与え、支えたのか。鳥井氏が自らの体験をもとに語った。",
+          "link": "http://codezine.jp/article/detail/17034",
+          "publishedOn": "2023-01-06T02:00:00.000Z",
+          "wordCount": 4451,
+          "title": "わかるように伝える方法を探し、寄り道をすることで成長したキャリア",
+          "imageUrl": "https://codezine.jp/static/images/article/17034/17034_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17142",
+          "author": null,
+          "description": "米Vercelに勤務するNate Wienert氏は、ReactとReact Nativeのどちらにも対応するUIツールキット「Tamagui」のバージョン1.0を12月30日（現地時間）に公開した。TamaguiはMITライセンスで公開しているオープンソース・ソフトウェアだ。",
+          "link": "http://codezine.jp/article/detail/17142",
+          "publishedOn": "2023-01-06T02:00:00.000Z",
+          "wordCount": 4307,
+          "title": "Webとスマホの両方に対応、React対応UIツールキット「Tamagui 1.0」が登場",
+          "imageUrl": "https://codezine.jp/static/images/article/17142/12694_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17143",
+          "author": null,
+          "description": "Webフロントエンド・フレームワーク「Bootstrap」の開発チームは、次世代版となる「バージョン5.3.0」のアルファ1版を12月24日に公開した。BootstrapはMITライセンスで公開しているオープンソース・ソフトウェアだ。ちなみに、Bootstrapの最新安定版はバージョン5.2.3。",
+          "link": "http://codezine.jp/article/detail/17143",
+          "publishedOn": "2023-01-06T02:00:00.000Z",
+          "wordCount": 4286,
+          "title": "Webフロントエンド・フレームワーク「Bootstrap」のバージョン5.3.0アルファ1版が公開",
+          "imageUrl": "https://codezine.jp/static/images/article/17143/13165_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17133",
+          "author": null,
+          "description": "Pagesは、開発中のオンライン学習プラットフォーム「TomoCode」にて、初学者からでもPythonでデータサイエンスを学べるプログラムの一般申込み受付を1月3日から開始した。また、初夢キャンペーンとして1週間限定の早期割引キャンペーンを実施している。",
+          "link": "http://codezine.jp/article/detail/17133",
+          "publishedOn": "2023-01-06T01:00:00.000Z",
+          "wordCount": 4301,
+          "title": "「ピアラーニング」を採用したオンライン学習環境「TomoCode」、1月3日から申込み受付開始",
+          "imageUrl": "https://codezine.jp/static/images/article/17133/17133_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17134",
+          "author": null,
+          "description": "ボスアーキテクトは、同社が運営するフリーランスエンジニアやデザイナーのための求人・案件サイト「エンジニアスタイル東京」に掲載されたデータをもとに集計した「2022年のフリーランスエンジニアの言語別、フレームワーク別、開発環境別、職種別の平均単価データ」を発表した。",
+          "link": "http://codezine.jp/article/detail/17134",
+          "publishedOn": "2023-01-06T01:00:00.000Z",
+          "wordCount": 4302,
+          "title": "ボスアーキテクトが「2022年フリーランスエンジニアの言語別、フレームワーク別、開発環境別、職種別の平均単価データ」を発表",
+          "imageUrl": "https://codezine.jp/static/images/article/17134/17134_ogp.png"
+        },
         {
           "id": "http://codezine.jp/article/detail/17139",
           "author": null,
@@ -6936,6 +6996,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news077.html",
+          "author": null,
+          "description": "Googleの自動車向けアプリ「Android Auto」で画面分割が可能になる。ナビ画面を表示したままメディアプレーヤーやメールの着信を表示できる。メディアプレーヤーには曲飛ばし用のインジケータも追加される。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news077.html",
+          "publishedOn": "2023-01-06T01:59:00.000Z",
+          "wordCount": 2611,
+          "title": "Google、「Android Auto」に画面分割などの新機能　ホンダもビルトインモデル",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news077.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news076.html",
+          "author": null,
+          "description": "キャッシュレス決済サービス「au PAY」で障害が発生。1月6日朝7時半ごろから決済機能を使用しにくい状態が続いている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news076.html",
+          "publishedOn": "2023-01-06T01:58:00.000Z",
+          "wordCount": 2597,
+          "title": "au PAYで障害　朝7時半ごろから使いにくい状態続く",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news076.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/06/news064.html",
           "author": null,

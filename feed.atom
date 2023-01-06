@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T01:09:10.131Z</updated>
+    <updated>2023-01-06T02:42:12.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SlackのGitHubアカウントからプライベートコードリポジトリが盗み出されていたことが判明]]></title>
+        <id>https://gigazine.net/news/20230106-slack-private-github-code-stolen/</id>
+        <link href="https://gigazine.net/news/20230106-slack-private-github-code-stolen/"/>
+        <updated>2023-01-06T02:34:00.000Z</updated>
+        <summary type="html"><![CDATA[チャットツール・Slackにおいて、GitHubに保管されていたプライベートなコードリポジトリが何者かによってダウンロードされていたことがわかりました。顧客データは含まれていないとのことで、Slackはただちに盗難に用いられたトークンを無効化するなどの対策を取っています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[わかるように伝える方法を探し、寄り道をすることで成長したキャリア]]></title>
+        <id>http://codezine.jp/article/detail/17034</id>
+        <link href="http://codezine.jp/article/detail/17034"/>
+        <updated>2023-01-06T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Webプログラマーであり二児の母でありながら、『ルビィのぼうけん』シリーズ（翔泳社）など、子ども向けのIT関連本も含め、翻訳者としても活躍する株式会社万葉の鳥井 雪氏。「小学校高学年に分かるように文章を書くテクニックは、特殊でありつつも、あらゆる仕事に応用できる示唆に富んでいる」と語る。その"寄り道"経験は、単なる知見の共有にとどまらず、どのようにして自身のキャリアに影響を与え、支えたのか。鳥井氏が自らの体験をもとに語った。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webとスマホの両方に対応、React対応UIツールキット「Tamagui 1.0」が登場]]></title>
+        <id>http://codezine.jp/article/detail/17142</id>
+        <link href="http://codezine.jp/article/detail/17142"/>
+        <updated>2023-01-06T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Vercelに勤務するNate Wienert氏は、ReactとReact Nativeのどちらにも対応するUIツールキット「Tamagui」のバージョン1.0を12月30日（現地時間）に公開した。TamaguiはMITライセンスで公開しているオープンソース・ソフトウェアだ。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webフロントエンド・フレームワーク「Bootstrap」のバージョン5.3.0アルファ1版が公開]]></title>
+        <id>http://codezine.jp/article/detail/17143</id>
+        <link href="http://codezine.jp/article/detail/17143"/>
+        <updated>2023-01-06T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Webフロントエンド・フレームワーク「Bootstrap」の開発チームは、次世代版となる「バージョン5.3.0」のアルファ1版を12月24日に公開した。BootstrapはMITライセンスで公開しているオープンソース・ソフトウェアだ。ちなみに、Bootstrapの最新安定版はバージョン5.2.3。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google、「Android Auto」に画面分割などの新機能　ホンダもビルトインモデル]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/06/news077.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/06/news077.html"/>
+        <updated>2023-01-06T01:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleの自動車向けアプリ「Android Auto」で画面分割が可能になる。ナビ画面を表示したままメディアプレーヤーやメールの着信を表示できる。メディアプレーヤーには曲飛ばし用のインジケータも追加される。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[au PAYで障害　朝7時半ごろから使いにくい状態続く]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/06/news076.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/06/news076.html"/>
+        <updated>2023-01-06T01:58:00.000Z</updated>
+        <summary type="html"><![CDATA[キャッシュレス決済サービス「au PAY」で障害が発生。1月6日朝7時半ごろから決済機能を使用しにくい状態が続いている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PS5の在庫不足が解消されたとPlayStation公式が発表]]></title>
+        <id>https://gigazine.net/news/20230106-sony-playstation-5-shortage-over/</id>
+        <link href="https://gigazine.net/news/20230106-sony-playstation-5-shortage-over/"/>
+        <updated>2023-01-06T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[世界最大級の家電見本市であるCES 2023が2023年1月6日からスタートしています。この中でソニーがプレスカンファレンスを開催しており、PlayStationの開発・販売を行うソニー・インタラクティブエンタテインメント(SIE)のジム・ライアンCEOが、PlayStation 5(PS5)の世界的な在庫不足がついに解消されたと発表しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ChatGPT」開発のOpenAIが約400億円で株式公開買付けを交渉中との報道]]></title>
+        <id>https://gigazine.net/news/20230106-openai-tender-offer/</id>
+        <link href="https://gigazine.net/news/20230106-openai-tender-offer/"/>
+        <updated>2023-01-06T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[チャットAI「ChatGPT」を開発した研究機関のOpenAIが、株式公開買付けによる既存株式の売却を交渉中であることがウォール・ストリート・ジャーナルにより報じられました。OpenAIの評価額は約290億ドル(約3兆9000億円)となり、株式売却額は少なくとも3億ドル(約400億円)になると見られています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ピアラーニング」を採用したオンライン学習環境「TomoCode」、1月3日から申込み受付開始]]></title>
+        <id>http://codezine.jp/article/detail/17133</id>
+        <link href="http://codezine.jp/article/detail/17133"/>
+        <updated>2023-01-06T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pagesは、開発中のオンライン学習プラットフォーム「TomoCode」にて、初学者からでもPythonでデータサイエンスを学べるプログラムの一般申込み受付を1月3日から開始した。また、初夢キャンペーンとして1週間限定の早期割引キャンペーンを実施している。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ボスアーキテクトが「2022年フリーランスエンジニアの言語別、フレームワーク別、開発環境別、職種別の平均単価データ」を発表]]></title>
+        <id>http://codezine.jp/article/detail/17134</id>
+        <link href="http://codezine.jp/article/detail/17134"/>
+        <updated>2023-01-06T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ボスアーキテクトは、同社が運営するフリーランスエンジニアやデザイナーのための求人・案件サイト「エンジニアスタイル東京」に掲載されたデータをもとに集計した「2022年のフリーランスエンジニアの言語別、フレームワーク別、開発環境別、職種別の平均単価データ」を発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[アメリカ政府の規制で深刻な危機に陥ったHuaweiの年間売上高が前年比で微増となり「危機的状態を脱した」と宣言]]></title>
         <id>https://gigazine.net/news/20230106-huawei-moving-safe-zone/</id>
@@ -11484,28 +11587,6 @@
         <summary type="html"><![CDATA[5G時代にむけた通信事業者のネットワークインフラの進化について、技術や標準化、オープンソース、そしてアカデミックなどのさまざまな観点から議論を行うイベント「Cloud Native Telecom Operator Meetup 2022」...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intelが考える「ムーアの法則」の次の波とは？]]></title>
-        <id>https://gigazine.net/news/20221207-next-wave-of-moores-law/</id>
-        <link href="https://gigazine.net/news/20221207-next-wave-of-moores-law/"/>
-        <updated>2022-12-07T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[「ムーアの法則」は「半導体の集積密度は18～24カ月で倍増し、チップの性能が倍になってもさらなる小型化が進む」という内容で、Intelの創業者の1人であるゴードン・ムーア氏が1965年に未来を予測したもの。そんなムーアの法則の次にくる「波」について、Intelの技術開発担当ゼネラルマネージャーであるアン・B・ケレハー氏が語っています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSDの寿命を見積もるためには何に注目すればいいのか？]]></title>
-        <id>https://gigazine.net/news/20221207-ssd-working-life/</id>
-        <link href="https://gigazine.net/news/20221207-ssd-working-life/"/>
-        <updated>2022-12-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[技術の進歩によってHDDよりも読み書きが早く静かで耐衝撃性の高いSSDがPCのメインストレージに採用されるのが当たり前になっています。しかし、記憶装置にフラッシュメモリを採用しているSSDの書き込み回数には上限があり、使い方に応じて寿命が変化します。Apple関連のニュースを扱うブログ・The Eclectic Light Companyが、Macに採用されているSSDの寿命について解説しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

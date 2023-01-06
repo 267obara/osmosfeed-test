@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T11:11:47.842Z</updated>
+    <updated>2023-01-06T12:26:03.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[画期的な「肥満治療薬」の登場に沸く医療現場とその前途に横たわる問題とは？]]></title>
+        <id>https://gigazine.net/news/20230106-obesity-drugs/</id>
+        <link href="https://gigazine.net/news/20230106-obesity-drugs/"/>
+        <updated>2023-01-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2型糖尿病や心臓病など、さまざまな病気の原因となる肥満は爆発的に増加しており、WHOは「2016年には成人の40％が太りすぎ、13％が肥満だった」と報告しています。週1回の注射で体重を30％減らせる画期的な治療薬を始めとするさまざまな薬剤や、それにまつわる医療現場の議論について、科学誌のNatureがまとめました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラックホールを使った未来や過去へのタイムトラベルは可能なのか？]]></title>
         <id>https://gigazine.net/news/20230106-black-hole-time-travel/</id>
@@ -11757,78 +11768,6 @@
         <summary type="html"><![CDATA[米Discordは、「絵文字」に関する調査「The Emoji Effect（絵文字の効果）」の結果を、12月7日に発表した。同調査は、世界中の16000名を対象に行われている。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小型アクションカメラ「GoPro HERO11 Black Mini」のバッテリー持続時間を「GoPro HERO11 Black」と比較してみた]]></title>
-        <id>https://gigazine.net/news/20221208-gopro-hero11-black-mini-battery/</id>
-        <link href="https://gigazine.net/news/20221208-gopro-hero11-black-mini-battery/"/>
-        <updated>2022-12-08T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年11月に登場した小型軽量アクションカメラ「GoPro HERO11 Black Mini」は、小さなボディに「GoPro HERO11 Black」と同等のムービー撮影性能を備えています。そんなGoPro HERO11 Black Miniには「バッテリーが内蔵式で交換不可」という特徴があり、GoPro HERO11 Blackとの比較検討の際にはバッテリーの持続時間が非常に重要なポイントとなります。そこで、GoPro HERO11 Black MiniとGoPro HERO11 Blackを同じ環境で使って、バッテリー持続時間や充電に必要な時間を徹底検証してみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目に見えないUnicode文字をコピペして使えたり元のUnicode文字を検索したりできる「Invisible Characters」]]></title>
-        <id>https://gigazine.net/news/20221208-invisible-characters/</id>
-        <link href="https://gigazine.net/news/20221208-invisible-characters/"/>
-        <updated>2022-12-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[世界中の文字を収集して文字コードを付与する規格「Unicode」では、バージョンアップごとに次々と絵文字が追加されたり、画像じゃなく文字で出力するためコピー＆ペーストが可能なカレンダーを作成できたりと、文字を使ったさまざまな表現を使うことができます。そのようなUnicodeの「目に見えない文字」はどういった種類があってどのように利用できるのかをまとめた「Invisible Characters」では、目に見えないUnicode文字をコピペして使えたり、テキスト内に含まれる目に見えないUnicode文字を検出したりすることができます。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、テレビ用OS「Android TV」の最新版を公開]]></title>
-        <id>http://codezine.jp/article/detail/16983</id>
-        <link href="http://codezine.jp/article/detail/16983"/>
-        <updated>2022-12-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米Googleは、テレビ用OS「Android TV」の新版「Android 13 TV」を公開した。開発専用端末「ADT-3」か、仮想環境「Android TVエミュレーター」で動作する。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft、Azure用Java関連ツールの2022年11月版を公開]]></title>
-        <id>http://codezine.jp/article/detail/16984</id>
-        <link href="http://codezine.jp/article/detail/16984"/>
-        <updated>2022-12-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米Microsoftは、パブリッククラウドサービス「Microsoft Azure」と組み合わせて使用できるJava関連ツールの2022年11月版を12月4日（現地時間）に公開した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud、Cloud Pub/Subの「一通限りの配信」機能を一般公開]]></title>
-        <id>http://codezine.jp/article/detail/16985</id>
-        <link href="http://codezine.jp/article/detail/16985"/>
-        <updated>2022-12-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米Google Cloudは、メッセージングサービス「Cloud Pub/Sub」のメッセージを一通限り配信する機能を12月2日（現地時間）に一般公開した。Google Cloudは2022年3月からこの機能をプレビューとして提供していたが、今回正式なサービスとして提供することになった。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Actionsのワークフロー通知をSlackとMicrosoft Teamsで受け取れるように]]></title>
-        <id>http://codezine.jp/article/detail/16987</id>
-        <link href="http://codezine.jp/article/detail/16987"/>
-        <updated>2022-12-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米GitHubは、SlackとMicrosoft TeamsのGitHubアプリが、GitHub Actionsのワークフロー通知をサポートしたことを、12月6日（現地時間）に発表した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冷蔵庫、IoTでフードロス削減　普及へ課題も]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news077.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news077.html"/>
-        <updated>2022-12-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IoTを活用してフードロスの削減に役立つ機能を冷蔵庫に追加する家電メーカーが増えている。使い忘れや不要な買い足しを防ぐことが期待されるが、食材の登録を手作業でしなければならず手間がかかるなど、普及には克服すべき課題が多そうだ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

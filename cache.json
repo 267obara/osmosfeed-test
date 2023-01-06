@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-obesity-drugs/",
+          "author": null,
+          "description": "2型糖尿病や心臓病など、さまざまな病気の原因となる肥満は爆発的に増加しており、WHOは「2016年には成人の40％が太りすぎ、13％が肥満だった」と報告しています。週1回の注射で体重を30％減らせる画期的な治療薬を始めとするさまざまな薬剤や、それにまつわる医療現場の議論について、科学誌のNatureがまとめました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-obesity-drugs/",
+          "publishedOn": "2023-01-06T12:00:00.000Z",
+          "wordCount": 2430,
+          "title": "画期的な「肥満治療薬」の登場に沸く医療現場とその前途に横たわる問題とは？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/obesity-drugs/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-black-hole-time-travel/",
           "author": null,
           "description": "巨大な天体が崩壊した際に形成されると考えられているブラックホールは、あまりに大きな質量で時空がゆがみ、光すら脱出ができない天体です。そんなブラックホールを用いて過去や未来へのタイムトラベルは可能なのか、オーストラリアカトリック大学の科学哲学者であるサム・バロン氏が解説しています。\n続きを読む...",
@@ -5174,26 +5184,6 @@
           "wordCount": 2817,
           "title": "任天堂とMicrosoftが「Call of Duty」を10年間供給する契約を締結、ソニーの態度次第でPlayStation向け10年契約の可能性も",
           "imageUrl": "https://i.gzn.jp/img/2022/12/08/microsoft-nintendo-call-of-duty/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-gopro-hero11-black-mini-battery/",
-          "author": null,
-          "description": "2022年11月に登場した小型軽量アクションカメラ「GoPro HERO11 Black Mini」は、小さなボディに「GoPro HERO11 Black」と同等のムービー撮影性能を備えています。そんなGoPro HERO11 Black Miniには「バッテリーが内蔵式で交換不可」という特徴があり、GoPro HERO11 Blackとの比較検討の際にはバッテリーの持続時間が非常に重要なポイントとなります。そこで、GoPro HERO11 Black MiniとGoPro HERO11 Blackを同じ環境で使って、バッテリー持続時間や充電に必要な時間を徹底検証してみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-gopro-hero11-black-mini-battery/",
-          "publishedOn": "2022-12-08T00:15:00.000Z",
-          "wordCount": 2661,
-          "title": "小型アクションカメラ「GoPro HERO11 Black Mini」のバッテリー持続時間を「GoPro HERO11 Black」と比較してみた",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/gopro-hero11-black-mini-battery/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-invisible-characters/",
-          "author": null,
-          "description": "世界中の文字を収集して文字コードを付与する規格「Unicode」では、バージョンアップごとに次々と絵文字が追加されたり、画像じゃなく文字で出力するためコピー＆ペーストが可能なカレンダーを作成できたりと、文字を使ったさまざまな表現を使うことができます。そのようなUnicodeの「目に見えない文字」はどういった種類があってどのように利用できるのかをまとめた「Invisible Characters」では、目に見えないUnicode文字をコピペして使えたり、テキスト内に含まれる目に見えないUnicode文字を検出したりすることができます。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-invisible-characters/",
-          "publishedOn": "2022-12-08T00:00:00.000Z",
-          "wordCount": 2607,
-          "title": "目に見えないUnicode文字をコピペして使えたり元のUnicode文字を検索したりできる「Invisible Characters」",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/invisible-characters/00.jpg"
         }
       ]
     },
@@ -6761,46 +6751,6 @@
           "wordCount": 4310,
           "title": "Discord、全世界で実施した“絵文字”に関する調査結果を発表",
           "imageUrl": "https://codezine.jp/static/images/article/16988/16988_og.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16983",
-          "author": null,
-          "description": "米Googleは、テレビ用OS「Android TV」の新版「Android 13 TV」を公開した。開発専用端末「ADT-3」か、仮想環境「Android TVエミュレーター」で動作する。",
-          "link": "http://codezine.jp/article/detail/16983",
-          "publishedOn": "2022-12-08T00:00:00.000Z",
-          "wordCount": 4322,
-          "title": "Google、テレビ用OS「Android TV」の最新版を公開",
-          "imageUrl": "https://codezine.jp/static/images/article/16983/12883_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16984",
-          "author": null,
-          "description": "米Microsoftは、パブリッククラウドサービス「Microsoft Azure」と組み合わせて使用できるJava関連ツールの2022年11月版を12月4日（現地時間）に公開した。",
-          "link": "http://codezine.jp/article/detail/16984",
-          "publishedOn": "2022-12-08T00:00:00.000Z",
-          "wordCount": 4330,
-          "title": "Microsoft、Azure用Java関連ツールの2022年11月版を公開",
-          "imageUrl": "https://codezine.jp/static/images/article/16984/13201_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16985",
-          "author": null,
-          "description": "米Google Cloudは、メッセージングサービス「Cloud Pub/Sub」のメッセージを一通限り配信する機能を12月2日（現地時間）に一般公開した。Google Cloudは2022年3月からこの機能をプレビューとして提供していたが、今回正式なサービスとして提供することになった。",
-          "link": "http://codezine.jp/article/detail/16985",
-          "publishedOn": "2022-12-08T00:00:00.000Z",
-          "wordCount": 4327,
-          "title": "Google Cloud、Cloud Pub/Subの「一通限りの配信」機能を一般公開",
-          "imageUrl": "https://codezine.jp/static/images/article/16985/12762_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16987",
-          "author": null,
-          "description": "米GitHubは、SlackとMicrosoft TeamsのGitHubアプリが、GitHub Actionsのワークフロー通知をサポートしたことを、12月6日（現地時間）に発表した。",
-          "link": "http://codezine.jp/article/detail/16987",
-          "publishedOn": "2022-12-08T00:00:00.000Z",
-          "wordCount": 4323,
-          "title": "GitHub Actionsのワークフロー通知をSlackとMicrosoft Teamsで受け取れるように",
-          "imageUrl": "https://codezine.jp/static/images/article/16987/13201_og.jpg"
         }
       ]
     },
@@ -11325,16 +11275,6 @@
           "wordCount": 2611,
           "title": "SaaSの解約理由「操作性が良くない」5割超　「ツールがただ増えただけ」",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news083.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news077.html",
-          "author": null,
-          "description": "IoTを活用してフードロスの削減に役立つ機能を冷蔵庫に追加する家電メーカーが増えている。使い忘れや不要な買い足しを防ぐことが期待されるが、食材の登録を手作業でしなければならず手間がかかるなど、普及には克服すべき課題が多そうだ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news077.html",
-          "publishedOn": "2022-12-08T00:00:00.000Z",
-          "wordCount": 2327,
-          "title": "冷蔵庫、IoTでフードロス削減　普及へ課題も",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/l_3TLOBFE5FRJPPOOQ54XWZUJGBA_1.jpg"
         }
       ]
     }

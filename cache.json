@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-black-hole-time-travel/",
+          "author": null,
+          "description": "巨大な天体が崩壊した際に形成されると考えられているブラックホールは、あまりに大きな質量で時空がゆがみ、光すら脱出ができない天体です。そんなブラックホールを用いて過去や未来へのタイムトラベルは可能なのか、オーストラリアカトリック大学の科学哲学者であるサム・バロン氏が解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-black-hole-time-travel/",
+          "publishedOn": "2023-01-06T11:00:00.000Z",
+          "wordCount": 2423,
+          "title": "ブラックホールを使った未来や過去へのタイムトラベルは可能なのか？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/black-hole-time-travel/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-chatgpt-ai-writing-tool-banned/",
           "author": null,
           "description": "機械学習に関する国際会議の1つであるInternational Conference on Machine Learning(ICML)が、「ChatGPTのようなAIを使って科学論文を執筆することを禁止する」という方針を発表しました。この方針をめぐって、AI研究者の間でも意見が割れています。\n続きを読む...",
@@ -7097,6 +7107,26 @@
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
         {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news159.html",
+          "author": null,
+          "description": "講談社は6日、テレビアニメ「進撃の巨人 Season1」の全25話を公式YouTubeチャンネル「フル☆アニメTV」で無料公開すると発表した。2月5日までの期間限定。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news159.html",
+          "publishedOn": "2023-01-06T10:43:00.000Z",
+          "wordCount": 2348,
+          "title": "アニメ「進撃の巨人」1期全話をYouTubeで無料配信　2月5日までの期間限定",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news159.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news152.html",
+          "author": null,
+          "description": "ポケモンGOで1月7日に「ハリマロン」の「コミュニティ・デイ」が開催されます。ハリマロンの色違いは初登場。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news152.html",
+          "publishedOn": "2023-01-06T10:15:00.000Z",
+          "wordCount": 2340,
+          "title": "ポケモンGOで7日「ハリマロン」大量発生　色違い初登場",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news152.jpg"
+        },
+        {
           "id": "https://www.itmedia.co.jp/news/articles/2301/06/news149.html",
           "author": null,
           "description": "レノボ傘下の米Motorolaが、新型スマートフォン「Lenovo ThinkPhone」を発表した。「ThinkPad」ブランド30周年を記念したもので、法人を意識したセキュリティ機能やThinkPadとのシームレスな体験を実現するとしている。",
@@ -11305,16 +11335,6 @@
           "wordCount": 2327,
           "title": "冷蔵庫、IoTでフードロス削減　普及へ課題も",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/l_3TLOBFE5FRJPPOOQ54XWZUJGBA_1.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news076.html",
-          "author": null,
-          "description": "SpaceXが政府向け衛星ネットワークサービス「Starshield」のWebページをひっそり公開した。Starlinkより強力な暗号化機能を採用し、「国家安全保障の取り組みを支援する」。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news076.html",
-          "publishedOn": "2022-12-07T22:53:00.000Z",
-          "wordCount": 2594,
-          "title": "SpaceX、政府向けStarlink「Starshield」立ち上げ",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news076.jpg"
         }
       ]
     }

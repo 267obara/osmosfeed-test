@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T16:19:10.482Z</updated>
+    <updated>2023-01-06T17:12:57.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11571,48 +11571,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/08/news129.html"/>
         <updated>2022-12-08T05:51:00.000Z</updated>
         <summary type="html"><![CDATA[2022年、1年で最もチャンネル登録者数を伸ばした日本のYouTuberは？──YouTubeがランキングを発表した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple M1環境でLinuxを動かす「Asahi Linux」向けのApple GPUドライバーがついに実装される]]></title>
-        <id>https://gigazine.net/news/20221208-apple-gpu-drivers-now-in-asahi-linux/</id>
-        <link href="https://gigazine.net/news/20221208-apple-gpu-drivers-now-in-asahi-linux/"/>
-        <updated>2022-12-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple独自開発のSoC「M1」チップを搭載するMac上での動作を目指すLinuxディストリビューション「Asahi Linux」に、Apple GPUドライバーが2年間の開発を経てついに実装されました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロン・マスクが暴露情報「Twitterファイル」の情報抑圧を理由にTwitterの副法務顧問ジム・ベイカーを解雇]]></title>
-        <id>https://gigazine.net/news/20221208-twitte-jim-baker-fire/</id>
-        <link href="https://gigazine.net/news/20221208-twitte-jim-baker-fire/"/>
-        <updated>2022-12-08T04:56:00.000Z</updated>
-        <summary type="html"><![CDATA[TwitterのCEOとして大胆な改革を続けるイーロン・マスク氏が、Twitterの副法務顧問を務めていたジム・ベイカー氏を解雇しました。解雇の理由は、ベイカー氏がTwitterの内部情報をまとめた「Twitterファイル」の公開に制限をかけていたこととされています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram、SIMなしでも利用可能に（仮想電話番号購入で）]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news120.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news120.html"/>
-        <updated>2022-12-08T04:47:00.000Z</updated>
-        <summary type="html"><![CDATA[これまでSIM必須だったメッセージングサービスTelegramが、SIMなしでアカウント作成を可能にした。分散型オークションサイトFragmentで購入する専用仮想番号を使う。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政府の電気代支援策、23年1月から　平均的な家庭で月1820円安く]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news116.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news116.html"/>
-        <updated>2022-12-08T04:23:00.000Z</updated>
-        <summary type="html"><![CDATA[電気事業連合会は7日、国の支援を受けて23年1月使用分から電気代の値引きを行うと発表した。平均的な家庭（月間260kWh）で月に1820円ほどの値引きとなる。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

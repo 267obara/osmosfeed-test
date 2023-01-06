@@ -5124,26 +5124,6 @@
           "wordCount": 2813,
           "title": "Instagramでシャドウバンされているかどうか確認できるように",
           "imageUrl": "https://i.gzn.jp/img/2022/12/08/instagram-account-status/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-apple-gpu-drivers-now-in-asahi-linux/",
-          "author": null,
-          "description": "Apple独自開発のSoC「M1」チップを搭載するMac上での動作を目指すLinuxディストリビューション「Asahi Linux」に、Apple GPUドライバーが2年間の開発を経てついに実装されました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-apple-gpu-drivers-now-in-asahi-linux/",
-          "publishedOn": "2022-12-08T05:00:00.000Z",
-          "wordCount": 2526,
-          "title": "Apple M1環境でLinuxを動かす「Asahi Linux」向けのApple GPUドライバーがついに実装される",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/apple-gpu-drivers-now-in-asahi-linux/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-twitte-jim-baker-fire/",
-          "author": null,
-          "description": "TwitterのCEOとして大胆な改革を続けるイーロン・マスク氏が、Twitterの副法務顧問を務めていたジム・ベイカー氏を解雇しました。解雇の理由は、ベイカー氏がTwitterの内部情報をまとめた「Twitterファイル」の公開に制限をかけていたこととされています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-twitte-jim-baker-fire/",
-          "publishedOn": "2022-12-08T04:56:00.000Z",
-          "wordCount": 2760,
-          "title": "イーロン・マスクが暴露情報「Twitterファイル」の情報抑圧を理由にTwitterの副法務顧問ジム・ベイカーを解雇",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/twitte-jim-baker-fire/00.jpg"
         }
       ]
     },
@@ -11105,26 +11085,6 @@
           "wordCount": 2605,
           "title": "2022年、最もチャンネル登録者数を伸ばした日本のYouTuberは？　「夢みたいなお話ですわ」",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news129.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news120.html",
-          "author": null,
-          "description": "これまでSIM必須だったメッセージングサービスTelegramが、SIMなしでアカウント作成を可能にした。分散型オークションサイトFragmentで購入する専用仮想番号を使う。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news120.html",
-          "publishedOn": "2022-12-08T04:47:00.000Z",
-          "wordCount": 2596,
-          "title": "Telegram、SIMなしでも利用可能に（仮想電話番号購入で）",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news120.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news116.html",
-          "author": null,
-          "description": "電気事業連合会は7日、国の支援を受けて23年1月使用分から電気代の値引きを行うと発表した。平均的な家庭（月間260kWh）で月に1820円ほどの値引きとなる。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news116.html",
-          "publishedOn": "2022-12-08T04:23:00.000Z",
-          "wordCount": 2594,
-          "title": "政府の電気代支援策、23年1月から　平均的な家庭で月1820円安く",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news116.jpg"
         }
       ]
     }

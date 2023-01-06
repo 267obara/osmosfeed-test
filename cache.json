@@ -5144,36 +5144,6 @@
           "wordCount": 2760,
           "title": "イーロン・マスクが暴露情報「Twitterファイル」の情報抑圧を理由にTwitterの副法務顧問ジム・ベイカーを解雇",
           "imageUrl": "https://i.gzn.jp/img/2022/12/08/twitte-jim-baker-fire/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-apple-csam-scan-canceled/",
-          "author": null,
-          "description": "Appleは、ユーザーがiCloudに保存している写真をスキャンして性的児童虐待のコンテンツ(CSAM)が含まれていないかを検出する計画を発表していましたが、これに対して反対の声が多く挙がりました。AppleがこのCSAM検出システムを導入する計画を破棄したと報じられています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-apple-csam-scan-canceled/",
-          "publishedOn": "2022-12-08T03:30:00.000Z",
-          "wordCount": 2513,
-          "title": "Appleが「iCloudフォトに性的児童虐待の画像がないかをチェックするシステム」の実装を破棄",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/apple-csam-scan-canceled/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-yayoiken-yakiniku-zanmai/",
-          "author": null,
-          "description": "コク深いタレに漬け込まれた牛・豚・鶏の3種の肉を焼き上げた「【牛豚鶏】焼肉ざんまい定食」が、2022年12月6日(火)からやよい軒に登場しています。3種の肉を一気に堪能できるボリュームたっぷりの定食になっているとのことで、どんな味に仕上がっているのか実際に食べて確かめてみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-yayoiken-yakiniku-zanmai/",
-          "publishedOn": "2022-12-08T03:25:00.000Z",
-          "wordCount": 2480,
-          "title": "濃厚な甘辛いタレに漬け込んだ牛・豚・鶏の焼き肉を味変しまくりで堪能できる「【牛豚鶏】焼肉ざんまい定食」を食べてみた",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/yayoiken-yakiniku-zanmai/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-apple-advanced-security-features/",
-          "author": null,
-          "description": "Appleがセキュリティ向上のため、新たに「iMessage Contact Key Verification」「Security Keys for Apple ID」「Advanced Data Protection for iCloud」という3つのセキュリティ機能を発表しました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-apple-advanced-security-features/",
-          "publishedOn": "2022-12-08T03:19:00.000Z",
-          "wordCount": 2684,
-          "title": "Appleが二要素認証へのセキュリティキー追加やiCloudの暗号化対象拡大などセキュリティ機能3つの追加を発表",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/apple-advanced-security-features/00_m.png"
         }
       ]
     },
@@ -11155,46 +11125,6 @@
           "wordCount": 2594,
           "title": "政府の電気代支援策、23年1月から　平均的な家庭で月1820円安く",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news116.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news111.html",
-          "author": null,
-          "description": "東急電鉄、東急、三井住友カード、日本信号、QUADRACは、クレジットカードのタッチ決済とQRコードを活用した、企画乗車券の発売や改札機の入出場に関する実証実験を、2023年夏から開始すると発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news111.html",
-          "publishedOn": "2022-12-08T04:00:00.000Z",
-          "wordCount": 2593,
-          "title": "東急で「クレカのタッチ乗車」の実証実験、2023年夏から　首都圏の鉄道事業者で初",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news111.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news109.html",
-          "author": null,
-          "description": "SF漫画「AIの遺電子」が、テレビアニメに。元ITニュース記者の漫画家の作品。人権を持ったヒューマノイドと共に暮らす22世紀後半の社会が舞台だ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news109.html",
-          "publishedOn": "2022-12-08T03:51:00.000Z",
-          "wordCount": 2594,
-          "title": "「AIの遺電子」アニメ化　元IT記者が描く「AIヒューマノイドと共に生きる近未来」",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news109.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news107.html",
-          "author": null,
-          "description": "米Microsoftがゲーム開発者向けの支援プログラム「ID＠Azure」を拡充。スタートアップ向け支援プログラムとの併用を可能にした。双方の審査を通った場合、クラウドサービス「Microsoft Azure」のクレジットなどを追加で受け取れる。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news107.html",
-          "publishedOn": "2022-12-08T03:45:00.000Z",
-          "wordCount": 2617,
-          "title": "Microsoft、ゲーム開発向け支援を拡充　Azureクレジットや法人向けMicrosoft 365を追加で提供　スタートアップ対象",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news107.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news105.html",
-          "author": null,
-          "description": "",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news105.html",
-          "publishedOn": "2022-12-08T03:30:00.000Z",
-          "wordCount": 2585,
-          "title": "突如終了で批判受けた家族SNS「ウェルノート」、一括ダウンロード提供へ　「みてね」移行も",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news105.jpg"
         }
       ]
     }

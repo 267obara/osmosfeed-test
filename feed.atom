@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T15:14:33.963Z</updated>
+    <updated>2023-01-06T16:19:10.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11615,78 +11615,6 @@
         <summary type="html"><![CDATA[電気事業連合会は7日、国の支援を受けて23年1月使用分から電気代の値引きを行うと発表した。平均的な家庭（月間260kWh）で月に1820円ほどの値引きとなる。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東急で「クレカのタッチ乗車」の実証実験、2023年夏から　首都圏の鉄道事業者で初]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news111.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news111.html"/>
-        <updated>2022-12-08T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[東急電鉄、東急、三井住友カード、日本信号、QUADRACは、クレジットカードのタッチ決済とQRコードを活用した、企画乗車券の発売や改札機の入出場に関する実証実験を、2023年夏から開始すると発表した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「AIの遺電子」アニメ化　元IT記者が描く「AIヒューマノイドと共に生きる近未来」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news109.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news109.html"/>
-        <updated>2022-12-08T03:51:00.000Z</updated>
-        <summary type="html"><![CDATA[SF漫画「AIの遺電子」が、テレビアニメに。元ITニュース記者の漫画家の作品。人権を持ったヒューマノイドと共に暮らす22世紀後半の社会が舞台だ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft、ゲーム開発向け支援を拡充　Azureクレジットや法人向けMicrosoft 365を追加で提供　スタートアップ対象]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news107.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news107.html"/>
-        <updated>2022-12-08T03:45:00.000Z</updated>
-        <summary type="html"><![CDATA[米Microsoftがゲーム開発者向けの支援プログラム「ID＠Azure」を拡充。スタートアップ向け支援プログラムとの併用を可能にした。双方の審査を通った場合、クラウドサービス「Microsoft Azure」のクレジットなどを追加で受け取れる。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appleが「iCloudフォトに性的児童虐待の画像がないかをチェックするシステム」の実装を破棄]]></title>
-        <id>https://gigazine.net/news/20221208-apple-csam-scan-canceled/</id>
-        <link href="https://gigazine.net/news/20221208-apple-csam-scan-canceled/"/>
-        <updated>2022-12-08T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Appleは、ユーザーがiCloudに保存している写真をスキャンして性的児童虐待のコンテンツ(CSAM)が含まれていないかを検出する計画を発表していましたが、これに対して反対の声が多く挙がりました。AppleがこのCSAM検出システムを導入する計画を破棄したと報じられています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突如終了で批判受けた家族SNS「ウェルノート」、一括ダウンロード提供へ　「みてね」移行も]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news105.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news105.html"/>
-        <updated>2022-12-08T03:30:00.000Z</updated>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[濃厚な甘辛いタレに漬け込んだ牛・豚・鶏の焼き肉を味変しまくりで堪能できる「【牛豚鶏】焼肉ざんまい定食」を食べてみた]]></title>
-        <id>https://gigazine.net/news/20221208-yayoiken-yakiniku-zanmai/</id>
-        <link href="https://gigazine.net/news/20221208-yayoiken-yakiniku-zanmai/"/>
-        <updated>2022-12-08T03:25:00.000Z</updated>
-        <summary type="html"><![CDATA[コク深いタレに漬け込まれた牛・豚・鶏の3種の肉を焼き上げた「【牛豚鶏】焼肉ざんまい定食」が、2022年12月6日(火)からやよい軒に登場しています。3種の肉を一気に堪能できるボリュームたっぷりの定食になっているとのことで、どんな味に仕上がっているのか実際に食べて確かめてみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appleが二要素認証へのセキュリティキー追加やiCloudの暗号化対象拡大などセキュリティ機能3つの追加を発表]]></title>
-        <id>https://gigazine.net/news/20221208-apple-advanced-security-features/</id>
-        <link href="https://gigazine.net/news/20221208-apple-advanced-security-features/"/>
-        <updated>2022-12-08T03:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Appleがセキュリティ向上のため、新たに「iMessage Contact Key Verification」「Security Keys for Apple ID」「Advanced Data Protection for iCloud」という3つのセキュリティ機能を発表しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

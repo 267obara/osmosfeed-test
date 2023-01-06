@@ -5174,26 +5174,6 @@
           "wordCount": 2684,
           "title": "Appleが二要素認証へのセキュリティキー追加やiCloudの暗号化対象拡大などセキュリティ機能3つの追加を発表",
           "imageUrl": "https://i.gzn.jp/img/2022/12/08/apple-advanced-security-features/00_m.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-germany-coup-plot-arrests/",
-          "author": null,
-          "description": "ドイツ当局が2022年12月7日(水)に、陰謀論を信じてドイツ政府の転覆を企てたとして、暴力的なクーデターを計画した疑いで極右グループのメンバーとその支持者25人を逮捕したと発表しました。逮捕者の中にはドイツの貴族の子孫や退役した元空挺部隊員、元裁判官などが含まれていました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-germany-coup-plot-arrests/",
-          "publishedOn": "2022-12-08T03:10:00.000Z",
-          "wordCount": 2597,
-          "title": "ドイツで陰謀論グループが国家転覆を狙ったクーデターを計画、貴族の子孫「ハイリヒ13世」など25人が逮捕される",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/germany-coup-plot-arrests/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-amazon-alexa-thank-my-driver/",
-          "author": null,
-          "description": "Amazonのラストワンマイルを担うドライバーは商品を求めるユーザーにとって重要な役割を果たしていますが、ペットボトル排尿問題が伝えられたり、比較的高い負傷率であることが報告されたりと、労働環境が過酷であるとの見方もあります。そんなドライバーに、ユーザーからの声かけで「チップ」を送る機能をAmazonが実装したことが分かりました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-amazon-alexa-thank-my-driver/",
-          "publishedOn": "2022-12-08T02:36:00.000Z",
-          "wordCount": 2568,
-          "title": "AmazonのAlexaに「ありがとう」と言うと働き過ぎの配達ドライバーに5ドルのチップが支払われる",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/amazon-alexa-thank-my-driver/00_m.jpg"
         }
       ]
     },
@@ -6711,36 +6691,6 @@
           "wordCount": 4287,
           "title": "Asahi Linux、AppleシリコンGPUドライバのアルファ版をリリース",
           "imageUrl": "https://codezine.jp/static/images/article/16995/12883_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16991",
-          "author": null,
-          "description": "パイプドビッツは、ローコード開発プラットフォーム「SPIRAL ver.2（スパイラル バージョン２）」の新バージョン2.22を2023年1月24日から提供開始する。また、新バージョンのβ版を12月7日から提供開始する。",
-          "link": "http://codezine.jp/article/detail/16991",
-          "publishedOn": "2022-12-08T03:00:00.000Z",
-          "wordCount": 4312,
-          "title": "ローコード開発プラットフォーム「SPIRAL ver.2」が2023年1月24日に大型アップデート",
-          "imageUrl": "https://codezine.jp/static/images/article/16991/16991_ogp.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16992",
-          "author": null,
-          "description": "UZUZは、ウズウズカレッジのリスキリングサービスを活用し、現在リスキリングを行っている人に対して意識調査を実施し、その結果を12月7日に発表した。",
-          "link": "http://codezine.jp/article/detail/16992",
-          "publishedOn": "2022-12-08T03:00:00.000Z",
-          "wordCount": 4312,
-          "title": "UZUZがリスキリングの意識調査を実施、リスキリングの目的の37.9％が業務スキル向上と業務効率化のため",
-          "imageUrl": "https://codezine.jp/static/images/article/16992/16992_ogp.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16994",
-          "author": null,
-          "description": "チェコJetBrainsは、PHP向けの統合開発環境（IDE）「PhpStorm」の新版「PhpStorm 2022.3」を12月5日（現地時間）に公開した。同社のWebサイトで30日限定の試用版をダウンロードできる。Windows、macOS、Linuxで動作する。",
-          "link": "http://codezine.jp/article/detail/16994",
-          "publishedOn": "2022-12-08T02:40:00.000Z",
-          "wordCount": 4322,
-          "title": "JetBrainsがPHP向け統合開発環境「PhpStorm 2022.3」を公開、PHP 8.2の言語仕様に先行対応",
-          "imageUrl": "https://codezine.jp/static/images/article/16994/13365_og.jpg"
         }
       ]
     },

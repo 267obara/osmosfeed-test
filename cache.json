@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-headline/",
+          "author": null,
+          "description": "2023年1月5日(木)深夜から放送・配信がスタートしたアニメ「お兄ちゃんはおしまい！」のノンクレジットのオープニング＆エンディングムービーがYouTubeで公開されました。アップテンポでかわいらしい楽曲に合わせて動きまくるアニメーションは必見です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-headline/",
+          "publishedOn": "2023-01-06T09:11:00.000Z",
+          "wordCount": 6039,
+          "title": "2023年1月6日のヘッドラインニュース",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/headline/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-cryptozoo-coffeezilla-logan-paul/",
           "author": null,
           "description": "仮想通貨やブロックチェーン技術に関連する詐欺師や悪徳商法について調査することで知られるYouTuberのCoffeeZilla氏が、2021年から展開されているNFTゲーム「CryptoZoo」に関して、開発者に詐欺師が加わっており、ゲームでも不正な行為が行われていると告発しました。これに対して、ゲームに携わるローガン・ポール氏は前科のある人間がプロジェクトにいたことを認めつつも、CoffeeZilla氏のやり方に違法な点があると指摘、法的措置を取ることを示唆しました。\n続きを読む...",
@@ -5174,16 +5184,6 @@
           "wordCount": 2541,
           "title": "政府機関や軍隊などのIPアドレスから行われたWikipedia編集履歴をまとめたサイト「Wikiwho」",
           "imageUrl": "https://i.gzn.jp/img/2022/12/08/wikipedia-edits-organizations-wikiwho/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-pi-zero-benchmark/",
-          "author": null,
-          "description": "「Raspberry Pi」に代表されるシングルボードコンピュータをいくつかピックアップし、ベンチマークテストを行ってみた結果について、シングルボードコンピュータ関連のブログを執筆するブレット氏が共有しました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-pi-zero-benchmark/",
-          "publishedOn": "2022-12-07T21:00:00.000Z",
-          "wordCount": 2701,
-          "title": "最強の「Pi Zero」はどれなのかを示すベンチマーク結果",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/pi-zero-benchmark/00_m.png"
         }
       ]
     },
@@ -7096,6 +7096,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news137.html",
+          "author": null,
+          "description": "SIEのジム・ライアンCEOはCES 2023で、「PlayStation 5」（PS5）は累計3000万台以上売れたと発表した。12月には過去最大になり、今後は小売店で見つけやすくなると語った。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news137.html",
+          "publishedOn": "2023-01-06T08:01:00.000Z",
+          "wordCount": 2610,
+          "title": "SIEのライアンCEO、「PS5は世界中で見つけやすくなる」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news137.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/06/news114.html",
           "author": null,

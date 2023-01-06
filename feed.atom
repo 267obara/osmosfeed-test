@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T08:17:21.489Z</updated>
+    <updated>2023-01-06T09:13:09.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年1月6日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20230106-headline/</id>
+        <link href="https://gigazine.net/news/20230106-headline/"/>
+        <updated>2023-01-06T09:11:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年1月5日(木)深夜から放送・配信がスタートしたアニメ「お兄ちゃんはおしまい！」のノンクレジットのオープニング＆エンディングムービーがYouTubeで公開されました。アップテンポでかわいらしい楽曲に合わせて動きまくるアニメーションは必見です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTuberによるNFTゲーム「CryptoZoo」の詐欺的実態告発が訴訟沙汰に]]></title>
         <id>https://gigazine.net/news/20230106-cryptozoo-coffeezilla-logan-paul/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIEのライアンCEO、「PS5は世界中で見つけやすくなる」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/06/news137.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/06/news137.html"/>
+        <updated>2023-01-06T08:01:00.000Z</updated>
+        <summary type="html"><![CDATA[SIEのジム・ライアンCEOはCES 2023で、「PlayStation 5」（PS5）は累計3000万台以上売れたと発表した。12月には過去最大になり、今後は小売店で見つけやすくなると語った。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -11754,17 +11775,6 @@
         <link href="https://gigazine.net/news/20221208-wikipedia-edits-organizations-wikiwho/"/>
         <updated>2022-12-07T22:00:00.000Z</updated>
         <summary type="html"><![CDATA[インターネット百科事典のWikipediaはボランティアによる共同編集が行われていますが、未登録のユーザーが編集を行った場合はIPアドレスが記録されるため、時には政府機関や特定の組織に属するIPアドレスからの編集が発覚することもあります。そんな特定の組織に属するIPアドレスが行ったWikipediaの編集履歴をまとめたウェブサイトが「Wikiwho」です。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最強の「Pi Zero」はどれなのかを示すベンチマーク結果]]></title>
-        <id>https://gigazine.net/news/20221208-pi-zero-benchmark/</id>
-        <link href="https://gigazine.net/news/20221208-pi-zero-benchmark/"/>
-        <updated>2022-12-07T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「Raspberry Pi」に代表されるシングルボードコンピュータをいくつかピックアップし、ベンチマークテストを行ってみた結果について、シングルボードコンピュータ関連のブログを執筆するブレット氏が共有しました。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

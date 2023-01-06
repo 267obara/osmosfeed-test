@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-twitter-lays-off-advertising-engineers/",
+          "author": null,
+          "description": "Twitterの収益の柱である広告収入の不振が指摘される中、Twitterの経営陣が業績不良とみなしている分野や重要でないと判断した分野の人員整理を進め、これにより広告やマネタイズを担当する部門の従業員約40人が削減されたと報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-twitter-lays-off-advertising-engineers/",
+          "publishedOn": "2023-01-06T03:00:00.000Z",
+          "wordCount": 2454,
+          "title": "Twitterの「失敗した分野」をターゲットにしたレイオフで広告部門など40人が新たに解雇される、退職金の支払いもストップ",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/twitter-lays-off-advertising-engineers/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230106-vive-xr-elite/",
+          "author": null,
+          "description": "HTCが、一体型のXRヘッドセット「VIVE XR Elite」を2023年2月後半に発売すると発表しました。価格は税込17万9000円で、2023年1月6日(金)から予約の受け付けを開始しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-vive-xr-elite/",
+          "publishedOn": "2023-01-06T02:50:00.000Z",
+          "wordCount": 2486,
+          "title": "HTCがVR/AR/MR対応の単体動作可能なXRヘッドセット「VIVE XR Elite」を発表、片目解像度1920×1920ピクセル＆視野角110度で価格は17万9000円",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/vive-xr-elite/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230106-lindt-strawberry-bouquet-hot-chocolat/",
+          "author": null,
+          "description": "スイスのチョコレートブランド「リンツ」がバレンタインの期間限定で、バラの花束をイメージした華やかで見た目も可愛らしい「ストロベリーブーケホットショコラドリンク」を2023年1月6日(金)からカフェ併設店で提供しています。ダークチョコレートをしっかり感じながらも、ストロベリーの甘酸っぱさが後を引く、リンツのこだわりが詰まった一杯とのことなので、実際に購入し飲んでみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-lindt-strawberry-bouquet-hot-chocolat/",
+          "publishedOn": "2023-01-06T02:48:00.000Z",
+          "wordCount": 2430,
+          "title": "濃厚なチョコレートにストロベリーの甘酸っぱい風味がアクセントになったリンツの「ストロベリーブーケホットショコラドリンク」を飲んでみた",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/lindt-strawberry-bouquet-hot-chocolat/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-slack-private-github-code-stolen/",
           "author": null,
           "description": "チャットツール・Slackにおいて、GitHubに保管されていたプライベートなコードリポジトリが何者かによってダウンロードされていたことがわかりました。顧客データは含まれていないとのことで、Slackはただちに盗難に用いられたトークンを無効化するなどの対策を取っています。\n続きを読む...",
@@ -6996,6 +7026,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news084.html",
+          "author": null,
+          "description": "Samsungが折りたたんだり伸ばしたりできるディスプレイ「Flex Hybrid」を発表。本のようにたたんだ状態から開いた後、右側をスライドさせて幅をさらに伸ばせる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news084.html",
+          "publishedOn": "2023-01-06T02:36:00.000Z",
+          "wordCount": 2608,
+          "title": "Samsung、折りたたみ＆伸縮できるディスプレイ「Flex Hybrid」発表",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news084.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news082.html",
+          "author": null,
+          "description": "JR東日本は1月7日の始発から8日の終電まで山手線外回りの大崎→渋谷→池袋間の全ての列車を運休する。これを受けてスマホやPCで利用できる経路検索サービスが対応を進めている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news082.html",
+          "publishedOn": "2023-01-06T02:34:00.000Z",
+          "wordCount": 2598,
+          "title": "JR山手線、7日と8日は「大崎→渋谷→池袋」終日運休　経路検索アプリは迂回に対応",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news082.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/06/news077.html",
           "author": null,

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T05:12:35.688Z</updated>
+    <updated>2023-01-06T06:17:36.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「認証はすべて手動」と宣言したTwitterが手痛いミス、記者が作成した議員なりすましアカウントを認証してしまう]]></title>
+        <id>https://gigazine.net/news/20230106-twitter-vlue-verifying-issue/</id>
+        <link href="https://gigazine.net/news/20230106-twitter-vlue-verifying-issue/"/>
+        <updated>2023-01-06T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[誰でもアカウントに青いチェックマークを付けられるサブスクリプションサービス「Twitter Blue」の認証プロセスを再開したTwitterが、ワシントン・ポストのコラムニストであるジェフリー・ファウラー氏が作成した偽のアカウントを誤って認証してしまったことが分かりました。ファウラー氏は認証プロセスに疑問を呈しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[サウジ政府がWikipediaにスパイを送り込み編集者2人を拘束、Wikipediaはサウジアラビアの管理者を全員追放]]></title>
         <id>https://gigazine.net/news/20230106-saudi-arabia-jails-wikipedia-staff/</id>

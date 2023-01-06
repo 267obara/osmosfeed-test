@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-twitter-vlue-verifying-issue/",
+          "author": null,
+          "description": "誰でもアカウントに青いチェックマークを付けられるサブスクリプションサービス「Twitter Blue」の認証プロセスを再開したTwitterが、ワシントン・ポストのコラムニストであるジェフリー・ファウラー氏が作成した偽のアカウントを誤って認証してしまったことが分かりました。ファウラー氏は認証プロセスに疑問を呈しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-twitter-vlue-verifying-issue/",
+          "publishedOn": "2023-01-06T06:00:00.000Z",
+          "wordCount": 2590,
+          "title": "「認証はすべて手動」と宣言したTwitterが手痛いミス、記者が作成した議員なりすましアカウントを認証してしまう",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/twitter-vlue-verifying-issue/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-saudi-arabia-jails-wikipedia-staff/",
           "author": null,
           "description": "サウジアラビア政府が、Wikipediaに政府のスパイを送り込んで、政府に批判的なWikipedia記事を作成した編集者2人を逮捕したことが分かりました。これを受けて、Wikipediaを運営するウィキメディア財団はサウジアラビアを担当するチームの調査を実施し、管理者全員を解雇しました。\n続きを読む...",

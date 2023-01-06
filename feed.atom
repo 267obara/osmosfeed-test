@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T03:14:42.980Z</updated>
+    <updated>2023-01-06T04:16:19.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Android向けのPS2エミュレーター「AetherSX2」の開発者が誹謗中傷や殺害予告を受けて開発中止を宣言]]></title>
+        <id>https://gigazine.net/news/20230106-ps2-emulator-android-ends/</id>
+        <link href="https://gigazine.net/news/20230106-ps2-emulator-android-ends/"/>
+        <updated>2023-01-06T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Android向けのPlayStation 2(PS2)エミュレーターである「AetherSX2」の開発者が、開発を無期限停止すると発表しました。開発停止の理由は「終わりのないなりすまし、苦情、要求、殺害予告」にあるとのことですが、記事作成時点で公開されているバージョン1.4-3060は引き続き利用可能となっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple・Google・Metaの給与が新法で明らかに、「抜け穴がある」「実際の報酬を反映していない」との声も]]></title>
+        <id>https://gigazine.net/news/20230106-california-pay-transparency-law/</id>
+        <link href="https://gigazine.net/news/20230106-california-pay-transparency-law/"/>
+        <updated>2023-01-06T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「同業他社は従業員にどれほどの給与を支払っているのか？」ということに興味を持つ人は多く、他社の給与情報は自分の市場価値を把握する上でも重要です。新たに、アメリカのカリフォルニア州では2023年1月1日に発効した「California Senate Bill No. 1162(SB1162)」という州法に基づき、15人以上の従業員を抱える企業は求人情報において給与を開示することが義務づけられました。この影響でAppleやGoogle、Metaといった大企業の給与が明らかとなっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[液晶＆電子ペーパーの2画面、“ツイスト”で切り替えられるノート「ThinkBook Plus Twist」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/06/news097.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/06/news097.html"/>
+        <updated>2023-01-06T03:28:00.000Z</updated>
+        <summary type="html"><![CDATA[片面に液晶ディスプレイを、もう片面にカラーE-Inkペーパーを備えたノートPC「ThinkBook Plus Twist」発表。米国価格は1649ドルで、1月に発売する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ギフト券に誤って「http://localhost:3000」を印字　誰もアクセスできず　提供元がミス]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/06/news094.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/06/news094.html"/>
+        <updated>2023-01-06T03:16:00.000Z</updated>
+        <summary type="html"><![CDATA[ギフト券の企画や販売を行うソウ・エクスペリエンスは、ギフト券「バーガーチケット」の一部に、アクセスできない誤ったURLを印刷したことが発覚したと発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モニターヘッドフォンとコンデンサーマイクを“ガッチャンコ”　オーテクがストリーマー向けヘッドセット]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/06/news092.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/06/news092.html"/>
+        <updated>2023-01-06T03:08:00.000Z</updated>
+        <summary type="html"><![CDATA[オーディオテクニカが、モニターヘッドフォンとコンデンサーマイクを一体化したヘッドセット「ATH-M50xSTS」を発表。ストリーマー向けで、価格と発売日は2月以降に発表する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterの「失敗した分野」をターゲットにしたレイオフで広告部門など40人が新たに解雇される、退職金の支払いもストップ]]></title>
         <id>https://gigazine.net/news/20230106-twitter-lays-off-advertising-engineers/</id>
@@ -11630,16 +11682,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[クラウドネイティブ化がLINEのネットワーク開発にもたらしたスピード。テレコム企業はOSSとどう付き合うのか。Cloud Native Telecom Operator Meetup 2022［PR］]]></title>
-        <id>https://www.publickey1.jp/blog/22/lineosscloud_native_telecom_operator_meetup_2022pr.html</id>
-        <link href="https://www.publickey1.jp/blog/22/lineosscloud_native_telecom_operator_meetup_2022pr.html"/>
-        <updated>2022-12-07T15:28:15.000Z</updated>
-        <summary type="html"><![CDATA[5G時代にむけた通信事業者のネットワークインフラの進化について、技術や標準化、オープンソース、そしてアカデミックなどのさまざまな観点から議論を行うイベント「Cloud Native Telecom Operator Meetup 2022」...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>

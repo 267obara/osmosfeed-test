@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-ps2-emulator-android-ends/",
+          "author": null,
+          "description": "Android向けのPlayStation 2(PS2)エミュレーターである「AetherSX2」の開発者が、開発を無期限停止すると発表しました。開発停止の理由は「終わりのないなりすまし、苦情、要求、殺害予告」にあるとのことですが、記事作成時点で公開されているバージョン1.4-3060は引き続き利用可能となっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-ps2-emulator-android-ends/",
+          "publishedOn": "2023-01-06T04:00:00.000Z",
+          "wordCount": 2440,
+          "title": "Android向けのPS2エミュレーター「AetherSX2」の開発者が誹謗中傷や殺害予告を受けて開発中止を宣言",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/ps2-emulator-android-ends/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230106-california-pay-transparency-law/",
+          "author": null,
+          "description": "「同業他社は従業員にどれほどの給与を支払っているのか？」ということに興味を持つ人は多く、他社の給与情報は自分の市場価値を把握する上でも重要です。新たに、アメリカのカリフォルニア州では2023年1月1日に発効した「California Senate Bill No. 1162(SB1162)」という州法に基づき、15人以上の従業員を抱える企業は求人情報において給与を開示することが義務づけられました。この影響でAppleやGoogle、Metaといった大企業の給与が明らかとなっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-california-pay-transparency-law/",
+          "publishedOn": "2023-01-06T03:30:00.000Z",
+          "wordCount": 2493,
+          "title": "Apple・Google・Metaの給与が新法で明らかに、「抜け穴がある」「実際の報酬を反映していない」との声も",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/california-pay-transparency-law/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-twitter-lays-off-advertising-engineers/",
           "author": null,
           "description": "Twitterの収益の柱である広告収入の不振が指摘される中、Twitterの経営陣が業績不良とみなしている分野や重要でないと判断した分野の人員整理を進め、これにより広告やマネタイズを担当する部門の従業員約40人が削減されたと報じられています。\n続きを読む...",
@@ -7008,16 +7028,6 @@
           "wordCount": 1290,
           "title": "ヨドバシ.comを支える内製プライベートクラウド／GitHub Codespacesが全ユーザーに無料提供へ／マイクロソフト「.NET 7」正式リリースほか、2022年11月の人気記事",
           "imageUrl": "https://www.publickey1.jp/fbico_pblky.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/lineosscloud_native_telecom_operator_meetup_2022pr.html",
-          "author": null,
-          "description": "5G時代にむけた通信事業者のネットワークインフラの進化について、技術や標準化、オープンソース、そしてアカデミックなどのさまざまな観点から議論を行うイベント「Cloud Native Telecom Operator Meetup 2022」...",
-          "link": "https://www.publickey1.jp/blog/22/lineosscloud_native_telecom_operator_meetup_2022pr.html",
-          "publishedOn": "2022-12-07T15:28:15.000Z",
-          "wordCount": 1347,
-          "title": "クラウドネイティブ化がLINEのネットワーク開発にもたらしたスピード。テレコム企業はOSSとどう付き合うのか。Cloud Native Telecom Operator Meetup 2022［PR］",
-          "imageUrl": "https://www.publickey1.jp/2022/cntom2022pr01.png"
         }
       ]
     },
@@ -7026,6 +7036,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news097.html",
+          "author": null,
+          "description": "片面に液晶ディスプレイを、もう片面にカラーE-Inkペーパーを備えたノートPC「ThinkBook Plus Twist」発表。米国価格は1649ドルで、1月に発売する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news097.html",
+          "publishedOn": "2023-01-06T03:28:00.000Z",
+          "wordCount": 2606,
+          "title": "液晶＆電子ペーパーの2画面、“ツイスト”で切り替えられるノート「ThinkBook Plus Twist」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news097.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news094.html",
+          "author": null,
+          "description": "ギフト券の企画や販売を行うソウ・エクスペリエンスは、ギフト券「バーガーチケット」の一部に、アクセスできない誤ったURLを印刷したことが発覚したと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news094.html",
+          "publishedOn": "2023-01-06T03:16:00.000Z",
+          "wordCount": 2594,
+          "title": "ギフト券に誤って「http://localhost:3000」を印字　誰もアクセスできず　提供元がミス",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news094.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news092.html",
+          "author": null,
+          "description": "オーディオテクニカが、モニターヘッドフォンとコンデンサーマイクを一体化したヘッドセット「ATH-M50xSTS」を発表。ストリーマー向けで、価格と発売日は2月以降に発表する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news092.html",
+          "publishedOn": "2023-01-06T03:08:00.000Z",
+          "wordCount": 2595,
+          "title": "モニターヘッドフォンとコンデンサーマイクを“ガッチャンコ”　オーテクがストリーマー向けヘッドセット",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news092.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/06/news084.html",
           "author": null,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T21:11:41.282Z</updated>
+    <updated>2023-01-06T22:12:34.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11408,67 +11408,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter、モーメント作成機能を削除　他機能の改善に注力]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news172.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news172.html"/>
-        <updated>2022-12-08T10:04:00.000Z</updated>
-        <summary type="html"><![CDATA[米Twitterは、ほとんどのユーザーからTwitterのモーメント作成機能を削除したと発表した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白人至上主義者のページなどTwitter広告主が望まない場所に広告が表示され苦情の嵐に]]></title>
-        <id>https://gigazine.net/news/20221208-twitter-ads-appear-on-white-nationalists/</id>
-        <link href="https://gigazine.net/news/20221208-twitter-ads-appear-on-white-nationalists/"/>
-        <updated>2022-12-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[不適切なTwitterアカウントページには表示されないようにモデレーションされているはずの広告が、白人至上主義者のアカウントページに表示されていることが明らかになりました。Amazon、Snap、Uberなど主要な広告主の広告が少なくとも2人の白人至上主義者のページで表示されており、広告主は苦情を申し立てました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitterの有料サブスクが価格変更？、iPhoneアプリから加入した場合のみ高く　海外報道]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news170.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news170.html"/>
-        <updated>2022-12-08T09:53:00.000Z</updated>
-        <summary type="html"><![CDATA[米Twitterが、有料サブスクリプションサービス「Twitter Blue」の料金を変更する予定だ。Webサイト経由で購入した場合は7ドル、iOSアプリの場合は11ドルに変更するという。米国のニュースサイト「The information」が報じた。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CircleCIがレイオフ　人員を17％削減]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news171.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news171.html"/>
-        <updated>2022-12-08T09:48:00.000Z</updated>
-        <summary type="html"><![CDATA[CI／CDサービスを提供する米CircleCIが、レイオフへの着手を発表した。人員の17％を削減するという。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダイソン、「ノイキャン付き空気清浄ヘッドフォン」を2023年に発売　外でもキレイな空気が吸える]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news164.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news164.html"/>
-        <updated>2022-12-08T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[ダイソンは12月8日、ノイズキャンセリング付き空気清浄ヘッドフォン「Dyson Zone ノイズキャンセリングヘッドホン」の全仕様を公開した。2022年初頭に発表されたもので、2023年1月の中国を皮切りに、3月には米国、英国、香港、シンガポールで発売予定としている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「＋メッセージ」の利用者数が3000万人を突破]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news152.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news152.html"/>
-        <updated>2022-12-08T09:14:00.000Z</updated>
-        <summary type="html"><![CDATA[NTTドコモ、ソフトバンク、KDDIは12月8日、携帯電話番号でメッセージがやりとりできるサービス「＋メッセージ」の利用者数が3000万人を超えたと発表した。10月末時点で3250万人となっている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

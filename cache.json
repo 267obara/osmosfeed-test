@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-koufukudo-sukiyaki-dango/",
+          "author": null,
+          "description": "数々の飲食店を展開している柿安本店の和菓子ブランド・口福堂で、まるで「すき焼きを味わったような団子」だという「すき焼団子」が登場したので、食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-koufukudo-sukiyaki-dango/",
+          "publishedOn": "2023-01-06T13:00:00.000Z",
+          "wordCount": 2406,
+          "title": "すき焼きの濃い甘辛さを団子にからめた口福堂の「すき焼団子」を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/koufukudo-sukiyaki-dango/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-obesity-drugs/",
           "author": null,
           "description": "2型糖尿病や心臓病など、さまざまな病気の原因となる肥満は爆発的に増加しており、WHOは「2016年には成人の40％が太りすぎ、13％が肥満だった」と報告しています。週1回の注射で体重を30％減らせる画期的な治療薬を始めとするさまざまな薬剤や、それにまつわる医療現場の議論について、科学誌のNatureがまとめました。\n続きを読む...",
@@ -6741,16 +6751,6 @@
           "wordCount": 4549,
           "title": "「VSCode」の設定を使いこなして開発をより便利にしよう",
           "imageUrl": "https://codezine.jp/static/images/article/16930/16467_ogp.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16988",
-          "author": null,
-          "description": "米Discordは、「絵文字」に関する調査「The Emoji Effect（絵文字の効果）」の結果を、12月7日に発表した。同調査は、世界中の16000名を対象に行われている。",
-          "link": "http://codezine.jp/article/detail/16988",
-          "publishedOn": "2022-12-08T01:00:00.000Z",
-          "wordCount": 4310,
-          "title": "Discord、全世界で実施した“絵文字”に関する調査結果を発表",
-          "imageUrl": "https://codezine.jp/static/images/article/16988/16988_og.png"
         }
       ]
     },
@@ -11265,16 +11265,6 @@
           "wordCount": 2600,
           "title": "“Microsoft版Discord”、「Teamsのコミュニティ」正式提供開始",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news089.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news083.html",
-          "author": null,
-          "description": "営業支援ツールを提供するRevComm（渋谷区）の提供する音声解析AI「MiiTel for Zoom」は、現場の担当者を対象に「SaaSの継続・解約理由」に関する実態調査を実施した。その結果、SaaSを解約した理由の第1位は「操作性が良くない」（55.9％）であることが分かった。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news083.html",
-          "publishedOn": "2022-12-08T01:10:00.000Z",
-          "wordCount": 2611,
-          "title": "SaaSの解約理由「操作性が良くない」5割超　「ツールがただ増えただけ」",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news083.jpg"
         }
       ]
     }

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T12:26:03.875Z</updated>
+    <updated>2023-01-06T13:19:38.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[すき焼きの濃い甘辛さを団子にからめた口福堂の「すき焼団子」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20230106-koufukudo-sukiyaki-dango/</id>
+        <link href="https://gigazine.net/news/20230106-koufukudo-sukiyaki-dango/"/>
+        <updated>2023-01-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[数々の飲食店を展開している柿安本店の和菓子ブランド・口福堂で、まるで「すき焼きを味わったような団子」だという「すき焼団子」が登場したので、食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[画期的な「肥満治療薬」の登場に沸く医療現場とその前途に横たわる問題とは？]]></title>
         <id>https://gigazine.net/news/20230106-obesity-drugs/</id>
@@ -11746,26 +11757,6 @@
         <link href="http://codezine.jp/article/detail/16930"/>
         <updated>2022-12-08T02:00:00.000Z</updated>
         <summary type="html"><![CDATA[第2回は、VSCodeの設定について紹介します。基本的な設定、ワークスペース、フォルダー、設定の同期、カラーテーマなどを紹介します。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaSの解約理由「操作性が良くない」5割超　「ツールがただ増えただけ」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news083.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news083.html"/>
-        <updated>2022-12-08T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[営業支援ツールを提供するRevComm（渋谷区）の提供する音声解析AI「MiiTel for Zoom」は、現場の担当者を対象に「SaaSの継続・解約理由」に関する実態調査を実施した。その結果、SaaSを解約した理由の第1位は「操作性が良くない」（55.9％）であることが分かった。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord、全世界で実施した“絵文字”に関する調査結果を発表]]></title>
-        <id>http://codezine.jp/article/detail/16988</id>
-        <link href="http://codezine.jp/article/detail/16988"/>
-        <updated>2022-12-08T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米Discordは、「絵文字」に関する調査「The Emoji Effect（絵文字の効果）」の結果を、12月7日に発表した。同調査は、世界中の16000名を対象に行われている。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
         </author>

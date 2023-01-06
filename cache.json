@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-chatgpt-ai-writing-tool-banned/",
+          "author": null,
+          "description": "機械学習に関する国際会議の1つであるInternational Conference on Machine Learning(ICML)が、「ChatGPTのようなAIを使って科学論文を執筆することを禁止する」という方針を発表しました。この方針をめぐって、AI研究者の間でも意見が割れています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-chatgpt-ai-writing-tool-banned/",
+          "publishedOn": "2023-01-06T10:00:00.000Z",
+          "wordCount": 2443,
+          "title": "ChatGPTなどのAIで科学論文を書くことが国際会議で禁止に、ただし自分の文章の編集・推敲はOK",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/chatgpt-ai-writing-tool-banned/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-headline/",
           "author": null,
           "description": "2023年1月5日(木)深夜から放送・配信がスタートしたアニメ「お兄ちゃんはおしまい！」のノンクレジットのオープニング＆エンディングムービーがYouTubeで公開されました。アップテンポでかわいらしい楽曲に合わせて動きまくるアニメーションは必見です。\n続きを読む...",
@@ -5174,16 +5184,6 @@
           "wordCount": 2607,
           "title": "目に見えないUnicode文字をコピペして使えたり元のUnicode文字を検索したりできる「Invisible Characters」",
           "imageUrl": "https://i.gzn.jp/img/2022/12/08/invisible-characters/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-wikipedia-edits-organizations-wikiwho/",
-          "author": null,
-          "description": "インターネット百科事典のWikipediaはボランティアによる共同編集が行われていますが、未登録のユーザーが編集を行った場合はIPアドレスが記録されるため、時には政府機関や特定の組織に属するIPアドレスからの編集が発覚することもあります。そんな特定の組織に属するIPアドレスが行ったWikipediaの編集履歴をまとめたウェブサイトが「Wikiwho」です。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-wikipedia-edits-organizations-wikiwho/",
-          "publishedOn": "2022-12-07T22:00:00.000Z",
-          "wordCount": 2541,
-          "title": "政府機関や軍隊などのIPアドレスから行われたWikipedia編集履歴をまとめたサイト「Wikiwho」",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/wikipedia-edits-organizations-wikiwho/00.jpg"
         }
       ]
     },
@@ -7096,6 +7096,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news149.html",
+          "author": null,
+          "description": "レノボ傘下の米Motorolaが、新型スマートフォン「Lenovo ThinkPhone」を発表した。「ThinkPad」ブランド30周年を記念したもので、法人を意識したセキュリティ機能やThinkPadとのシームレスな体験を実現するとしている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news149.html",
+          "publishedOn": "2023-01-06T09:40:00.000Z",
+          "wordCount": 2616,
+          "title": "ThinkPadブランドのスマホ「ThinkPhone」登場、モトローラから",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news149.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news150.html",
+          "author": null,
+          "description": "ポケモンGOで2日に「はなまるうどん」のジム、ポケストップが一斉に消滅。一部ユーザーの間で「スポンサー撤退か」などと話題になっている。はなまる社に事情を聞いた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news150.html",
+          "publishedOn": "2023-01-06T09:39:00.000Z",
+          "wordCount": 2338,
+          "title": "ポケモンGOで「はなまるうどん」ジム・ポケスト消失　スポンサー契約「昨年終了した」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news150.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news145.html",
+          "author": null,
+          "description": "各種動画サービスにおいて、アニメ「機動戦士ガンダム 水星の魔女」最新話の“見逃し配信”が遅れる。制作体制における新型コロナウイルスの影響という。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news145.html",
+          "publishedOn": "2023-01-06T09:10:00.000Z",
+          "wordCount": 2602,
+          "title": "「ガンダム 水星の魔女」最新話は“見逃し配信”に遅れ、新型コロナの影響　放送はいつも通り",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news145.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/06/news137.html",
           "author": null,

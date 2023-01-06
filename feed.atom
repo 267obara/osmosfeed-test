@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T07:12:03.993Z</updated>
+    <updated>2023-01-06T08:17:21.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YouTuberによるNFTゲーム「CryptoZoo」の詐欺的実態告発が訴訟沙汰に]]></title>
+        <id>https://gigazine.net/news/20230106-cryptozoo-coffeezilla-logan-paul/</id>
+        <link href="https://gigazine.net/news/20230106-cryptozoo-coffeezilla-logan-paul/"/>
+        <updated>2023-01-06T08:13:00.000Z</updated>
+        <summary type="html"><![CDATA[仮想通貨やブロックチェーン技術に関連する詐欺師や悪徳商法について調査することで知られるYouTuberのCoffeeZilla氏が、2021年から展開されているNFTゲーム「CryptoZoo」に関して、開発者に詐欺師が加わっており、ゲームでも不正な行為が行われていると告発しました。これに対して、ゲームに携わるローガン・ポール氏は前科のある人間がプロジェクトにいたことを認めつつも、CoffeeZilla氏のやり方に違法な点があると指摘、法的措置を取ることを示唆しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スマホで衛星通信が可能になる「Snapdragon Satellite」をQualcommが発表]]></title>
         <id>https://gigazine.net/news/20230106-qualcomm-snapdragon-satellite/</id>

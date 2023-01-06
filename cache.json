@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-cryptozoo-coffeezilla-logan-paul/",
+          "author": null,
+          "description": "仮想通貨やブロックチェーン技術に関連する詐欺師や悪徳商法について調査することで知られるYouTuberのCoffeeZilla氏が、2021年から展開されているNFTゲーム「CryptoZoo」に関して、開発者に詐欺師が加わっており、ゲームでも不正な行為が行われていると告発しました。これに対して、ゲームに携わるローガン・ポール氏は前科のある人間がプロジェクトにいたことを認めつつも、CoffeeZilla氏のやり方に違法な点があると指摘、法的措置を取ることを示唆しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-cryptozoo-coffeezilla-logan-paul/",
+          "publishedOn": "2023-01-06T08:13:00.000Z",
+          "wordCount": 2556,
+          "title": "YouTuberによるNFTゲーム「CryptoZoo」の詐欺的実態告発が訴訟沙汰に",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/cryptozoo-coffeezilla-logan-paul/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-qualcomm-snapdragon-satellite/",
           "author": null,
           "description": "iPhone 14シリーズで登場した衛星経由の緊急SOSや、衛星インターネット通信サービスの「Starlink」などが登場しており、モバイル業界では衛星通信サービスがトレンドになりつつあります。そんな衛星通信に対応するソリューション「Snapdragon Satellite」を、Qualcommが発表しました。\n続きを読む...",

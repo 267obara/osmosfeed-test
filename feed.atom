@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T18:16:33.394Z</updated>
+    <updated>2023-01-06T19:11:14.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11501,37 +11501,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTokが「子どもを薬物とアダルトコンテンツにさらした」と提訴される、中国政府へのデータ漏えい懸念で使用禁止の動きも]]></title>
-        <id>https://gigazine.net/news/20221208-tiktok-lawsuit-targeting-teens-adult-content/</id>
-        <link href="https://gigazine.net/news/20221208-tiktok-lawsuit-targeting-teens-adult-content/"/>
-        <updated>2022-12-08T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TikTokが、子どもの安全と個人情報の取り扱いについてユーザーに誤解を与えたとして、インディアナ州から提訴されていたことが分かりました。アメリカでは、TikTokを運営する中国企業のByteDanceが中国政府にデータを流出させるおそれがあるとの懸念が広がっており、インディアナ州だけでなくテキサス州やメリーランド州など各地でTikTokを禁止したり排除したりする動きが強まっています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[19分で100％充電　“神ジューデン”をうたうスマホ「Xiaomi 12T Pro」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news125.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news125.html"/>
-        <updated>2022-12-08T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Xiaomiは12月8日、19分で100％充電が完了する「Xiaomi 12T Pro」を発表した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[返品・交換がビジネスチャンスに？　アメリカで体験した「Happy Returns」のUXがナイスアイデア]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/07/news146.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/07/news146.html"/>
-        <updated>2022-12-08T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[シリコンバレーのIT企業に勤務する五島正浩さんが見た現地のテック動向を紹介する連載「シリコンバレーから見た風景」。第21回は、デメリットが大きそうなネットショッピングの返品・交換をビジネスチャンスにした企業を紹介します。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

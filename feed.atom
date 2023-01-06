@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T17:12:57.408Z</updated>
+    <updated>2023-01-06T18:16:33.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11530,47 +11530,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/07/news146.html"/>
         <updated>2022-12-08T06:30:00.000Z</updated>
         <summary type="html"><![CDATA[シリコンバレーのIT企業に勤務する五島正浩さんが見た現地のテック動向を紹介する連載「シリコンバレーから見た風景」。第21回は、デメリットが大きそうなネットショッピングの返品・交換をビジネスチャンスにした企業を紹介します。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic Games、メタバースで子どもを守る「機能限定アカウント」提供開始]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news133.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news133.html"/>
-        <updated>2022-12-08T06:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Epic Gamesはプレイヤーが入力した年齢に基づいてゲームの機能を制限する「機能限定アカウント」を発表した。保護者が設定を変更しない限り「フォートナイト」などで機能が制限される。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagramでシャドウバンされているかどうか確認できるように]]></title>
-        <id>https://gigazine.net/news/20221208-instagram-account-status/</id>
-        <link href="https://gigazine.net/news/20221208-instagram-account-status/"/>
-        <updated>2022-12-08T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Instagramが2021年に実装された機能「アカウントステータス」を、「企業やクリエイターなどのプロフェッショナルなアカウントを持つユーザー」が自分のコンテンツがフォロワー以外のユーザーにおすすめされるかどうか、あるいは自分のコンテンツがInstagramのおすすめに関するガイドラインに違反していないかを確認できるように拡張することを発表しました。この機能拡張により、プロアカウント限定で自分の投稿したコンテンツが他の人から見えなくなる「シャドウバン」の対象かどうかがチェックできるようになります。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マネフォがDB統合の方針転換、freee意識の新設計　freeeは機能を個別提供へ　インボイス制度が契機に]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news110.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news110.html"/>
-        <updated>2022-12-08T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[マネーフォワードは、取引先マスターや従業員マスターなど各種のデータベース（DB）を統合していく計画を明らかにした。1つのマスターDBに対し、各プロダクトがアクセスできる形を採る。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年、最もチャンネル登録者数を伸ばした日本のYouTuberは？　「夢みたいなお話ですわ」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news129.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news129.html"/>
-        <updated>2022-12-08T05:51:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年、1年で最もチャンネル登録者数を伸ばした日本のYouTuberは？──YouTubeがランキングを発表した。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

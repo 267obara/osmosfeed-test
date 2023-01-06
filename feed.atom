@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T22:12:34.909Z</updated>
+    <updated>2023-01-06T23:13:10.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11387,27 +11387,6 @@
         <summary type="html"><![CDATA[DIESEL（ディーゼル）ブランドの新しいスマートウォッチ「THE GRIFFED GEN 6」が登場しました。最新機能を盛り込みながらしゃれたデザインに仕上げています。発売イベントでじっくり見てきました。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[米国防総省がAWSなど“メガクラウド”4社と契約　90億ドル規模か]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news176.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news176.html"/>
-        <updated>2022-12-08T11:05:00.000Z</updated>
-        <summary type="html"><![CDATA[米国防総省が、共通クラウド環境を構築するプロジェクト「JWCC」について、米AWS、米Microsoftなど4社と契約を結んだと発表した。米Reuterによれば、契約期間は2028年まで。約90億ドル規模の取引になるという。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北朝鮮のサイバー犯罪グループ「APT37」がInternet Explorerのゼロデイ脆弱性を突く攻撃を行っていたと判明]]></title>
-        <id>https://gigazine.net/news/20221208-north-korean-apt37-internet-explorer-exploit/</id>
-        <link href="https://gigazine.net/news/20221208-north-korean-apt37-internet-explorer-exploit/"/>
-        <updated>2022-12-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Googleの脅威分析グループ(TAG)が、「APT37」「Reaper」というコードネームで呼ばれる北朝鮮のサイバー犯罪グループが2022年10月にInternet Explorerのゼロデイ脆弱(ぜいじゃく)性を悪用して攻撃していたことを突き止めたと発表しました。この攻撃は、2022年11月のセキュリティ更新プログラムをインストールしていないWindows 7以降あるいはWindows Server 2008以降を搭載したマシンを対象としているとのことです。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

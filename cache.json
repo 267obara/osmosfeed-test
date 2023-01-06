@@ -5064,16 +5064,6 @@
           "wordCount": 2493,
           "title": "多くの国では「ソーシャルメディアは民主主義に役立つ」と考えられているとの調査結果、日本人はどう思っているのか？",
           "imageUrl": "https://i.gzn.jp/img/2022/12/08/social-media-good-for-democracy/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-north-korean-apt37-internet-explorer-exploit/",
-          "author": null,
-          "description": "Googleの脅威分析グループ(TAG)が、「APT37」「Reaper」というコードネームで呼ばれる北朝鮮のサイバー犯罪グループが2022年10月にInternet Explorerのゼロデイ脆弱(ぜいじゃく)性を悪用して攻撃していたことを突き止めたと発表しました。この攻撃は、2022年11月のセキュリティ更新プログラムをインストールしていないWindows 7以降あるいはWindows Server 2008以降を搭載したマシンを対象としているとのことです。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-north-korean-apt37-internet-explorer-exploit/",
-          "publishedOn": "2022-12-08T11:00:00.000Z",
-          "wordCount": 2530,
-          "title": "北朝鮮のサイバー犯罪グループ「APT37」がInternet Explorerのゼロデイ脆弱性を突く攻撃を行っていたと判明",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/north-korean-apt37-internet-explorer-exploit/00_m.png"
         }
       ]
     },
@@ -10915,16 +10905,6 @@
           "wordCount": 2391,
           "title": "DIESELのスマートウォッチ「THE GRIFFED GEN 6」に触れて分かった“市場の成熟”",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news180.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news176.html",
-          "author": null,
-          "description": "米国防総省が、共通クラウド環境を構築するプロジェクト「JWCC」について、米AWS、米Microsoftなど4社と契約を結んだと発表した。米Reuterによれば、契約期間は2028年まで。約90億ドル規模の取引になるという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news176.html",
-          "publishedOn": "2022-12-08T11:05:00.000Z",
-          "wordCount": 2600,
-          "title": "米国防総省がAWSなど“メガクラウド”4社と契約　90億ドル規模か",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news176.jpg"
         }
       ]
     }

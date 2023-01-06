@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T04:16:19.058Z</updated>
+    <updated>2023-01-06T05:12:35.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[サウジ政府がWikipediaにスパイを送り込み編集者2人を拘束、Wikipediaはサウジアラビアの管理者を全員追放]]></title>
+        <id>https://gigazine.net/news/20230106-saudi-arabia-jails-wikipedia-staff/</id>
+        <link href="https://gigazine.net/news/20230106-saudi-arabia-jails-wikipedia-staff/"/>
+        <updated>2023-01-06T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サウジアラビア政府が、Wikipediaに政府のスパイを送り込んで、政府に批判的なWikipedia記事を作成した編集者2人を逮捕したことが分かりました。これを受けて、Wikipediaを運営するウィキメディア財団はサウジアラビアを担当するチームの調査を実施し、管理者全員を解雇しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三石琴乃さんもインボイスに「ストーップ！」　STOP！インボイス、動画素材を公募]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/06/news105.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/06/news105.html"/>
+        <updated>2023-01-06T04:38:00.000Z</updated>
+        <summary type="html"><![CDATA[インボイス制度と問題点の認知を広げる動画に声優の三石琴乃さんなどが参加。今後新たな動画を制作するにあたり、素材を公募している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2億件を超えるTwitterアカウントのメールアドレスなどを含む個人情報がハッカーフォーラムでわずか2ドルで販売されている]]></title>
+        <id>https://gigazine.net/news/20230106-twitter-users-email-leaked-online/</id>
+        <link href="https://gigazine.net/news/20230106-twitter-users-email-leaked-online/"/>
+        <updated>2023-01-06T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2億件超のTwitterアカウントの電子メールアドレスなどを含む個人情報が流出し、ハッカーフォーラムでわずか2ドル(約260円)で販売されていることが明らかとなりました。一連のデータは2021年の時点で、TwitterのAPIの脆弱(ぜいじゃく)性を悪用して盗み出されていたとみられています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dellが中国製のチップの使用を2024年までに削減・停止へ]]></title>
+        <id>https://gigazine.net/news/20230106-dell-plans-phase-out-chinese-chips/</id>
+        <link href="https://gigazine.net/news/20230106-dell-plans-phase-out-chinese-chips/"/>
+        <updated>2023-01-06T04:20:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカと中国との貿易に緊張が走るなか、アメリカのテクノロジー企業であるDellが2024年までに中国製チップの使用を停止する計画であると報じられました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android向けのPS2エミュレーター「AetherSX2」の開発者が誹謗中傷や殺害予告を受けて開発中止を宣言]]></title>
         <id>https://gigazine.net/news/20230106-ps2-emulator-android-ends/</id>

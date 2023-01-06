@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-saudi-arabia-jails-wikipedia-staff/",
+          "author": null,
+          "description": "サウジアラビア政府が、Wikipediaに政府のスパイを送り込んで、政府に批判的なWikipedia記事を作成した編集者2人を逮捕したことが分かりました。これを受けて、Wikipediaを運営するウィキメディア財団はサウジアラビアを担当するチームの調査を実施し、管理者全員を解雇しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-saudi-arabia-jails-wikipedia-staff/",
+          "publishedOn": "2023-01-06T05:00:00.000Z",
+          "wordCount": 2456,
+          "title": "サウジ政府がWikipediaにスパイを送り込み編集者2人を拘束、Wikipediaはサウジアラビアの管理者を全員追放",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/saudi-arabia-jails-wikipedia-staff/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20230106-twitter-users-email-leaked-online/",
+          "author": null,
+          "description": "2億件超のTwitterアカウントの電子メールアドレスなどを含む個人情報が流出し、ハッカーフォーラムでわずか2ドル(約260円)で販売されていることが明らかとなりました。一連のデータは2021年の時点で、TwitterのAPIの脆弱(ぜいじゃく)性を悪用して盗み出されていたとみられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-twitter-users-email-leaked-online/",
+          "publishedOn": "2023-01-06T04:30:00.000Z",
+          "wordCount": 2452,
+          "title": "2億件を超えるTwitterアカウントのメールアドレスなどを含む個人情報がハッカーフォーラムでわずか2ドルで販売されている",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/twitter-users-email-leaked-online/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230106-dell-plans-phase-out-chinese-chips/",
+          "author": null,
+          "description": "アメリカと中国との貿易に緊張が走るなか、アメリカのテクノロジー企業であるDellが2024年までに中国製チップの使用を停止する計画であると報じられました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-dell-plans-phase-out-chinese-chips/",
+          "publishedOn": "2023-01-06T04:20:00.000Z",
+          "wordCount": 2440,
+          "title": "Dellが中国製のチップの使用を2024年までに削減・停止へ",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/dell-plans-phase-out-chinese-chips/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-ps2-emulator-android-ends/",
           "author": null,
           "description": "Android向けのPlayStation 2(PS2)エミュレーターである「AetherSX2」の開発者が、開発を無期限停止すると発表しました。開発停止の理由は「終わりのないなりすまし、苦情、要求、殺害予告」にあるとのことですが、記事作成時点で公開されているバージョン1.4-3060は引き続き利用可能となっています。\n続きを読む...",
@@ -7036,6 +7066,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news105.html",
+          "author": null,
+          "description": "インボイス制度と問題点の認知を広げる動画に声優の三石琴乃さんなどが参加。今後新たな動画を制作するにあたり、素材を公募している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news105.html",
+          "publishedOn": "2023-01-06T04:38:00.000Z",
+          "wordCount": 2587,
+          "title": "三石琴乃さんもインボイスに「ストーップ！」　STOP！インボイス、動画素材を公募",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news105.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/06/news097.html",
           "author": null,

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-huawei-moving-safe-zone/",
+          "author": null,
+          "description": "中国の大手テクノロジー企業であるHuaweiに対して、アメリカ政府はかねてから「国家安全保障上の脅威」として厳しい規制を行っています。Huaweiは規制の影響でビジネスに大打撃を受けていましたが、2022年の売上高は前年比で微増となり、底を脱したことが報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-huawei-moving-safe-zone/",
+          "publishedOn": "2023-01-06T00:00:00.000Z",
+          "wordCount": 2463,
+          "title": "アメリカ政府の規制で深刻な危機に陥ったHuaweiの年間売上高が前年比で微増となり「危機的状態を脱した」と宣言",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/huawei-moving-safe-zone/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-eufy-smart-scale-p2-pro-manage/",
           "author": null,
           "description": "Ankerのスマートホームブランド・Eufyから、初の体重体組成計となる「Eufy Smart Scale P2 Pro」が2022年8月30日に登場しました。Wi-FiやBluetooth接続に対応しており、スマートフォンにアクセスし、体重だけではなく心拍数や体脂肪率、BMI、筋肉量、水分量、基礎代謝量、内臓脂肪量、体脂肪量、除脂肪体重、骨量(kg)、タンパク質、体内年齢、骨格筋量、皮下脂肪率、体脂肪率、ボディタイプの全16項目を測定可能。スマートフォンのアプリ「EufyLife」と連携させることで自分の測定したデータを管理できるとのことで、実際に数日計測をしてみました。\n続きを読む...",
@@ -5054,26 +5064,6 @@
           "wordCount": 2524,
           "title": "SSDの寿命を見積もるためには何に注目すればいいのか？",
           "imageUrl": "https://i.gzn.jp/img/2022/12/07/ssd-working-life/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-wendys-firstkitchen-mush-demi-melt-burger/",
-          "author": null,
-          "description": "ウェンディーズファーストキッチンが2022年12月6日(火)から「マッシュ×マッシュデミメルトバーガー」の提供を開始しました。たっぷりのマッシュルームとチーズを組み合わせた「マッシュルームメルトソース」にクリーミーなマッシュポテトを合わせて、肉と野菜のうまみを閉じ込めた濃厚デミグラスソースをプラスした一品が気になったので、実際にウェンディーズファーストキッチンで買って食べてみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-wendys-firstkitchen-mush-demi-melt-burger/",
-          "publishedOn": "2022-12-07T13:00:00.000Z",
-          "wordCount": 2476,
-          "title": "チーズとクリーミーなマッシュポテトが口の中でとろけ合うウェンディーズファーストキッチン「マッシュ×マッシュデミメルトバーガー」試食レビュー",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/wendys-firstkitchen-mush-demi-melt-burger/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221207-ban-reuse-lithium-ion-batteries-bill/",
-          "author": null,
-          "description": "スマートフォンから電気自動車に至るまで、今やバッテリーで駆動する幅広いデバイスにリチウムイオンバッテリーが搭載されています。しかし、リチウムイオンバッテリーは発火・爆発する恐れがあり、実際、ヘッドホンやスマートフォンなどが爆発する事例も複数報告されてきました。そんなリチウムイオンバッテリーの爆発を危惧し、アメリカ・ニューヨークではリチウムイオンバッテリーの再利用を禁止するための法案が議会に提出されているのですが、この法案が意図しない結果をもたらすことになると専門家が警告しています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221207-ban-reuse-lithium-ion-batteries-bill/",
-          "publishedOn": "2022-12-07T12:00:00.000Z",
-          "wordCount": 2483,
-          "title": "リチウムイオンバッテリーの再利用を禁止する法案は「絶対に狂っている」と修理する権利の擁護派が警告",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/07/ban-reuse-lithium-ion-batteries-bill/00_m.jpg"
         }
       ]
     },
@@ -5082,6 +5072,26 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/17139",
+          "author": null,
+          "description": "米Meta Platformsは、モバイルアプリフレームワークReact Nativeの次世代版となる、「React Native 0.71」に加わった新機能について公式ブログの1月3日（現地時間）付け投稿で解説している。本稿公開時点で、React Nativeの最新安定版はバージョン0.70。次世代版のバージョン0.71については、リリース候補版（RC：Release Candidate）5が登場している。React Nativeは、MITライセンスで公開しているオープンソース・ソフトウェア。",
+          "link": "http://codezine.jp/article/detail/17139",
+          "publishedOn": "2023-01-06T00:00:00.000Z",
+          "wordCount": 4295,
+          "title": "「React Native 0.71」ではTypeScriptが事実上の標準言語に──Metaの新機能解説より",
+          "imageUrl": "https://codezine.jp/static/images/article/17139/14987_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17140",
+          "author": null,
+          "description": "スタンフォード大学の博士課程で学ぶ学生であるZiheng Wang氏は、Python向け高速分散クエリ・エンジン「Quokka」の最新版となる「バージョン0.1.4」を12月30日（現地時間）に公開した。QuokkaはApache License 2.0で公開しているオープンソース・ソフトウェア。",
+          "link": "http://codezine.jp/article/detail/17140",
+          "publishedOn": "2023-01-06T00:00:00.000Z",
+          "wordCount": 4299,
+          "title": "Python向け高速分散クエリ・エンジン「Quokka」のバージョン0.14が登場",
+          "imageUrl": "https://codezine.jp/static/common/images/czlogo4fb_ogp.png"
+        },
         {
           "id": "http://codezine.jp/article/detail/17131",
           "author": null,
@@ -6926,6 +6936,46 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news064.html",
+          "author": null,
+          "description": "IT見本市「CES」が開幕。パナソニックホールディングスやシャープといった日系メーカーは最新型の太陽電池やEV向けの製品などを中心に展示、世界で進む脱炭素化への取り組みに向け、日本の技術をPRする。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news064.html",
+          "publishedOn": "2023-01-06T00:00:00.000Z",
+          "wordCount": 2320,
+          "title": "CES、日系企業は脱炭素PR　次世代太陽電池も",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news064.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news065.html",
+          "author": null,
+          "description": "GoogleとSpotifyがAndroidでのオーディオ再生で提携する。Android 13の「メディアプレーヤー」に「Spotify Connect」を統合し、アプリを起動せずにオーディオ再生先を切り替えられるようにする。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news065.html",
+          "publishedOn": "2023-01-05T23:52:00.000Z",
+          "wordCount": 2610,
+          "title": "Google、Spotifyとの提携でシームレスなオーディオ再生実現へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news065.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news023.html",
+          "author": null,
+          "description": "Microsoft Researchに所属する研究者らは、人物の静止画像やテキストプロンプトから高品質な3Dアバターを生成する拡散モデルを提案した研究報告を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news023.html",
+          "publishedOn": "2023-01-05T23:00:00.000Z",
+          "wordCount": 2678,
+          "title": "呪文で高精細な3Dアバターを生成するAI「Rodin」　Microsoftが開発",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news023.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news022.html",
+          "author": null,
+          "description": "神戸大学塚本・寺田研究室に所属する研究者らは、ビデオ会議において、目や口といった顔の一部分だけを表示した際の影響を調査した研究報告を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news022.html",
+          "publishedOn": "2023-01-05T23:00:00.000Z",
+          "wordCount": 2637,
+          "title": "巨大化した“口”や“目”だけをWeb会議で表示するとどうなる？　神戸大が調査",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news022.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/06/news058.html",
           "author": null,
@@ -10975,36 +11025,6 @@
           "wordCount": 2594,
           "title": "SpaceX、政府向けStarlink「Starshield」立ち上げ",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news076.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/07/news089.html",
-          "author": null,
-          "description": "日本語入力＆きせかえ顔文字キーボードアプリ「Simeji」を提供するバイドゥ（東京都港区）は、10～24歳の男女を対象とした「Simeji presents Z世代トレンドアワード 2022」を発表した。その結果、年間トレンド大賞には芸人なかやまきんに君の元気な掛け声「ヤー！パワー！」が選ばれた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/07/news089.html",
-          "publishedOn": "2022-12-07T13:00:00.000Z",
-          "wordCount": 2616,
-          "title": "Z世代トレンドアワード2022　顔文字のトップはアーニャの「ふっ」",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news089.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/07/news172.html",
-          "author": null,
-          "description": "2022年は仮想通貨業界にとってはたいへん厳しい年となった。テラショック、セルシウスショック、FTXショックの概要を振り返るとともに、ビットバンクの廣末紀之社長に業界の今後を聞く。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/07/news172.html",
-          "publishedOn": "2022-12-07T11:49:00.000Z",
-          "wordCount": 2611,
-          "title": "テラ、セルシウス、FTXの3大ショック　価格3分の1になった2022年の仮想通貨業界を振り返る",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news172.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/07/news177.html",
-          "author": null,
-          "description": "NHKは7日、大みそかに放送する「第73回NHK紅白歌合戦」の特別企画として、シンガーソングライターの松任谷由実さんが、AI技術により再現された50年前の自分と共演すると発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/07/news177.html",
-          "publishedOn": "2022-12-07T11:41:00.000Z",
-          "wordCount": 2599,
-          "title": "ユーミン、紅白で“AI荒井由実”と本人コラボ　50年前の歌声をAI技術で再現",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/07/cover_news177.jpg"
         }
       ]
     }

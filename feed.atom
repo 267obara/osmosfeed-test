@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T06:17:36.050Z</updated>
+    <updated>2023-01-06T07:12:03.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[スマホで衛星通信が可能になる「Snapdragon Satellite」をQualcommが発表]]></title>
+        <id>https://gigazine.net/news/20230106-qualcomm-snapdragon-satellite/</id>
+        <link href="https://gigazine.net/news/20230106-qualcomm-snapdragon-satellite/"/>
+        <updated>2023-01-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhone 14シリーズで登場した衛星経由の緊急SOSや、衛星インターネット通信サービスの「Starlink」などが登場しており、モバイル業界では衛星通信サービスがトレンドになりつつあります。そんな衛星通信に対応するソリューション「Snapdragon Satellite」を、Qualcommが発表しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「認証はすべて手動」と宣言したTwitterが手痛いミス、記者が作成した議員なりすましアカウントを認証してしまう]]></title>
         <id>https://gigazine.net/news/20230106-twitter-vlue-verifying-issue/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2画面連結ノート「Yoga Book 9i」　キーボードの位置にもディスプレイ搭載]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/06/news114.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/06/news114.html"/>
+        <updated>2023-01-06T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ディスプレイを2枚搭載したノートPCがLenovoから。通常のノートPCならキーボードに当たる部分にもディスプレイを搭載した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

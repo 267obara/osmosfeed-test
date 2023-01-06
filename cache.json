@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230106-qualcomm-snapdragon-satellite/",
+          "author": null,
+          "description": "iPhone 14シリーズで登場した衛星経由の緊急SOSや、衛星インターネット通信サービスの「Starlink」などが登場しており、モバイル業界では衛星通信サービスがトレンドになりつつあります。そんな衛星通信に対応するソリューション「Snapdragon Satellite」を、Qualcommが発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230106-qualcomm-snapdragon-satellite/",
+          "publishedOn": "2023-01-06T07:00:00.000Z",
+          "wordCount": 2504,
+          "title": "スマホで衛星通信が可能になる「Snapdragon Satellite」をQualcommが発表",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/06/qualcomm-snapdragon-satellite/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-twitter-vlue-verifying-issue/",
           "author": null,
           "description": "誰でもアカウントに青いチェックマークを付けられるサブスクリプションサービス「Twitter Blue」の認証プロセスを再開したTwitterが、ワシントン・ポストのコラムニストであるジェフリー・ファウラー氏が作成した偽のアカウントを誤って認証してしまったことが分かりました。ファウラー氏は認証プロセスに疑問を呈しています。\n続きを読む...",
@@ -7076,6 +7086,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/06/news114.html",
+          "author": null,
+          "description": "ディスプレイを2枚搭載したノートPCがLenovoから。通常のノートPCならキーボードに当たる部分にもディスプレイを搭載した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/06/news114.html",
+          "publishedOn": "2023-01-06T06:00:00.000Z",
+          "wordCount": 2609,
+          "title": "2画面連結ノート「Yoga Book 9i」　キーボードの位置にもディスプレイ搭載",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/06/cover_news114.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/06/news105.html",
           "author": null,

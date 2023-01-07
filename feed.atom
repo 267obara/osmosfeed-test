@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T20:13:10.527Z</updated>
+    <updated>2023-01-07T21:10:58.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -10936,16 +10936,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TwitterのマスクCEO、“シャドウバン”理由表示やビューカウンターなどの新機能を予告]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/09/news166.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news166.html"/>
-        <updated>2022-12-09T09:08:00.000Z</updated>
-        <summary type="html"><![CDATA[TwitterのマスクCEOが今後追加予定の新機能をツイートで予告した。ビューカウンターについてはジェーン・マンチュン・ウォン氏が画像をツイートした。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

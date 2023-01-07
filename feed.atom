@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T05:11:53.819Z</updated>
+    <updated>2023-01-07T06:15:37.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[クリエイターとして成功するためには「1000人の真のファン」をつかむことが重要]]></title>
+        <id>https://gigazine.net/news/20230107-1000-true-fans/</id>
+        <link href="https://gigazine.net/news/20230107-1000-true-fans/"/>
+        <updated>2023-01-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[画家やイラストレーター、漫画家、小説家、写真家、ミュージシャンなど、クリエイターが何かの作品を世に発表するだけで生計を立てていくのはkなり難しいものがあります。エッセイストで編集者のケビン・ケリー氏が「1000人の真のファン」というエッセイで、クリエイターとして成功するためには真のファンを1000人つかむことが重要だと説いています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「アダムス・ファミリー」の長女ウェンズデーが学園で起きる事件に迫るミステリードラマ「ウェンズデー」シーズン2決定]]></title>
         <id>https://gigazine.net/news/20230107-netflix-wednesday-season2/</id>

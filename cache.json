@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230107-aging-unbalanced-genes/",
+          "author": null,
+          "description": "ヒト、マウス、ラット、メダカから採取したさまざまな体組織のデータを人工知能で解析した研究により、老化の過程で起きる分子レベルの変化の大半は、遺伝子の長さで説明ができることが分かりました。この発見により、加齢を遅らせたり逆行させたりする治療が開発される可能性があると期待されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230107-aging-unbalanced-genes/",
+          "publishedOn": "2023-01-07T11:00:00.000Z",
+          "wordCount": 2441,
+          "title": "寿命の長さは「遺伝子の長さ」によって決まるかもしれない",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/07/aging-unbalanced-genes/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230107-hand-cranked-calculator-curta-nazi-concentration-camp/",
           "author": null,
           "description": "現代では多くの人々がスマートフォンの電卓アプリを使っていますが、過去には電子式ではなく機械式の計算機も使われていました。1948年に登場して以降、約20年にわたり地球上で最高のポータブル計算機だった「クルタ計算機」は、ナチスの強制収容所に収容されていた囚人によって発明されたとのことで、テクノロジー系メディアのArs Technicaがその歴史についてまとめています。\n続きを読む...",
@@ -5064,16 +5074,6 @@
           "wordCount": 2666,
           "title": "iPhoneのUSB-C搭載が2024年12月28日までに行われる可能性が濃厚に",
           "imageUrl": "https://i.gzn.jp/img/2022/12/09/iphone-usb-c-deadline/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221209-sony-inzone-m3-unboxing/",
-          "author": null,
-          "description": "ソニーがフルHDのゲーミングモニター「INZONE M3」を2022年12月1日に発売しました。INZONE M3は240Hzという高いリフレッシュレートで動作する他、NVIDIA G-SYNCやAdaptive-Syncといった可変リフレッシュレート技術に対応。さらに、暗い場所を明るく表示するブラックイコライザーや画面中央にクロスヘアを表示する機能などゲーマーが望む機能が数多く搭載されています。そんなINZONE M3が編集部にやって来たので、まずは組み立て手順や外観をチェックしてみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221209-sony-inzone-m3-unboxing/",
-          "publishedOn": "2022-12-08T23:00:00.000Z",
-          "wordCount": 2570,
-          "title": "ソニー製フルHD・240Hzゲーミングモニター「INZONE M3」を組み立てて外観をチェックしてみた",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/09/sony-inzone-m3-unboxing/00.JPG"
         }
       ]
     },
@@ -6591,16 +6591,6 @@
           "wordCount": 4294,
           "title": "CSSに関する年次調査「State of CSS 2022」が発表",
           "imageUrl": "https://codezine.jp/static/images/article/16998/12540_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16995",
-          "author": null,
-          "description": "Appleシリコンを搭載したMacで利用可能なLinuxディストリビューションであるAsahi Linuxの開発チームは、AppleシリコンGPUドライバの、最初のアルファ版を12月7日（現地時間）にリリースした。",
-          "link": "http://codezine.jp/article/detail/16995",
-          "publishedOn": "2022-12-08T23:00:00.000Z",
-          "wordCount": 4287,
-          "title": "Asahi Linux、AppleシリコンGPUドライバのアルファ版をリリース",
-          "imageUrl": "https://codezine.jp/static/images/article/16995/12883_og.jpg"
         }
       ]
     },

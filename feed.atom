@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T10:13:01.231Z</updated>
+    <updated>2023-01-07T11:10:08.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[寿命の長さは「遺伝子の長さ」によって決まるかもしれない]]></title>
+        <id>https://gigazine.net/news/20230107-aging-unbalanced-genes/</id>
+        <link href="https://gigazine.net/news/20230107-aging-unbalanced-genes/"/>
+        <updated>2023-01-07T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヒト、マウス、ラット、メダカから採取したさまざまな体組織のデータを人工知能で解析した研究により、老化の過程で起きる分子レベルの変化の大半は、遺伝子の長さで説明ができることが分かりました。この発見により、加齢を遅らせたり逆行させたりする治療が開発される可能性があると期待されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ナチスの強制収容所の囚人が発明した持ち運び可能な手回し式計算機「クルタ計算機」とは？]]></title>
         <id>https://gigazine.net/news/20230107-hand-cranked-calculator-curta-nazi-concentration-camp/</id>
@@ -11327,27 +11338,6 @@
         <summary type="html"><![CDATA[デスクトップ版Chromeブラウザに2つの新機能が追加される。「Memory Saver」は多数のタブを開いた場合、非表示タブのメモリを解放する。「Energy Saver」はPCのバッテリーが少なくなったらWebの視覚効果を制限する。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソニー製フルHD・240Hzゲーミングモニター「INZONE M3」を組み立てて外観をチェックしてみた]]></title>
-        <id>https://gigazine.net/news/20221209-sony-inzone-m3-unboxing/</id>
-        <link href="https://gigazine.net/news/20221209-sony-inzone-m3-unboxing/"/>
-        <updated>2022-12-08T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ソニーがフルHDのゲーミングモニター「INZONE M3」を2022年12月1日に発売しました。INZONE M3は240Hzという高いリフレッシュレートで動作する他、NVIDIA G-SYNCやAdaptive-Syncといった可変リフレッシュレート技術に対応。さらに、暗い場所を明るく表示するブラックイコライザーや画面中央にクロスヘアを表示する機能などゲーマーが望む機能が数多く搭載されています。そんなINZONE M3が編集部にやって来たので、まずは組み立て手順や外観をチェックしてみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asahi Linux、AppleシリコンGPUドライバのアルファ版をリリース]]></title>
-        <id>http://codezine.jp/article/detail/16995</id>
-        <link href="http://codezine.jp/article/detail/16995"/>
-        <updated>2022-12-08T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Appleシリコンを搭載したMacで利用可能なLinuxディストリビューションであるAsahi Linuxの開発チームは、AppleシリコンGPUドライバの、最初のアルファ版を12月7日（現地時間）にリリースした。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T19:10:08.336Z</updated>
+    <updated>2023-01-07T20:13:10.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -10944,27 +10944,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/09/news166.html"/>
         <updated>2022-12-09T09:08:00.000Z</updated>
         <summary type="html"><![CDATA[TwitterのマスクCEOが今後追加予定の新機能をツイートで予告した。ビューカウンターについてはジェーン・マンチュン・ウォン氏が画像をツイートした。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter本社に違法な仮眠室が設けられたとして規制当局による調査のメスが入る]]></title>
-        <id>https://gigazine.net/news/20221209-twitter-investigation-illegal-bedrooms/</id>
-        <link href="https://gigazine.net/news/20221209-twitter-investigation-illegal-bedrooms/"/>
-        <updated>2022-12-09T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterが本社の一部を従業員向けの仮眠室に変えたことが、サンフランシスコの建築基準法に違反しているとして、規制当局の調査を受けていることが明らかになりました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「忘年会お断り文章生成AI」登場　約200文字の欠席理由を自動生成]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/09/news150.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news150.html"/>
-        <updated>2022-12-09T07:56:00.000Z</updated>
-        <summary type="html"><![CDATA[文章生成AI「Catchy」などを開発するスタートアップ企業のデジタルレシピは、忘年会を断りたい人のために、欠席理由を代理で考えてくれるAIツール「忘年会お断り文章生成AI」を開発した。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

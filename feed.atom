@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T22:11:48.916Z</updated>
+    <updated>2023-01-07T23:12:38.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -10861,27 +10861,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/09/news174.html"/>
         <updated>2022-12-09T11:49:00.000Z</updated>
         <summary type="html"><![CDATA[映画「鬼滅の刃 無限列車編」をフジテレビが12月10日に特別番組としてノーカット放送する。しかし一部地域のファンは録画予約などの際に注意する必要がありそうだ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目に見えるのにAIには見えない「対AI型迷彩コート」を学生が開発]]></title>
-        <id>https://gigazine.net/news/20221209-invisdefense-coat-china/</id>
-        <link href="https://gigazine.net/news/20221209-invisdefense-coat-china/"/>
-        <updated>2022-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AIで人を検出するカメラの目をごまかすことができる特殊なコートが、中国の武漢大学の学生により開発されました。数々の監視システムが導入されている中国において、人々のプライバシーと安全を保護することが期待されています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIでどこまでできる？　絵心のないプログラマーが「ChatGPT」と「作画AI」でマンガを描いてみた]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/09/news139.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news139.html"/>
-        <updated>2022-12-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[クリスタにAI作画機能搭載が見送られたと聞いて、なるほどなあと思いつつ、では絵が全く描けない筆者が、AIを使って漫画を書くことはできるのか、実際にやってみることにした。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

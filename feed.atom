@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T01:06:54.688Z</updated>
+    <updated>2023-01-07T02:35:40.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Appleが第4世代「iPhone SE」の発売をキャンセルしたと報じられる]]></title>
+        <id>https://gigazine.net/news/20230107-apple-canceled-next-iphone-se/</id>
+        <link href="https://gigazine.net/news/20230107-apple-canceled-next-iphone-se/"/>
+        <updated>2023-01-07T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleは2024年に第4世代iPhone SEを発売すると予想されていましたが、Apple関連の確度の高いリーク情報や予想を行うアナリストのミンチー・クオ氏が、「2024年には第4世代iPhone SEが発売されない可能性がある」と自身のブログで指摘しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ふっくらビスケット型吸音パネル「bisketta」、コクヨが発売　「オフィスの魅力高める」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/07/news032.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/07/news032.html"/>
+        <updated>2023-01-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[コクヨがビスケットのような形をした吸音パネル「bisketta」（ビスケッタ）を発表。価格は1枚当たり税別3万2400円からで、10日に発売する。オフィスでの利用を想定し、法人向けに提供する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自動車・飛行機・船などをリアルな動きでシミュレーションできてぶっ壊れる様子も確認できるゲーム「Rigs of Rods」]]></title>
         <id>https://gigazine.net/news/20230107-rigs-of-rods/</id>
@@ -11345,17 +11366,6 @@
         <summary type="html"><![CDATA[日産自動車の軽EV「サクラ」が「2022-2023 日本カー・オブ・ザ・イヤー」と、軽自動車カテゴリーの「K CAR オブ・ザ・イヤー」を受賞した。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロン・マスクによるTwitterの混乱に乗じてMetaが「ネクストTwitter」の構築について議論していたと判明]]></title>
-        <id>https://gigazine.net/news/20221208-twitters-rivals-capitalize-musk-induced-chaos/</id>
-        <link href="https://gigazine.net/news/20221208-twitters-rivals-capitalize-musk-induced-chaos/"/>
-        <updated>2022-12-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[イーロン・マスク氏による買収を受けてTwitterが混乱している中、Instagramを所有するMetaが「ネクストTwitter」の構築についてブレインストーミングを行っていたと、海外メディアのニューヨーク・タイムズが報じました。Meta以外にもMastodonやTumblrなどの競合サービスがシェア獲得の機会をうかがっているほか、Hive SocialやPost.といった新興企業も登場しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

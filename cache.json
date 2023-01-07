@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230107-apple-canceled-next-iphone-se/",
+          "author": null,
+          "description": "Appleは2024年に第4世代iPhone SEを発売すると予想されていましたが、Apple関連の確度の高いリーク情報や予想を行うアナリストのミンチー・クオ氏が、「2024年には第4世代iPhone SEが発売されない可能性がある」と自身のブログで指摘しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230107-apple-canceled-next-iphone-se/",
+          "publishedOn": "2023-01-07T01:30:00.000Z",
+          "wordCount": 2519,
+          "title": "Appleが第4世代「iPhone SE」の発売をキャンセルしたと報じられる",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/07/apple-canceled-next-iphone-se/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230107-rigs-of-rods/",
           "author": null,
           "description": "リアルな物理シミュレーション「ソフトボディダイナミクス」に基づいて車両をシミュレートするオープンソースの車両シミュレーターが「Rigs of Rods」です。車両破壊ゲーム「BeamNG.drive」の前身ともいわれるこのシミュレーションゲームを実際にプレイしてみました。\n続きを読む...",
@@ -5044,16 +5054,6 @@
           "wordCount": 2675,
           "title": "ロシアの検閲の標的になってしまったらどうなるのか？VPNサービスと政府とのいたちごっこの実情が明かされる",
           "imageUrl": "https://i.gzn.jp/img/2022/12/09/russia-proton/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-twitters-rivals-capitalize-musk-induced-chaos/",
-          "author": null,
-          "description": "イーロン・マスク氏による買収を受けてTwitterが混乱している中、Instagramを所有するMetaが「ネクストTwitter」の構築についてブレインストーミングを行っていたと、海外メディアのニューヨーク・タイムズが報じました。Meta以外にもMastodonやTumblrなどの競合サービスがシェア獲得の機会をうかがっているほか、Hive SocialやPost.といった新興企業も登場しています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-twitters-rivals-capitalize-musk-induced-chaos/",
-          "publishedOn": "2022-12-08T14:00:00.000Z",
-          "wordCount": 2591,
-          "title": "イーロン・マスクによるTwitterの混乱に乗じてMetaが「ネクストTwitter」の構築について議論していたと判明",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/twitters-rivals-capitalize-musk-induced-chaos/00_m.jpg"
         }
       ]
     },
@@ -6886,6 +6886,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/07/news032.html",
+          "author": null,
+          "description": "コクヨがビスケットのような形をした吸音パネル「bisketta」（ビスケッタ）を発表。価格は1枚当たり税別3万2400円からで、10日に発売する。オフィスでの利用を想定し、法人向けに提供する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/07/news032.html",
+          "publishedOn": "2023-01-07T01:00:00.000Z",
+          "wordCount": 2592,
+          "title": "ふっくらビスケット型吸音パネル「bisketta」、コクヨが発売　「オフィスの魅力高める」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/07/cover_news032.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/06/news159.html",
           "author": null,

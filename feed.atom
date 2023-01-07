@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T11:10:08.070Z</updated>
+    <updated>2023-01-07T12:23:08.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Appleの命名規則を分析して分かりやすく可視化したサイト「How Apple Names Things」]]></title>
+        <id>https://gigazine.net/news/20230107-apple-name-rule-visualize/</id>
+        <link href="https://gigazine.net/news/20230107-apple-name-rule-visualize/"/>
+        <updated>2023-01-07T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleの製品では「iPhone」や「iPod」「AirPod」「AirPlay」といった言葉や単語を再利用した命名が行われています。そこで、データ研究者のNicolas Kruchten氏は、Apple製品の名前に含まれる要素を可視化して「How Apple Names Things」と題したウェブサイトを公開しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寿命の長さは「遺伝子の長さ」によって決まるかもしれない]]></title>
         <id>https://gigazine.net/news/20230107-aging-unbalanced-genes/</id>
@@ -11276,66 +11287,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/09/news088.html"/>
         <updated>2022-12-09T00:45:00.000Z</updated>
         <summary type="html"><![CDATA[アドビは、ビジネスパーソン600人を対象に、日本でのPDFファイルの利用状況や、認識に関する実態調査の結果を発表した。PDFファイルには、「レイアウトが崩れない」とイメージを持つ人が最も多く、PDF化した後でも加工や修正ができることを6割超が「知らなかった」と回答したことが分かった。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney+も広告付きプラン、既存プランは3ドル値上げ]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/09/news086.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news086.html"/>
-        <updated>2022-12-09T00:16:00.000Z</updated>
-        <summary type="html"><![CDATA[The Walt Disney Companyは、動画配信サービス「Disney+」に広告付きプラン「Basic」を、まずは米国で追加する。月額料金は7.99ドル。従来のプランは7.99ドルから10.99ドルに値上げする。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWSの「Compute Optimizer」「Lambda Extensions」「App Runner」をNew Relicがサポート]]></title>
-        <id>http://codezine.jp/article/detail/16997</id>
-        <link href="http://codezine.jp/article/detail/16997"/>
-        <updated>2022-12-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米New Relicは、11月29日（現地時間）に行われた、Amazon Web Services（AWS）の年次イベントである「re:Invent 2022」にて、AWS Compute Optimizer、AWS Lambda Extensions、AWS App Runner向けのサポートを発表した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSSに関する年次調査「State of CSS 2022」が発表]]></title>
-        <id>http://codezine.jp/article/detail/16998</id>
-        <link href="http://codezine.jp/article/detail/16998"/>
-        <updated>2022-12-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Web開発エコシステムの今後の傾向を明らかにし、開発者の技術的な選択を支援するための、CSSに関する年次調査「State of CSS」の2022年版が発表された。当調査は、10月1日～11月1日（現地時間）の期間に行われ、14310名から回答を得ている。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市Webサイトに個人情報1週間、大阪・豊中市が謝罪]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/09/news084.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news084.html"/>
-        <updated>2022-12-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[大阪府豊中市は、ホームページ上の「市民の声の内容と回答等」のコーナーで、市民の個人情報を誤って掲載していたと発表した。掲載は約1週間におよび、通報を受けて削除した。悪用などの報告は現在のところ確認されていないという。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不登校支援に「eスポーツ」　協調性と社会性を養うゲームの力]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/09/news083.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news083.html"/>
-        <updated>2022-12-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[eスポーツを不登校や引きこもりの子供たちへの支援に取り入れる事例が広がっている。子供たちが勝利に向かってチームで取り組むことで、協調性や自己肯定感を養う試みで、不登校の人数が過去最多となる中、解決策の一つとして期待されている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chromeブラウザのデスクトップ版に「メモリセーバー」モード追加]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/09/news082.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news082.html"/>
-        <updated>2022-12-08T23:26:00.000Z</updated>
-        <summary type="html"><![CDATA[デスクトップ版Chromeブラウザに2つの新機能が追加される。「Memory Saver」は多数のタブを開いた場合、非表示タブのメモリを解放する。「Energy Saver」はPCのバッテリーが少なくなったらWebの視覚効果を制限する。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

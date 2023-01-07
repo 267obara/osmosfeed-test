@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230107-netflix-wednesday-season2/",
+          "author": null,
+          "description": "お化け一家が繰り広げる奇妙な日常を描く「アダムス・ファミリー」の長女ウェンズデーを主役として、「チャーリーとチョコレート工場」「アリス・イン・ワンダーランド」などの作品で知られるティム・バートン監督が手がけるNetflixシリーズ「ウェンズデー」のシーズン2制作が決定しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230107-netflix-wednesday-season2/",
+          "publishedOn": "2023-01-07T04:20:00.000Z",
+          "wordCount": 2406,
+          "title": "「アダムス・ファミリー」の長女ウェンズデーが学園で起きる事件に迫るミステリードラマ「ウェンズデー」シーズン2決定",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/07/netflix-wednesday-season2/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230107-alcohol-drinking-habit/",
           "author": null,
           "description": "「適度な量の飲酒は体に良い」という言説を耳にすることは多いですが、2022年には「少量の飲酒でも心臓に害を及ぼす」ということが35万人規模の実験によって明らかになっています。そんな飲酒と健康について、「1カ月間禁酒すると、その後も飲酒量が減少し、健康状態が改善する」という研究結果をワシントン・ポストがまとめています。\n続きを読む...",
@@ -6868,26 +6878,6 @@
           "wordCount": 1251,
           "title": "TauriがiOS/Androidに対応「Tauri Mobile」アルファ版登場。Electron代替を目指すRust製の軽量フレームワーク",
           "imageUrl": "https://www.publickey1.jp/2022/taurimobalpha01.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/awslinuxossopen_invention_network.html",
-          "author": null,
-          "description": "Amazon Web Servicesは、Linux関連のオープンソースを特許リスクから保護する「Open Invention Network」への加盟を発表し、同社の持つ特許全てをOpen Invention Networkのパテントプー...",
-          "link": "https://www.publickey1.jp/blog/22/awslinuxossopen_invention_network.html",
-          "publishedOn": "2022-12-08T17:00:09.000Z",
-          "wordCount": 1303,
-          "title": "AWSがLinux関連OSSを特許リスクから守る「Open Invention Network」に加盟。全特許をパテントプールに提供すると表明",
-          "imageUrl": "https://www.publickey1.jp/2022/aws_oin.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/comgithub_codespacesnet_7202211.html",
-          "author": null,
-          "description": "先週のある日、「AWS re:Invent 2022」の基調講演を深夜にストリーミングで見終わって速報記事を書いていたら、ちょうどサッカーワールドカップの日本対スペイン戦が始まる午前4時になりました。 テレビを付けて、記事を書きつつもときど...",
-          "link": "https://www.publickey1.jp/blog/22/comgithub_codespacesnet_7202211.html",
-          "publishedOn": "2022-12-08T16:56:40.000Z",
-          "wordCount": 1290,
-          "title": "ヨドバシ.comを支える内製プライベートクラウド／GitHub Codespacesが全ユーザーに無料提供へ／マイクロソフト「.NET 7」正式リリースほか、2022年11月の人気記事",
-          "imageUrl": "https://www.publickey1.jp/fbico_pblky.png"
         }
       ]
     },

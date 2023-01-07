@@ -5024,46 +5024,6 @@
           "wordCount": 2699,
           "title": "AppleによるiCloudの完全暗号化に電子フロンティア財団などから称賛の声、一方でFBIは懸念か",
           "imageUrl": "https://i.gzn.jp/img/2022/12/09/apple-e2ee-eff/00_m.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221209-twitter-blue-for-ios/",
-          "author": null,
-          "description": "Twitterが提供している有料サービス「Twitter Blue」の価格について、イーロン・マスクCEOが「ウェブを通じて支払う場合は月額7ドル(約960円)、iOS版アプリを通じて支払う場合は月額11ドル(約1500円)に設定するつもり」と従業員の一部に話したことが報じられています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221209-twitter-blue-for-ios/",
-          "publishedOn": "2022-12-09T03:00:00.000Z",
-          "wordCount": 2540,
-          "title": "イーロン・マスクがiPhone向けのTwitter Blueのみ月額11ドルに値上げすることを検討中",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/09/twitter-blue-for-ios/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221209-burgerking-whopper-cheese-winter-arrabbiata/",
-          "author": null,
-          "description": "バーガーキングが新開発した「トマトホットソース」をゴーダチーズといっしょに挟んだ「ワッパーチーズ“ウィンター・アラビアータ”」が2022年12月9日(金)に登場しました。唐辛子のほどよい辛さとガーリックのうま味が特長のトマトホットソースがミルキーでまろやかなゴーダチーズにマッチするとのことで、どんな味なのか実際に食べて確かめてみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221209-burgerking-whopper-cheese-winter-arrabbiata/",
-          "publishedOn": "2022-12-09T02:45:00.000Z",
-          "wordCount": 2467,
-          "title": "ピリピリ辛いトマトソースとシャキシャキ野菜でまるでサラダなサッパリ感を楽しめる「ワッパーチーズ“ウィンター・アラビアータ”」試食レビュー",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/09/burgerking-whopper-cheese-winter-arrabbiata/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221209-ftc-microsoft-block-activision-blizzard-purchase/",
-          "author": null,
-          "description": "アメリカにおける公正な取引を監督・監視する連邦取引委員会(FTC)が、Activision Blizzardの買収を阻止するためにMicrosoftを提訴しました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221209-ftc-microsoft-block-activision-blizzard-purchase/",
-          "publishedOn": "2022-12-09T02:29:00.000Z",
-          "wordCount": 2695,
-          "title": "MicrosoftによるActivision Blizzard買収を阻止するため連邦取引委員会が提訴",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/09/ftc-microsoft-block-activision-blizzard-purchase/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221209-amazon-launches-tiktok-style-feed-inspire/",
-          "author": null,
-          "description": "AmazonがTikTokのように写真や動画のフィードを表示する新機能「Inspire」を、アプリで展開することが明らかになりました。ユーザーはさまざまな製品に関するコンテンツを見て「いいね」を付けることができ、気に入った製品を直接購入できるとのことです。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221209-amazon-launches-tiktok-style-feed-inspire/",
-          "publishedOn": "2022-12-09T02:15:00.000Z",
-          "wordCount": 2530,
-          "title": "AmazonがTikTokスタイルで写真や動画を共有するフィード「Inspire」をアプリで展開、「いいね」や製品購入も可能",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/09/amazon-launches-tiktok-style-feed-inspire/00.jpg"
         }
       ]
     },
@@ -10655,56 +10615,6 @@
           "wordCount": 2612,
           "title": "Google広告で大規模障害発生　広告が表示されない不具合",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news114.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news109.html",
-          "author": null,
-          "description": "欧州連合によるスマートフォンなどの有線充電でのUSB Type-C採用義務付けの期限が2024年12月28日に決定した。EU加盟国はそれまでに国内法として規則を適用する。ノートPCは2026年4月以降に対象になる。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news109.html",
-          "publishedOn": "2022-12-09T02:56:00.000Z",
-          "wordCount": 2615,
-          "title": "欧州連合、携帯端末でのUSB Type-C採用義務付け期限を2024年12月28日に決定",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news109.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news108.html",
-          "author": null,
-          "description": "円安の影響で、クラウドのコストはいくら高くなったか。さくらインターネットが調査を実施した。回答者の8割が「高くなった」と答えた。中には「100万円以上上がった」という声も。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news108.html",
-          "publishedOn": "2022-12-09T02:52:00.000Z",
-          "wordCount": 2597,
-          "title": "「円安でクラウドのコスト上がった」8割強　上がり幅は？　さくらインターネットが調査",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news108.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news106.html",
-          "author": null,
-          "description": "VRコンテンツの企画開発を手掛けるUNIVRSは8日、漫画「進撃の巨人」を題材としたVR専用アクションゲーム「進撃の巨人VR：Unbreakable」を発表した。2023年夏発売。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news106.html",
-          "publishedOn": "2022-12-09T02:34:00.000Z",
-          "wordCount": 2354,
-          "title": "巨人に喰われる恐怖をVRで　「進撃の巨人VR：Unbreakable」23年夏発売",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news106.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news104.html",
-          "author": null,
-          "description": "NTTドコモは12月9日の午前2時30分頃から「d払い」などの複数のサービスが利用しづらい状態であると発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news104.html",
-          "publishedOn": "2022-12-09T02:34:00.000Z",
-          "wordCount": 2590,
-          "title": "ドコモのサービスで障害　d払い、dTVなど利用しづらく　復旧の見通しは「確認中」",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news104.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news100.html",
-          "author": null,
-          "description": "総務省が楽天モバイルに行政指導した。同社で9月に発生した通信障害について「社会・経済活動に深刻な影響を及ぼす」として、ネットワーク構成の見直しや定期的なリスク分析などの再発防止を求めた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news100.html",
-          "publishedOn": "2022-12-09T02:30:00.000Z",
-          "wordCount": 2585,
-          "title": "楽天モバイルに行政指導　総務省、ソフトウェア更新情報の確実なチェックなど求める",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news100.jpg"
         }
       ]
     }

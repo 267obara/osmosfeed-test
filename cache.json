@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230107-hand-cranked-calculator-curta-nazi-concentration-camp/",
+          "author": null,
+          "description": "現代では多くの人々がスマートフォンの電卓アプリを使っていますが、過去には電子式ではなく機械式の計算機も使われていました。1948年に登場して以降、約20年にわたり地球上で最高のポータブル計算機だった「クルタ計算機」は、ナチスの強制収容所に収容されていた囚人によって発明されたとのことで、テクノロジー系メディアのArs Technicaがその歴史についてまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230107-hand-cranked-calculator-curta-nazi-concentration-camp/",
+          "publishedOn": "2023-01-07T09:00:00.000Z",
+          "wordCount": 2456,
+          "title": "ナチスの強制収容所の囚人が発明した持ち運び可能な手回し式計算機「クルタ計算機」とは？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/07/hand-cranked-calculator-curta-nazi-concentration-camp/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230107-1000-true-fans/",
           "author": null,
           "description": "画家やイラストレーター、漫画家、小説家、写真家、ミュージシャンなど、クリエイターが何かの作品を世に発表するだけで生計を立てていくのはkなり難しいものがあります。エッセイストで編集者のケビン・ケリー氏が「1000人の真のファン」というエッセイで、クリエイターとして成功するためには真のファンを1000人つかむことが重要だと説いています。\n続きを読む...",
@@ -5074,16 +5084,6 @@
           "wordCount": 2583,
           "title": "「恐竜を絶滅させた小惑星の衝突時期」の論文にデータ偽造の疑い",
           "imageUrl": "https://i.gzn.jp/img/2022/12/09/paleontologist-accused-dino-killing-asteroid-paper/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221209-russia-proton/",
-          "author": null,
-          "description": "ロシア政府は2019年に「国内のネットワークをインターネットから切り離す実験」に成功していたり、ウクライナへの侵攻を開始して以降はSNSやニュースサービスへのアクセスを遮断していたりと、インターネットの規制・監視を強めて自由なアクセスを制限しています。そのような政府からの検閲を回避して自由なインターネットアクセスを提供するProtonの激しい戦いについて、ニューヨークタイムズ誌がまとめています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221209-russia-proton/",
-          "publishedOn": "2022-12-08T21:00:00.000Z",
-          "wordCount": 2675,
-          "title": "ロシアの検閲の標的になってしまったらどうなるのか？VPNサービスと政府とのいたちごっこの実情が明かされる",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/09/russia-proton/00.jpg"
         }
       ]
     },

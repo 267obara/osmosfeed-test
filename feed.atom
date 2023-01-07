@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T08:16:12.106Z</updated>
+    <updated>2023-01-07T09:12:11.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ナチスの強制収容所の囚人が発明した持ち運び可能な手回し式計算機「クルタ計算機」とは？]]></title>
+        <id>https://gigazine.net/news/20230107-hand-cranked-calculator-curta-nazi-concentration-camp/</id>
+        <link href="https://gigazine.net/news/20230107-hand-cranked-calculator-curta-nazi-concentration-camp/"/>
+        <updated>2023-01-07T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[現代では多くの人々がスマートフォンの電卓アプリを使っていますが、過去には電子式ではなく機械式の計算機も使われていました。1948年に登場して以降、約20年にわたり地球上で最高のポータブル計算機だった「クルタ計算機」は、ナチスの強制収容所に収容されていた囚人によって発明されたとのことで、テクノロジー系メディアのArs Technicaがその歴史についてまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[クリエイターとして成功するためには「1000人の真のファン」をつかむことが重要]]></title>
         <id>https://gigazine.net/news/20230107-1000-true-fans/</id>
@@ -11355,17 +11366,6 @@
         <link href="https://gigazine.net/news/20221209-paleontologist-accused-dino-killing-asteroid-paper/"/>
         <updated>2022-12-08T22:00:00.000Z</updated>
         <summary type="html"><![CDATA[「恐竜を絶滅させた小惑星」に関する論文を発表した古生物学者が、実は元同僚の結論をそのまま論文に用いていたという疑惑が持ち上がっています。元同僚は、古生物学者の論文は結論こそ同じながら用いられたデータセットが異なり、そのデータが偽造であると指摘しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ロシアの検閲の標的になってしまったらどうなるのか？VPNサービスと政府とのいたちごっこの実情が明かされる]]></title>
-        <id>https://gigazine.net/news/20221209-russia-proton/</id>
-        <link href="https://gigazine.net/news/20221209-russia-proton/"/>
-        <updated>2022-12-08T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ロシア政府は2019年に「国内のネットワークをインターネットから切り離す実験」に成功していたり、ウクライナへの侵攻を開始して以降はSNSやニュースサービスへのアクセスを遮断していたりと、インターネットの規制・監視を強めて自由なアクセスを制限しています。そのような政府からの検閲を回避して自由なインターネットアクセスを提供するProtonの激しい戦いについて、ニューヨークタイムズ誌がまとめています。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

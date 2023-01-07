@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T16:17:14.958Z</updated>
+    <updated>2023-01-07T17:11:03.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -10999,38 +10999,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[イーロン・マスクが主張する「Twitterファイル」と「ハンター・バイデンのノートPC事件」について誤解が広がっている]]></title>
-        <id>https://gigazine.net/news/20221209-twitter-file-hunter-biden/</id>
-        <link href="https://gigazine.net/news/20221209-twitter-file-hunter-biden/"/>
-        <updated>2022-12-09T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2022年12月3日に、Twitterの内部情報から抜粋した暴露情報「Twitterファイル」がジャーナリストのマット・タイービ氏によって公開されました。この「Twitterファイル」ではジョー・バイデン大統領の息子であるハンター・バイデン氏の汚職疑惑をTwitterが隠していたことが明らかになったのですが、「Twitterファイル」に関する誤った臆測が広がっている現状をテクノロジー関連ブログ「Techdirt」の編集者であるマイク・マズニック氏が指摘しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M1チップ・M2チップ搭載のMacbookで「ネット接続低速化」「Zoom切断」「Wi-Fi接続喪失」の不具合発生、対策はADWL無効化]]></title>
-        <id>https://gigazine.net/news/20221209-apple-wifi-issues/</id>
-        <link href="https://gigazine.net/news/20221209-apple-wifi-issues/"/>
-        <updated>2022-12-09T04:32:00.000Z</updated>
-        <summary type="html"><![CDATA[M1チップやM2チップを搭載したMacbookで、インターネット接続速度が低下したり、Zoomの通話が切れてしまったり、Wi-Fi接続が完全に喪失してしまったりする不具合が発生しています。これはAppleも認識していて、ADWLの無効化が対策に挙げられています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.jsのパッケージマネージャ「npm」、トークンの権限をより細かく設定できるように]]></title>
-        <id>http://codezine.jp/article/detail/17006</id>
-        <link href="http://codezine.jp/article/detail/17006"/>
-        <updated>2022-12-09T04:20:00.000Z</updated>
-        <summary type="html"><![CDATA[米npmは、Node.js向けパッケージマネージャ「npm」で。トークンの権限をより細かく設定できるようにしたと12月6日（現地時間）に発表した。npmはArtistic License 2.0で公開しているオープンソース・ソフトウェアだ。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
 </feed>

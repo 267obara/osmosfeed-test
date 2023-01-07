@@ -4974,26 +4974,6 @@
           "wordCount": 2533,
           "title": "Googleは検索結果が「不正確」なら削除しなければならないとの判決、「忘れられる権利」拡張へ",
           "imageUrl": "https://i.gzn.jp/img/2022/12/09/google-delete-search-result-inaccurate-eu/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221209-twitter-file-hunter-biden/",
-          "author": null,
-          "description": "2022年12月3日に、Twitterの内部情報から抜粋した暴露情報「Twitterファイル」がジャーナリストのマット・タイービ氏によって公開されました。この「Twitterファイル」ではジョー・バイデン大統領の息子であるハンター・バイデン氏の汚職疑惑をTwitterが隠していたことが明らかになったのですが、「Twitterファイル」に関する誤った臆測が広がっている現状をテクノロジー関連ブログ「Techdirt」の編集者であるマイク・マズニック氏が指摘しています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221209-twitter-file-hunter-biden/",
-          "publishedOn": "2022-12-09T05:00:00.000Z",
-          "wordCount": 2576,
-          "title": "イーロン・マスクが主張する「Twitterファイル」と「ハンター・バイデンのノートPC事件」について誤解が広がっている",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/09/twitter-file-hunter-biden/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221209-apple-wifi-issues/",
-          "author": null,
-          "description": "M1チップやM2チップを搭載したMacbookで、インターネット接続速度が低下したり、Zoomの通話が切れてしまったり、Wi-Fi接続が完全に喪失してしまったりする不具合が発生しています。これはAppleも認識していて、ADWLの無効化が対策に挙げられています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221209-apple-wifi-issues/",
-          "publishedOn": "2022-12-09T04:32:00.000Z",
-          "wordCount": 2508,
-          "title": "M1チップ・M2チップ搭載のMacbookで「ネット接続低速化」「Zoom切断」「Wi-Fi接続喪失」の不具合発生、対策はADWL無効化",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/09/apple-wifi-issues/00_m.jpg"
         }
       ]
     },
@@ -6431,16 +6411,6 @@
           "wordCount": 4357,
           "title": "ソーシャルログインの実装方法を解説、『Firebase Authenticationで学ぶ ソーシャルログイン入門』発売",
           "imageUrl": "https://codezine.jp/static/images/article/16836/16836_share.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/17006",
-          "author": null,
-          "description": "米npmは、Node.js向けパッケージマネージャ「npm」で。トークンの権限をより細かく設定できるようにしたと12月6日（現地時間）に発表した。npmはArtistic License 2.0で公開しているオープンソース・ソフトウェアだ。",
-          "link": "http://codezine.jp/article/detail/17006",
-          "publishedOn": "2022-12-09T04:20:00.000Z",
-          "wordCount": 4277,
-          "title": "Node.jsのパッケージマネージャ「npm」、トークンの権限をより細かく設定できるように",
-          "imageUrl": "https://codezine.jp/static/images/article/17006/12504_og.jpg"
         }
       ]
     },

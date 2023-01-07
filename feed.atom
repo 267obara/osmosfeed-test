@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T02:35:40.569Z</updated>
+    <updated>2023-01-07T03:14:31.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[たった1カ月の禁酒で健康状態が劇的に改善し禁酒終了後の飲酒量も減少する]]></title>
+        <id>https://gigazine.net/news/20230107-alcohol-drinking-habit/</id>
+        <link href="https://gigazine.net/news/20230107-alcohol-drinking-habit/"/>
+        <updated>2023-01-07T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「適度な量の飲酒は体に良い」という言説を耳にすることは多いですが、2022年には「少量の飲酒でも心臓に害を及ぼす」ということが35万人規模の実験によって明らかになっています。そんな飲酒と健康について、「1カ月間禁酒すると、その後も飲酒量が減少し、健康状態が改善する」という研究結果をワシントン・ポストがまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Appleが第4世代「iPhone SE」の発売をキャンセルしたと報じられる]]></title>
         <id>https://gigazine.net/news/20230107-apple-canceled-next-iphone-se/</id>
@@ -11356,16 +11367,6 @@
         <summary type="html"><![CDATA[先週のある日、「AWS re:Invent 2022」の基調講演を深夜にストリーミングで見終わって速報記事を書いていたら、ちょうどサッカーワールドカップの日本対スペイン戦が始まる午前4時になりました。 テレビを付けて、記事を書きつつもときど...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日産と三菱の軽EVが「日本カー・オブ・ザ・イヤー」受賞　軽の受賞は初]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/08/news186.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/08/news186.html"/>
-        <updated>2022-12-08T14:50:00.000Z</updated>
-        <summary type="html"><![CDATA[日産自動車の軽EV「サクラ」が「2022-2023 日本カー・オブ・ザ・イヤー」と、軽自動車カテゴリーの「K CAR オブ・ザ・イヤー」を受賞した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

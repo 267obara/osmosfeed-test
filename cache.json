@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230107-alcohol-drinking-habit/",
+          "author": null,
+          "description": "「適度な量の飲酒は体に良い」という言説を耳にすることは多いですが、2022年には「少量の飲酒でも心臓に害を及ぼす」ということが35万人規模の実験によって明らかになっています。そんな飲酒と健康について、「1カ月間禁酒すると、その後も飲酒量が減少し、健康状態が改善する」という研究結果をワシントン・ポストがまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230107-alcohol-drinking-habit/",
+          "publishedOn": "2023-01-07T03:00:00.000Z",
+          "wordCount": 2442,
+          "title": "たった1カ月の禁酒で健康状態が劇的に改善し禁酒終了後の飲酒量も減少する",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/07/alcohol-drinking-habit/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230107-apple-canceled-next-iphone-se/",
           "author": null,
           "description": "Appleは2024年に第4世代iPhone SEを発売すると予想されていましたが、Apple関連の確度の高いリーク情報や予想を行うアナリストのミンチー・クオ氏が、「2024年には第4世代iPhone SEが発売されない可能性がある」と自身のブログで指摘しています。\n続きを読む...",
@@ -10875,16 +10885,6 @@
           "wordCount": 2650,
           "title": "米連邦取引委員会（FTC）、MicrosoftのActivision Blizzard買収を阻止へ",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news081.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news186.html",
-          "author": null,
-          "description": "日産自動車の軽EV「サクラ」が「2022-2023 日本カー・オブ・ザ・イヤー」と、軽自動車カテゴリーの「K CAR オブ・ザ・イヤー」を受賞した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news186.html",
-          "publishedOn": "2022-12-08T14:50:00.000Z",
-          "wordCount": 2604,
-          "title": "日産と三菱の軽EVが「日本カー・オブ・ザ・イヤー」受賞　軽の受賞は初",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news186.jpg"
         }
       ]
     }

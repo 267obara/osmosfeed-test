@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230107-rigs-of-rods/",
+          "author": null,
+          "description": "リアルな物理シミュレーション「ソフトボディダイナミクス」に基づいて車両をシミュレートするオープンソースの車両シミュレーターが「Rigs of Rods」です。車両破壊ゲーム「BeamNG.drive」の前身ともいわれるこのシミュレーションゲームを実際にプレイしてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230107-rigs-of-rods/",
+          "publishedOn": "2023-01-07T00:00:00.000Z",
+          "wordCount": 2481,
+          "title": "自動車・飛行機・船などをリアルな動きでシミュレーションできてぶっ壊れる様子も確認できるゲーム「Rigs of Rods」",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/07/rigs-of-rods/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230106-ice-age-cave-painting-calendar/",
           "author": null,
           "description": "ヨーロッパで後期旧石器時代の約2万年前頃に描かれた洞窟壁画には、動物の近くに線やドット、「Y」のように見える図形が多く描かれています。これらの図形がどんな意味を持つのかは明らかになっていませんでしたが、アマチュアの考古学者が「これらの図形は動物の繁殖周期を示す一種の暦ではないか」と発見し、イギリスのダラム大学やユニヴァーシティ・カレッジ・ロンドンの研究チームと共同で論文を発表しました。\n続きを読む...",
@@ -5044,26 +5054,6 @@
           "wordCount": 2591,
           "title": "イーロン・マスクによるTwitterの混乱に乗じてMetaが「ネクストTwitter」の構築について議論していたと判明",
           "imageUrl": "https://i.gzn.jp/img/2022/12/08/twitters-rivals-capitalize-musk-induced-chaos/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-first-kitchen-cheese-bacon-egg-burger/",
-          "author": null,
-          "description": "創業45周年を迎えたファーストキッチンで、チェダーチーズ・ゴーダチーズ・モッツァレラチーズの3種類を使った「とろける」バーガーとして、「とろける3種チーズのベーコンエッグバーガー」「とろける3種チーズのチキン竜田バーガー」が2022年12月6日(火)から登場したので、食べに行ってきました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-first-kitchen-cheese-bacon-egg-burger/",
-          "publishedOn": "2022-12-08T13:00:00.000Z",
-          "wordCount": 2467,
-          "title": "3種のチーズの味わいがすべてをまろやかに包み込むファーストキッチンの「とろける3種チーズのベーコンエッグバーガー」＆「とろける3種チーズのチキン竜田バーガー」を食べてみた",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/first-kitchen-cheese-bacon-egg-burger/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221208-social-media-good-for-democracy/",
-          "author": null,
-          "description": "ソーシャルメディアは自分の意見を発信したり議論をしたりする言論の場になっている一方で、近年はデマやフェイクニュースなどがまん延し分断の原因になるなど、有害な影響も指摘されるようになりました。こうしたソーシャルメディアと民主主義の在り方について、日本を含む19カ国で調査を行った結果が公開されています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221208-social-media-good-for-democracy/",
-          "publishedOn": "2022-12-08T12:00:00.000Z",
-          "wordCount": 2493,
-          "title": "多くの国では「ソーシャルメディアは民主主義に役立つ」と考えられているとの調査結果、日本人はどう思っているのか？",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/08/social-media-good-for-democracy/00.jpg"
         }
       ]
     },
@@ -5072,6 +5062,16 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/17144",
+          "author": null,
+          "description": "米CircleCIは、同社の提供している継続的CI/CDツール「CircleCI」にてセキュリティインシデントが発生したことを受けて、現地時間1月4日に「CircleCI」のユーザーに対してデータを守るための予防措置を講じることを求めている。",
+          "link": "http://codezine.jp/article/detail/17144",
+          "publishedOn": "2023-01-06T23:00:00.000Z",
+          "wordCount": 4280,
+          "title": "CI/CDツール「CircleCI」にてセキュリティインシデントが発生、ユーザーに対してシークレットのローテーションを求める",
+          "imageUrl": "https://codezine.jp/static/images/article/17144/12729_og.jpg"
+        },
         {
           "id": "http://codezine.jp/article/detail/17034",
           "author": null,
@@ -10875,36 +10875,6 @@
           "wordCount": 2604,
           "title": "日産と三菱の軽EVが「日本カー・オブ・ザ・イヤー」受賞　軽の受賞は初",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news186.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news182.html",
-          "author": null,
-          "description": "山形大学は12月8日、南米ペルーのナスカ台地とナスカ市街地付近で新たなナスカの地上絵168点を発見したと発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news182.html",
-          "publishedOn": "2022-12-08T12:09:00.000Z",
-          "wordCount": 2602,
-          "title": "「ナスカの地上絵」新たに168点発見　山形大学が発表　ドローンや航空レーザー測量で現地調査",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news182.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news181.html",
-          "author": null,
-          "description": "米Googleは、スプレッドシート上に機械学習を導入できるアドオン「Simple ML for Sheets」を発表した。プログラミングや機械学習の専門知識がない人でも、機械学習によるデータ欠損値の予測などを行えるという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news181.html",
-          "publishedOn": "2022-12-08T11:53:00.000Z",
-          "wordCount": 2608,
-          "title": "スプレッドシートでGoogleのAIが使える、公式の機械学習アドオン公開　欠損値の予測など可能",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/l_tm1636144_12083_1_w490.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/08/news180.html",
-          "author": null,
-          "description": "DIESEL（ディーゼル）ブランドの新しいスマートウォッチ「THE GRIFFED GEN 6」が登場しました。最新機能を盛り込みながらしゃれたデザインに仕上げています。発売イベントでじっくり見てきました。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/08/news180.html",
-          "publishedOn": "2022-12-08T11:46:00.000Z",
-          "wordCount": 2391,
-          "title": "DIESELのスマートウォッチ「THE GRIFFED GEN 6」に触れて分かった“市場の成熟”",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/08/cover_news180.jpg"
         }
       ]
     }

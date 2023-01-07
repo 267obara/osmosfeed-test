@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T17:11:03.828Z</updated>
+    <updated>2023-01-07T18:15:13.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -10975,27 +10975,6 @@
         <link href="https://gigazine.net/news/20221209-minecraft-end-poem-public-domain/"/>
         <updated>2022-12-09T07:00:00.000Z</updated>
         <summary type="html"><![CDATA[世界で最も売れたゲーム「マインクラフト」は自由にブロックを配置して建築を楽しんだり、道具を作成してサバイバル生活を過ごしたりできるサンドボックスゲームですが、「とあるアイテムを集めることでたどり着ける異世界にいるドラゴンを倒す」ことでエンディングを迎えることができます。このエンディングで流れる文章はファンからも人気が高く、「エンドポエム」と呼ばれています。このエンドポエムの作者であるジュリアン・ゴフ氏が、エンドポエムをパブリックドメインの一部にしたと発表しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「アーマード・コア」10年ぶり新作で「集団幻覚」「エイプリルフール」トレンド入り]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/09/news136.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news136.html"/>
-        <updated>2022-12-09T06:03:00.000Z</updated>
-        <summary type="html"><![CDATA[「アーマード・コア」シリーズに10年ぶりの新作。根強いファンが多い一方で、長らく展開がなかったシリーズということもあり、SNSではファンが大盛り上がりだ。まだ信じられない人もいるのか、Twitterでは「集団幻覚」がトレンド入りしている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googleは検索結果が「不正確」なら削除しなければならないとの判決、「忘れられる権利」拡張へ]]></title>
-        <id>https://gigazine.net/news/20221209-google-delete-search-result-inaccurate-eu/</id>
-        <link href="https://gigazine.net/news/20221209-google-delete-search-result-inaccurate-eu/"/>
-        <updated>2022-12-09T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[欧州連合における最高裁判所に相当する欧州司法裁判所が2022年12月8日に、EUにおいては情報が「明らかに不正確」なことが証明されれば、自分に関する検索結果を削除するようGoogleに要求できるとの判決を下しました。これにより、「忘れられる権利」を行使できる事例がより多くなると報じられています。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

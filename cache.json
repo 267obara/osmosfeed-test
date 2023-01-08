@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230108-ooyukiumi-kaina-movie/",
+          "author": null,
+          "description": "2023年1月からフジテレビ系列「＋Ultra」で放送されるアニメ「大雪海(おおゆきうみ)のカイナ」の劇場版公開が早くも決定しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230108-ooyukiumi-kaina-movie/",
+          "publishedOn": "2023-01-08T04:40:00.000Z",
+          "wordCount": 2451,
+          "title": "アニメ「大雪海のカイナ」続編劇場版制作が決定",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/08/ooyukiumi-kaina-movie/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230108-unifiedpush-push-notification-protocol/",
           "author": null,
           "description": "新着メッセージや新着ニュースなどの情報をスマートフォンに即時通知してくれる「プッシュ通知」は、スマートフォンを使う上で非常に便利な存在です。しかし、ほとんどのAndroidアプリのプッシュ通知はGoogleが開発したプロトコルに依存しているのが現状。この現状を打破するべくオープンソースで開発されたプッシュ通知プロトコルが「UnifiedPush」です。\n続きを読む...",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-08T04:16:18.410Z</updated>
+    <updated>2023-01-08T05:11:41.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[アニメ「大雪海のカイナ」続編劇場版制作が決定]]></title>
+        <id>https://gigazine.net/news/20230108-ooyukiumi-kaina-movie/</id>
+        <link href="https://gigazine.net/news/20230108-ooyukiumi-kaina-movie/"/>
+        <updated>2023-01-08T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年1月からフジテレビ系列「＋Ultra」で放送されるアニメ「大雪海(おおゆきうみ)のカイナ」の劇場版公開が早くも決定しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Googleに依存しないプッシュ通知プロトコル「UnifiedPush」]]></title>
         <id>https://gigazine.net/news/20230108-unifiedpush-push-notification-protocol/</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230108-brelyon-virtual-display/",
+          "author": null,
+          "description": "VRコンテンツを楽しむには頭に装着するゴーグルを使うのが一般的ですが、専用ゴーグルなしでストレスフリーなVR体験が可能になるという8K・110インチの巨大ディスプレイ「Virtual Display」をBrelyonが発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230108-brelyon-virtual-display/",
+          "publishedOn": "2023-01-08T12:00:00.000Z",
+          "wordCount": 2486,
+          "title": "ゴーグルなしでVRが楽しめる8K・110インチの巨大ディスプレイ「Virtual Display」が登場",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/08/brelyon-virtual-display/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230108-repairing-car-own-garage-illegal-california/",
           "author": null,
           "description": "機械いじりが得意な自動車好きなら、オイル交換やブレーキパッドの交換、ちょっとしたエンジンの修理などは自分でやってしまいます。ところが、アメリカのカリフォルニア州サクラメントには、うっかり愛車の修理やメンテナンスをすると罰金の支払いを命じられかねない条例があるとして、住人の間で物議を醸しています。\n続きを読む...",
@@ -4924,16 +4934,6 @@
           "wordCount": 2473,
           "title": "直感的に「正しい」と判断した問題は実は間違っているかもしれない、認知機能を暴く「バットとボール問題」と対処法とは？",
           "imageUrl": "https://i.gzn.jp/img/2022/12/10/cognitive-reflection-test/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221210-being-bullied-persistent-pervasive-impact/",
-          "author": null,
-          "description": "学生時代にいじめを受けることで心身に及ぶ悪影響は一時的なものではなく、その後も長年にわたり悪影響を及ぼし続けることがわかっています。そんな学生時代のいじめがもたらす長期的な影響に関するさまざまな研究結果について、キングス・カレッジ・ロンドンの発達心理学教授であるLouise Arseneault氏がまとめています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221210-being-bullied-persistent-pervasive-impact/",
-          "publishedOn": "2022-12-10T00:00:00.000Z",
-          "wordCount": 2519,
-          "title": "子どもの頃に受けた「いじめ」による心身への悪影響は成人になっても続き社会経済的な面にも悪影響が及ぶ",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/10/being-bullied-persistent-pervasive-impact/00.jpg"
         }
       ]
     },

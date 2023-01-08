@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-08T12:24:26.673Z</updated>
+    <updated>2023-01-08T13:16:31.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人間には「もっと良いもの」を想像しがちなバイアスが存在することが実験で明らかに]]></title>
+        <id>https://gigazine.net/news/20230108-bias-in-human-imagination/</id>
+        <link href="https://gigazine.net/news/20230108-bias-in-human-imagination/"/>
+        <updated>2023-01-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[人間の思考にはさまざまなバイアスが潜んでおり、知らないうちに思考の幅が偏っていることがあります。コロンビア大学の経営大学院であるコロンビア・ビジネス・スクールの博士研究員・Adam Mastroianni氏が、人間が特定の物事を考える方法について実験したところ、人間の思考には「もっと良いもの」を想像しがちなバイアスがあることが明らかとなりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゴーグルなしでVRが楽しめる8K・110インチの巨大ディスプレイ「Virtual Display」が登場]]></title>
         <id>https://gigazine.net/news/20230108-brelyon-virtual-display/</id>
@@ -10863,16 +10874,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/09/news120.html"/>
         <updated>2022-12-10T02:30:00.000Z</updated>
         <summary type="html"><![CDATA[iPhone 14ですら12万円からと高価になってしまったスマホ。これまでの「スマホはバンバン買い換えるのが正解」は、もう違ってきているのではないか。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z世代の時間感覚　「ちょっと一杯」は「1時間」、一服するは？]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/10/news026.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/10/news026.html"/>
-        <updated>2022-12-10T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[シチズン時計は働くZ世代を対象に「時間感覚についてアンケート」を実施した。勤め帰りの「ちょっと一杯」は、どのくらいの時間を指すのか。調査の結果、最も多かった回答は「1時間」（35.1％）で、「2時間」（15.0％）、「1時間30分」（14.3％）の順に続いた。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230108-bias-in-human-imagination/",
+          "author": null,
+          "description": "人間の思考にはさまざまなバイアスが潜んでおり、知らないうちに思考の幅が偏っていることがあります。コロンビア大学の経営大学院であるコロンビア・ビジネス・スクールの博士研究員・Adam Mastroianni氏が、人間が特定の物事を考える方法について実験したところ、人間の思考には「もっと良いもの」を想像しがちなバイアスがあることが明らかとなりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230108-bias-in-human-imagination/",
+          "publishedOn": "2023-01-08T13:00:00.000Z",
+          "wordCount": 2460,
+          "title": "人間には「もっと良いもの」を想像しがちなバイアスが存在することが実験で明らかに",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/08/bias-in-human-imagination/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230108-brelyon-virtual-display/",
           "author": null,
           "description": "VRコンテンツを楽しむには頭に装着するゴーグルを使うのが一般的ですが、専用ゴーグルなしでストレスフリーなVR体験が可能になるという8K・110インチの巨大ディスプレイ「Virtual Display」をBrelyonが発表しました。\n続きを読む...",
@@ -10395,16 +10405,6 @@
           "wordCount": 2607,
           "title": "スマホ高騰　これから日本は「修理して長く使う」が主流になる？",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news120.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/10/news026.html",
-          "author": null,
-          "description": "シチズン時計は働くZ世代を対象に「時間感覚についてアンケート」を実施した。勤め帰りの「ちょっと一杯」は、どのくらいの時間を指すのか。調査の結果、最も多かった回答は「1時間」（35.1％）で、「2時間」（15.0％）、「1時間30分」（14.3％）の順に続いた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/10/news026.html",
-          "publishedOn": "2022-12-10T01:00:00.000Z",
-          "wordCount": 2601,
-          "title": "Z世代の時間感覚　「ちょっと一杯」は「1時間」、一服するは？",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/10/cover_news026.jpg"
         }
       ]
     }

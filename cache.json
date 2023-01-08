@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230108-unifiedpush-push-notification-protocol/",
+          "author": null,
+          "description": "新着メッセージや新着ニュースなどの情報をスマートフォンに即時通知してくれる「プッシュ通知」は、スマートフォンを使う上で非常に便利な存在です。しかし、ほとんどのAndroidアプリのプッシュ通知はGoogleが開発したプロトコルに依存しているのが現状。この現状を打破するべくオープンソースで開発されたプッシュ通知プロトコルが「UnifiedPush」です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230108-unifiedpush-push-notification-protocol/",
+          "publishedOn": "2023-01-08T03:00:00.000Z",
+          "wordCount": 2435,
+          "title": "Googleに依存しないプッシュ通知プロトコル「UnifiedPush」",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/08/unifiedpush-push-notification-protocol/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230108-kyrgyzstan-ala-kachuu/",
           "author": null,
           "description": "中央アジアに位置するキルギスには「デート」という言葉がなく、男性が妻となる女性を誘拐してそのまま結婚をせまるケースが多発しているとのこと。キルギスにおける誘拐婚の実態について、首都ビシュケク在住のライター、Sevindj Nurkiyazova氏が解説しました。\n続きを読む...",

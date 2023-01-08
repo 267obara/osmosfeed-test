@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-08T02:42:42.335Z</updated>
+    <updated>2023-01-08T03:14:08.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Googleに依存しないプッシュ通知プロトコル「UnifiedPush」]]></title>
+        <id>https://gigazine.net/news/20230108-unifiedpush-push-notification-protocol/</id>
+        <link href="https://gigazine.net/news/20230108-unifiedpush-push-notification-protocol/"/>
+        <updated>2023-01-08T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新着メッセージや新着ニュースなどの情報をスマートフォンに即時通知してくれる「プッシュ通知」は、スマートフォンを使う上で非常に便利な存在です。しかし、ほとんどのAndroidアプリのプッシュ通知はGoogleが開発したプロトコルに依存しているのが現状。この現状を打破するべくオープンソースで開発されたプッシュ通知プロトコルが「UnifiedPush」です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[キルギスで将来の妻を誘拐することは出会い系アプリで彼女を探すのと同じくらい一般的なことだという指摘]]></title>
         <id>https://gigazine.net/news/20230108-kyrgyzstan-ala-kachuu/</id>

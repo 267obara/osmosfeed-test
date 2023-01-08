@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-08T19:10:22.283Z</updated>
+    <updated>2023-01-08T20:13:08.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -10819,17 +10819,6 @@
         <link href="https://gigazine.net/news/20221210-tabletop-club/"/>
         <updated>2022-12-10T09:00:00.000Z</updated>
         <summary type="html"><![CDATA[ボードゲームアリーナのようなオンライン対戦サイトとDiscordのようなボイスチャットツールによって、本来プレイヤーが一堂に会さなければプレイできなかったアナログゲームをオンライン上でも気軽にプレイできるようになりました。オープンソースで開発されている「Tabletop Club」はボードゲームを物理エンジンで再現してプレイできるシミュレーターで、オンラインによるマルチプレイも可能。Windows・Linux・macOSに対応しており、完全無料でプレイすることが可能です。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画クレヨンしんちゃん新作は初の3DCG作品ですべてが「しん次元」]]></title>
-        <id>https://gigazine.net/news/20221210-shinchan-movie-3dcg/</id>
-        <link href="https://gigazine.net/news/20221210-shinchan-movie-3dcg/"/>
-        <updated>2022-12-10T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1992年から放送されているアニメ「クレヨンしんちゃん」の劇場版最新作、「しん次元！クレヨンしんちゃん THE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～」が2023年夏に公開されることが発表され、超特報映像が解禁となりました。本作は、シリーズ初の3DCG作品となります。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

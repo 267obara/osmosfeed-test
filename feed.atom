@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-08T20:13:08.800Z</updated>
+    <updated>2023-01-08T21:11:06.455Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -10808,17 +10808,6 @@
         <link href="https://gigazine.net/news/20221210-wolves-pack-leaders-parasite/"/>
         <updated>2022-12-10T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[「トキソプラズマ(Toxoplasma gondii)」という寄生虫に寄生されたオオカミは、そうでないオオカミより群れのリーダーになる確率が高く、群れを離れて一匹オオカミになる可能性も高いことが分かりました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完全無料でボードゲームを物理エンジンによる3D環境でプレイできるオープンソースのシミュレーター「Tabletop Club」]]></title>
-        <id>https://gigazine.net/news/20221210-tabletop-club/</id>
-        <link href="https://gigazine.net/news/20221210-tabletop-club/"/>
-        <updated>2022-12-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ボードゲームアリーナのようなオンライン対戦サイトとDiscordのようなボイスチャットツールによって、本来プレイヤーが一堂に会さなければプレイできなかったアナログゲームをオンライン上でも気軽にプレイできるようになりました。オープンソースで開発されている「Tabletop Club」はボードゲームを物理エンジンで再現してプレイできるシミュレーターで、オンラインによるマルチプレイも可能。Windows・Linux・macOSに対応しており、完全無料でプレイすることが可能です。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

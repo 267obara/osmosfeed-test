@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-08T15:13:11.434Z</updated>
+    <updated>2023-01-08T16:17:02.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -10830,28 +10830,6 @@
         <link href="https://gigazine.net/news/20221210-shinchan-movie-3dcg/"/>
         <updated>2022-12-10T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[1992年から放送されているアニメ「クレヨンしんちゃん」の劇場版最新作、「しん次元！クレヨンしんちゃん THE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～」が2023年夏に公開されることが発表され、超特報映像が解禁となりました。本作は、シリーズ初の3DCG作品となります。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[従来の40％のスケールで金属構造を3Dプリントする技術の開発に成功]]></title>
-        <id>https://gigazine.net/news/20221210-3d-print-metallic-hydrogel/</id>
-        <link href="https://gigazine.net/news/20221210-3d-print-metallic-hydrogel/"/>
-        <updated>2022-12-10T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[従来の3D印刷による金属構造は最小約100ミクロンで構成されていましたが、カリフォルニア工科大学のマックス・サッコーネ氏らの研究チームが金属構造を約40ミクロンで作成する新たな金属成型技術を発表しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoftが次世代光ファイバー技術「中空コアファイバー」を開発する「Lumenisity」を買収]]></title>
-        <id>https://gigazine.net/news/20221210-microsoft-acquires-lumenisity/</id>
-        <link href="https://gigazine.net/news/20221210-microsoft-acquires-lumenisity/"/>
-        <updated>2022-12-10T03:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoftが次世代の中空コアファイバー(HCF)ソリューションのリーダー企業である「Lumenisity」を買収したことを発表しました。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

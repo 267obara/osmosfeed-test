@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230108-davinci-resolve-for-ipad/",
+          "author": null,
+          "description": "Blackmagic Designが開発する動画編集ソフト「DaVinci Resolve」のiPad版である「DaVinci Resolve for iPad」が2022年12月22日にリリースされました。PC版と同様に無料で利用できるとのことで、実際に使ってみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230108-davinci-resolve-for-ipad/",
+          "publishedOn": "2023-01-08T10:00:00.000Z",
+          "wordCount": 2507,
+          "title": "無料で多機能な動画編集ソフトのiPad版「DaVinci Resolve for iPad」を触ってみた",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/08/davinci-resolve-for-ipad/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230108-ooyukiumi-kaina-movie/",
           "author": null,
           "description": "2023年1月からフジテレビ系列「＋Ultra」で放送されるアニメ「大雪海(おおゆきうみ)のカイナ」の劇場版公開が早くも決定しました。\n続きを読む...",

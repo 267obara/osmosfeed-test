@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230108-kyrgyzstan-ala-kachuu/",
+          "author": null,
+          "description": "中央アジアに位置するキルギスには「デート」という言葉がなく、男性が妻となる女性を誘拐してそのまま結婚をせまるケースが多発しているとのこと。キルギスにおける誘拐婚の実態について、首都ビシュケク在住のライター、Sevindj Nurkiyazova氏が解説しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230108-kyrgyzstan-ala-kachuu/",
+          "publishedOn": "2023-01-08T00:00:00.000Z",
+          "wordCount": 2433,
+          "title": "キルギスで将来の妻を誘拐することは出会い系アプリで彼女を探すのと同じくらい一般的なことだという指摘",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/08/kyrgyzstan-ala-kachuu/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230107-apple-name-rule-visualize/",
           "author": null,
           "description": "Appleの製品では「iPhone」や「iPod」「AirPod」「AirPlay」といった言葉や単語を再利用した命名が行われています。そこで、データ研究者のNicolas Kruchten氏は、Apple製品の名前に含まれる要素を可視化して「How Apple Names Things」と題したウェブサイトを公開しています。\n続きを読む...",
@@ -4894,26 +4904,6 @@
           "wordCount": 2567,
           "title": "AppleのM2 Maxチップと思しきベンチマークが登場、M1 Max比較で最大22％のパフォーマンス向上",
           "imageUrl": "https://i.gzn.jp/img/2022/12/09/benchmarks-apple-m2-max-performance/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221209-gumi-mitaina-okaki-mitarashi-dango-fuumi/",
-          "author": null,
-          "description": "ローソンから、グミのような食感でありながら国産のもち米を使った一口サイズのぬれおかき「グミみたいなおかき!? みたらし団子風味」が2022年12月13日(火)に登場します。本来であればバリボリと硬い食感が魅力のおかきが、まるでグミのようなやわらか食感に仕上がっているとはどういうことなのか、一足早く食べられる機会を得られたので、実際に食べて確かめてみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221209-gumi-mitaina-okaki-mitarashi-dango-fuumi/",
-          "publishedOn": "2022-12-09T13:00:00.000Z",
-          "wordCount": 2477,
-          "title": "ぬれおかきなのにグミのようにやわらかい食感の「グミみたいなおかき!? みたらし団子風味」を食べてみた",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/09/gumi-mitaina-okaki-mitarashi-dango-fuumi/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221209-new-stealth-aircraft-location/",
-          "author": null,
-          "description": "アメリカ空軍がTwitterで、核弾頭と通常弾を搭載可能な「二刀流」の最新鋭ステルス爆撃機である「B-21レイダー」の写真を公開しました。この時、背景に映り込んだ星空から、ステルス爆撃機の位置を高い精度で割り出してしまったTwitterユーザーが登場しました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221209-new-stealth-aircraft-location/",
-          "publishedOn": "2022-12-09T12:00:00.000Z",
-          "wordCount": 3152,
-          "title": "アメリカ軍の宣伝ツイートから「最新ステルス爆撃機」の写真を撮影した位置が特定されてしまう",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/09/new-stealth-aircraft-location/00.jpg"
         }
       ]
     },
@@ -6636,6 +6626,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/08/news037.html",
+          "author": null,
+          "description": "ARで視界に情報を表示するスマートコンタクトレンズを開発中のMojo Visionが開発を保留すると発表した。資金調達が困難になったため。従業員の75％を削減し、マイクロLEDディスプレイにピボットする。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/08/news037.html",
+          "publishedOn": "2023-01-07T23:18:00.000Z",
+          "wordCount": 2626,
+          "title": "ARコンタクトレンズのMojo Vision、資金不足で開発停止　マイクロLEDにピボット",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/08/cover_news037.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/07/news032.html",
           "author": null,
@@ -10385,16 +10385,6 @@
           "wordCount": 2358,
           "title": "富士フイルム「X-T5」はスチル撮影に軸足を置いたハイエンド機",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/10/cover_news044.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/09/news174.html",
-          "author": null,
-          "description": "映画「鬼滅の刃 無限列車編」をフジテレビが12月10日に特別番組としてノーカット放送する。しかし一部地域のファンは録画予約などの際に注意する必要がありそうだ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/09/news174.html",
-          "publishedOn": "2022-12-09T11:49:00.000Z",
-          "wordCount": 2352,
-          "title": "映画「鬼滅の刃 無限列車編」10日に特別放送、一部地域は時間に注意　最新情報の動画配信も",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/09/cover_news174.jpg"
         }
       ]
     }

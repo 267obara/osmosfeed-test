@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-07T23:12:38.402Z</updated>
+    <updated>2023-01-08T01:12:09.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[キルギスで将来の妻を誘拐することは出会い系アプリで彼女を探すのと同じくらい一般的なことだという指摘]]></title>
+        <id>https://gigazine.net/news/20230108-kyrgyzstan-ala-kachuu/</id>
+        <link href="https://gigazine.net/news/20230108-kyrgyzstan-ala-kachuu/"/>
+        <updated>2023-01-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中央アジアに位置するキルギスには「デート」という言葉がなく、男性が妻となる女性を誘拐してそのまま結婚をせまるケースが多発しているとのこと。キルギスにおける誘拐婚の実態について、首都ビシュケク在住のライター、Sevindj Nurkiyazova氏が解説しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARコンタクトレンズのMojo Vision、資金不足で開発停止　マイクロLEDにピボット]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/08/news037.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/08/news037.html"/>
+        <updated>2023-01-07T23:18:00.000Z</updated>
+        <summary type="html"><![CDATA[ARで視界に情報を表示するスマートコンタクトレンズを開発中のMojo Visionが開発を保留すると発表した。資金調達が困難になったため。従業員の75％を削減し、マイクロLEDディスプレイにピボットする。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Appleの命名規則を分析して分かりやすく可視化したサイト「How Apple Names Things」]]></title>
         <id>https://gigazine.net/news/20230107-apple-name-rule-visualize/</id>
@@ -10831,38 +10852,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ぬれおかきなのにグミのようにやわらかい食感の「グミみたいなおかき!? みたらし団子風味」を食べてみた]]></title>
-        <id>https://gigazine.net/news/20221209-gumi-mitaina-okaki-mitarashi-dango-fuumi/</id>
-        <link href="https://gigazine.net/news/20221209-gumi-mitaina-okaki-mitarashi-dango-fuumi/"/>
-        <updated>2022-12-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ローソンから、グミのような食感でありながら国産のもち米を使った一口サイズのぬれおかき「グミみたいなおかき!? みたらし団子風味」が2022年12月13日(火)に登場します。本来であればバリボリと硬い食感が魅力のおかきが、まるでグミのようなやわらか食感に仕上がっているとはどういうことなのか、一足早く食べられる機会を得られたので、実際に食べて確かめてみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アメリカ軍の宣伝ツイートから「最新ステルス爆撃機」の写真を撮影した位置が特定されてしまう]]></title>
-        <id>https://gigazine.net/news/20221209-new-stealth-aircraft-location/</id>
-        <link href="https://gigazine.net/news/20221209-new-stealth-aircraft-location/"/>
-        <updated>2022-12-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカ空軍がTwitterで、核弾頭と通常弾を搭載可能な「二刀流」の最新鋭ステルス爆撃機である「B-21レイダー」の写真を公開しました。この時、背景に映り込んだ星空から、ステルス爆撃機の位置を高い精度で割り出してしまったTwitterユーザーが登場しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[映画「鬼滅の刃 無限列車編」10日に特別放送、一部地域は時間に注意　最新情報の動画配信も]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/09/news174.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/09/news174.html"/>
-        <updated>2022-12-09T11:49:00.000Z</updated>
-        <summary type="html"><![CDATA[映画「鬼滅の刃 無限列車編」をフジテレビが12月10日に特別番組としてノーカット放送する。しかし一部地域のファンは録画予約などの際に注意する必要がありそうだ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

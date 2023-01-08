@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230108-repairing-car-own-garage-illegal-california/",
+          "author": null,
+          "description": "機械いじりが得意な自動車好きなら、オイル交換やブレーキパッドの交換、ちょっとしたエンジンの修理などは自分でやってしまいます。ところが、アメリカのカリフォルニア州サクラメントには、うっかり愛車の修理やメンテナンスをすると罰金の支払いを命じられかねない条例があるとして、住人の間で物議を醸しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230108-repairing-car-own-garage-illegal-california/",
+          "publishedOn": "2023-01-08T11:00:00.000Z",
+          "wordCount": 2446,
+          "title": "「自宅のガレージで車を修理するのは違法」というトンデモ法がアメリカには存在する",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/08/repairing-car-own-garage-illegal-california/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230108-davinci-resolve-for-ipad/",
           "author": null,
           "description": "Blackmagic Designが開発する動画編集ソフト「DaVinci Resolve」のiPad版である「DaVinci Resolve for iPad」が2022年12月22日にリリースされました。PC版と同様に無料で利用できるとのことで、実際に使ってみました。\n続きを読む...",
@@ -10395,16 +10405,6 @@
           "wordCount": 2601,
           "title": "Z世代の時間感覚　「ちょっと一杯」は「1時間」、一服するは？",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/10/cover_news026.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/10/news044.html",
-          "author": null,
-          "description": "「X-T5」は予想以上にX-Tだった。動画寄りの「X-H2S」「X-H2」に対し、静止画に軸足を置いたカメラとして設計され、操作系もそっち寄り。写真メインの人にはありがたいのだ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/10/news044.html",
-          "publishedOn": "2022-12-09T23:00:00.000Z",
-          "wordCount": 2358,
-          "title": "富士フイルム「X-T5」はスチル撮影に軸足を置いたハイエンド機",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/10/cover_news044.jpg"
         }
       ]
     }

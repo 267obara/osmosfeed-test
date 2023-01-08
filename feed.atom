@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-08T10:13:36.673Z</updated>
+    <updated>2023-01-08T11:10:23.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「自宅のガレージで車を修理するのは違法」というトンデモ法がアメリカには存在する]]></title>
+        <id>https://gigazine.net/news/20230108-repairing-car-own-garage-illegal-california/</id>
+        <link href="https://gigazine.net/news/20230108-repairing-car-own-garage-illegal-california/"/>
+        <updated>2023-01-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[機械いじりが得意な自動車好きなら、オイル交換やブレーキパッドの交換、ちょっとしたエンジンの修理などは自分でやってしまいます。ところが、アメリカのカリフォルニア州サクラメントには、うっかり愛車の修理やメンテナンスをすると罰金の支払いを命じられかねない条例があるとして、住人の間で物議を醸しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無料で多機能な動画編集ソフトのiPad版「DaVinci Resolve for iPad」を触ってみた]]></title>
         <id>https://gigazine.net/news/20230108-davinci-resolve-for-ipad/</id>
@@ -10864,16 +10875,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士フイルム「X-T5」はスチル撮影に軸足を置いたハイエンド機]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/10/news044.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/10/news044.html"/>
-        <updated>2022-12-09T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「X-T5」は予想以上にX-Tだった。動画寄りの「X-H2S」「X-H2」に対し、静止画に軸足を置いたカメラとして設計され、操作系もそっち寄り。写真メインの人にはありがたいのだ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

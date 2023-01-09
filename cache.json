@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230109-public-private-land-corner-locked/",
+          "author": null,
+          "description": "2021年10月、アメリカのワイオミング州で4人のハンターが私有地へ不法侵入したとして起訴されました。しかし、これらのハンターは一歩たりとも問題の私有地に足を踏み入れておらず、公有地から公有地へと移動しただけだったとのこと。この奇妙な事態を引き起こした、アメリカ西部にみられる「土地のコーナーロック問題」について、アウトドアレクリエーションを楽しむ人のためのウェブメディア・onXが論じています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230109-public-private-land-corner-locked/",
+          "publishedOn": "2023-01-09T06:00:00.000Z",
+          "wordCount": 2417,
+          "title": "公有地と私有地が交差しており私有地を通らないとたどり着けない公有地ができてしまう「土地のコーナーロック問題」とは？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/09/public-private-land-corner-locked/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230109-elon-musk-cuts-twitter-content-moderation/",
           "author": null,
           "description": "イーロン・マスク氏がCEOに就任してから大規模な人員削減が行われてきたTwitterですが、2023年に入ってからも同社は人員削減に勤しんでいると報じられています。報道によると、今回解雇されたのはグローバルコンテンツモデレーションチームの従業員だそうです。\n続きを読む...",

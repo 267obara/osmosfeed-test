@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T05:12:44.873Z</updated>
+    <updated>2023-01-09T06:17:42.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[公有地と私有地が交差しており私有地を通らないとたどり着けない公有地ができてしまう「土地のコーナーロック問題」とは？]]></title>
+        <id>https://gigazine.net/news/20230109-public-private-land-corner-locked/</id>
+        <link href="https://gigazine.net/news/20230109-public-private-land-corner-locked/"/>
+        <updated>2023-01-09T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2021年10月、アメリカのワイオミング州で4人のハンターが私有地へ不法侵入したとして起訴されました。しかし、これらのハンターは一歩たりとも問題の私有地に足を踏み入れておらず、公有地から公有地へと移動しただけだったとのこと。この奇妙な事態を引き起こした、アメリカ西部にみられる「土地のコーナーロック問題」について、アウトドアレクリエーションを楽しむ人のためのウェブメディア・onXが論じています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[イーロン・マスクのTwitterがコンテンツモデレーションに携わっていた従業員をさらに解雇]]></title>
         <id>https://gigazine.net/news/20230109-elon-musk-cuts-twitter-content-moderation/</id>

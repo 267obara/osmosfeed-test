@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T04:16:36.558Z</updated>
+    <updated>2023-01-09T05:12:44.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクのTwitterがコンテンツモデレーションに携わっていた従業員をさらに解雇]]></title>
+        <id>https://gigazine.net/news/20230109-elon-musk-cuts-twitter-content-moderation/</id>
+        <link href="https://gigazine.net/news/20230109-elon-musk-cuts-twitter-content-moderation/"/>
+        <updated>2023-01-09T04:18:00.000Z</updated>
+        <summary type="html"><![CDATA[イーロン・マスク氏がCEOに就任してから大規模な人員削減が行われてきたTwitterですが、2023年に入ってからも同社は人員削減に勤しんでいると報じられています。報道によると、今回解雇されたのはグローバルコンテンツモデレーションチームの従業員だそうです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無料でワンタイムパスワードを発行可能＆デバイス間エクスポートも可能なオープンソースアプリ「Aegis Authenticator」、特定の企業に依存する必要がなくなり安心]]></title>
         <id>https://gigazine.net/news/20230109-aegis-authenticator-2fa/</id>

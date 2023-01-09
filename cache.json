@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230110-space-solar-power-project/",
+          "author": null,
+          "description": "カリフォルニア工科大学の宇宙太陽光発電プロジェクト(SSPP)は2023年1月3日に、宇宙太陽光発電実証機(SSPD)をSpaceXのファルコン9で軌道上に打ち上げました。このSSPDは宇宙で太陽光発電を行い、そのエネルギーを地球に伝送する計画をテストするための試作機となっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-space-solar-power-project/",
+          "publishedOn": "2023-01-09T21:00:00.000Z",
+          "wordCount": 2470,
+          "title": "宇宙で太陽光発電してワイヤレスで送電するプロジェクト「SSPP」が2023年1月3日から稼働開始",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/space-solar-power-project/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230109-artist-banned-subreddit/",
           "author": null,
           "description": "巨大掲示板サイト・Redditは特定の話題ごとに「サブレディット」と呼ばれるスレッドに分かれていますが、その中で2200万人が参加するアート系最大のサブレディット「r/Art」で、AIを用いているという疑いをかけられたアーティストがBANされたことがわかりました。アーティストは「自分はアート制作でAIのサポートは受けていません」と説明しています。\n続きを読む...",

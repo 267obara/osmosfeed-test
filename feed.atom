@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T20:15:53.790Z</updated>
+    <updated>2023-01-09T21:12:37.929Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[宇宙で太陽光発電してワイヤレスで送電するプロジェクト「SSPP」が2023年1月3日から稼働開始]]></title>
+        <id>https://gigazine.net/news/20230110-space-solar-power-project/</id>
+        <link href="https://gigazine.net/news/20230110-space-solar-power-project/"/>
+        <updated>2023-01-09T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[カリフォルニア工科大学の宇宙太陽光発電プロジェクト(SSPP)は2023年1月3日に、宇宙太陽光発電実証機(SSPD)をSpaceXのファルコン9で軌道上に打ち上げました。このSSPDは宇宙で太陽光発電を行い、そのエネルギーを地球に伝送する計画をテストするための試作機となっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「eBPF」がクラウドネイティブを超強力にする。eBPFとは何か？ 何ができて、どんな利点があるのか？ Cloud Native Days Tokyo 2022基調講演から]]></title>
         <id>https://www.publickey1.jp/blog/23/ebpfebpf_cloud_native_days_tokyo_2022.html</id>

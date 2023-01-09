@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230109-amd-radeon-rx-7900-xtx-linux/",
+          "author": null,
+          "description": "AMDのグラフィックスカード「Radeon RX 7900 XT」「Radeon RX 7900 XTX」が2022年12月12日に発売されました。この2種類のグラフィックスカードをLinux環境で動作させたパフォーマンスレビューを、PC関連ニュースサイトのPhoronixが公開しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230109-amd-radeon-rx-7900-xtx-linux/",
+          "publishedOn": "2023-01-09T10:00:00.000Z",
+          "wordCount": 2611,
+          "title": "AMD Radeon RX 7900 XT／7900 XTXをLinux環境でベンチマークしたレポートが公開中",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/09/amd-radeon-rx-7900-xtx-linux/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230109-public-private-land-corner-locked/",
           "author": null,
           "description": "2021年10月、アメリカのワイオミング州で4人のハンターが私有地へ不法侵入したとして起訴されました。しかし、これらのハンターは一歩たりとも問題の私有地に足を踏み入れておらず、公有地から公有地へと移動しただけだったとのこと。この奇妙な事態を引き起こした、アメリカ西部にみられる「土地のコーナーロック問題」について、アウトドアレクリエーションを楽しむ人のためのウェブメディア・onXが論じています。\n続きを読む...",

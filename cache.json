@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230109-artist-banned-subreddit/",
+          "author": null,
+          "description": "巨大掲示板サイト・Redditは特定の話題ごとに「サブレディット」と呼ばれるスレッドに分かれていますが、その中で2200万人が参加するアート系最大のサブレディット「r/Art」で、AIを用いているという疑いをかけられたアーティストがBANされたことがわかりました。アーティストは「自分はアート制作でAIのサポートは受けていません」と説明しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230109-artist-banned-subreddit/",
+          "publishedOn": "2023-01-09T13:30:00.000Z",
+          "wordCount": 2597,
+          "title": "「AIを用いて絵を描いた」としてアーティストがReddit最大のアートコミュニティをBANされる",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/09/artist-banned-subreddit/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230109-women-like-working-with-people-men-things/",
           "author": null,
           "description": "世界42カ国で働く人々のアンケート結果を分析した結果、女性は男性より人と接する仕事や活動を好む傾向があることや、男性は女性よりモノを扱う仕事を好む傾向があることが確かめられました。また、女性はアイデアを扱う仕事や、名声のある仕事が好きなことも判明しています。\n続きを読む...",

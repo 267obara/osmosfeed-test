@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T22:13:14.782Z</updated>
+    <updated>2023-01-09T23:13:29.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[チェックリスト作成のためのチェックリスト]]></title>
+        <id>https://gigazine.net/news/20230110-checklist-for-checklists/</id>
+        <link href="https://gigazine.net/news/20230110-checklist-for-checklists/"/>
+        <updated>2023-01-09T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[少しのミスが重大な事故や損失につながりうるプロジェクトを行う際には、何をどの順ですべきかという「チェックリスト」を作成すると手順の抜けや間違いを減らすことができます。しかし、ただチェックリストに従うだけではうまく機能しないこともあるため、チェックリストを作るための手順や注意点もかなり大事になってきます。世界保健機関(WHO)の研究者兼医師のアトゥール・ガワンデ氏の著書である「The Checklist Manifesto(アナタはなぜチェックリストを使わないのか？)」では、何か重要なプロジェクトを開始する前の「チェックリスト作成のためのチェックリスト」を見ることができます。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宇宙で太陽光発電してワイヤレスで送電するプロジェクト「SSPP」が2023年1月3日から稼働開始]]></title>
         <id>https://gigazine.net/news/20230110-space-solar-power-project/</id>
@@ -10818,17 +10829,6 @@
         <link href="https://gigazine.net/news/20221211-volkswagen-originalteil/"/>
         <updated>2022-12-11T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[1937年に設立された自動車メーカーのフォルクスワーゲンは、「ビートル」などの大衆車を始め、水素自動車や自動運転機能搭載自動車などさまざまな自動車の開発を行っています。しかし、年によっては自動車よりも売れる「自動車とは関係ない部品」があるそうです。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「この映像には暴力的な描写が含まれています」は意味があるのか？]]></title>
-        <id>https://gigazine.net/news/20221211-effects-content-warnings-notes/</id>
-        <link href="https://gigazine.net/news/20221211-effects-content-warnings-notes/"/>
-        <updated>2022-12-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[過去にトラウマになりかねない出来事を経験したことがある人は、ふとした拍子にそれがフラッシュバックするおそれがあるため、刺激が強い事柄をテーマにする映像や記事の冒頭には「過激な描写が含まれています」「苦手な方はお控えください」といった「トリガー警告」が挿入されることがあります。ところが、こうしたトリガー警告は意味がないどころか、かえって苦痛の原因になりかねないことが分かりました。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

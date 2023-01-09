@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T11:11:58.266Z</updated>
+    <updated>2023-01-09T12:27:22.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -10841,17 +10841,6 @@
         <link href="https://gigazine.net/news/20221211-amazon-edv-movie/"/>
         <updated>2022-12-11T04:00:00.000Z</updated>
         <summary type="html"><![CDATA[アメリカ国内では、Amazonによる配送を行う際にリヴィアン製の電気配送車(EDV)を使用する試みが広まっています。実際のEDVの設備や配達の様子を実際にAmazonの配送業者として働くFriday Adventure Club氏が自身のYouTube動画の中で紹介しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ワインの味は専門家でも正確には判別できない」という説は本当なのか？]]></title>
-        <id>https://gigazine.net/news/20221211-is-wine-fake/</id>
-        <link href="https://gigazine.net/news/20221211-is-wine-fake/"/>
-        <updated>2022-12-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ブドウを原料に作られるワインはブドウの品種や産地などによって味や香りが異なり、ソムリエと呼ばれる専門家はテイスティングによって銘柄を識別できるといわれています。ところが、「ワインの味は専門家でも正確に判別できない」とする説もささやかれており、この説についてウェブメディアのAsteriskでライターを務めるスコット・アレクサンダー氏がまとめています。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

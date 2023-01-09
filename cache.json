@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230109-aegis-authenticator-2fa/",
+          "author": null,
+          "description": "ウェブサービスを安全に使用する手段の1つとして、「ワンタイムパスワード発行サービスを利用する」という方法があります。ワンタイムパスワードを生成するアプリとしては「Google Authenticator」「Microsoft Authenticator」「Authy」といったアプリが広く利用されていますが、これらのアプリはGoogleやMicrosoftなどの企業によって開発されたものであり、透明性や信頼性に不安を感じる人もいるはず。オープンソースで開発されているAndroid向けのワンタイムパスワード発行アプリ「Aegis Authenticator」を使えば、特定の企業に依存せず二要素認証によるセキュリティ強化を実行できるだけでなく、Google Authenticatorでは不可能な「ワンタイムパスワードの不可視化」なども可能となります。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230109-aegis-authenticator-2fa/",
+          "publishedOn": "2023-01-09T03:00:00.000Z",
+          "wordCount": 2479,
+          "title": "無料でワンタイムパスワードを発行可能＆デバイス間エクスポートも可能なオープンソースアプリ「Aegis Authenticator」、特定の企業に依存する必要がなくなり安心",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/09/aegis-authenticator-2fa/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230109-stasi-ddr-type-2/",
           "author": null,
           "description": "東ドイツの国家保安省「シュタージ」が開発した短波送信機「DDR Type 2」について、過去の暗号通信に使用されてきた機器を紹介するCrypto Museumが取り上げています。\n続きを読む...",

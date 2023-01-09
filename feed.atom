@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T02:37:30.977Z</updated>
+    <updated>2023-01-09T03:14:29.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無料でワンタイムパスワードを発行可能＆デバイス間エクスポートも可能なオープンソースアプリ「Aegis Authenticator」、特定の企業に依存する必要がなくなり安心]]></title>
+        <id>https://gigazine.net/news/20230109-aegis-authenticator-2fa/</id>
+        <link href="https://gigazine.net/news/20230109-aegis-authenticator-2fa/"/>
+        <updated>2023-01-09T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ウェブサービスを安全に使用する手段の1つとして、「ワンタイムパスワード発行サービスを利用する」という方法があります。ワンタイムパスワードを生成するアプリとしては「Google Authenticator」「Microsoft Authenticator」「Authy」といったアプリが広く利用されていますが、これらのアプリはGoogleやMicrosoftなどの企業によって開発されたものであり、透明性や信頼性に不安を感じる人もいるはず。オープンソースで開発されているAndroid向けのワンタイムパスワード発行アプリ「Aegis Authenticator」を使えば、特定の企業に依存せず二要素認証によるセキュリティ強化を実行できるだけでなく、Google Authenticatorでは不可能な「ワンタイムパスワードの不可視化」なども可能となります。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[正月太りのマンガ家が「Fit Boxing 北斗の拳」で脂肪に立ち向かった結果　「お前はもう痩せている」？]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2301/09/news030.html</id>

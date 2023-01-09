@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T18:17:37.474Z</updated>
+    <updated>2023-01-09T19:11:15.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -10829,17 +10829,6 @@
         <link href="https://gigazine.net/news/20221211-live-on-torrent/"/>
         <updated>2022-12-11T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[「Live on Torrent」はP2P型のBitTorrentプロトコルを使ってライブ配信を共有するプラットフォームです。コンテンツ配信ネットワーク(CDN)を使用せず、視聴者に直接ライブ配信が送信されます。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソフトクリームよりも濃厚な甘みが流れ込んでくるミニストップの「のむソフトクリーム260gボトル缶」を飲んでみた]]></title>
-        <id>https://gigazine.net/news/20221211-ministop-soft-cream-drink/</id>
-        <link href="https://gigazine.net/news/20221211-ministop-soft-cream-drink/"/>
-        <updated>2022-12-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ミニストップで人気のバニラソフトクリームをリキャップ可能なドリンク化した「のむソフトクリーム260gボトル缶」が登場していたので、買ってきて飲んでみました。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

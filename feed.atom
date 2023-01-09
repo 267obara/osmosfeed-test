@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-08T23:13:01.274Z</updated>
+    <updated>2023-01-09T01:07:03.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[正月太りのマンガ家が「Fit Boxing 北斗の拳」で脂肪に立ち向かった結果　「お前はもう痩せている」？]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/09/news030.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/09/news030.html"/>
+        <updated>2023-01-09T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[人気のボクササイズゲーム「Fit Boxing」シリーズに「北斗の拳」の世界観が盛り込まれた本作。キャラクター達がインストラクターになってプレイヤーを励ましてくれます。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旧東ドイツ時代の秘密警察シュタージのスパイが使っていた送信機「DDR Type 2」の内部構造がすごい]]></title>
+        <id>https://gigazine.net/news/20230109-stasi-ddr-type-2/</id>
+        <link href="https://gigazine.net/news/20230109-stasi-ddr-type-2/"/>
+        <updated>2023-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東ドイツの国家保安省「シュタージ」が開発した短波送信機「DDR Type 2」について、過去の暗号通信に使用されてきた機器を紹介するCrypto Museumが取り上げています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人間には「もっと良いもの」を想像しがちなバイアスが存在することが実験で明らかに]]></title>
         <id>https://gigazine.net/news/20230108-bias-in-human-imagination/</id>
@@ -10789,17 +10810,6 @@
         <summary type="html"><![CDATA[Twitterは、現在一時停止しているサブスクリプションサービス「Twitter Blue」の提供を12月12日に再開すると発表した。「青いチェックマーク」はアカウントレビュー後に付与する。付与後にユーザー名や表示名を変更すると、再レビュー完了までマークは非表示になる。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoftが感情を簡単に表現できるキャラクター「フィーリングモンスター」を作り上げた経緯とは？]]></title>
-        <id>https://gigazine.net/news/20221210-microsoft-feelings-monster/</id>
-        <link href="https://gigazine.net/news/20221210-microsoft-feelings-monster/"/>
-        <updated>2022-12-10T12:44:00.000Z</updated>
-        <summary type="html"><![CDATA[オンラインでコミュニケーションを取る場合、自らの感情を文章だけで伝えるのは難しく、絵文字やスタンプを使って感情を表現している人も多いはず。Microsoftが提供する教育現場向けアプリ「Microsoft Reflect」ではカラフルなモンスター「フィーリングモンスター」を用いて感情を表現できるのですが、このフィーリングモンスターが作り出された背景をMicrosoftが解説しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

@@ -6380,6 +6380,16 @@
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
         {
+          "id": "https://www.publickey1.jp/blog/23/ebpfebpf_cloud_native_days_tokyo_2022.html",
+          "author": null,
+          "description": "2022年11月21日と22日の2日間、クラウドネイティブにフォーカスしたイベント「Cloud Native Days Tokyo 2022」が都内およびオンラインのハイブリッドで行われました。 22日の基調講演に登場したのは、Cilium...",
+          "link": "https://www.publickey1.jp/blog/23/ebpfebpf_cloud_native_days_tokyo_2022.html",
+          "publishedOn": "2023-01-09T15:00:00.000Z",
+          "wordCount": 1284,
+          "title": "「eBPF」がクラウドネイティブを超強力にする。eBPFとは何か？ 何ができて、どんな利点があるのか？ Cloud Native Days Tokyo 2022基調講演から",
+          "imageUrl": "https://www.publickey1.jp/2023/ebpfsuperpower04.gif"
+        },
+        {
           "id": "https://www.publickey1.jp/blog/23/devboxaws_siervscode_webpython202212.html",
           "author": null,
           "description": "年末に風邪を引いてしまって、お正月はほぼ寝て過ごしてしまいました。仕事に支障のないときに寝込むなんて、いいのか悪いのか。本年もどうぞよろしくお願いいたします。 さて年が明けたところで、先月（2022年12月）の人気記事トップ10を紹介してい...",

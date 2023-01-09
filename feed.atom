@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T14:15:51.962Z</updated>
+    <updated>2023-01-09T15:20:12.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「eBPF」がクラウドネイティブを超強力にする。eBPFとは何か？ 何ができて、どんな利点があるのか？ Cloud Native Days Tokyo 2022基調講演から]]></title>
+        <id>https://www.publickey1.jp/blog/23/ebpfebpf_cloud_native_days_tokyo_2022.html</id>
+        <link href="https://www.publickey1.jp/blog/23/ebpfebpf_cloud_native_days_tokyo_2022.html"/>
+        <updated>2023-01-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年11月21日と22日の2日間、クラウドネイティブにフォーカスしたイベント「Cloud Native Days Tokyo 2022」が都内およびオンラインのハイブリッドで行われました。 22日の基調講演に登場したのは、Cilium...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「AIを用いて絵を描いた」としてアーティストがReddit最大のアートコミュニティをBANされる]]></title>
         <id>https://gigazine.net/news/20230109-artist-banned-subreddit/</id>

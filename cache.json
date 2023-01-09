@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230109-women-like-working-with-people-men-things/",
+          "author": null,
+          "description": "世界42カ国で働く人々のアンケート結果を分析した結果、女性は男性より人と接する仕事や活動を好む傾向があることや、男性は女性よりモノを扱う仕事を好む傾向があることが確かめられました。また、女性はアイデアを扱う仕事や、名声のある仕事が好きなことも判明しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230109-women-like-working-with-people-men-things/",
+          "publishedOn": "2023-01-09T11:00:00.000Z",
+          "wordCount": 2462,
+          "title": "女性は人と仕事をするのが好きで男性はモノと仕事をするのが好き",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/09/women-like-working-with-people-men-things/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230109-amd-radeon-rx-7900-xtx-linux/",
           "author": null,
           "description": "AMDのグラフィックスカード「Radeon RX 7900 XT」「Radeon RX 7900 XTX」が2022年12月12日に発売されました。この2種類のグラフィックスカードをLinux環境で動作させたパフォーマンスレビューを、PC関連ニュースサイトのPhoronixが公開しています。\n続きを読む...",
@@ -10375,16 +10385,6 @@
           "wordCount": 2637,
           "title": "“SF思考”でアイデアを発散　議論ツール「SFプロトタイピング」で考える100年後　対話を広げるコツは？",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news049.png"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/11/news043.html",
-          "author": null,
-          "description": "Twitterは、現在一時停止しているサブスクリプションサービス「Twitter Blue」の提供を12月12日に再開すると発表した。「青いチェックマーク」はアカウントレビュー後に付与する。付与後にユーザー名や表示名を変更すると、再レビュー完了までマークは非表示になる。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/11/news043.html",
-          "publishedOn": "2022-12-10T23:00:00.000Z",
-          "wordCount": 2614,
-          "title": "Twitter Blueは12月12日再開、iOSアプリ経由は月額11ドルに",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/11/cover_news043.jpg"
         }
       ]
     }

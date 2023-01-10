@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230111-access/",
+          "author": null,
+          "description": "この記事はGIGAZINEシークレットクラブの有料メンバー限定ですが、2023年2月28日までは誰でも閲覧可能です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-access/",
+          "publishedOn": "2023-01-10T20:00:00.000Z",
+          "wordCount": 2678,
+          "title": "2022年度12月分のGIGAZINEのアクセス解析結果",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/access/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230110-google-stadia-cdc-file-transfer/",
           "author": null,
           "description": "Googleが提供していたクラウドゲームサービス「Stadia」は、スペックの低いPCやスマートフォンなどでもインターネットを介して高画質なゲームを楽しめるサービスとして注目を集めていましたが、2022年にサービス終了が発表されました。そんなStadiaの開発過程で生み出されたファイル転送ツール「CDC File Transfer」が、オープンソースで公開されています。\n続きを読む...",
@@ -4904,16 +4914,6 @@
           "wordCount": 12186,
           "title": "2022年12月12日のヘッドラインニュース",
           "imageUrl": "https://i.gzn.jp/img/2022/12/12/headline/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221212-photograph-plagiaris-against/",
-          "author": null,
-          "description": "ルクセンブルク政府主催の展覧会でルクセンブルク出身の美術学生のジェフ・ディーシュブルク氏が「第11回現代美術ビエンナーレ賞」を受賞し、賞金1500ユーロ(約21万円)を受け取りました。しかし、アメリカを拠点とするアーティストの張晶娜氏は、この作品は自身の作品の盗作だとして訴訟を起こしました。しかし、2022年12月7日に「写真の独創性が不十分だった」として著作権保護の訴えを退ける判決が下されています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221212-photograph-plagiaris-against/",
-          "publishedOn": "2022-12-12T08:00:00.000Z",
-          "wordCount": 2857,
-          "title": "写真家の撮影した画像を反転した絵が展覧会で入賞、盗作として訴訟されるものの勝訴してしまう",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/12/photograph-plagiaris-against/00.jpg"
         }
       ]
     },
@@ -10505,16 +10505,6 @@
           "wordCount": 2594,
           "title": "Meta、アバターストアを日本でもスタート　プラダなどのバーチャル服を販売",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news152.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news140.html",
-          "author": null,
-          "description": "ベネッセが基幹システムをOracle Cloudに移行。すでにAzureに移行したフロントエンドシステムと合わせて、マルチクラウド環境で運用する。コロナ禍によって急増したオンラインサービスの利用に対応するという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news140.html",
-          "publishedOn": "2022-12-12T07:21:00.000Z",
-          "wordCount": 2602,
-          "title": "ベネッセ、基幹システムをOracle Cloud移行　Azureとのマルチクラウドに",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news140.jpg"
         }
       ]
     }

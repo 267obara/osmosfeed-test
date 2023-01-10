@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T19:11:31.254Z</updated>
+    <updated>2023-01-10T20:14:20.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2022年度12月分のGIGAZINEのアクセス解析結果]]></title>
+        <id>https://gigazine.net/news/20230111-access/</id>
+        <link href="https://gigazine.net/news/20230111-access/"/>
+        <updated>2023-01-10T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[この記事はGIGAZINEシークレットクラブの有料メンバー限定ですが、2023年2月28日までは誰でも閲覧可能です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IDEにChatGPTを統合、「この関数のテストコードはどこ？」「XXXを実装するならどう書けばいい？」など、AIでコードと対話できる「qqbot」登場]]></title>
         <id>https://www.publickey1.jp/blog/23/idechatgptxxxaiqqbot.html</id>
@@ -10960,27 +10971,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/12/news152.html"/>
         <updated>2022-12-12T08:30:00.000Z</updated>
         <summary type="html"><![CDATA[米Metaが、FacebookやVR空間で使えるアバター用の服を販売する「Metaアバターストア」の日本含むアジア太平洋地域での提供を始めた。既存の無料服に加えて、ファッションブランドの服も販売する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写真家の撮影した画像を反転した絵が展覧会で入賞、盗作として訴訟されるものの勝訴してしまう]]></title>
-        <id>https://gigazine.net/news/20221212-photograph-plagiaris-against/</id>
-        <link href="https://gigazine.net/news/20221212-photograph-plagiaris-against/"/>
-        <updated>2022-12-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ルクセンブルク政府主催の展覧会でルクセンブルク出身の美術学生のジェフ・ディーシュブルク氏が「第11回現代美術ビエンナーレ賞」を受賞し、賞金1500ユーロ(約21万円)を受け取りました。しかし、アメリカを拠点とするアーティストの張晶娜氏は、この作品は自身の作品の盗作だとして訴訟を起こしました。しかし、2022年12月7日に「写真の独創性が不十分だった」として著作権保護の訴えを退ける判決が下されています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ベネッセ、基幹システムをOracle Cloud移行　Azureとのマルチクラウドに]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/12/news140.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news140.html"/>
-        <updated>2022-12-12T07:21:00.000Z</updated>
-        <summary type="html"><![CDATA[ベネッセが基幹システムをOracle Cloudに移行。すでにAzureに移行したフロントエンドシステムと合わせて、マルチクラウド環境で運用する。コロナ禍によって急増したオンラインサービスの利用に対応するという。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

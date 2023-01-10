@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T11:11:53.490Z</updated>
+    <updated>2023-01-10T12:27:18.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ギガビット対応回線を新築住宅に導入することがイギリスで義務化される]]></title>
+        <id>https://gigazine.net/news/20230110-faster-broadband-legal-requirement-england/</id>
+        <link href="https://gigazine.net/news/20230110-faster-broadband-legal-requirement-england/"/>
+        <updated>2023-01-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イギリス政府が導入した新法により、住宅開発業者に対し、イングランドで建設する新築住宅には高速な回線を引き込み、ギガビットの速度のインターネットを実現することが義務づけられるようになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[こたつのヒーター、誰でも〇で交換できる]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news176.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news176.html"/>
+        <updated>2023-01-10T11:34:00.000Z</updated>
+        <summary type="html"><![CDATA[今回のトピックは前回に続き、節電の味方「こたつ」。国内メーカーの製品は簡単にヒーターを交換できます。故障時には廃棄物を減らせ、より省エネのヒーターに交換することも。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Googleの「gmail.com」と間違えられやすい「gail.com」には週120万通もの間違いメールが届き続けている]]></title>
         <id>https://gigazine.net/news/20230110-gmail-error-gail/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テレビ番組のネット配信、認知は8割前後に　スマホの存在感増す──MMD研究所調査]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news175.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news175.html"/>
+        <updated>2023-01-10T10:56:00.000Z</updated>
+        <summary type="html"><![CDATA[テレビ番組のネット配信が視聴者に浸透し、視聴デバイスはスマートフォンが増えている──MMD研究所は10日、そんな調査結果を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -11131,56 +11162,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/12/news006.html"/>
         <updated>2022-12-12T01:27:00.000Z</updated>
         <summary type="html"><![CDATA[HPCが使いたいときに使えない──「ゲノム研究」に当たって課題を抱えていた基礎生物学研究所。解決の糸口はAWSのクラウドサービスだった。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter、「コミュニティノート」（旧Birdwatch）をグローバルに展開開始]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/12/news079.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news079.html"/>
-        <updated>2022-12-12T00:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterは2021年1月に米国でパイロット版を立ち上げた偽情報拡散防止対策「コミュニティノート」（旧「Birdwatch」）のグローバル展開を開始した。日本からもノート寄稿者として参加できる。既に幾つかのツイートにノートが表示されている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWSパートナー6社、「Cloud Native Builders Group」を設立]]></title>
-        <id>http://codezine.jp/article/detail/16996</id>
-        <link href="http://codezine.jp/article/detail/16996"/>
-        <updated>2022-12-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ギークフィードは、AWSパートナーとともに「Cloud Native Builders Group」を設立したことを、12月6日に発表した。参加企業（50音順）は、Aokumo、クエイル、ギークフィード、シーズ、フォージビジョン、ベンジャミンの6社。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「PyTorch with DirectML」最新版でTransformer関連のモデルのトレーニングが可能に]]></title>
-        <id>http://codezine.jp/article/detail/17004</id>
-        <link href="http://codezine.jp/article/detail/17004"/>
-        <updated>2022-12-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米Microsoftは、機械学習向けの低レベルAPI「DirectML」のPyTorch向け拡張である「PyTorch with DirectML」の最新バージョン「0.1.13」を12月6日（現地時間）に公開した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5G情報持ち出しで有罪　楽天モバイル元社員]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/12/news077.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news077.html"/>
-        <updated>2022-12-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[勤務先だった携帯電話大手ソフトバンクから高速大容量の第5世代（5G）移動通信システムに関する営業秘密を持ち出したとして、不正競争防止法違反（営業秘密領得）の罪に問われた楽天モバイル元社員、合場邦章被告（47）の判決公判で、東京地裁（鎌倉正和裁判長）は9日、懲役2年、執行猶予4年、罰金100万円（求刑懲役2年、罰金100万円）を言い渡した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[半導体の対中輸出規制　米政府が日本に協力要請　製造装置など]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/12/news076.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news076.html"/>
-        <updated>2022-12-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[半導体の対中輸出規制を巡り、米政府が日本政府に対して、足並みをそろえるよう要請したことが10日、分かった。複数の関係者によると、レモンド米商務長官が9日に西村康稔経済産業相と電話会談した際に協力を求めたという。日本が高い技術を持つ半導体製造装置などの輸出を規制して、中国の先端半導体の開発を遅らせるのが狙い。閣僚間での直接的な協力要請は初めてとみられる。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

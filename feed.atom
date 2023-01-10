@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T07:12:10.009Z</updated>
+    <updated>2023-01-10T08:17:51.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ブラジルの議事堂襲撃事件発生前後にTwitter・TikTok・Instagram・Facebookなどで「不正選挙」を主張する投稿が激増していた]]></title>
+        <id>https://gigazine.net/news/20230110-brazil-raid-sns/</id>
+        <link href="https://gigazine.net/news/20230110-brazil-raid-sns/"/>
+        <updated>2023-01-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年1月8日に、ブラジルの首都ブラジリアで連邦議会や大統領府、最高裁判所などがジャイル・ボルソナロ元大統領の支持者によって襲撃される事件が発生しました。この襲撃に際して、TwitterやFacebook、InstagramといったSNS上で襲撃に関連する情報が広く拡散していた実態が報告されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Excelの底”に一瞬でたどり着くには「Ctrl+〇」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news141.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news141.html"/>
+        <updated>2023-01-10T07:46:00.000Z</updated>
+        <summary type="html"><![CDATA[デキるITビジネスパーソンなら誰もが知っている基礎知識をクイズ化。今回は“Excelの底”に一瞬でたどり着けるショートカット。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metaの監督委員会が「ハメネイに死を」のスローガン使用は可との見解を発表]]></title>
         <id>https://gigazine.net/news/20230110-metas-oversight-board-death-khamenei-iran/</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230110-brazil-raid-sns/",
+          "author": null,
+          "description": "2023年1月8日に、ブラジルの首都ブラジリアで連邦議会や大統領府、最高裁判所などがジャイル・ボルソナロ元大統領の支持者によって襲撃される事件が発生しました。この襲撃に際して、TwitterやFacebook、InstagramといったSNS上で襲撃に関連する情報が広く拡散していた実態が報告されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-brazil-raid-sns/",
+          "publishedOn": "2023-01-10T08:00:00.000Z",
+          "wordCount": 2735,
+          "title": "ブラジルの議事堂襲撃事件発生前後にTwitter・TikTok・Instagram・Facebookなどで「不正選挙」を主張する投稿が激増していた",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/brazil-raid-sns/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230110-metas-oversight-board-death-khamenei-iran/",
           "author": null,
           "description": "FacebookとInstagramに投稿されたコンテンツへの対応を審査する第三者機関である監督委員会が2023年1月9日に、イランの最高指導者であるアヤトラ・ハメネイ氏を念頭に「ハメネイに死を」として政府を批判する投稿を削除したMetaの決定を、無効と判断したことを発表しました。これにより、イランで自由を求める活動をする人々は引き続き「ハメネイに死を」のスローガンをFacebookで使用することができるようになりました。\n続きを読む...",
@@ -6776,6 +6786,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news141.html",
+          "author": null,
+          "description": "デキるITビジネスパーソンなら誰もが知っている基礎知識をクイズ化。今回は“Excelの底”に一瞬でたどり着けるショートカット。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news141.html",
+          "publishedOn": "2023-01-10T07:46:00.000Z",
+          "wordCount": 2604,
+          "title": "“Excelの底”に一瞬でたどり着くには「Ctrl+〇」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news141.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/10/news123.html",
           "author": null,

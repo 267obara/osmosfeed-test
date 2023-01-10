@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230110-metas-oversight-board-death-khamenei-iran/",
+          "author": null,
+          "description": "FacebookとInstagramに投稿されたコンテンツへの対応を審査する第三者機関である監督委員会が2023年1月9日に、イランの最高指導者であるアヤトラ・ハメネイ氏を念頭に「ハメネイに死を」として政府を批判する投稿を削除したMetaの決定を、無効と判断したことを発表しました。これにより、イランで自由を求める活動をする人々は引き続き「ハメネイに死を」のスローガンをFacebookで使用することができるようになりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-metas-oversight-board-death-khamenei-iran/",
+          "publishedOn": "2023-01-10T07:00:00.000Z",
+          "wordCount": 2550,
+          "title": "Metaの監督委員会が「ハメネイに死を」のスローガン使用は可との見解を発表",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/metas-oversight-board-death-khamenei-iran/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230110-afbf-signs-right-to-repair-john-deere/",
           "author": null,
           "description": "アメリカ最大の農業関連圧力団体であるAmerican Farm Bureau Federation(AFBF)が、農業機器メーカーのジョン・ディアが農家の「修理する権利」を認める合意書に署名したと発表しました。\n続きを読む...",
@@ -6766,6 +6776,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news123.html",
+          "author": null,
+          "description": "トヨタ自動車は、5代目となるハイブリッドカー「プリウス」の新モデルであるシリーズパラレルハイブリッド車（HEV）を発売した。2.0／1.8Lモデルを用意し、それぞれに最新のハイブリッドシステムを搭載している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news123.html",
+          "publishedOn": "2023-01-10T06:02:00.000Z",
+          "wordCount": 2602,
+          "title": "5代目「プリウス」販売開始、275万円から　PHEVは3月に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news123.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/10/news109.html",
           "author": null,

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T13:21:44.071Z</updated>
+    <updated>2023-01-10T14:16:19.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Googleが開発した高速ファイル転送ツール「CDC File Transfer」が無料公開中]]></title>
+        <id>https://gigazine.net/news/20230110-google-stadia-cdc-file-transfer/</id>
+        <link href="https://gigazine.net/news/20230110-google-stadia-cdc-file-transfer/"/>
+        <updated>2023-01-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleが提供していたクラウドゲームサービス「Stadia」は、スペックの低いPCやスマートフォンなどでもインターネットを介して高画質なゲームを楽しめるサービスとして注目を集めていましたが、2022年にサービス終了が発表されました。そんなStadiaの開発過程で生み出されたファイル転送ツール「CDC File Transfer」が、オープンソースで公開されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あの定番ふりかけ「ゆかり」とコラボした「ロッテリア専用ゆかり」をかけて食べる期間限定メニュー「ゆかりエビごはんバーガー」「ゆかり絶品チーズごはんバーガー」を食べてみた]]></title>
         <id>https://gigazine.net/news/20230110-lotteria-yukari-zeppin-gohan-burger/</id>
@@ -15,6 +26,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTCからハイエンドVRヘッドセット「VIVE XR Elite」、17万9000円　バッテリー分離で“軽量運用”も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news143.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news143.html"/>
+        <updated>2023-01-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HTC NIPPONが、ハイエンドMR／VRヘッドセット「VIVE XR Elite」の事前予約受付を1月6日から開始した。価格は17万9000円。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -11142,37 +11163,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/12/news100.html"/>
         <updated>2022-12-12T02:29:00.000Z</updated>
         <summary type="html"><![CDATA[サムスン電子ジャパンが、折りたたみスマートフォン型ベンチを渋谷に設置。歩きスマホ”を抑止する取り組みという。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust/WebAssemblyとJavaScriptのデータ交換を使いこなす！]]></title>
-        <id>http://codezine.jp/article/detail/16904</id>
-        <link href="http://codezine.jp/article/detail/16904"/>
-        <updated>2022-12-12T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[本連載では、Webブラウザー上でJavaScriptと共に動作できるバイナリ形式のプログラムファイル「WebAssembly」を、Rustプログラミング言語で実装する方法を説明していきます。前回は実際にRust言語でWebAssemblyを実装して、動作速度を検証しました。今回は、本格的な処理に不可欠な、Rust/WebAssemblyとJavaScriptとのデータ交換について説明します。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepMindが映画や演劇の脚本を共同執筆してくれるAI「Dramatron」を発表]]></title>
-        <id>https://gigazine.net/news/20221212-deepmind-dramatron/</id>
-        <link href="https://gigazine.net/news/20221212-deepmind-dramatron/"/>
-        <updated>2022-12-12T01:46:00.000Z</updated>
-        <summary type="html"><![CDATA[囲碁や将棋でプロ棋士を打ち負かす腕前を持つAI「AlphaZero」やタンパク質の立体構造解析を行うAI「AlphaFold」を開発するGoogleの姉妹企業・DeepMindが、映画や演劇の脚本を「共同執筆」するためのAIツール「Dramatron」を発表しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使いたいときにHPCが使えない──研究者の悩み、クラウドで解決できたワケ　ゲノム解析の現場を救ったAWS活用]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/12/news006.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news006.html"/>
-        <updated>2022-12-12T01:27:00.000Z</updated>
-        <summary type="html"><![CDATA[HPCが使いたいときに使えない──「ゲノム研究」に当たって課題を抱えていた基礎生物学研究所。解決の糸口はAWSのクラウドサービスだった。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

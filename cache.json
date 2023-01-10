@@ -4884,26 +4884,6 @@
           "wordCount": 2503,
           "title": "デジタル印刷技術を一気に向上させてDTPに革命を起こした「PostScript」が生まれた経緯とは？",
           "imageUrl": "https://i.gzn.jp/img/2022/12/12/postscript-kickstarted-desktop-publishing/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221211-make-review/",
-          "author": null,
-          "description": "「Twitterへの投稿をDiscordに同時投稿」「メールの本文をスプレッドシートにまとめる」など、複数のウェブサービスを連携させると便利な状況は多々あります。複数のウェブサービスを連携させるサービスとしてはIFTTTやZapierなどが有名ですが、それらのサービスには無料で使える機能が少なかったり、対応しているウェブサービスが少なかったりといった問題も存在しています。「Make(旧称：Integromat)」は1000以上のサービスに対応しており、無料プランでもユーザー数無制限で利用可能といった特徴を備えているとのこと。そこで、実際にMakeの会員登録手順や、ウェブサービス同士の連携手順を確かめてみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221211-make-review/",
-          "publishedOn": "2022-12-11T13:00:00.000Z",
-          "wordCount": 2536,
-          "title": "無料でIFTTTやZapierのようにアプリやサービスを連動させ自動化できる「Make」を実際に使ってみたよレビュー",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/11/make-review/00.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221211-volkswagen-originalteil/",
-          "author": null,
-          "description": "1937年に設立された自動車メーカーのフォルクスワーゲンは、「ビートル」などの大衆車を始め、水素自動車や自動運転機能搭載自動車などさまざまな自動車の開発を行っています。しかし、年によっては自動車よりも売れる「自動車とは関係ない部品」があるそうです。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221211-volkswagen-originalteil/",
-          "publishedOn": "2022-12-11T12:00:00.000Z",
-          "wordCount": 2473,
-          "title": "フォルクスワーゲンが年間700万個も製造する「最も人気のある非車両部品」とは？",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/11/volkswagen-originalteil/00.jpg"
         }
       ]
     },
@@ -4912,6 +4892,36 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/17148",
+          "author": null,
+          "description": "米Amazon Web Services（AWS）は、同社がクラウドで提供するストレージ・サービスである「Amazon Simple Storage Service（Amazon S3）」で標準設定を変更し、新たに保存するオブジェクトをすべて暗号化するようにしたと1月5日（現地時間）に発表した。1月5日から標準設定を変更する。暗号化の機能は追加料金なしで、全世界のAWSが運営するリージョンで利用できる。",
+          "link": "http://codezine.jp/article/detail/17148",
+          "publishedOn": "2023-01-10T00:00:00.000Z",
+          "wordCount": 4300,
+          "title": "AWS、「Amazon S3」に保存するオブジェクトを標準で暗号化するように",
+          "imageUrl": "https://codezine.jp/static/images/article/17148/12762_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17149",
+          "author": null,
+          "description": "米HTTPieは、自然言語からHTTPリクエストを生成するAIアプリケーション「HTTPie AI」をプレビューとして1月4日（現地時間）に公開した。macOS、Windows、Linuxにそれぞれ対応するクライアント・アプリケーションのほか、HTTPieの機能を提供するWebサイトも用意している。どちらも利用するには無料アカウントを作成する必要がある。",
+          "link": "http://codezine.jp/article/detail/17149",
+          "publishedOn": "2023-01-10T00:00:00.000Z",
+          "wordCount": 4295,
+          "title": "自然言語からHTTPリクエストを生成するAIアプリ「HTTPie AI」が登場、Web APIのテストに好適",
+          "imageUrl": "https://codezine.jp/static/images/article/17149/12597_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17151",
+          "author": null,
+          "description": "米Microsoftは、パブリック・クラウド・サービス「Microsoft Azure」と組み合わせて使用できるJava関連ツールの2022年12月版を12月27日（現地時間）に公開した。",
+          "link": "http://codezine.jp/article/detail/17151",
+          "publishedOn": "2023-01-09T23:00:00.000Z",
+          "wordCount": 4294,
+          "title": "Microsoft、Azure用Java関連ツールの2022年12月版を公開",
+          "imageUrl": "https://codezine.jp/static/images/article/17151/13201_og.jpg"
+        },
         {
           "id": "http://codezine.jp/article/detail/17144",
           "author": null,
@@ -6636,6 +6646,66 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news069.html",
+          "author": null,
+          "description": "Metaは2019年発売の初代「Meta Quest」への新機能追加を終了する。「パーティー」にも参加できなくなる。重要なバグ修正やセキュリティ更新は2024年まで継続する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news069.html",
+          "publishedOn": "2023-01-10T00:21:00.000Z",
+          "wordCount": 2631,
+          "title": "Meta、初代「Meta Quest」への新機能追加を終了　セキュリティ更新も2024年に終了へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news069.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news067.html",
+          "author": null,
+          "description": "2025年大阪・関西万博では184日間の開催期間中、350万人の外国人来場者が想定され、円滑なコミュニケーションを実現することも課題の一つだ。AIを活用した同時通訳技術の成果を万博会場で実感できるだろう。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news067.html",
+          "publishedOn": "2023-01-10T00:00:00.000Z",
+          "wordCount": 2333,
+          "title": "AI同時通訳の未来　言葉の壁が消えて真の「開国」へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/l_Y3XQKURV5FO7XMURLNLO3N53LQ_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news065.html",
+          "author": null,
+          "description": "日本の要人警護の不備が露呈した安倍晋三元首相の銃撃事件発生から半年。警察庁は要人警護の制度を大幅に改め、人員の増強や研修の体系化などを進めてきた。警護の体制強化や高度化に伴い、人材育成の強化が課題となっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news065.html",
+          "publishedOn": "2023-01-10T00:00:00.000Z",
+          "wordCount": 2345,
+          "title": "警護強化カギ握る人材育成　AIや3D最新技術も導入",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/l_BEEPCJCW7BKVDFKR33HRDTKBKE_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news066.html",
+          "author": null,
+          "description": "YouTubeはTikTokのようなショート動画「YouTubeショート」の広告による収益分配を開始すると発表した。2月1日にこれまでのファンドによる収益化は終了し、広告収益分配が始まる。対象になるには、新たなパートナープログラム規定への同意が必要だ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news066.html",
+          "publishedOn": "2023-01-09T23:24:00.000Z",
+          "wordCount": 2602,
+          "title": "YouTubeショート、広告による収益化が2月1日にスタート",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news066.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news041.html",
+          "author": null,
+          "description": "米テキサスA&M大学に所属する研究者らは、2次元コードなどの情報データを金属製品に金属積層造形技術を用いて埋め込む技術を提案した研究報告を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news041.html",
+          "publishedOn": "2023-01-09T23:00:00.000Z",
+          "wordCount": 2660,
+          "title": "「隠しデータ」を金属製品に埋め込む3Dプリント技術　スマホで読み取り、偽造品防止に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news041.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news040.html",
+          "author": null,
+          "description": "ロシアのアンチウイルス製品を開発するDoctor Webは、WordPress CMSをベースとしたWebサイトをハッキングする悪意のあるLinuxプログラムを発見したと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news040.html",
+          "publishedOn": "2023-01-09T23:00:00.000Z",
+          "wordCount": 2751,
+          "title": "WordPressの“古いプラグインやテーマ”から侵入するサイバー攻撃、ロシアの企業が発表　標的のアドオンリストあり",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news040.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/09/news030.html",
           "author": null,

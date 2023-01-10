@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-09T23:13:29.453Z</updated>
+    <updated>2023-01-10T01:11:00.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta、初代「Meta Quest」への新機能追加を終了　セキュリティ更新も2024年に終了へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news069.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news069.html"/>
+        <updated>2023-01-10T00:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Metaは2019年発売の初代「Meta Quest」への新機能追加を終了する。「パーティー」にも参加できなくなる。重要なバグ修正やセキュリティ更新は2024年まで継続する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS、「Amazon S3」に保存するオブジェクトを標準で暗号化するように]]></title>
+        <id>http://codezine.jp/article/detail/17148</id>
+        <link href="http://codezine.jp/article/detail/17148"/>
+        <updated>2023-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Amazon Web Services（AWS）は、同社がクラウドで提供するストレージ・サービスである「Amazon Simple Storage Service（Amazon S3）」で標準設定を変更し、新たに保存するオブジェクトをすべて暗号化するようにしたと1月5日（現地時間）に発表した。1月5日から標準設定を変更する。暗号化の機能は追加料金なしで、全世界のAWSが運営するリージョンで利用できる。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自然言語からHTTPリクエストを生成するAIアプリ「HTTPie AI」が登場、Web APIのテストに好適]]></title>
+        <id>http://codezine.jp/article/detail/17149</id>
+        <link href="http://codezine.jp/article/detail/17149"/>
+        <updated>2023-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米HTTPieは、自然言語からHTTPリクエストを生成するAIアプリケーション「HTTPie AI」をプレビューとして1月4日（現地時間）に公開した。macOS、Windows、Linuxにそれぞれ対応するクライアント・アプリケーションのほか、HTTPieの機能を提供するWebサイトも用意している。どちらも利用するには無料アカウントを作成する必要がある。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI同時通訳の未来　言葉の壁が消えて真の「開国」へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news067.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news067.html"/>
+        <updated>2023-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年大阪・関西万博では184日間の開催期間中、350万人の外国人来場者が想定され、円滑なコミュニケーションを実現することも課題の一つだ。AIを活用した同時通訳技術の成果を万博会場で実感できるだろう。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[警護強化カギ握る人材育成　AIや3D最新技術も導入]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news065.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news065.html"/>
+        <updated>2023-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[日本の要人警護の不備が露呈した安倍晋三元首相の銃撃事件発生から半年。警察庁は要人警護の制度を大幅に改め、人員の増強や研修の体系化などを進めてきた。警護の体制強化や高度化に伴い、人材育成の強化が課題となっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTubeショート、広告による収益化が2月1日にスタート]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news066.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news066.html"/>
+        <updated>2023-01-09T23:24:00.000Z</updated>
+        <summary type="html"><![CDATA[YouTubeはTikTokのようなショート動画「YouTubeショート」の広告による収益分配を開始すると発表した。2月1日にこれまでのファンドによる収益化は終了し、広告収益分配が始まる。対象になるには、新たなパートナープログラム規定への同意が必要だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[チェックリスト作成のためのチェックリスト]]></title>
         <id>https://gigazine.net/news/20230110-checklist-for-checklists/</id>
@@ -15,6 +75,36 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、Azure用Java関連ツールの2022年12月版を公開]]></title>
+        <id>http://codezine.jp/article/detail/17151</id>
+        <link href="http://codezine.jp/article/detail/17151"/>
+        <updated>2023-01-09T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftは、パブリック・クラウド・サービス「Microsoft Azure」と組み合わせて使用できるJava関連ツールの2022年12月版を12月27日（現地時間）に公開した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「隠しデータ」を金属製品に埋め込む3Dプリント技術　スマホで読み取り、偽造品防止に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news041.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news041.html"/>
+        <updated>2023-01-09T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米テキサスA&M大学に所属する研究者らは、2次元コードなどの情報データを金属製品に金属積層造形技術を用いて埋め込む技術を提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPressの“古いプラグインやテーマ”から侵入するサイバー攻撃、ロシアの企業が発表　標的のアドオンリストあり]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news040.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news040.html"/>
+        <updated>2023-01-09T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ロシアのアンチウイルス製品を開発するDoctor Webは、WordPress CMSをベースとしたWebサイトをハッキングする悪意のあるLinuxプログラムを発見したと発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -10810,28 +10900,6 @@
         <summary type="html"><![CDATA[JavaScriptとHTML/CSSを用いてアプリケーションを構築できるElectronの代替を目指し、より軽量なフレームワークとして開発されている「Tauri」のモバイル対応版「Tauri Mobile」の最初のアルファ版公開が発表され...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料でIFTTTやZapierのようにアプリやサービスを連動させ自動化できる「Make」を実際に使ってみたよレビュー]]></title>
-        <id>https://gigazine.net/news/20221211-make-review/</id>
-        <link href="https://gigazine.net/news/20221211-make-review/"/>
-        <updated>2022-12-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[「Twitterへの投稿をDiscordに同時投稿」「メールの本文をスプレッドシートにまとめる」など、複数のウェブサービスを連携させると便利な状況は多々あります。複数のウェブサービスを連携させるサービスとしてはIFTTTやZapierなどが有名ですが、それらのサービスには無料で使える機能が少なかったり、対応しているウェブサービスが少なかったりといった問題も存在しています。「Make(旧称：Integromat)」は1000以上のサービスに対応しており、無料プランでもユーザー数無制限で利用可能といった特徴を備えているとのこと。そこで、実際にMakeの会員登録手順や、ウェブサービス同士の連携手順を確かめてみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[フォルクスワーゲンが年間700万個も製造する「最も人気のある非車両部品」とは？]]></title>
-        <id>https://gigazine.net/news/20221211-volkswagen-originalteil/</id>
-        <link href="https://gigazine.net/news/20221211-volkswagen-originalteil/"/>
-        <updated>2022-12-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[1937年に設立された自動車メーカーのフォルクスワーゲンは、「ビートル」などの大衆車を始め、水素自動車や自動運転機能搭載自動車などさまざまな自動車の開発を行っています。しかし、年によっては自動車よりも売れる「自動車とは関係ない部品」があるそうです。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

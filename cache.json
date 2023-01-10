@@ -6,6 +6,46 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230110-apple-custom-wifi-bluetooth-chip/",
+          "author": null,
+          "description": "Appleが主力製品のiPhoneに搭載するWi-Fi＆Bluetooth用通信チップの内製化を進め、半導体大手・Broadcom製チップからの脱却を図っていると海外メディアのBloombergが報じました。Bloombergの報道によると、Appleは2025年に自社製Wi-Fi＆Bluetooth用通信チップをデバイスに搭載し始める計画だとのことです。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-apple-custom-wifi-bluetooth-chip/",
+          "publishedOn": "2023-01-10T02:30:00.000Z",
+          "wordCount": 2481,
+          "title": "AppleがWi-Fi＆Bluetooth用通信チップを内製化してBroadcomからの脱却を図る、最初の自社製チップ搭載デバイスは2025年に登場か",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/apple-custom-wifi-bluetooth-chip/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230110-oculus-quest-support-end/",
+          "author": null,
+          "description": "Facebook(現Meta)から2019年5月に発売された初代Oculus Questについて、Metaがサポートを終了することを明らかにしました。機能更新が行われなくなるほか、将来的にソーシャル機能の一部を利用できなくなる予定です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-oculus-quest-support-end/",
+          "publishedOn": "2023-01-10T02:18:00.000Z",
+          "wordCount": 2521,
+          "title": "初代Oculus Questのサポート終了をMetaが発表、ソフトウェアアップデートとセキュリティパッチは2024年まで配信予定",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/09/oculus-quest-support-end/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230110-youtube-start-sharing-money-shorts/",
+          "author": null,
+          "description": "2022年9月、YouTubeがパートナープログラムを改訂しYouTubeのショート動画「YouTube ショート」でも広告収入を受け取ることができるようになると発表しました。このショート動画の収益化は、2023年2月1日からスタートすることが明らかになりました。また、パートナープログラムの改訂に伴い基本規定にも修正が加えられているため、YouTubeでの収益化を続けるには2023年7月10日までに新しい規定に同意する必要があります。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-youtube-start-sharing-money-shorts/",
+          "publishedOn": "2023-01-10T01:25:00.000Z",
+          "wordCount": 2482,
+          "title": "YouTubeで2023年2月1日からショート動画でも広告収入が受け取れるように、パートナープログラムの改訂に伴いYouTubeで収益化を続けるには7月10日までに新規定への同意も必要に",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/youtube-start-sharing-money-shorts/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230110-steam-online-players-10-million/",
+          "author": null,
+          "description": "Valveのゲーム配信プラットフォームであるSteamで、同時ゲーム内接続者数が2023年1月7日に初めて1000万人を超え、オンライン同時接続者数も3200万人を突破したことが判明しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-steam-online-players-10-million/",
+          "publishedOn": "2023-01-10T01:23:00.000Z",
+          "wordCount": 2514,
+          "title": "Steamが同時ゲーム内プレイヤー数1000万人を達成、新型コロナパンデミックから増加傾向",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/09/steam-online-players-10-million/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230110-checklist-for-checklists/",
           "author": null,
           "description": "少しのミスが重大な事故や損失につながりうるプロジェクトを行う際には、何をどの順ですべきかという「チェックリスト」を作成すると手順の抜けや間違いを減らすことができます。しかし、ただチェックリストに従うだけではうまく機能しないこともあるため、チェックリストを作るための手順や注意点もかなり大事になってきます。世界保健機関(WHO)の研究者兼医師のアトゥール・ガワンデ氏の著書である「The Checklist Manifesto(アナタはなぜチェックリストを使わないのか？)」では、何か重要なプロジェクトを開始する前の「チェックリスト作成のためのチェックリスト」を見ることができます。\n続きを読む...",
@@ -4893,6 +4933,36 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/17116",
+          "author": null,
+          "description": "VSCodeの優れているところは、豊富な拡張機能を選んで組み合わせて使えることです。第3回は、拡張機能の探し方、拡張機能の情報の見方、インストールや管理などの方法、基本的で役に立ついくつかの拡張機能を紹介します。",
+          "link": "http://codezine.jp/article/detail/17116",
+          "publishedOn": "2023-01-10T02:00:00.000Z",
+          "wordCount": 4523,
+          "title": "「VSCode」での開発をよりスムーズに！基本的で役に立つ拡張機能を解説",
+          "imageUrl": "https://codezine.jp/static/images/article/17116/16467_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17146",
+          "author": null,
+          "description": "米Cloudflareは、2022年12月30日（現地時間）付の公式ブログ投稿にて、2022年にHTTP関連で起こった出来事を振り返った。",
+          "link": "http://codezine.jp/article/detail/17146",
+          "publishedOn": "2023-01-10T01:00:00.000Z",
+          "wordCount": 4281,
+          "title": "Cloudflare、2022年にHTTP仕様で起こった出来事を紹介",
+          "imageUrl": "https://codezine.jp/static/images/article/17146/12603_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17152",
+          "author": null,
+          "description": "IDC Japanは、2023年以降の国内における情報通信技術（ICT）市場に関する10大予測を発表した。これは、2022年10月に発行した「全世界のICT市場に関する10大予測」の各項目を、日本市場の状況に合わせて調整したものである。",
+          "link": "http://codezine.jp/article/detail/17152",
+          "publishedOn": "2023-01-10T01:00:00.000Z",
+          "wordCount": 4304,
+          "title": "IDC Japanが今後5年間を予測、国内ICT市場で起きる重要な動向10項目を発表",
+          "imageUrl": "https://codezine.jp/static/images/article/17152/16568_ogp.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17148",
           "author": null,
           "description": "米Amazon Web Services（AWS）は、同社がクラウドで提供するストレージ・サービスである「Amazon Simple Storage Service（Amazon S3）」で標準設定を変更し、新たに保存するオブジェクトをすべて暗号化するようにしたと1月5日（現地時間）に発表した。1月5日から標準設定を変更する。暗号化の機能は追加料金なしで、全世界のAWSが運営するリージョンで利用できる。",
@@ -6646,6 +6716,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news072.html",
+          "author": null,
+          "description": "Teslaは1月6日、主力製品であるモデル3とモデルYの国内販売価格を約10％値下げした。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news072.html",
+          "publishedOn": "2023-01-10T01:40:00.000Z",
+          "wordCount": 2595,
+          "title": "Tesla、2022年の販売台数は131万台　40％増も市場予想下回り10％値下げ、各国で値引きも",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news072.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news075.html",
+          "author": null,
+          "description": "MetaはInstagramのモバイルアプリのタブ配置を2月に変更する。「ショップ」ボタンを削除して「リール」に置き換える。中央には2020年にタブから追いやった「作成」を配置する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news075.html",
+          "publishedOn": "2023-01-10T01:32:00.000Z",
+          "wordCount": 2593,
+          "title": "Instagram、「ショップ」ボタンを削除し「作成」ボタンをセンターに",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news075.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/10/news069.html",
           "author": null,

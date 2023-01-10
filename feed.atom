@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T01:11:00.873Z</updated>
+    <updated>2023-01-10T02:43:22.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AppleがWi-Fi＆Bluetooth用通信チップを内製化してBroadcomからの脱却を図る、最初の自社製チップ搭載デバイスは2025年に登場か]]></title>
+        <id>https://gigazine.net/news/20230110-apple-custom-wifi-bluetooth-chip/</id>
+        <link href="https://gigazine.net/news/20230110-apple-custom-wifi-bluetooth-chip/"/>
+        <updated>2023-01-10T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleが主力製品のiPhoneに搭載するWi-Fi＆Bluetooth用通信チップの内製化を進め、半導体大手・Broadcom製チップからの脱却を図っていると海外メディアのBloombergが報じました。Bloombergの報道によると、Appleは2025年に自社製Wi-Fi＆Bluetooth用通信チップをデバイスに搭載し始める計画だとのことです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初代Oculus Questのサポート終了をMetaが発表、ソフトウェアアップデートとセキュリティパッチは2024年まで配信予定]]></title>
+        <id>https://gigazine.net/news/20230110-oculus-quest-support-end/</id>
+        <link href="https://gigazine.net/news/20230110-oculus-quest-support-end/"/>
+        <updated>2023-01-10T02:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Facebook(現Meta)から2019年5月に発売された初代Oculus Questについて、Metaがサポートを終了することを明らかにしました。機能更新が行われなくなるほか、将来的にソーシャル機能の一部を利用できなくなる予定です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「VSCode」での開発をよりスムーズに！基本的で役に立つ拡張機能を解説]]></title>
+        <id>http://codezine.jp/article/detail/17116</id>
+        <link href="http://codezine.jp/article/detail/17116"/>
+        <updated>2023-01-10T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VSCodeの優れているところは、豊富な拡張機能を選んで組み合わせて使えることです。第3回は、拡張機能の探し方、拡張機能の情報の見方、インストールや管理などの方法、基本的で役に立ついくつかの拡張機能を紹介します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla、2022年の販売台数は131万台　40％増も市場予想下回り10％値下げ、各国で値引きも]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news072.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news072.html"/>
+        <updated>2023-01-10T01:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Teslaは1月6日、主力製品であるモデル3とモデルYの国内販売価格を約10％値下げした。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram、「ショップ」ボタンを削除し「作成」ボタンをセンターに]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news075.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news075.html"/>
+        <updated>2023-01-10T01:32:00.000Z</updated>
+        <summary type="html"><![CDATA[MetaはInstagramのモバイルアプリのタブ配置を2月に変更する。「ショップ」ボタンを削除して「リール」に置き換える。中央には2020年にタブから追いやった「作成」を配置する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTubeで2023年2月1日からショート動画でも広告収入が受け取れるように、パートナープログラムの改訂に伴いYouTubeで収益化を続けるには7月10日までに新規定への同意も必要に]]></title>
+        <id>https://gigazine.net/news/20230110-youtube-start-sharing-money-shorts/</id>
+        <link href="https://gigazine.net/news/20230110-youtube-start-sharing-money-shorts/"/>
+        <updated>2023-01-10T01:25:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年9月、YouTubeがパートナープログラムを改訂しYouTubeのショート動画「YouTube ショート」でも広告収入を受け取ることができるようになると発表しました。このショート動画の収益化は、2023年2月1日からスタートすることが明らかになりました。また、パートナープログラムの改訂に伴い基本規定にも修正が加えられているため、YouTubeでの収益化を続けるには2023年7月10日までに新しい規定に同意する必要があります。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steamが同時ゲーム内プレイヤー数1000万人を達成、新型コロナパンデミックから増加傾向]]></title>
+        <id>https://gigazine.net/news/20230110-steam-online-players-10-million/</id>
+        <link href="https://gigazine.net/news/20230110-steam-online-players-10-million/"/>
+        <updated>2023-01-10T01:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Valveのゲーム配信プラットフォームであるSteamで、同時ゲーム内接続者数が2023年1月7日に初めて1000万人を超え、オンライン同時接続者数も3200万人を突破したことが判明しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare、2022年にHTTP仕様で起こった出来事を紹介]]></title>
+        <id>http://codezine.jp/article/detail/17146</id>
+        <link href="http://codezine.jp/article/detail/17146"/>
+        <updated>2023-01-10T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Cloudflareは、2022年12月30日（現地時間）付の公式ブログ投稿にて、2022年にHTTP関連で起こった出来事を振り返った。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IDC Japanが今後5年間を予測、国内ICT市場で起きる重要な動向10項目を発表]]></title>
+        <id>http://codezine.jp/article/detail/17152</id>
+        <link href="http://codezine.jp/article/detail/17152"/>
+        <updated>2023-01-10T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IDC Japanは、2023年以降の国内における情報通信技術（ICT）市場に関する10大予測を発表した。これは、2022年10月に発行した「全世界のICT市場に関する10大予測」の各項目を、日本市場の状況に合わせて調整したものである。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta、初代「Meta Quest」への新機能追加を終了　セキュリティ更新も2024年に終了へ]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2301/10/news069.html</id>

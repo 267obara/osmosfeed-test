@@ -4994,46 +4994,6 @@
           "wordCount": 2494,
           "title": "DeepMindが開発したAIの「AlphaCode」がプログラミングコンテストで「平均」評価を獲得",
           "imageUrl": "https://i.gzn.jp/img/2022/12/12/competition-level-code-generation-alphacode/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221212-yudetarou-garland-chrysanthemum-shellfish/",
-          "author": null,
-          "description": "そばチェーン店の「ゆで太郎」が2022年12月9日(金)に大阪に初出店しました。また、同日から季節限定メニューとして「小柱と春菊のかきあげそば」と「ミニ小柱と春菊のかきあげ丼セット」が販売されています。小柱のうまみと春菊の香りが癖になる一品とのことなので、実際に注文し食べてみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221212-yudetarou-garland-chrysanthemum-shellfish/",
-          "publishedOn": "2022-12-12T03:15:00.000Z",
-          "wordCount": 2476,
-          "title": "大阪に初出店したゆで太郎で季節の味が楽しめる「ミニ小柱と春菊のかきあげ丼セット」を食べてみた",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/12/yudetarou-garland-chrysanthemum-shellfish/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221212-antivirus-edr-data-wipers/",
-          "author": null,
-          "description": "Microsoft Defender、Avast、AVG、トレンドマイクロなどの主要なアンチウイルスおよびエンドポイント検出応答(EDR)ソフトに、感染したファイルを削除する機能を悪用してPCのデータを消去し復元できないようにしてしまうゼロデイ脆弱(ぜいじゃく)性があることが分かりました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221212-antivirus-edr-data-wipers/",
-          "publishedOn": "2022-12-12T03:05:00.000Z",
-          "wordCount": 2519,
-          "title": "MicrosoftやAvastなどの人気アンチウイルスソフトがPCのデータを完全破壊してしまう脆弱性「Aikido(合気道)」が見つかる",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/12/antivirus-edr-data-wipers/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221212-twitter-file-ban-trump/",
-          "author": null,
-          "description": "ジャーナリストのマット・タイービ氏らがTwitterの社内文書を「Twitterファイル(THE TWITTER FILES)」としてリークしており、その第3弾＆第4弾としてドナルド・トランプ元大統領がTwitterアカウントを永久凍結された際の出来事が明らかになっています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221212-twitter-file-ban-trump/",
-          "publishedOn": "2022-12-12T02:40:00.000Z",
-          "wordCount": 3814,
-          "title": "Twitterの大規模内部リークから「トランプ元大統領を永久BANした際」の詳細が明らかに",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/12/twitter-file-ban-trump/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221212-twitter-file-shadow-ban/",
-          "author": null,
-          "description": "Twitterを買収してCEOに就任したイーロン・マスク氏は、ジャーナリストたちがTwitterの内部情報をまとめて公開しているスレッド「Twitterファイル」の拡散を手助けしており、2022年12月には「Twitter内部では民主党支持層の力が圧倒的に強く、バイデン大統領の息子の汚職を隠していた」ということを示す「Twitterファイル」第1弾が公開されています。新たに、2022年12月9日にはTwitterがひそかに実施しているとされる「シャドウバン」の実態について明かす「Twitterファイル」第2弾が公開されました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221212-twitter-file-shadow-ban/",
-          "publishedOn": "2022-12-12T02:32:00.000Z",
-          "wordCount": 3187,
-          "title": "Twitterの「シャドウバン」の実態を暴露するイーロン・マスクお墨付き社内文書「Twitterファイル」第2弾が公開される",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/12/twitter-file-shadow-ban/00.jpg"
         }
       ]
     },
@@ -6471,26 +6431,6 @@
           "wordCount": 4305,
           "title": "Elixir上でのニューラルネットワークモデルの使用を可能にする「Bumblebee」が登場",
           "imageUrl": "https://codezine.jp/static/images/article/17007/12883_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16770",
-          "author": null,
-          "description": "お客さまの課題を明確化し、それを解決するための戦略立案や業務プロセス改善などを支援するコンサルタント。一般的にコンサルタントと聞くと、経営・戦略コンサルタントを思い浮かべるかもしれないが、彼らが実際に活躍する領域は所属する企業によってさまざまだ。今回は新卒でARISE analyticsにデータサイエンティストを目指して入社し、「データコンサルタント」として活躍する今井ちひろ氏が登場。データコンサルタントとして活躍する魅力、キャリア形成のポイントなどについて話を聞いた。",
-          "link": "http://codezine.jp/article/detail/16770",
-          "publishedOn": "2022-12-12T03:00:00.000Z",
-          "wordCount": 4365,
-          "title": "課題の本質を見抜きお客さまと二人三脚で解決に導きたい──「データコンサルタント」今井ちひろさん",
-          "imageUrl": "https://codezine.jp/static/images/article/16770/16770_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16921",
-          "author": null,
-          "description": "総合人事システム「COMPANY」は、1996年の初期リリースから25年以上、約1,200社の大手企業の入社から退職までの人事労務を支えている。そんな歴史あるパッケージアプリを開発するエンジニアたちに、新たなUI/UX向上を取り入れてもらうべく挑んだ新設のデザイナーチームの挑戦をお伝えする。",
-          "link": "http://codezine.jp/article/detail/16921",
-          "publishedOn": "2022-12-12T03:00:00.000Z",
-          "wordCount": 4379,
-          "title": "新設デザインチームが挑んだ「歴史あるパッケージアプリのUI/UX向上」奮闘記",
-          "imageUrl": "https://codezine.jp/static/images/article/16921/16921_og.jpg"
         }
       ]
     },
@@ -6499,6 +6439,26 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/23/idechatgptxxxaiqqbot.html",
+          "author": null,
+          "description": "テキストから高度なイラストを生成するAIや、人間と自然な対話を可能にするAIが最近話題になっています。 この人間と自然な会話をするAIチャットの代表的なサービスであるChatGPTの派生サービス（Variant of ChatGPT）をVi...",
+          "link": "https://www.publickey1.jp/blog/23/idechatgptxxxaiqqbot.html",
+          "publishedOn": "2023-01-10T15:01:21.000Z",
+          "wordCount": 1442,
+          "title": "IDEにChatGPTを統合、「この関数のテストコードはどこ？」「XXXを実装するならどう書けばいい？」など、AIでコードと対話できる「qqbot」登場",
+          "imageUrl": "https://www.publickey1.jp/2023/FlggfdQaUAMf9Uu.jpg"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/23/rustrust_foundation21015.html",
+          "author": null,
+          "description": "Rust言語の開発やエコシステムを推進する「Rust Foundation」が、同団体のメンバーとしてフルタイムのエンジニア2名を募集しています。 1名はセキュリティエンジニア、もう1名はRustのパッケージリポジトリcrates.ioチー...",
+          "link": "https://www.publickey1.jp/blog/23/rustrust_foundation21015.html",
+          "publishedOn": "2023-01-10T15:00:19.000Z",
+          "wordCount": 1238,
+          "title": "Rust言語を推進する「Rust Foundation」がフルタイムのエンジニアを2名募集中。年収10万ドルから15万ドル",
+          "imageUrl": "https://www.publickey1.jp/2023/FlzaO_XWQAEkUYW.jpg"
+        },
         {
           "id": "https://www.publickey1.jp/blog/23/ebpfebpf_cloud_native_days_tokyo_2022.html",
           "author": null,
@@ -6756,6 +6716,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news179.html",
+          "author": null,
+          "description": "マツダの欧州部門「Mazda Motor Europe」が、新モデル「MX-30 R-EV」を公式Twitterで予告した。同社によると、PHEVの発電用パワートレインとしてロータリーエンジンを採用するという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news179.html",
+          "publishedOn": "2023-01-10T14:00:00.000Z",
+          "wordCount": 2606,
+          "title": "ロータリーエンジン復活へ、欧州マツダが予告　「MX-30」PHEVモデルの発電用として",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news179.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/10/news143.html",
           "author": null,
@@ -10665,26 +10635,6 @@
           "wordCount": 2620,
           "title": "「USB Type-A」は古すぎ？　大阪メトロ新型車両の設備が話題　採用理由を聞いた",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/10/cover_news064.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news080.html",
-          "author": null,
-          "description": "AIを利用して作られた画像、漫画、動画、音楽、ゲームなどを募集し、審査する「第一回 AIアートグランプリ」が開催される。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news080.html",
-          "publishedOn": "2022-12-12T03:20:00.000Z",
-          "wordCount": 2605,
-          "title": "「第一回 AIアートグランプリ」開催　「シン・ウルトラマン」監督の樋口氏らが審査員に",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news080.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news100.html",
-          "author": null,
-          "description": "サムスン電子ジャパンが、折りたたみスマートフォン型ベンチを渋谷に設置。歩きスマホ”を抑止する取り組みという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news100.html",
-          "publishedOn": "2022-12-12T02:29:00.000Z",
-          "wordCount": 2602,
-          "title": "「Galaxy Z Flip4」に座れる？　「折りたたみスマホ型ベンチ」渋谷に登場",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news100.jpg"
         }
       ]
     }

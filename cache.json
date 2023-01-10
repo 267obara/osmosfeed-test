@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230110-chatgpt-paid/",
+          "author": null,
+          "description": "AI研究団体のOpenAIが開発したチャットAI「ChatGPT」は、大学の試験に合格するレベルの言語能力を有しており、大きく注目されています。そんなChatGPTは誰でも無料で利用可能なのですが、App StoreではChatGPTの機能を有料で提供する非公式アプリが多数公開されており、ランキング上位に入るほどダウンロードされているとMacRumorsが指摘しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-chatgpt-paid/",
+          "publishedOn": "2023-01-10T03:00:00.000Z",
+          "wordCount": 2519,
+          "title": "無料のチャットAI「ChatGPT」を有料で使わせる非公式アプリが大量発生中",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/chatgpt-paid/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20230110-matsuya-chicken-carbonara/",
+          "author": null,
+          "description": "牛丼チェーンの松屋の「ごろチキ」シリーズに濃厚なカルボナーラソースがかかった「ごろごろチキンの濃厚カルボナーラ」が2023年1月10日(火)から登場しています。濃厚なカルボナーラソースにはグラナパダーノチーズと生卵が使用されており、コクうまな一品とのことなので、実際に食べて味を確かめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-matsuya-chicken-carbonara/",
+          "publishedOn": "2023-01-10T02:45:00.000Z",
+          "wordCount": 2405,
+          "title": "パスタじゃない濃厚カルボナーラが意外にもご飯にマッチする松屋の「ごろごろチキンの濃厚カルボナーラ」を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/matsuya-chicken-carbonara/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230110-apple-custom-wifi-bluetooth-chip/",
           "author": null,
           "description": "Appleが主力製品のiPhoneに搭載するWi-Fi＆Bluetooth用通信チップの内製化を進め、半導体大手・Broadcom製チップからの脱却を図っていると海外メディアのBloombergが報じました。Bloombergの報道によると、Appleは2025年に自社製Wi-Fi＆Bluetooth用通信チップをデバイスに搭載し始める計画だとのことです。\n続きを読む...",
@@ -6716,6 +6736,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news092.html",
+          "author": null,
+          "description": "オンラインゲーム「原神」のアカウント盗難について、運営が注意喚起。非公式なフィッシングサイトにログインした結果、アカウントを乗っ取られる事例が複数見られるという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news092.html",
+          "publishedOn": "2023-01-10T02:45:00.000Z",
+          "wordCount": 2602,
+          "title": "人気ゲーム「原神」、アカウントの乗っ取り・盗難に注意喚起　「正体不明のサイトはログイン控えて」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news092.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news087.html",
+          "author": null,
+          "description": "Microsoftは、人間の話す声の3秒分のデータを与えると、その人の声でテキストを読み上げられるようになるAI「VALL-E」を発表した。GitHubでサンプル音声を試聴できる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news087.html",
+          "publishedOn": "2023-01-10T02:36:00.000Z",
+          "wordCount": 2603,
+          "title": "Microsoft、3秒分の音声だけでその人の声を真似るAI「VALL-E」のサンプル公開",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news087.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/10/news072.html",
           "author": null,

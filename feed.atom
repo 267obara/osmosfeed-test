@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T02:43:22.779Z</updated>
+    <updated>2023-01-10T03:15:07.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[無料のチャットAI「ChatGPT」を有料で使わせる非公式アプリが大量発生中]]></title>
+        <id>https://gigazine.net/news/20230110-chatgpt-paid/</id>
+        <link href="https://gigazine.net/news/20230110-chatgpt-paid/"/>
+        <updated>2023-01-10T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI研究団体のOpenAIが開発したチャットAI「ChatGPT」は、大学の試験に合格するレベルの言語能力を有しており、大きく注目されています。そんなChatGPTは誰でも無料で利用可能なのですが、App StoreではChatGPTの機能を有料で提供する非公式アプリが多数公開されており、ランキング上位に入るほどダウンロードされているとMacRumorsが指摘しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パスタじゃない濃厚カルボナーラが意外にもご飯にマッチする松屋の「ごろごろチキンの濃厚カルボナーラ」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20230110-matsuya-chicken-carbonara/</id>
+        <link href="https://gigazine.net/news/20230110-matsuya-chicken-carbonara/"/>
+        <updated>2023-01-10T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[牛丼チェーンの松屋の「ごろチキ」シリーズに濃厚なカルボナーラソースがかかった「ごろごろチキンの濃厚カルボナーラ」が2023年1月10日(火)から登場しています。濃厚なカルボナーラソースにはグラナパダーノチーズと生卵が使用されており、コクうまな一品とのことなので、実際に食べて味を確かめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人気ゲーム「原神」、アカウントの乗っ取り・盗難に注意喚起　「正体不明のサイトはログイン控えて」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news092.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news092.html"/>
+        <updated>2023-01-10T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[オンラインゲーム「原神」のアカウント盗難について、運営が注意喚起。非公式なフィッシングサイトにログインした結果、アカウントを乗っ取られる事例が複数見られるという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、3秒分の音声だけでその人の声を真似るAI「VALL-E」のサンプル公開]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news087.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news087.html"/>
+        <updated>2023-01-10T02:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftは、人間の話す声の3秒分のデータを与えると、その人の声でテキストを読み上げられるようになるAI「VALL-E」を発表した。GitHubでサンプル音声を試聴できる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AppleがWi-Fi＆Bluetooth用通信チップを内製化してBroadcomからの脱却を図る、最初の自社製チップ搭載デバイスは2025年に登場か]]></title>
         <id>https://gigazine.net/news/20230110-apple-custom-wifi-bluetooth-chip/</id>

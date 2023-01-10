@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T09:13:41.928Z</updated>
+    <updated>2023-01-10T10:15:07.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「なぜ古代ローマ時代のコンクリートは2000年もの耐久性を誇るのか？」の謎が明らかに]]></title>
+        <id>https://gigazine.net/news/20230110-ancient-roman-concrete-durable-hot-mixing/</id>
+        <link href="https://gigazine.net/news/20230110-ancient-roman-concrete-durable-hot-mixing/"/>
+        <updated>2023-01-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[古代ローマの人々は非常に高い建築技術を持っており、約2000年前に作られた道路や水道橋、港、建造物などが現代に至るまで残されています。「一体なぜ、古代ローマのコンクリートは2000年が経過しても大丈夫なほどの耐久性を誇るのか？」という謎について、マサチューセッツ工科大学(MIT)が率いる国際的な研究チームが調査したところ、「コンクリートの製造プロセス」にヒントがあることが明らかになりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ネコタワー付きデスク登場　愛猫と一緒にテレワークしたいあなたに　価格は13万4900円]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news167.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news167.html"/>
+        <updated>2023-01-10T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[通信販売事業を手掛けるDINOS CORPORATIONは、ネコタワー付きのデスクを発売した。価格は13万4900円（組み立てサービス料・配送料込み）。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サービス終了「東方ダンマクカグラ」のクラファンに約2億円集まる　目標の1288％　買い切り版リリースへ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news165.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news165.html"/>
+        <updated>2023-01-10T09:35:00.000Z</updated>
+        <summary type="html"><![CDATA[サービス終了したスマホゲーム「東方ダンマクカグラ」の買い切り版開発に向けたクラウドファンディングが、支援額約1億9334万円を達成した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年1月10日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20230110-headline/</id>
+        <link href="https://gigazine.net/news/20230110-headline/"/>
+        <updated>2023-01-10T09:28:00.000Z</updated>
+        <summary type="html"><![CDATA[サンドイッチ・チェーンのサブウェイから、オマール海老薫る濃厚ビスクソースが楽しめる「プチ贅沢」なピザサブ「ピザ 濃厚えびビスク ～オマール海老仕立て～」が2023年1月18日(水)から登場します。濃厚ビスクソースとトローリとろけるモッツァレラチーズが食欲そそるホットなピザ風サンドイッチで、価格は税込620円です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[満足度の高い「写真管理」ツール　圧倒的な認知度と導入しやすさが強みの1位は？【2023年1月版】]]></title>
         <id>https://www.itmedia.co.jp/news/articles/2301/10/news154.html</id>
@@ -11171,27 +11213,6 @@
         <summary type="html"><![CDATA[“SF思考”でアイデアを広げる議論ツール「SFプロトタイピング」。対話イベント「100年先の自動運転」から、取り組み方をひもといていきます。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[男性の精子数が過去40年で半減したのは生活習慣や化学物質によるものという研究結果]]></title>
-        <id>https://gigazine.net/news/20221212-sperm-count-plummeting/</id>
-        <link href="https://gigazine.net/news/20221212-sperm-count-plummeting/"/>
-        <updated>2022-12-11T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[男性の精子は生殖活動に必要不可欠ですが、近年では男性の精液に含まれる精子数が減少していることが数多く報告されています。新たな研究で、精子数の減少のリスクを高める可能性のある要因について生活習慣や化学物質の摂取などが挙げられています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ソーシャルログインの実装方法を解説、『Firebase Authenticationで学ぶ ソーシャルログイン入門』発売]]></title>
-        <id>http://codezine.jp/article/detail/16836</id>
-        <link href="http://codezine.jp/article/detail/16836"/>
-        <updated>2022-12-11T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CodeZineを運営する翔泳社より、書籍『Firebase Authenticationで学ぶ ソーシャルログイン入門 ID管理の原則にそった実装のベストプラクティス』が12月12日（月）に発売となりました。本書は今や多くのアプリで当たり前になった「ソーシャルログイン機能」をどのように実装すればよいのか、Firebase Authenticationの利用を例に解説した書籍です。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
 </feed>

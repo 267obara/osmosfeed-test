@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T12:27:18.825Z</updated>
+    <updated>2023-01-10T13:21:44.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[あの定番ふりかけ「ゆかり」とコラボした「ロッテリア専用ゆかり」をかけて食べる期間限定メニュー「ゆかりエビごはんバーガー」「ゆかり絶品チーズごはんバーガー」を食べてみた]]></title>
+        <id>https://gigazine.net/news/20230110-lotteria-yukari-zeppin-gohan-burger/</id>
+        <link href="https://gigazine.net/news/20230110-lotteria-yukari-zeppin-gohan-burger/"/>
+        <updated>2023-01-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ロッテリアが、ふりかけ「ゆかり」を製造・販売する三島食品とコラボして開発した「ロッテリア専用ゆかり」をふりかけて楽しむメニュー「ゆかりエビごはんバーガー」「ゆかり絶品チーズごはんバーガー」が2023年1月10日(火)から期間限定で登場しました。バーガーにふりかけをかけて食べるメニューとは一体どういうものなのかめちゃくちゃ気になったので、実際に食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ギガビット対応回線を新築住宅に導入することがイギリスで義務化される]]></title>
         <id>https://gigazine.net/news/20230110-faster-broadband-legal-requirement-england/</id>

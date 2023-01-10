@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T08:17:51.851Z</updated>
+    <updated>2023-01-10T09:13:41.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[満足度の高い「写真管理」ツール　圧倒的な認知度と導入しやすさが強みの1位は？【2023年1月版】]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news154.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news154.html"/>
+        <updated>2023-01-10T08:29:00.000Z</updated>
+        <summary type="html"><![CDATA[ユーザーの満足度が高い写真管理ツールとは？　IT製品レビューサイト「ITreview」に寄せられたレビューをもとに、ランキング形式でまとめた。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 8.1、きょうサポート終了　10や11への移行を]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news150.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news150.html"/>
+        <updated>2023-01-10T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[米Microsoftが「Windows 8.1」のサポートを終了する。セキュリティ更新プログラムの提供など全てのサービスの提供を終える。サポート終了後はサイバー攻撃などのリスクが高まるため、Windows 10などに移行するよう勧めている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ブラジルの議事堂襲撃事件発生前後にTwitter・TikTok・Instagram・Facebookなどで「不正選挙」を主張する投稿が激増していた]]></title>
         <id>https://gigazine.net/news/20230110-brazil-raid-sns/</id>
@@ -15,6 +35,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「AIで詐欺メールと攻撃プログラムの生成に成功」　セキュリティ企業が注意喚起　知識なくても攻撃可能に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news146.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news146.html"/>
+        <updated>2023-01-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[チェック・ポイント・ソフトウェア・テクノロジーズは、ChatGPTを使ったサイバー攻撃が起きる可能性があるとして注意喚起した。フィッシングメールや攻撃プログラムの生成に成功したという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -11162,17 +11192,6 @@
         <summary type="html"><![CDATA[CodeZineを運営する翔泳社より、書籍『Firebase Authenticationで学ぶ ソーシャルログイン入門 ID管理の原則にそった実装のベストプラクティス』が12月12日（月）に発売となりました。本書は今や多くのアプリで当たり前になった「ソーシャルログイン機能」をどのように実装すればよいのか、Firebase Authenticationの利用を例に解説した書籍です。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[デジタル印刷技術を一気に向上させてDTPに革命を起こした「PostScript」が生まれた経緯とは？]]></title>
-        <id>https://gigazine.net/news/20221212-postscript-kickstarted-desktop-publishing/</id>
-        <link href="https://gigazine.net/news/20221212-postscript-kickstarted-desktop-publishing/"/>
-        <updated>2022-12-11T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[印刷技術の発展は学問・政治・商業・芸術など幅広い分野に影響をもたらし、1985年にAdobeがリリースしたページ記述言語の「PostScript」は、印刷データを命令文として記述することを可能にして、コンピューターを使ったデスクトップ・パブリッシング(DTP)の普及に大きな役割を果たしました。そんなPostScriptの初期ソースコードを公開したアメリカ・カリフォルニア州のコンピュータ歴史博物館が、PostScriptが誕生した経緯についてまとめています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

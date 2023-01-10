@@ -5004,16 +5004,6 @@
           "wordCount": 2515,
           "title": "男性の精子数が過去40年で半減したのは生活習慣や化学物質によるものという研究結果",
           "imageUrl": "https://i.gzn.jp/img/2022/12/12/sperm-count-plummeting/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221212-postscript-kickstarted-desktop-publishing/",
-          "author": null,
-          "description": "印刷技術の発展は学問・政治・商業・芸術など幅広い分野に影響をもたらし、1985年にAdobeがリリースしたページ記述言語の「PostScript」は、印刷データを命令文として記述することを可能にして、コンピューターを使ったデスクトップ・パブリッシング(DTP)の普及に大きな役割を果たしました。そんなPostScriptの初期ソースコードを公開したアメリカ・カリフォルニア州のコンピュータ歴史博物館が、PostScriptが誕生した経緯についてまとめています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221212-postscript-kickstarted-desktop-publishing/",
-          "publishedOn": "2022-12-11T21:00:00.000Z",
-          "wordCount": 2503,
-          "title": "デジタル印刷技術を一気に向上させてDTPに革命を起こした「PostScript」が生まれた経緯とは？",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/12/postscript-kickstarted-desktop-publishing/00.jpg"
         }
       ]
     },
@@ -6786,6 +6776,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news154.html",
+          "author": null,
+          "description": "ユーザーの満足度が高い写真管理ツールとは？　IT製品レビューサイト「ITreview」に寄せられたレビューをもとに、ランキング形式でまとめた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news154.html",
+          "publishedOn": "2023-01-10T08:29:00.000Z",
+          "wordCount": 2609,
+          "title": "満足度の高い「写真管理」ツール　圧倒的な認知度と導入しやすさが強みの1位は？【2023年1月版】",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news154.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news150.html",
+          "author": null,
+          "description": "米Microsoftが「Windows 8.1」のサポートを終了する。セキュリティ更新プログラムの提供など全てのサービスの提供を終える。サポート終了後はサイバー攻撃などのリスクが高まるため、Windows 10などに移行するよう勧めている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news150.html",
+          "publishedOn": "2023-01-10T08:15:00.000Z",
+          "wordCount": 2626,
+          "title": "Windows 8.1、きょうサポート終了　10や11への移行を",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news150.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news146.html",
+          "author": null,
+          "description": "チェック・ポイント・ソフトウェア・テクノロジーズは、ChatGPTを使ったサイバー攻撃が起きる可能性があるとして注意喚起した。フィッシングメールや攻撃プログラムの生成に成功したという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news146.html",
+          "publishedOn": "2023-01-10T08:00:00.000Z",
+          "wordCount": 2597,
+          "title": "「AIで詐欺メールと攻撃プログラムの生成に成功」　セキュリティ企業が注意喚起　知識なくても攻撃可能に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news146.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/10/news141.html",
           "author": null,

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230111-mars-opal-gemstone-crater/",
+          "author": null,
+          "description": "NASAの火星探査機「キュリオシティ」が収集したデータの分析により、火星のクレーターにはオパールの原石が豊富に存在していることが分かりました。研究者らは、このオパールは火星に水が存在したことを示しており、かつて微生物が生息していた可能性を高める発見であると報告しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-mars-opal-gemstone-crater/",
+          "publishedOn": "2023-01-10T21:00:00.000Z",
+          "wordCount": 2478,
+          "title": "火星のクレーターには「オパール」の原石がぎっしり詰まっていることが判明、水と生命の存在を示すカギか",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/mars-opal-gemstone-crater/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230111-access/",
           "author": null,
           "description": "この記事はGIGAZINEシークレットクラブの有料メンバー限定ですが、2023年2月28日までは誰でも閲覧可能です。\n続きを読む...",
@@ -10485,26 +10495,6 @@
           "wordCount": 2600,
           "title": "量子ドットで自発光の「ナノLEDディスプレイ」実用化へ一歩　シャープと東大、RGB画素の形成に成功",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news161.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news157.html",
-          "author": null,
-          "description": "東京国税局がシステム開発会社リンクオフと同社の小池隆志代表を法人税法違反の疑いで告発した。同社は約1億円を脱税したとみられている。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news157.html",
-          "publishedOn": "2022-12-12T08:31:00.000Z",
-          "wordCount": 2585,
-          "title": "クラウドシステム開発会社が1億円脱税か　所得隠し・税務申告漏らしで告発",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news157.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news152.html",
-          "author": null,
-          "description": "米Metaが、FacebookやVR空間で使えるアバター用の服を販売する「Metaアバターストア」の日本含むアジア太平洋地域での提供を始めた。既存の無料服に加えて、ファッションブランドの服も販売する。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news152.html",
-          "publishedOn": "2022-12-12T08:30:00.000Z",
-          "wordCount": 2594,
-          "title": "Meta、アバターストアを日本でもスタート　プラダなどのバーチャル服を販売",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news152.jpg"
         }
       ]
     }

@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230110-donotpay-supreme-court/",
+          "author": null,
+          "description": "宿題を代わりにやってもらうことや、異性の口説き方を教えてもらうこともできるレベルに精度の高い対話型AI「ChatGPT」のAPIをベースに、法律に特化したAI弁護士を作り上げ、法廷で弁論させることを計画する企業が登場しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-donotpay-supreme-court/",
+          "publishedOn": "2023-01-10T04:00:00.000Z",
+          "wordCount": 2499,
+          "title": "GPT-3ベースのAI弁護士が最高裁判所で弁論する予定",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/donotpay-supreme-court/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230110-schools-sue-tik-tok-youth-mental-health/",
+          "author": null,
+          "description": "2023年1月7日、ワシントン州シアトルの公立学校が共同で、TikTok、YouTube、Facebook、Instagram、Snapchatを提訴したことを発表しました。学校側は、これらのアプリが心理学や神経学を駆使して若者をソーシャルメディアの過剰使用へと駆り立て、子どもらのメンタルヘルスを害したと主張しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-schools-sue-tik-tok-youth-mental-health/",
+          "publishedOn": "2023-01-10T03:30:00.000Z",
+          "wordCount": 2472,
+          "title": "アメリカの公立学校がTikTokやYouTubeを「青少年の精神衛生の危機」で提訴",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/schools-sue-tiktok-youth-mental-health/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230110-chatgpt-paid/",
           "author": null,
           "description": "AI研究団体のOpenAIが開発したチャットAI「ChatGPT」は、大学の試験に合格するレベルの言語能力を有しており、大きく注目されています。そんなChatGPTは誰でも無料で利用可能なのですが、App StoreではChatGPTの機能を有料で提供する非公式アプリが多数公開されており、ランキング上位に入るほどダウンロードされているとMacRumorsが指摘しています。\n続きを読む...",
@@ -4953,6 +4973,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16953",
+          "author": null,
+          "description": "現在、ドメイン駆動設計やClean Architectureなどが日本でも良く語られるようになり、広く受け入れられはじめています。技術的にはWindows Presentation Foundation（以下WPF）も .NET Frameworkだけでなく .NET上でも動作するようになりました。筆者もそれらを取り入れて開発しています。本稿ではマイクロソフトが架空の大規模多国籍製造企業を想定し公開している、サンプルデータベース「AdventureWorks」を題材に、グレープシティのコンポーネント「ComponentOne for WPF」や「SPREAD for WPF」を活用して業務アプリケーション開発をする際のアーキテクチャを紹介します。",
+          "link": "http://codezine.jp/article/detail/16953",
+          "publishedOn": "2023-01-10T03:00:00.000Z",
+          "wordCount": 4442,
+          "title": "2022年版実践WPF業務アプリケーションのアーキテクチャ【見積編】～ドメイン駆動設計＆Clean Architectureとともに～",
+          "imageUrl": "https://codezine.jp/static/images/article/16953/og.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/17116",
           "author": null,
           "description": "VSCodeの優れているところは、豊富な拡張機能を選んで組み合わせて使えることです。第3回は、拡張機能の探し方、拡張機能の情報の見方、インストールや管理などの方法、基本的で役に立ついくつかの拡張機能を紹介します。",
@@ -6698,36 +6728,6 @@
           "wordCount": 1266,
           "title": "JavaScriptランタイム「Bun v0.3.0」リリース。メモリ消費量が3分の1以下に、npmパッケージの自動インストールなど",
           "imageUrl": "https://www.publickey1.jp/2022/cHNB_RPV.jpg"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/uiaiautifypr.html",
-          "author": null,
-          "description": "「エンジニアが不足し、テスト自動化の構築やメンテナンスがなかなかできなくて困っている」。これが多くのIT関連企業において共通した悩みでした、と話すのは、AutifyのCEOである近澤良氏です。 2022年10月に都内で開催されたGartne...",
-          "link": "https://www.publickey1.jp/blog/22/uiaiautifypr.html",
-          "publishedOn": "2022-12-11T15:39:06.000Z",
-          "wordCount": 1257,
-          "title": "高品質なシステム開発を高速に実現するテスト自動化ツール。ノーコードでテストシナリオを作成、UI変更をAIで自動検出しテストを自動メンテしてくれる「Autify」［PR］",
-          "imageUrl": "https://www.publickey1.jp/2022/autify_gt05.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/google_chrome_108passkeygoogle.html",
-          "author": null,
-          "description": "12月2日から配布が開始されている最新のGoogle Chrome 108では、パスワードレスを実現する機能の「Passkey」がWindows 11、macOS、Android版で利用可能になっていることをGoogleが明らかにしました。...",
-          "link": "https://www.publickey1.jp/blog/22/google_chrome_108passkeygoogle.html",
-          "publishedOn": "2022-12-11T15:34:34.000Z",
-          "wordCount": 1245,
-          "title": "最新のGoogle Chrome 108で「Passkey」が利用可能に。Googleアカウントでクレデンシャル同期など",
-          "imageUrl": "https://www.publickey1.jp/2022/chrome108passkey02.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/tauriiosandroidtauri_mobileelectronrust.html",
-          "author": null,
-          "description": "JavaScriptとHTML/CSSを用いてアプリケーションを構築できるElectronの代替を目指し、より軽量なフレームワークとして開発されている「Tauri」のモバイル対応版「Tauri Mobile」の最初のアルファ版公開が発表され...",
-          "link": "https://www.publickey1.jp/blog/22/tauriiosandroidtauri_mobileelectronrust.html",
-          "publishedOn": "2022-12-11T15:27:33.000Z",
-          "wordCount": 1251,
-          "title": "TauriがiOS/Androidに対応「Tauri Mobile」アルファ版登場。Electron代替を目指すRust製の軽量フレームワーク",
-          "imageUrl": "https://www.publickey1.jp/2022/taurimobalpha01.png"
         }
       ]
     },
@@ -6736,6 +6736,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news074.html",
+          "author": null,
+          "description": "リリース直後に大量のアクセスが見込まれたスマホゲーム版「コードギアス」。対する開発元・JOROは従業員数30人ほどの少数精鋭。JOROが大量のアクセスを無事にさばけた背景を探る。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news074.html",
+          "publishedOn": "2023-01-10T03:30:00.000Z",
+          "wordCount": 2625,
+          "title": "リリース直後に1600万リクエスト、押し寄せるbotの大群　「コードギアス」スマホゲームの安定運用を実現したクラウド活用術",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news074.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news099.html",
+          "author": null,
+          "description": "テレビアニメ「ぼっち・ざ・ろっく！」の公式サイトは1月9日、ファンの聖地巡礼について注意喚起を行った。「団体でのご来訪や道をふさぐ、騒ぐなどの行為はご遠慮ください」としている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news099.html",
+          "publishedOn": "2023-01-10T03:14:00.000Z",
+          "wordCount": 2358,
+          "title": "アニメ「ぼっち・ざ・ろっく！」聖地巡礼に注意喚起　「団体での来訪控えて」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news099.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news097.html",
+          "author": null,
+          "description": "JASRACが公式Twitterアカウントを開設。JASRACの事業や取り組み、音楽著作権の解説といった情報を発信するという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news097.html",
+          "publishedOn": "2023-01-10T03:12:00.000Z",
+          "wordCount": 2595,
+          "title": "JASRACが公式Twitterアカウント開設　「音楽著作権の解説など発信」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news097.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/10/news092.html",
           "author": null,

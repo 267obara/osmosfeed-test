@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T05:12:10.755Z</updated>
+    <updated>2023-01-10T06:18:24.787Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「修理する権利」を認める合意書に農機具メーカーのジョン・ディアが署名、認定ディーラーで修理を数週間待つ状況が改善か]]></title>
+        <id>https://gigazine.net/news/20230110-afbf-signs-right-to-repair-john-deere/</id>
+        <link href="https://gigazine.net/news/20230110-afbf-signs-right-to-repair-john-deere/"/>
+        <updated>2023-01-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカ最大の農業関連圧力団体であるAmerican Farm Bureau Federation(AFBF)が、農業機器メーカーのジョン・ディアが農家の「修理する権利」を認める合意書に署名したと発表しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年もCESに現れた“変態ガジェット”たち]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news109.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news109.html"/>
+        <updated>2023-01-10T05:37:00.000Z</updated>
+        <summary type="html"><![CDATA[明けましておめでとうございます。今年もITmedia NEWSをよろしくお願いします！　2023年一発目のトップテンは、年末年始のアクセスランキングだ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoftがたった3秒のサンプルから人の声を再現できる音声合成AI「VALL-E」を発表]]></title>
         <id>https://gigazine.net/news/20230110-microsoft-vall-e/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福岡市地下鉄、クレカタッチ決済乗車の実証実験を全駅に拡大　Visa以外にも対応]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news112.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news112.html"/>
+        <updated>2023-01-10T04:46:00.000Z</updated>
+        <summary type="html"><![CDATA[福岡市地下鉄で行われている、クレジットカードを使って地下鉄に乗車できる実証実験が拡大する。Visaブランド以外でも利用可能に]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

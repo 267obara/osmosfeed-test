@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230110-afbf-signs-right-to-repair-john-deere/",
+          "author": null,
+          "description": "アメリカ最大の農業関連圧力団体であるAmerican Farm Bureau Federation(AFBF)が、農業機器メーカーのジョン・ディアが農家の「修理する権利」を認める合意書に署名したと発表しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-afbf-signs-right-to-repair-john-deere/",
+          "publishedOn": "2023-01-10T06:00:00.000Z",
+          "wordCount": 2636,
+          "title": "「修理する権利」を認める合意書に農機具メーカーのジョン・ディアが署名、認定ディーラーで修理を数週間待つ状況が改善か",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/afbf-signs-right-to-repair-john-deere/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230110-microsoft-vall-e/",
           "author": null,
           "description": "2023年1月5日にMicrosoftが新しい音声合成AIモデル「VALL-E」を発表しました。VALL-Eはたった3秒間の音声サンプルで人の声を忠実にシミュレートできる他、一度学習したデータからは、その人の声色だけではなく感情のトーンや録音環境も再現した合成音声を作成することが可能になっています。\n続きを読む...",
@@ -6756,6 +6766,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news109.html",
+          "author": null,
+          "description": "明けましておめでとうございます。今年もITmedia NEWSをよろしくお願いします！　2023年一発目のトップテンは、年末年始のアクセスランキングだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news109.html",
+          "publishedOn": "2023-01-10T05:37:00.000Z",
+          "wordCount": 2659,
+          "title": "今年もCESに現れた“変態ガジェット”たち",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news109.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news112.html",
+          "author": null,
+          "description": "福岡市地下鉄で行われている、クレジットカードを使って地下鉄に乗車できる実証実験が拡大する。Visaブランド以外でも利用可能に",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news112.html",
+          "publishedOn": "2023-01-10T04:46:00.000Z",
+          "wordCount": 2593,
+          "title": "福岡市地下鉄、クレカタッチ決済乗車の実証実験を全駅に拡大　Visa以外にも対応",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news112.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/10/news110.html",
           "author": null,

@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T04:16:47.177Z</updated>
+    <updated>2023-01-10T05:12:10.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoftがたった3秒のサンプルから人の声を再現できる音声合成AI「VALL-E」を発表]]></title>
+        <id>https://gigazine.net/news/20230110-microsoft-vall-e/</id>
+        <link href="https://gigazine.net/news/20230110-microsoft-vall-e/"/>
+        <updated>2023-01-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年1月5日にMicrosoftが新しい音声合成AIモデル「VALL-E」を発表しました。VALL-Eはたった3秒間の音声サンプルで人の声を忠実にシミュレートできる他、一度学習したデータからは、その人の声色だけではなく感情のトーンや録音環境も再現した合成音声を作成することが可能になっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、データセンター強化を目指しDPUのFungibleを買収]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news110.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news110.html"/>
+        <updated>2023-01-10T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[MicrosoftはDPU（データ処理装置）を手掛けるFangibleを買収した。この買収で、「データセンターのイノベーションを加速する」としている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「非友好国」の映画・音楽・ソフトウェアの著作権侵害をロシアに続きベラルーシも合法化]]></title>
+        <id>https://gigazine.net/news/20230110-belarus-legalizes-piracy/</id>
+        <link href="https://gigazine.net/news/20230110-belarus-legalizes-piracy/"/>
+        <updated>2023-01-10T04:34:00.000Z</updated>
+        <summary type="html"><![CDATA[ベラルーシのアレクサンドル・ルカシェンコ大統領が、「非友好国」の権利者が所有する映画、音楽、テレビ番組、ソフトウェアの海賊版を合法化する新法に署名しました。ウクライナと戦争状態にあるロシアに加担したベラルーシはロシア同様に他国からの制裁を受けているため、それに伴う国内市場の重要な商品不足を解決する策だと主張されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3ベースのAI弁護士が最高裁判所で弁論する予定]]></title>
         <id>https://gigazine.net/news/20230110-donotpay-supreme-court/</id>

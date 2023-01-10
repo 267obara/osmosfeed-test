@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230110-microsoft-vall-e/",
+          "author": null,
+          "description": "2023年1月5日にMicrosoftが新しい音声合成AIモデル「VALL-E」を発表しました。VALL-Eはたった3秒間の音声サンプルで人の声を忠実にシミュレートできる他、一度学習したデータからは、その人の声色だけではなく感情のトーンや録音環境も再現した合成音声を作成することが可能になっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-microsoft-vall-e/",
+          "publishedOn": "2023-01-10T05:00:00.000Z",
+          "wordCount": 2441,
+          "title": "Microsoftがたった3秒のサンプルから人の声を再現できる音声合成AI「VALL-E」を発表",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/microsoft-vall-e/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230110-belarus-legalizes-piracy/",
+          "author": null,
+          "description": "ベラルーシのアレクサンドル・ルカシェンコ大統領が、「非友好国」の権利者が所有する映画、音楽、テレビ番組、ソフトウェアの海賊版を合法化する新法に署名しました。ウクライナと戦争状態にあるロシアに加担したベラルーシはロシア同様に他国からの制裁を受けているため、それに伴う国内市場の重要な商品不足を解決する策だと主張されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-belarus-legalizes-piracy/",
+          "publishedOn": "2023-01-10T04:34:00.000Z",
+          "wordCount": 2457,
+          "title": "「非友好国」の映画・音楽・ソフトウェアの著作権侵害をロシアに続きベラルーシも合法化",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/belarus-legalizes-piracy/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230110-donotpay-supreme-court/",
           "author": null,
           "description": "宿題を代わりにやってもらうことや、異性の口説き方を教えてもらうこともできるレベルに精度の高い対話型AI「ChatGPT」のAPIをベースに、法律に特化したAI弁護士を作り上げ、法廷で弁論させることを計画する企業が登場しました。\n続きを読む...",
@@ -6736,6 +6756,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news110.html",
+          "author": null,
+          "description": "MicrosoftはDPU（データ処理装置）を手掛けるFangibleを買収した。この買収で、「データセンターのイノベーションを加速する」としている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news110.html",
+          "publishedOn": "2023-01-10T04:40:00.000Z",
+          "wordCount": 2600,
+          "title": "Microsoft、データセンター強化を目指しDPUのFungibleを買収",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news110.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/10/news074.html",
           "author": null,

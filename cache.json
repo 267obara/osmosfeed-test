@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230110-gmail-error-gail/",
+          "author": null,
+          "description": "Googleのメールサービス「Gmail」のドメインである「gmail.com」と間違えられやすい「gail.com」は、2020年だけで約590万回のアクセスを記録し、1週間当たり約120万通もの間違いメールを受信し続けています。そんな「gail.com」では、サイト管理者であるGail氏が記した「よくある質問集」が公開されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230110-gmail-error-gail/",
+          "publishedOn": "2023-01-10T11:00:00.000Z",
+          "wordCount": 2422,
+          "title": "Googleの「gmail.com」と間違えられやすい「gail.com」には週120万通もの間違いメールが届き続けている",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/10/gmail-error-gail/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230110-ancient-roman-concrete-durable-hot-mixing/",
           "author": null,
           "description": "古代ローマの人々は非常に高い建築技術を持っており、約2000年前に作られた道路や水道橋、港、建造物などが現代に至るまで残されています。「一体なぜ、古代ローマのコンクリートは2000年が経過しても大丈夫なほどの耐久性を誇るのか？」という謎について、マサチューセッツ工科大学(MIT)が率いる国際的な研究チームが調査したところ、「コンクリートの製造プロセス」にヒントがあることが明らかになりました。\n続きを読む...",
@@ -5004,16 +5014,6 @@
           "wordCount": 2659,
           "title": "DeepMindが映画や演劇の脚本を共同執筆してくれるAI「Dramatron」を発表",
           "imageUrl": "https://i.gzn.jp/img/2022/12/12/deepmind-dramatron/00_m.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221212-sony-inzone-m3-hub-kvm/",
-          "author": null,
-          "description": "ソニーから2022年12月に登場したゲーミングモニター「INZONE M3」は、HDMI端子のほかにDisplayPort端子やUSB端子も搭載しており、PlayStationだけでなくPCなどとの接続も意図されています。そんなINZONE M3には、キーボードやマウスなどの入力デバイスを複数のPCで共有できる「オートKVMスイッチ」機能が搭載されています。複数台のPCを使い分ける環境で便利そうだったので、実際にオートKVMスイッチを使ってみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221212-sony-inzone-m3-hub-kvm/",
-          "publishedOn": "2022-12-11T23:00:00.000Z",
-          "wordCount": 2579,
-          "title": "ソニー製ゲーミングモニター「INZONE M3」の「1台のキーボードを複数のデバイスで使い回せる機能」を使ってみた",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/12/sony-inzone-m3-hub-kvm/00.jpg"
         }
       ]
     },
@@ -6501,16 +6501,6 @@
           "wordCount": 4259,
           "title": "「PyTorch with DirectML」最新版でTransformer関連のモデルのトレーニングが可能に",
           "imageUrl": "https://codezine.jp/static/images/article/17004/13359_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/17005",
-          "author": null,
-          "description": "米Airbnbは、ベクター動画のレンダリングエンジンの新版「Lottie 4.0 for iOS」を公開した。LottieはApache License 2.0で公開しているオープンソース・ソフトウェアだ。",
-          "link": "http://codezine.jp/article/detail/17005",
-          "publishedOn": "2022-12-11T23:00:00.000Z",
-          "wordCount": 4260,
-          "title": "Airbnbがベクター動画のレンダリングエンジン「Lottie 4.0 for iOS」を公開、GPUを利用して描画をスムーズに",
-          "imageUrl": "https://codezine.jp/static/images/article/17005/12883_og.jpg"
         }
       ]
     },
@@ -6776,6 +6766,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news169.html",
+          "author": null,
+          "description": "アフラック生命保険とチューリッヒ保険は、業務委託先で個人情報が合計約200万人分が流出したと発表した。不正アクセスで盗まれたとみられる情報が外部サイトに掲載されているのが見つかったという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news169.html",
+          "publishedOn": "2023-01-10T10:00:00.000Z",
+          "wordCount": 2592,
+          "title": "大手保険2社で計200万件の情報漏えい、アフラックとチューリッヒ　委託企業に不正アクセス",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news169.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/10/news167.html",
           "author": null,
@@ -10705,36 +10705,6 @@
           "wordCount": 2328,
           "title": "半導体の対中輸出規制　米政府が日本に協力要請　製造装置など",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/l_G4MHYVA7YVCC7N4ADIFDLEINC4_1.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news045.html",
-          "author": null,
-          "description": "韓国の高麗大学校とLGエレクトロニクスに所属する研究者らは、部屋に設置したエアコンから出る温冷風をARで表現できるシステムを提案した研究報告を発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news045.html",
-          "publishedOn": "2022-12-11T23:00:00.000Z",
-          "wordCount": 2684,
-          "title": "エアコンの気流と温度変化がARで可視化する技術　最も効率的な設置場所の提案に一役",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news045.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news044.html",
-          "author": null,
-          "description": "米スタンフォード大学などに所属する研究者らは、創傷部に貼り付け、治り具合に応じて電気刺激で治癒させる電子バンソウコウを提案した研究報告を発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news044.html",
-          "publishedOn": "2022-12-11T23:00:00.000Z",
-          "wordCount": 2666,
-          "title": "電気で傷を治す「電子バンソウコウ」　マウス実験では通常よりも早期に治癒　回復具合の監視機能も",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news044.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news049.html",
-          "author": null,
-          "description": "“SF思考”でアイデアを広げる議論ツール「SFプロトタイピング」。対話イベント「100年先の自動運転」から、取り組み方をひもといていきます。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news049.html",
-          "publishedOn": "2022-12-11T22:30:00.000Z",
-          "wordCount": 2637,
-          "title": "“SF思考”でアイデアを発散　議論ツール「SFプロトタイピング」で考える100年後　対話を広げるコツは？",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news049.png"
         }
       ]
     }

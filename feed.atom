@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T17:13:37.254Z</updated>
+    <updated>2023-01-10T18:16:48.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11005,27 +11005,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ツイートのファクトチェックをTwitterユーザーみんなの力で行う「コミュニティノート」が日本を含む全世界で利用可能に]]></title>
-        <id>https://gigazine.net/news/20221212-twitter-community-notes/</id>
-        <link href="https://gigazine.net/news/20221212-twitter-community-notes/"/>
-        <updated>2022-12-12T06:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterのユーザーが誤解を招く可能性のあるツイートに「ノート」を残し、ユーザー同士で評価し合ってファクトチェックを行う機能「コミュニティノート」がTwitterで公開されました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本人が「Twitterの移行先」を作らないのはなぜ？　「zenlyの移行先」を22歳が作った事実から考える]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/12/news121.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/12/news121.html"/>
-        <updated>2022-12-12T05:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterからの移行先があれば移動したいと感じている日本人ユーザーは、それなりの数はいるだろう。でも日本のベンチャーや個人開発者は沈黙しているように見える。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

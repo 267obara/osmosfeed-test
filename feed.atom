@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T03:14:11.179Z</updated>
+    <updated>2023-01-11T04:16:55.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[検閲を行わない方針で話題となったSNS「Parler」の親会社が約75％のスタッフと複数の幹部を解雇したことが発覚]]></title>
+        <id>https://gigazine.net/news/20230111-parler-parlement-technologies-layoffs/</id>
+        <link href="https://gigazine.net/news/20230111-parler-parlement-technologies-layoffs/"/>
+        <updated>2023-01-11T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「言論の自由を守る」という方針で投稿されたコンテンツの検閲を行わないとしているSNS「Parler」は、過激な発言やフェイクニュースの取り締まりが強化されているTwitterやFacebookの代替として、トランプ大統領の支持者や陰謀論者から人気を集めていました。ところが、Parlerの親会社であるParlement Technologiesが過去数週間でスタッフの約75％と複数の幹部を解雇したことが報じられています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Twitter Blue」日本でも公開、月額980円　iOS版は400円上乗せ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news098.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news098.html"/>
+        <updated>2023-01-11T03:45:00.000Z</updated>
+        <summary type="html"><![CDATA[米Twitter社がTwitterの有料プラン「Twitter Blue」を日本の一部ユーザーに向けて限定的にリリースした。月額利用料は980円。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 7とWindows 8.1の更新プログラム配信がついに終了]]></title>
+        <id>https://gigazine.net/news/20230111-windows-7-8-end/</id>
+        <link href="https://gigazine.net/news/20230111-windows-7-8-end/"/>
+        <updated>2023-01-11T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[2009年にリリースされたWindows 7と、2013年にリリースされたWindows 8.1のサポートが、2023年1月10日をもって終了しました。いまだにWindowsユーザーの10％程度がこれらのOSを使用していると推定されており、迅速なアップグレードが推奨されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[支出管理「バクラク」導入でAWSのクレジット提供　LayerXがスタートアップ支援プログラム開始]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news099.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news099.html"/>
+        <updated>2023-01-11T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[LayerXが、米AWSのスタートアップ支援プログラムに参加。今後、LayerXの支出管理SaaS「バクラク」シリーズを契約したスタートアップに対し、AWSでの支払いに使えるクレジットを付与する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チップレットに進化した第4世代「Xeon SP」がIntelの未来にとって大きな重要な役割を担うとの指摘]]></title>
+        <id>https://gigazine.net/news/20230111-intel-4th-gen-xeon-delays/</id>
+        <link href="https://gigazine.net/news/20230111-intel-4th-gen-xeon-delays/"/>
+        <updated>2023-01-11T03:16:00.000Z</updated>
+        <summary type="html"><![CDATA[現地時間の2023年1月10日、Intelが「Sapphire Rapids」というコードネームで開発を続けてきたデータセンター向けCPUを第4世代Xeon スケーラブル・プロセッサー(Xeon SP)として提供開始したと発表しました。この第4世代Xeon SPは長年にわたり開発が遅れてきたことでも有名です。そんな第4世代Xeon SPは、Intelの将来を担う重要なチップであるとThe New York Timesが指摘しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterのタイムラインで「おすすめ」がデフォルトに固定されてしまうことが判明]]></title>
         <id>https://gigazine.net/news/20230111-twitter-for-you-following/</id>
@@ -26,6 +79,36 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プロダクトの安全のために「攻め」の脆弱性診断と「守り」のSensor監視に取り組むPSIRTの日々]]></title>
+        <id>http://codezine.jp/article/detail/16845</id>
+        <link href="http://codezine.jp/article/detail/16845"/>
+        <updated>2023-01-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年1月からfreeeにジョインした越智郁氏。Product Security Incident Response Team（以下、PSIRT）に所属し、プロダクトのサービスを守る仕事をしている。PSIRTの日々の運用と、具体的な業務となる攻めの「脆弱性診断」と守りの「Sensor監視」について解説する。前職のWebアプリケーション診断から、現職に転向した理由についても語る。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「Wantedly」に携わるみんなのデスク環境　究極の何もないデスク……かと思いきや！]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/10/news031.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/10/news031.html"/>
+        <updated>2023-01-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IT企業で働く人のデスク環境を写真や本人のコメント付きで紹介。転職先の雰囲気を把握したい人に向け、さまざまな職種の社員がどんな環境で働いているかをチェックする。今回はビジネスSNS「Wantedly」に携わる人のデスク周りを探る。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS版Twitterで“縦長サムネ”が表示されなくなる　タイムラインが旧来のトリミング仕様に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news090.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news090.html"/>
+        <updated>2023-01-11T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[細かな仕様変更が続くTwitterだが、今度はタイムラインに手が加えられたようだ。1月11日に入り、Twitterのタイムラインで画像の表示方法が変わったというツイートが増加。2021年5月に対応した縦長のサムネイルが表示されなくなり、旧来のトリミングした状態で表示されるようになったという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -11100,16 +11183,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScriptランタイム「Bun v0.3.0」リリース。メモリ消費量が3分の1以下に、npmパッケージの自動インストールなど]]></title>
-        <id>https://www.publickey1.jp/blog/22/javascriptbun_v03031npm.html</id>
-        <link href="https://www.publickey1.jp/blog/22/javascriptbun_v03031npm.html"/>
-        <updated>2022-12-12T15:14:12.000Z</updated>
-        <summary type="html"><![CDATA[サーバサイドで実行可能なJavaScriptランタイム「Bun」の最新バージョン「Bun v0.3.0」がリリースされました。 BunはJavaScriptランタイムとバンドラ、トランスパイラ、タスクランナーなどの機能が最初から統合されてい...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>

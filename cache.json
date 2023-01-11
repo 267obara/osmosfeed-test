@@ -6,6 +6,36 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230111-parler-parlement-technologies-layoffs/",
+          "author": null,
+          "description": "「言論の自由を守る」という方針で投稿されたコンテンツの検閲を行わないとしているSNS「Parler」は、過激な発言やフェイクニュースの取り締まりが強化されているTwitterやFacebookの代替として、トランプ大統領の支持者や陰謀論者から人気を集めていました。ところが、Parlerの親会社であるParlement Technologiesが過去数週間でスタッフの約75％と複数の幹部を解雇したことが報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-parler-parlement-technologies-layoffs/",
+          "publishedOn": "2023-01-11T04:00:00.000Z",
+          "wordCount": 2574,
+          "title": "検閲を行わない方針で話題となったSNS「Parler」の親会社が約75％のスタッフと複数の幹部を解雇したことが発覚",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/parler-parlement-technologies-layoffs/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230111-windows-7-8-end/",
+          "author": null,
+          "description": "2009年にリリースされたWindows 7と、2013年にリリースされたWindows 8.1のサポートが、2023年1月10日をもって終了しました。いまだにWindowsユーザーの10％程度がこれらのOSを使用していると推定されており、迅速なアップグレードが推奨されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-windows-7-8-end/",
+          "publishedOn": "2023-01-11T03:30:00.000Z",
+          "wordCount": 2471,
+          "title": "Windows 7とWindows 8.1の更新プログラム配信がついに終了",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/windows-7-8-end/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230111-intel-4th-gen-xeon-delays/",
+          "author": null,
+          "description": "現地時間の2023年1月10日、Intelが「Sapphire Rapids」というコードネームで開発を続けてきたデータセンター向けCPUを第4世代Xeon スケーラブル・プロセッサー(Xeon SP)として提供開始したと発表しました。この第4世代Xeon SPは長年にわたり開発が遅れてきたことでも有名です。そんな第4世代Xeon SPは、Intelの将来を担う重要なチップであるとThe New York Timesが指摘しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-intel-4th-gen-xeon-delays/",
+          "publishedOn": "2023-01-11T03:16:00.000Z",
+          "wordCount": 2530,
+          "title": "チップレットに進化した第4世代「Xeon SP」がIntelの未来にとって大きな重要な役割を担うとの指摘",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/intel-4th-gen-xeon-delays/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230111-twitter-for-you-following/",
           "author": null,
           "description": "Twitterが、アプリのホーム画面であるタイムラインに「おすすめ(For You)」と「フォロー中(Following)」のタブを追加し、左右のスワイプで切り替えられるようにすることを発表しました。これによりタイムラインの切り替えが簡単になりましたが、デフォルトの表示がおすすめのツイートに固定されることになるため、一部のユーザーにとってはかえって手間が増えると指摘されています。\n続きを読む...",
@@ -4993,6 +5023,16 @@
       "siteUrl": "https://codezine.jp/",
       "articles": [
         {
+          "id": "http://codezine.jp/article/detail/16845",
+          "author": null,
+          "description": "2022年1月からfreeeにジョインした越智郁氏。Product Security Incident Response Team（以下、PSIRT）に所属し、プロダクトのサービスを守る仕事をしている。PSIRTの日々の運用と、具体的な業務となる攻めの「脆弱性診断」と守りの「Sensor監視」について解説する。前職のWebアプリケーション診断から、現職に転向した理由についても語る。",
+          "link": "http://codezine.jp/article/detail/16845",
+          "publishedOn": "2023-01-11T03:00:00.000Z",
+          "wordCount": 4367,
+          "title": "プロダクトの安全のために「攻め」の脆弱性診断と「守り」のSensor監視に取り組むPSIRTの日々",
+          "imageUrl": "https://codezine.jp/static/images/article/16845/16845_ogp.png"
+        },
+        {
           "id": "http://codezine.jp/article/detail/16896",
           "author": null,
           "description": "2022年のジェンダーギャップ指数は、日本は116位と先進国で最低レベルの結果となった。こうした大きなジェンダーギャップは、日本のIT業界でも顕著だ。サイバーエージェントのエンジニア新卒一期生として入社し、ソフトウェアエンジニアとしてキャリアを重ねてきた神谷優さんは、第一子の出産をきっかけにジェンダーギャップを解消することの重要性に気づいたという。第二子、第三子の出産を経て現在はプロジェクトマネジャーとして働く神谷さんが、2021年初旬にやまざきひとみさんと女性向けプログラミングブートキャンプ「Ms.Engineer」を立ち上げた理由や、社内の「ダイバーシティ推進プロジェクト」で取り組んでいることとは？ エンジニア不足にあえぐ企業にとっての処方箋を、ジェンダーギャップの視点から語ってもらった。",
@@ -6758,16 +6798,6 @@
           "wordCount": 1287,
           "title": "NewSQLは金融システムのミッションクリティカルで高セキュリティな要件に応えられるか？ TISが評価結果を明らかに［PR］",
           "imageUrl": "https://www.publickey1.jp/2022/tidb_tis07.png"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/javascriptbun_v03031npm.html",
-          "author": null,
-          "description": "サーバサイドで実行可能なJavaScriptランタイム「Bun」の最新バージョン「Bun v0.3.0」がリリースされました。 BunはJavaScriptランタイムとバンドラ、トランスパイラ、タスクランナーなどの機能が最初から統合されてい...",
-          "link": "https://www.publickey1.jp/blog/22/javascriptbun_v03031npm.html",
-          "publishedOn": "2022-12-12T15:14:12.000Z",
-          "wordCount": 1266,
-          "title": "JavaScriptランタイム「Bun v0.3.0」リリース。メモリ消費量が3分の1以下に、npmパッケージの自動インストールなど",
-          "imageUrl": "https://www.publickey1.jp/2022/cHNB_RPV.jpg"
         }
       ]
     },
@@ -6776,6 +6806,46 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news098.html",
+          "author": null,
+          "description": "米Twitter社がTwitterの有料プラン「Twitter Blue」を日本の一部ユーザーに向けて限定的にリリースした。月額利用料は980円。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news098.html",
+          "publishedOn": "2023-01-11T03:45:00.000Z",
+          "wordCount": 2602,
+          "title": "「Twitter Blue」日本でも公開、月額980円　iOS版は400円上乗せ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news098.png"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news099.html",
+          "author": null,
+          "description": "LayerXが、米AWSのスタートアップ支援プログラムに参加。今後、LayerXの支出管理SaaS「バクラク」シリーズを契約したスタートアップに対し、AWSでの支払いに使えるクレジットを付与する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news099.html",
+          "publishedOn": "2023-01-11T03:30:00.000Z",
+          "wordCount": 2596,
+          "title": "支出管理「バクラク」導入でAWSのクレジット提供　LayerXがスタートアップ支援プログラム開始",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news099.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/10/news031.html",
+          "author": null,
+          "description": "IT企業で働く人のデスク環境を写真や本人のコメント付きで紹介。転職先の雰囲気を把握したい人に向け、さまざまな職種の社員がどんな環境で働いているかをチェックする。今回はビジネスSNS「Wantedly」に携わる人のデスク周りを探る。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/10/news031.html",
+          "publishedOn": "2023-01-11T03:00:00.000Z",
+          "wordCount": 2706,
+          "title": "「Wantedly」に携わるみんなのデスク環境　究極の何もないデスク……かと思いきや！",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/10/cover_news031.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news090.html",
+          "author": null,
+          "description": "細かな仕様変更が続くTwitterだが、今度はタイムラインに手が加えられたようだ。1月11日に入り、Twitterのタイムラインで画像の表示方法が変わったというツイートが増加。2021年5月に対応した縦長のサムネイルが表示されなくなり、旧来のトリミングした状態で表示されるようになったという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news090.html",
+          "publishedOn": "2023-01-11T02:50:00.000Z",
+          "wordCount": 2586,
+          "title": "iOS版Twitterで“縦長サムネ”が表示されなくなる　タイムラインが旧来のトリミング仕様に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news090.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/11/news086.html",
           "author": null,

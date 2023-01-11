@@ -4954,16 +4954,6 @@
           "wordCount": 7277,
           "title": "2022年12月13日のヘッドラインニュース",
           "imageUrl": "https://i.gzn.jp/img/2022/12/13/headline/00.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221213-windows-11-not-so-great/",
-          "author": null,
-          "description": "Windows関連ニュースサイトのNeowinが、Windows 11の新機能を一足先に体験できるWindows Insider ProgramのDev Channelでプレビュービルドを体験した上で、Windows 11に搭載されるであろう新機能の中で「実装されても全くうれしくない機能」5つをピックアップしています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221213-windows-11-not-so-great/",
-          "publishedOn": "2022-12-13T08:00:00.000Z",
-          "wordCount": 2523,
-          "title": "Windows 11の「将来的に実装されても全くうれしくない機能」5つ",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/13/windows-11-not-so-great/00_m.png"
         }
       ]
     },
@@ -6381,16 +6371,6 @@
           "wordCount": 4310,
           "title": "Microsoft、「Visual Studio Code」にてSSH不要で安全な接続を確立する機能をプレビュー提供",
           "imageUrl": "https://codezine.jp/static/images/article/17023/13201_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/17019",
-          "author": null,
-          "description": "米Notionは、コラボレーションツール「Notion」の新料金プランを12月8日に発表した。",
-          "link": "http://codezine.jp/article/detail/17019",
-          "publishedOn": "2022-12-13T08:00:00.000Z",
-          "wordCount": 4282,
-          "title": "コラボレーションツール「Notion」の料金プランが改訂、「フリープラン」拡充およびチーム向けの新プランが追加",
-          "imageUrl": "https://codezine.jp/static/images/article/17019/13231_og.jpg"
         }
       ]
     },
@@ -10535,16 +10515,6 @@
           "wordCount": 2660,
           "title": "AMD、藤井聡太五冠にPC提供　CPUは100万円超えの「Ryzen Threadripper PRO 5995WX」",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news147.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news138.html",
-          "author": null,
-          "description": "ソニーグループは、イメージセンサーの製造などを行うソニーセミコンダクタソリューションズ熊本テクノロジーセンターを米Appleのティム・クックCEOが訪問したと発表した",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news138.html",
-          "publishedOn": "2022-12-13T07:15:00.000Z",
-          "wordCount": 2597,
-          "title": "Appleのティム・クックCEO、ソニーのイメージセンサー製造現場を訪問",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news138.jpg"
         }
       ]
     }

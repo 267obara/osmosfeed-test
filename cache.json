@@ -5014,46 +5014,6 @@
           "wordCount": 2509,
           "title": "中国が画像生成AIの画像に「AI生成マークの表示」を義務化＆AIユーザーも実名登録制へ",
           "imageUrl": "https://i.gzn.jp/img/2022/12/13/china-ban-ai-content/00.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221213-sam-bankman-fried-arrested-by-bahamas-police/",
-          "author": null,
-          "description": "2022年11月に経営破綻した大手仮想通貨取引所FTXのサム・バンクマン＝フリード元CEOが、バハマ警察によって逮捕されました。バハマはアメリカと身柄引渡条約を結んでおり、このあと身柄はアメリカに移されるものとみられます。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221213-sam-bankman-fried-arrested-by-bahamas-police/",
-          "publishedOn": "2022-12-13T03:26:00.000Z",
-          "wordCount": 2755,
-          "title": "破産した大手仮想通貨取引所FTXの創業者サム・バンクマン＝フリード容疑者をバハマ警察が逮捕",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/13/sam-bankman-fried-arrested-by-bahamas-police/00_m.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221213-gold-checkmark/",
-          "author": null,
-          "description": "イーロン・マスク氏がTwitterのCEOに就任してから、Twitterのサブスクリプションサービス「Twitter Blue」で認証済みバッジ(青色のチェックマーク)を取得できるようになりました。なりすましアカウントの問題等を理由に一時販売停止していたTwitter Blueは2022年12月11日に再開が発表されましたが、それに続く12日、新たに「金色のチェックマーク」で見分ける企業向けの「Blue for Business」を発表しました。また合わせて、認証バッジの購入によるなりすましを防止するために利用規約も変更しています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221213-gold-checkmark/",
-          "publishedOn": "2022-12-13T03:10:00.000Z",
-          "wordCount": 2565,
-          "title": "Twitterで認証済みバッジが買える「Twitter Blue」の企業版「Blue for Business」がスタート、チェックマークは金色",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/13/gold-checkmark/00.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221213-nuclear-fusion-energy-boost/",
-          "author": null,
-          "description": "アメリカのエネルギー省が運営するローレンス・リバモア国立研究所で行われたレーザー核融合実験で、投入を上回る量のエネルギーの出力を初めて確認できたとFinantial Timesが報じています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221213-nuclear-fusion-energy-boost/",
-          "publishedOn": "2022-12-13T03:00:00.000Z",
-          "wordCount": 2592,
-          "title": "ついに核融合で生産エネルギーが投入分を上回る「エネルギーの純増」を確認か",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/13/nuclear-fusion-energy-boost/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221213-nissin-chicken-soba/",
-          "author": null,
-          "description": "2012年の初登場以降、8回にわたって発売されている、日清食品の「神田まつや 鶏南ばんそば」が2022年12月19日(月)から今年も全国で発売されます。今回はパッケージを一新し、ゆずの風味が香るつゆとまるでお店で食べるような食感の麺が特徴の一品とのことなので、一足先に食べてみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221213-nissin-chicken-soba/",
-          "publishedOn": "2022-12-13T02:45:00.000Z",
-          "wordCount": 2514,
-          "title": "ゆずの風味がが香るだしで1年を締めくくる「神田まつや 鶏南ばんそば」を食べてみた",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/13/nissin-chicken-soba/00.jpg"
         }
       ]
     },
@@ -6501,16 +6461,6 @@
           "wordCount": 4301,
           "title": "Google Chromeの安定版で、パスワード不要の認証技術「パスキー」が利用可能に",
           "imageUrl": "https://codezine.jp/static/images/article/17017/12518_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/16872",
-          "author": null,
-          "description": "一人ひとりお客さまのニーズに合わせてコンテンツを提供するパーソナライズ機能。メルカリのような出品数が多く、かつそのほとんどが一品モノの商品を扱っているC2Cマーケットプレイスの場合、お客さまが「欲しい」と思っている商品を一度の検索で見つけ出すのは、なかなか難しい。そこでメルカリではパーソナライズ機能を提供して、お客さま一人ひとりがニーズを満たせるよう買い物を支援している。どんなパーソナライズ機能を提供しているのか、またその開発体制はどうなっているのか。メルカリでパーソナライズ機能の開発に取り組んでいる、マシンラーニング（ML）エンジニアのalpicola氏が解説した。",
-          "link": "http://codezine.jp/article/detail/16872",
-          "publishedOn": "2022-12-13T03:00:00.000Z",
-          "wordCount": 4337,
-          "title": "すべてが一点物だから難しい、メルカリのパーソナライズ機能とその開発体制",
-          "imageUrl": "https://codezine.jp/static/images/article/16872/16872_og.jpg"
         }
       ]
     },
@@ -6519,6 +6469,16 @@
       "feedUrl": "https://www.publickey1.jp/atom.xml",
       "siteUrl": "https://www.publickey1.jp/",
       "articles": [
+        {
+          "id": "https://www.publickey1.jp/blog/23/state_of_javascript_20221reactnextjsjest4.html",
+          "author": null,
+          "description": "JavaScriptに興味を持つ世界中のIT技術者3万9472人が回答したアンケートの結果をまとめた「State of JavaScript 2022」が公開されました（日本語訳版が同時公開されています）。 回答者の国別分布を上位5位までを...",
+          "link": "https://www.publickey1.jp/blog/23/state_of_javascript_20221reactnextjsjest4.html",
+          "publishedOn": "2023-01-11T15:05:23.000Z",
+          "wordCount": 1194,
+          "title": "「State of JavaScript 2022」公開。利用率1位のフロントエンドライブラリはReact、レンダリングはNext.js、テストはJestなど、4万人のエンジニアが回答",
+          "imageUrl": "https://www.publickey1.jp/2023/stjs202201.png"
+        },
         {
           "id": "https://www.publickey1.jp/blog/23/idechatgptxxxaiqqbot.html",
           "author": null,
@@ -10715,26 +10675,6 @@
           "wordCount": 2594,
           "title": "中小企業が懸念するセキュリティリスク　2位は「ランサムウェア」、トップは？",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news107.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news105.html",
-          "author": null,
-          "description": "Zホールディングス（HD）が広告市場の2倍ともいわれる販促市場の開拓に本腰を入れる。メーカーが販促目的で利用できる「LINE・Yahoo！JAPAN・PayPayマイレージ」サービスを2023年春から提供。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news105.html",
-          "publishedOn": "2022-12-13T03:26:00.000Z",
-          "wordCount": 2606,
-          "title": "ZHDが販促市場に本腰　特定の商品を“買えば買うほど”お得になる「LINE・Yahoo・PayPayマイレージ」",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news105.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news097.html",
-          "author": null,
-          "description": "米Twitterは、サブスクリプションサービス「Twitter Blue」の再開にあわせ、企業の公式アカウントのバッジの色を青から金色に変更した。ITmedia NEWS含むメディアも企業と同じバッジカラーに置き換えられている。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news097.html",
-          "publishedOn": "2022-12-13T02:40:00.000Z",
-          "wordCount": 2613,
-          "title": "企業の公式バッジが青→金に　Twitter Blue再開にあわせ",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news097.jpg"
         }
       ]
     }

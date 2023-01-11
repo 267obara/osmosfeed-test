@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T15:28:14.776Z</updated>
+    <updated>2023-01-11T16:25:29.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11091,68 +11091,6 @@
         <summary type="html"><![CDATA[企業はDX（デジタルトランスフォーメーション）人材の育成にどれだけコストをかけているのか──2位は「50万円以上～100万円未満」。1位は？]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[シャープ、VR市場参入か　超軽量ヘッドマウントディスプレイ試作機を1月に公開]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news113.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news113.html"/>
-        <updated>2022-12-13T04:09:00.000Z</updated>
-        <summary type="html"><![CDATA[シャープは13日、VR／AR市場への参入を検討していることを明らかにした。23年1月の「CES 2023」で「超軽量」をうたうVR用ヘッドマウントディスプレイ試作機を公開する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所「Binance」とその幹部をマネーロンダリングと制裁違反で起訴することでアメリカの検察が分裂中、司法取引の可能性について話し合っている最中]]></title>
-        <id>https://gigazine.net/news/20221213-binance-justice-dept-investigation/</id>
-        <link href="https://gigazine.net/news/20221213-binance-justice-dept-investigation/"/>
-        <updated>2022-12-13T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2018年から仮想通貨取引所のBinanceをマネーロンダリングや脱税、制裁違反の疑いで調査しているアメリカ司法省の一部の検察官が、Binanceやその幹部を起訴するに足る証拠があると考えていることが分かりました。しかしながら、証拠は十分だと考える検察官と多くの証拠を検討したい検察官の間で意見が分かれていると伝えられています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIPROGY役員が報酬を自主返納　尼崎USBメモリ紛失で]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news111.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news111.html"/>
-        <updated>2022-12-13T03:55:00.000Z</updated>
-        <summary type="html"><![CDATA[兵庫県尼崎市で発生した個人情報入りUSBメモリの紛失事案を巡り、BIPROGYが、社長をはじめ3人の役員が報酬を自主返納すると発表した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界109カ国のIT技術者数ランキング　1位は米国、2位は中国　日本は何位？　人材紹介会社が調査]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news106.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news106.html"/>
-        <updated>2022-12-13T03:47:00.000Z</updated>
-        <summary type="html"><![CDATA[人材紹介事業などを手掛けるヒューマンリソシアは、世界109カ国のIT技術者数ランキングを発表した。各国の統計データなどを独自分析した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中小企業が懸念するセキュリティリスク　2位は「ランサムウェア」、トップは？]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news107.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news107.html"/>
-        <updated>2022-12-13T03:41:00.000Z</updated>
-        <summary type="html"><![CDATA[中小企業が最も懸念するセキュリティリスクは──日本損害保険協会が調査結果を発表。2番目は「ランサムウェア攻撃（の増加）」だった。トップは？]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国が画像生成AIの画像に「AI生成マークの表示」を義務化＆AIユーザーも実名登録制へ]]></title>
-        <id>https://gigazine.net/news/20221213-china-ban-ai-content/</id>
-        <link href="https://gigazine.net/news/20221213-china-ban-ai-content/"/>
-        <updated>2022-12-13T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[近年、Stable DiffusionやMidjourneyなどの画像生成AIの開発が急速に進んでおり、誰でも手軽にAIによるコンテンツ生成を実行できる環境が整いつつあります。そんな中、中国政府が画像やムービーを生成できるAIについて「ユーザーの実名登録」や「AIによって生成された旨の表示」を義務付ける規則を発表しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

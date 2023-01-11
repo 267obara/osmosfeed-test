@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T12:27:08.650Z</updated>
+    <updated>2023-01-11T13:23:47.156Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ザクザク食感のガトーショコラドーナツをさまざまにアレンジした「ヨロイヅ カ式ガトーショコラドーナツ」全4種を食べてみた]]></title>
+        <id>https://gigazine.net/news/20230111-misterdonut-misdo-meets-toshi-yoroizuka/</id>
+        <link href="https://gigazine.net/news/20230111-misterdonut-misdo-meets-toshi-yoroizuka/"/>
+        <updated>2023-01-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ミスタードーナツとシェフ・鎧塚俊彦氏の共同開発メニュー「misdo meets Toshi Yoroizuka」の新商品として、2023年1月11日(水)から「ヨロイヅカ式ガトーショコラドーナツ」全4種が期間限定で登場したので、さっそく食べに行ってきました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安全な国のカナダで急増している3Dプリンター製の銃「ゴーストガン」の実態とは？]]></title>
         <id>https://gigazine.net/news/20230111-3d-printed-ghost-guns-untraceable/</id>
@@ -11227,56 +11238,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TwitterのマスクCEO、「認証としての青バッジは数カ月中に削除する」とツイート]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news089.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news089.html"/>
-        <updated>2022-12-13T01:11:00.000Z</updated>
-        <summary type="html"><![CDATA[TwitterのマスクCEOは、Twitter Blueの更新で混在している2種類の青バッジのうち、従来の認証バッジは数カ月中に削除するとツイートした。「従来のバッジ提供方法は腐っていて無意味だった」とも。また、新たな青いチェックマークを取得するには幾つかの要件が追加された。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アルゴ式、エンジニアの技術力を可視化する「アルゴ式 技術力ヘルスチェック」の開発を開始]]></title>
-        <id>http://codezine.jp/article/detail/17009</id>
-        <link href="http://codezine.jp/article/detail/17009"/>
-        <updated>2022-12-13T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[アルゴ式は、エンジニア派遣・SES企業と受け入れ企業間の“技術力ミスマッチによるトラブル”を未然に防ぐための、エンジニアの技術力を可視化する「アルゴ式 技術力ヘルスチェック」の開発を開始したことを、12月8日に発表した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[インサイトテクノロジー、インターネットイニシアティブへデータマスキングAPIを提供開始]]></title>
-        <id>http://codezine.jp/article/detail/17011</id>
-        <link href="http://codezine.jp/article/detail/17011"/>
-        <updated>2022-12-13T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[インサイトテクノロジーは、インターネットイニシアティブ（以下IIJ）が12月21日より提供開始する、クラウド利用におけるデータ活用を推進するデータ連携サービス「IIJクラウドデータプラットフォームサービス」へデータマスキング製品「Insight Data Masking」のデータマスキングAPIを提供することを12月12日に発表した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エンジニアへのリスキリングを支援する「Yahoo!テックアカデミー」、受講生の定員上限を100名から140名に増枠]]></title>
-        <id>http://codezine.jp/article/detail/17012</id>
-        <link href="http://codezine.jp/article/detail/17012"/>
-        <updated>2022-12-13T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ヤフーが提供する、プログラミング未経験者からエンジニアへのリスキリングを支援する「Yahoo!テックアカデミー」は、受講生の定員上限を100名から140名に増枠したことを12月9日に発表した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineerforce、未払い問題解決のため新しくクレジット払い機能をリリース]]></title>
-        <id>http://codezine.jp/article/detail/17013</id>
-        <link href="http://codezine.jp/article/detail/17013"/>
-        <updated>2022-12-13T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Engineerforceは、クレジット払いの新機能をリリースしたことを12月9日に発表した。同機能により、未払い問題に頭を悩ませる経営者、フリーランスの負担を減らすことができる。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
 </feed>

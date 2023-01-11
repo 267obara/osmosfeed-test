@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230111-misterdonut-misdo-meets-toshi-yoroizuka/",
+          "author": null,
+          "description": "ミスタードーナツとシェフ・鎧塚俊彦氏の共同開発メニュー「misdo meets Toshi Yoroizuka」の新商品として、2023年1月11日(水)から「ヨロイヅカ式ガトーショコラドーナツ」全4種が期間限定で登場したので、さっそく食べに行ってきました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-misterdonut-misdo-meets-toshi-yoroizuka/",
+          "publishedOn": "2023-01-11T13:00:00.000Z",
+          "wordCount": 2443,
+          "title": "ザクザク食感のガトーショコラドーナツをさまざまにアレンジした「ヨロイヅ カ式ガトーショコラドーナツ」全4種を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/misterdonut-misdo-meets-toshi-yoroizuka/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230111-3d-printed-ghost-guns-untraceable/",
           "author": null,
           "description": "銃乱射事件が日常茶飯事のアメリカとは異なり、カナダは治安がよく銃規制も厳しいので安全な国だという評判をよく目にします。しかし、そんなカナダでは2022年ごろから3Dプリンターで自作されるため追跡が困難な「ゴーストガン」の摘発が相次いでおり、警察当局が懸念を深めていることが報じられました。\n続きを読む...",
@@ -6511,46 +6521,6 @@
           "wordCount": 4337,
           "title": "すべてが一点物だから難しい、メルカリのパーソナライズ機能とその開発体制",
           "imageUrl": "https://codezine.jp/static/images/article/16872/16872_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/17009",
-          "author": null,
-          "description": "アルゴ式は、エンジニア派遣・SES企業と受け入れ企業間の“技術力ミスマッチによるトラブル”を未然に防ぐための、エンジニアの技術力を可視化する「アルゴ式 技術力ヘルスチェック」の開発を開始したことを、12月8日に発表した。",
-          "link": "http://codezine.jp/article/detail/17009",
-          "publishedOn": "2022-12-13T01:00:00.000Z",
-          "wordCount": 4298,
-          "title": "アルゴ式、エンジニアの技術力を可視化する「アルゴ式 技術力ヘルスチェック」の開発を開始",
-          "imageUrl": "https://codezine.jp/static/images/article/17009/17009_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/17011",
-          "author": null,
-          "description": "インサイトテクノロジーは、インターネットイニシアティブ（以下IIJ）が12月21日より提供開始する、クラウド利用におけるデータ活用を推進するデータ連携サービス「IIJクラウドデータプラットフォームサービス」へデータマスキング製品「Insight Data Masking」のデータマスキングAPIを提供することを12月12日に発表した。",
-          "link": "http://codezine.jp/article/detail/17011",
-          "publishedOn": "2022-12-13T01:00:00.000Z",
-          "wordCount": 4300,
-          "title": "インサイトテクノロジー、インターネットイニシアティブへデータマスキングAPIを提供開始",
-          "imageUrl": "https://codezine.jp/static/images/article/17011/17011_ogp.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/17012",
-          "author": null,
-          "description": "ヤフーが提供する、プログラミング未経験者からエンジニアへのリスキリングを支援する「Yahoo!テックアカデミー」は、受講生の定員上限を100名から140名に増枠したことを12月9日に発表した。",
-          "link": "http://codezine.jp/article/detail/17012",
-          "publishedOn": "2022-12-13T01:00:00.000Z",
-          "wordCount": 4292,
-          "title": "エンジニアへのリスキリングを支援する「Yahoo!テックアカデミー」、受講生の定員上限を100名から140名に増枠",
-          "imageUrl": "https://codezine.jp/static/images/article/17012/17012_ogp.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/17013",
-          "author": null,
-          "description": "Engineerforceは、クレジット払いの新機能をリリースしたことを12月9日に発表した。同機能により、未払い問題に頭を悩ませる経営者、フリーランスの負担を減らすことができる。",
-          "link": "http://codezine.jp/article/detail/17013",
-          "publishedOn": "2022-12-13T01:00:00.000Z",
-          "wordCount": 4291,
-          "title": "Engineerforce、未払い問題解決のため新しくクレジット払い機能をリリース",
-          "imageUrl": "https://codezine.jp/static/images/article/17013/17013_ogp.png"
         }
       ]
     },
@@ -10785,16 +10755,6 @@
           "wordCount": 2591,
           "title": "NISA制度拡大へ　つみたてNISAは3倍の120万円、一般NISAは2倍で最終調整",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news085.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news089.html",
-          "author": null,
-          "description": "TwitterのマスクCEOは、Twitter Blueの更新で混在している2種類の青バッジのうち、従来の認証バッジは数カ月中に削除するとツイートした。「従来のバッジ提供方法は腐っていて無意味だった」とも。また、新たな青いチェックマークを取得するには幾つかの要件が追加された。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news089.html",
-          "publishedOn": "2022-12-13T01:11:00.000Z",
-          "wordCount": 2611,
-          "title": "TwitterのマスクCEO、「認証としての青バッジは数カ月中に削除する」とツイート",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news089.jpg"
         }
       ]
     }

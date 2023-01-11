@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230111-new-jersey-ohio-banned-tiktok/",
+          "author": null,
+          "description": "アメリカのニュージャージー州とオハイオ州は2023年1月9日に、政府が所有・管理する端末での「TikTok」の使用を禁止すると発表しました。加えて、ニュージャージー州は、Huawei・Hikivision・テンセント・ZETE・Kasperskyなど、中国とロシアの企業による製品・ソフトウェア・サービスを禁止すると決定しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-new-jersey-ohio-banned-tiktok/",
+          "publishedOn": "2023-01-11T07:00:00.000Z",
+          "wordCount": 2451,
+          "title": "TikTok使用禁止をニュージャージー州とオハイオ州が決定、さらにHuawei・ZTEなどの製品も禁止予定",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/new-jersey-ohio-banned-tiktok/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230111-meta-age-appropriate-advertisement-experiences/",
           "author": null,
           "description": "InstagramとFacebookを運営するMetaが若いユーザーへ広告を表示する方法にいくつかの変更を加える予定を明らかにし、10代の若者に性別に基づいたターゲティング広告を表示する機能を削除すると告知しました。これにより、広告主が若者のターゲティングに使える情報は年齢と場所のみになります。\n続きを読む...",
@@ -6826,6 +6836,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news134.html",
+          "author": null,
+          "description": "第一生命保険は1月11日、資産形成をサポートするサービス「資産形成プラス」および、銀行サービスの提供を開始した。銀行サービスは住信SBIネット銀行および楽天銀行が提供する銀行機能をBaaS（バンキング・アズ・ア・サービス）として利用する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news134.html",
+          "publishedOn": "2023-01-11T06:31:00.000Z",
+          "wordCount": 2590,
+          "title": "第一生命、銀行サービス開始　住信SBI銀と楽天銀行のプラットフォームを利用",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/l_ks_dai1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news130.html",
+          "author": null,
+          "description": "スマートホームデバイス「SwitchBot」シリーズの一部が価格改定。7％～27％値上げする。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news130.html",
+          "publishedOn": "2023-01-11T06:10:00.000Z",
+          "wordCount": 2582,
+          "title": "SwitchBotシリーズ値上げ　最大27％",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news130.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/11/news118.html",
           "author": null,

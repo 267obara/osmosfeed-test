@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230111-us-agency-consider-ban-gas-stoves/",
+          "author": null,
+          "description": "日常の料理やお湯を沸かすためにガスコンロを利用している人も多いはず。ところがアメリカの政府機関は、ガスコンロが室内空気を汚染して小児ぜん息のリスクを高めるという懸念から、「ガスコンロの使用禁止」を検討していると報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-us-agency-consider-ban-gas-stoves/",
+          "publishedOn": "2023-01-11T08:00:00.000Z",
+          "wordCount": 2459,
+          "title": "政府機関が「ガスコンロの使用禁止」を検討中、室内の空気を汚染して健康上のリスクを高めるという懸念から",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/us-agency-consider-ban-gas-stoves/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230111-new-jersey-ohio-banned-tiktok/",
           "author": null,
           "description": "アメリカのニュージャージー州とオハイオ州は2023年1月9日に、政府が所有・管理する端末での「TikTok」の使用を禁止すると発表しました。加えて、ニュージャージー州は、Huawei・Hikivision・テンセント・ZETE・Kasperskyなど、中国とロシアの企業による製品・ソフトウェア・サービスを禁止すると決定しました。\n続きを読む...",
@@ -6836,6 +6846,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news146.html",
+          "author": null,
+          "description": "Twitterの有料サブスクリプションサービス「Twitter Blue」が日本の一部ユーザーに向けてリリースされた。筆者のアカウントでも登録できたため、どのような機能があるか確認してみた。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news146.html",
+          "publishedOn": "2023-01-11T07:45:00.000Z",
+          "wordCount": 2599,
+          "title": "Twitter Blueが来た！　どんな機能がある？　登録して試してみた",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news146.png"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/11/news134.html",
           "author": null,

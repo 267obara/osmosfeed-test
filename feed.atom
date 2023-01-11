@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T08:18:35.093Z</updated>
+    <updated>2023-01-11T09:15:54.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2023年1月11日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20230111-headline/</id>
+        <link href="https://gigazine.net/news/20230111-headline/"/>
+        <updated>2023-01-11T09:09:00.000Z</updated>
+        <summary type="html"><![CDATA[人気ボードゲーム「ドミニオン」の第4拡張「ドミニオン：繁栄 第二版」日本語版が2023年2月上旬にホビージャパンから発売されます。価格は税込4950円です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[政府機関が「ガスコンロの使用禁止」を検討中、室内の空気を汚染して健康上のリスクを高めるという懸念から]]></title>
         <id>https://gigazine.net/news/20230111-us-agency-consider-ban-gas-stoves/</id>
@@ -11283,17 +11294,6 @@
         <link href="https://gigazine.net/news/20221213-ai-chatbot-discover-drug/"/>
         <updated>2022-12-12T22:00:00.000Z</updated>
         <summary type="html"><![CDATA[Google検索やチャットAI「ChatGPT」などでは、人間が書いた文章を機械的に処理するために自然言語処理アルゴリズムが用いられています。そんな自然言語処理アルゴリズムが、創薬分野でも活躍しつつある現状が報告されています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[対話型チャットAI「ChatGPT」を使って駐車違反に異議を唱え取り消させることに成功]]></title>
-        <id>https://gigazine.net/news/20221213-openai-chatgpt-disputing-parking-fine/</id>
-        <link href="https://gigazine.net/news/20221213-openai-chatgpt-disputing-parking-fine/"/>
-        <updated>2022-12-12T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AIの研究や開発を行う「OpenAI」によって2022年12月1日にテスト版が一般公開された対話型チャットAI「ChatGPT」は人間が書いた文章と見分けが付かないほどに高精度の文章を書けるとされています。このChatGPTを用いて駐車違反の罰金に異議を唱える試みをレックス・トゥンボロウ氏が行っています。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

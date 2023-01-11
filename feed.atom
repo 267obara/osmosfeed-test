@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T10:17:47.516Z</updated>
+    <updated>2023-01-11T11:11:38.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AIを使って悪意のあるコードを生み出す「トロイの木馬パズル」]]></title>
+        <id>https://gigazine.net/news/20230111-trojan-puzzle-attack-ai-assistants-malicious-code/</id>
+        <link href="https://gigazine.net/news/20230111-trojan-puzzle-attack-ai-assistants-malicious-code/"/>
+        <updated>2023-01-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[カリフォルニア大学、バージニア大学、Microsoftの研究者が、「GitHub Copilot」のような人工知能(AI)ベースのコーディングアシスタント機能を用いて悪意のあるコードを生み出す「トロイの木馬パズル」を考案しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エレコムの体組成計に不具合、返金・返品対応へ　目玉のWi-Fi通信機能使えず]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news169.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news169.html"/>
+        <updated>2023-01-11T10:53:00.000Z</updated>
+        <summary type="html"><![CDATA[エレコムが、体組成計「Wi-Fi通信機能搭載 エクリア体組成計」の一部に不具合があったとして返品・返金対応を始めた。Wi-Fi通信機能が使えないものがあったという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年、2番目に売れたゲームソフトは「スプラトゥーン3」　1位は？　ファミ通調べ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news165.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news165.html"/>
+        <updated>2023-01-11T10:11:00.000Z</updated>
+        <summary type="html"><![CDATA[国内家庭用ゲーム機のゲームソフトで、2022年に最も売れたタイトルは何か。KADOKAWAグループのファミ通は1月11日、そんな調査結果を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[73％の子どもはネットでポルノを見たことがあり半分以上の子どもは週に1回以上ポルノを見ている]]></title>
         <id>https://gigazine.net/news/20230111-teens-pornography/</id>
@@ -11274,37 +11305,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/13/news079.html"/>
         <updated>2022-12-12T23:45:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoftはロンドン証券取引所グループ（LSEG）とクラウド移行に関する10年契約を締結した。MicrosoftはLSEGの株式の約4％を購入する。Microsoftのスコット・ガスリー上級副社長がLSEGの取締役に就任する見込みだ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[アニメ雑誌「ニュータイプ」と「ファイブスター物語」誕生の経緯をKADOKAWA・井上伸一郎氏が語ったマチ★アソビ講演まとめレポート]]></title>
-        <id>https://gigazine.net/news/20221213-fss-machiasobi25/</id>
-        <link href="https://gigazine.net/news/20221213-fss-machiasobi25/"/>
-        <updated>2022-12-12T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[月刊ニュータイプの創刊や永野護さんによる漫画「ファイブスター物語」の連載に携わったKADOKAWAの井上伸一郎さんによる講演「月刊Newtypeと私のFSS」が、「マチ★アソビ vol.25」のデジタル人材発掘セミナーとして開催されました。この日、井上さんは永野さんから「何を言ってもOK」と承諾を得て来ていたということで、かなり貴重な話がいくつも飛び出したので、その内容を、ほぼ余すところなくまとめました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elixir上でのニューラルネットワークモデルの使用を可能にする「Bumblebee」が登場]]></title>
-        <id>http://codezine.jp/article/detail/17007</id>
-        <link href="http://codezine.jp/article/detail/17007"/>
-        <updated>2022-12-12T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[インタラクティブなノートブックによって、Elixirコードのワークフローを自動化する「Livebook」の開発チームは、GPT2やStable DiffusionといったさまざまなニューラルネットワークをElixirで利用可能にする、「Bumblebee」を12月9日（現地時間）に発表した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「僕のヒーローアカデミア」（ヒロアカ）をNetflixが実写化へ]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news078.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news078.html"/>
-        <updated>2022-12-12T22:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Netflixは日本のアニメ「僕のヒーローアカデミア」（ヒロアカ）の実写映画化を発表した。製作総指揮と監督は「キングダム」の佐藤信介氏。日本では東宝が劇場配給する。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

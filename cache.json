@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230111-teens-pornography/",
+          "author": null,
+          "description": "PCやスマートフォンの普及によって、いつでもどこでも誰でもポルノコンテンツにアクセスできる環境が整いました。子どもとデジタルの関係について研究する非営利団体「Common Sense」が行った調査によって、10代の子どもの73％がポルノコンテンツを閲覧していることが判明しました。調査結果には「ポルノコンテンツを意図せず閲覧してしまった割合」や「ポルノコンテンツを閲覧する頻度」などの興味深い情報が多数含まれています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-teens-pornography/",
+          "publishedOn": "2023-01-11T10:00:00.000Z",
+          "wordCount": 2415,
+          "title": "73％の子どもはネットでポルノを見たことがあり半分以上の子どもは週に1回以上ポルノを見ている",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/teens-pornography/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230111-headline/",
           "author": null,
           "description": "人気ボードゲーム「ドミニオン」の第4拡張「ドミニオン：繁栄 第二版」日本語版が2023年2月上旬にホビージャパンから発売されます。価格は税込4950円です。\n続きを読む...",
@@ -5044,16 +5054,6 @@
           "wordCount": 2847,
           "title": "アニメ雑誌「ニュータイプ」と「ファイブスター物語」誕生の経緯をKADOKAWA・井上伸一郎氏が語ったマチ★アソビ講演まとめレポート",
           "imageUrl": "https://i.gzn.jp/img/2022/12/13/fss-machiasobi25/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221213-ai-chatbot-discover-drug/",
-          "author": null,
-          "description": "Google検索やチャットAI「ChatGPT」などでは、人間が書いた文章を機械的に処理するために自然言語処理アルゴリズムが用いられています。そんな自然言語処理アルゴリズムが、創薬分野でも活躍しつつある現状が報告されています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221213-ai-chatbot-discover-drug/",
-          "publishedOn": "2022-12-12T22:00:00.000Z",
-          "wordCount": 2571,
-          "title": "ChatGPTやGoogle検索で使われているAIベースの自然言語処理アルゴリズムをアミノ酸配列に適用してタンパク質言語モデルを作成することで創薬時間を数カ月に短縮",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/13/ai-chatbot-discover-drug/00.jpg"
         }
       ]
     },
@@ -6846,6 +6846,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news157.html",
+          "author": null,
+          "description": "不動産投資サイト「楽待」を運営するファーストロジックは、プロ棋士が試験官を務める「将棋選考」を導入すると発表した。プロ棋士と対局することで、その結果によっては選考フローを一部ショートカットできるという。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news157.html",
+          "publishedOn": "2023-01-11T09:01:00.000Z",
+          "wordCount": 2689,
+          "title": "プロ棋士が試験官の「将棋選考」、不動産投資サイト運営会社が導入　対局結果で採用までのフローに変化",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news157.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/11/news146.html",
           "author": null,

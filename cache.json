@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230111-3d-printed-ghost-guns-untraceable/",
+          "author": null,
+          "description": "銃乱射事件が日常茶飯事のアメリカとは異なり、カナダは治安がよく銃規制も厳しいので安全な国だという評判をよく目にします。しかし、そんなカナダでは2022年ごろから3Dプリンターで自作されるため追跡が困難な「ゴーストガン」の摘発が相次いでおり、警察当局が懸念を深めていることが報じられました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-3d-printed-ghost-guns-untraceable/",
+          "publishedOn": "2023-01-11T12:00:00.000Z",
+          "wordCount": 2440,
+          "title": "安全な国のカナダで急増している3Dプリンター製の銃「ゴーストガン」の実態とは？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/3d-printed-ghost-guns-untraceable/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230111-trojan-puzzle-attack-ai-assistants-malicious-code/",
           "author": null,
           "description": "カリフォルニア大学、バージニア大学、Microsoftの研究者が、「GitHub Copilot」のような人工知能(AI)ベースのコーディングアシスタント機能を用いて悪意のあるコードを生み出す「トロイの木馬パズル」を考案しました。\n続きを読む...",
@@ -5044,16 +5054,6 @@
           "wordCount": 2571,
           "title": "Twitterの旧式認証済みバッジを数カ月以内に削除するとイーロン・マスクが発言",
           "imageUrl": "https://i.gzn.jp/img/2022/12/13/elon-musk-twitter-remove-legacy-verifications/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221213-teradoga/",
-          "author": null,
-          "description": "YouTubeやTikTokなどの普及により動画は多くの人にとって身近なものとなりましたが、プロダクトの製品紹介を動画で行ったり、何かしらのやり方を伝えるためのハウツー動画を作ったりするには、高度な編集テクニックと高価な編集ソフトが必要になります。しかし、無料で使える「テラドーガ」なら、専用ソフトのインストールなしでブラウザから動画に説明文やリンクを追加して、インタラクティブ動画を作成することが可能です。テラドーガを使って作成できるインタラクティブ動画とは一体どんなものなのかを確かめるべく、実際に使ってみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221213-teradoga/",
-          "publishedOn": "2022-12-13T00:00:00.000Z",
-          "wordCount": 2524,
-          "title": "無料で動画の好きな位置にリンクや説明文などを追加してインタラクティブ動画の作成・編集ができる「テラドーガ」を使ってみたレビュー",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/13/teradoga/00.jpg"
         }
       ]
     },
@@ -6551,16 +6551,6 @@
           "wordCount": 4291,
           "title": "Engineerforce、未払い問題解決のため新しくクレジット払い機能をリリース",
           "imageUrl": "https://codezine.jp/static/images/article/17013/17013_ogp.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/17008",
-          "author": null,
-          "description": "マルチプラットフォーム対応の、フロントエンドに依存しないアプリケーション構築が可能なフレームワークであるTauriの開発チームは、モバイルアプリの開発が可能なTauri Mobileの、最初のアルファリリースとなる「Tauri Mobile 2.0.0-alpha.0」を12月9日（現地時間）にリリースした。",
-          "link": "http://codezine.jp/article/detail/17008",
-          "publishedOn": "2022-12-13T00:00:00.000Z",
-          "wordCount": 4299,
-          "title": "モバイルアプリ開発に対応したフロントエンド開発フレームワーク「Tauri Mobile」の、最初のアルファ版がリリース",
-          "imageUrl": "https://codezine.jp/static/images/article/17008/12694_og.jpg"
         }
       ]
     },
@@ -6836,6 +6826,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news171.html",
+          "author": null,
+          "description": "「SHOP CHANNEL」を運営するジュピターショップチャンネルは、第三者による不正ログインによる24件の“なりすまし購入”を確認したと発表した。利用者に直接的な金銭被害は発生していない。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news171.html",
+          "publishedOn": "2023-01-11T11:22:00.000Z",
+          "wordCount": 2596,
+          "title": "「ショップチャンネル」で不正ログイン　なりすまし購入24件確認　「パスワードの使い回し止めて」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news171.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/11/news169.html",
           "author": null,
@@ -10795,36 +10795,6 @@
           "wordCount": 2611,
           "title": "TwitterのマスクCEO、「認証としての青バッジは数カ月中に削除する」とツイート",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news089.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news081.html",
-          "author": null,
-          "description": "横浜市は、一般財団法人「ポケモン・ウィズ・ユー財団」（東京・港）と次世代育成を推進する協定を結んだ。ポケモンキャラクターを使ったオリジナルツールを活用し、小学生向けの情報通信技術（ICT）教育や未就学児の防災学習、こども食堂への支援などに共同で取り組む。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news081.html",
-          "publishedOn": "2022-12-13T00:00:00.000Z",
-          "wordCount": 2326,
-          "title": "横浜市とポケモン財団が協定締結　ICT教育などで連携",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/l_DYHDT7ULD5C2PFPQNR7WFVZVRI_1.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news080.html",
-          "author": null,
-          "description": "ランサム攻撃を受け、システム障害が続いていた大阪急性期・総合医療センターで、電子カルテシステムが再稼働した。システムを使える端末はまだ一部だが、12月下旬にも新規の外来患者の受け入れを再開するという。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news080.html",
-          "publishedOn": "2022-12-13T00:00:00.000Z",
-          "wordCount": 2327,
-          "title": "サイバー攻撃受けた大阪の病院で電子カルテが再稼働　近く外来受け入れも",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/l_MNRBVMWRBRPBXLKUFLOWMQIPI4_1.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news079.html",
-          "author": null,
-          "description": "Microsoftはロンドン証券取引所グループ（LSEG）とクラウド移行に関する10年契約を締結した。MicrosoftはLSEGの株式の約4％を購入する。Microsoftのスコット・ガスリー上級副社長がLSEGの取締役に就任する見込みだ。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news079.html",
-          "publishedOn": "2022-12-12T23:45:00.000Z",
-          "wordCount": 2599,
-          "title": "Microsoft、ロンドン証券取引所と10年契約で4％株式取得",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news079.jpg"
         }
       ]
     }

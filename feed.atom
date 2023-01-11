@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T11:11:38.981Z</updated>
+    <updated>2023-01-11T12:27:08.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[安全な国のカナダで急増している3Dプリンター製の銃「ゴーストガン」の実態とは？]]></title>
+        <id>https://gigazine.net/news/20230111-3d-printed-ghost-guns-untraceable/</id>
+        <link href="https://gigazine.net/news/20230111-3d-printed-ghost-guns-untraceable/"/>
+        <updated>2023-01-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[銃乱射事件が日常茶飯事のアメリカとは異なり、カナダは治安がよく銃規制も厳しいので安全な国だという評判をよく目にします。しかし、そんなカナダでは2022年ごろから3Dプリンターで自作されるため追跡が困難な「ゴーストガン」の摘発が相次いでおり、警察当局が懸念を深めていることが報じられました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「ショップチャンネル」で不正ログイン　なりすまし購入24件確認　「パスワードの使い回し止めて」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news171.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news171.html"/>
+        <updated>2023-01-11T11:22:00.000Z</updated>
+        <summary type="html"><![CDATA[「SHOP CHANNEL」を運営するジュピターショップチャンネルは、第三者による不正ログインによる24件の“なりすまし購入”を確認したと発表した。利用者に直接的な金銭被害は発生していない。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIを使って悪意のあるコードを生み出す「トロイの木馬パズル」]]></title>
         <id>https://gigazine.net/news/20230111-trojan-puzzle-attack-ai-assistants-malicious-code/</id>
@@ -11256,57 +11277,6 @@
         <summary type="html"><![CDATA[Engineerforceは、クレジット払いの新機能をリリースしたことを12月9日に発表した。同機能により、未払い問題に頭を悩ませる経営者、フリーランスの負担を減らすことができる。]]></summary>
         <author>
             <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料で動画の好きな位置にリンクや説明文などを追加してインタラクティブ動画の作成・編集ができる「テラドーガ」を使ってみたレビュー]]></title>
-        <id>https://gigazine.net/news/20221213-teradoga/</id>
-        <link href="https://gigazine.net/news/20221213-teradoga/"/>
-        <updated>2022-12-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[YouTubeやTikTokなどの普及により動画は多くの人にとって身近なものとなりましたが、プロダクトの製品紹介を動画で行ったり、何かしらのやり方を伝えるためのハウツー動画を作ったりするには、高度な編集テクニックと高価な編集ソフトが必要になります。しかし、無料で使える「テラドーガ」なら、専用ソフトのインストールなしでブラウザから動画に説明文やリンクを追加して、インタラクティブ動画を作成することが可能です。テラドーガを使って作成できるインタラクティブ動画とは一体どんなものなのかを確かめるべく、実際に使ってみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モバイルアプリ開発に対応したフロントエンド開発フレームワーク「Tauri Mobile」の、最初のアルファ版がリリース]]></title>
-        <id>http://codezine.jp/article/detail/17008</id>
-        <link href="http://codezine.jp/article/detail/17008"/>
-        <updated>2022-12-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[マルチプラットフォーム対応の、フロントエンドに依存しないアプリケーション構築が可能なフレームワークであるTauriの開発チームは、モバイルアプリの開発が可能なTauri Mobileの、最初のアルファリリースとなる「Tauri Mobile 2.0.0-alpha.0」を12月9日（現地時間）にリリースした。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[横浜市とポケモン財団が協定締結　ICT教育などで連携]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news081.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news081.html"/>
-        <updated>2022-12-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[横浜市は、一般財団法人「ポケモン・ウィズ・ユー財団」（東京・港）と次世代育成を推進する協定を結んだ。ポケモンキャラクターを使ったオリジナルツールを活用し、小学生向けの情報通信技術（ICT）教育や未就学児の防災学習、こども食堂への支援などに共同で取り組む。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[サイバー攻撃受けた大阪の病院で電子カルテが再稼働　近く外来受け入れも]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news080.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news080.html"/>
-        <updated>2022-12-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ランサム攻撃を受け、システム障害が続いていた大阪急性期・総合医療センターで、電子カルテシステムが再稼働した。システムを使える端末はまだ一部だが、12月下旬にも新規の外来患者の受け入れを再開するという。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft、ロンドン証券取引所と10年契約で4％株式取得]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news079.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news079.html"/>
-        <updated>2022-12-12T23:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoftはロンドン証券取引所グループ（LSEG）とクラウド移行に関する10年契約を締結した。MicrosoftはLSEGの株式の約4％を購入する。Microsoftのスコット・ガスリー上級副社長がLSEGの取締役に就任する見込みだ。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

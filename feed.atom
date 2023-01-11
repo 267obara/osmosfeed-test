@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T20:14:07.518Z</updated>
+    <updated>2023-01-11T21:12:43.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[駅の発車標型オブジェクトで3000万稼いだスタートアップはなぜ経営破綻してしまったのか]]></title>
+        <id>https://gigazine.net/news/20230112-nyctrainsign-dead-iot-company/</id>
+        <link href="https://gigazine.net/news/20230112-nyctrainsign-dead-iot-company/"/>
+        <updated>2023-01-11T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[鉄道駅などに掲げられた電光掲示板「発車標」の模型を作り上げ、実際の発車時刻やカスタムテキストを表示できるようにして販売したスタートアップ「NYCTrainSign」は、製品の公開からほどなく倒産していまいました。マーケティングには成功し、ある時点で25万ドル(約3300万円)の売上を達成したにもかかわらず消えていった原因について、ブロガーのケビン・チャン氏が解説しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「State of JavaScript 2022」公開。利用率1位のフロントエンドライブラリはReact、レンダリングはNext.js、テストはJestなど、4万人のエンジニアが回答]]></title>
         <id>https://www.publickey1.jp/blog/23/state_of_javascript_20221reactnextjsjest4.html</id>
@@ -10967,26 +10978,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無料でインボイス請求書を作れる「freee請求書」スタート　電帳法にも一括対応]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news151.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news151.html"/>
-        <updated>2022-12-13T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[freeeが、インボイス制度に対応した請求書を作成できるサービス「freee請求書」の提供を始めた。これまでの請求書よりも記載内容が多いインボイス（適格請求書）に対応すると同時に、改正電子帳簿保存法への対策にもなるとしている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD、藤井聡太五冠にPC提供　CPUは100万円超えの「Ryzen Threadripper PRO 5995WX」]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news147.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news147.html"/>
-        <updated>2022-12-13T08:31:00.000Z</updated>
-        <summary type="html"><![CDATA[米AMDの日本法人であるAMD Japanは、藤井聡太五冠に「AMD Ryzen Threadripper PRO」を搭載したPCを提供したと発表した。藤井五冠は8月、同社のブランド広告に出演。自身もAMDユーザーであり、PCを使い将棋研究に取り組んでいることを明かしていた。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

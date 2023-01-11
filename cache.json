@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230111-biontech-buy-ai-startup-instadeep/",
+          "author": null,
+          "description": "ドイツを拠点とするバイオテクノロジー企業の「BioNTech」はこれまでファイザーと共に新型コロナウイルスのワクチンを開発しています。そんなBioNTechが2023年1月10日にイギリスを拠点とするAIスタートアップ企業であるInstaDeepを最大5億6200万ポンド(約900億円)で買収することを発表しました。BioNTechはInstaDeepの機械学習技術を使用して、がん治療の研究開発を行う予定です。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-biontech-buy-ai-startup-instadeep/",
+          "publishedOn": "2023-01-11T05:00:00.000Z",
+          "wordCount": 2443,
+          "title": "新型コロナワクチンの開発元「BioNTech」がAIスタートアップ「InstaDeep」を買収してがん治療を目指すことを発表",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/biontech-buy-ai-startup-instadeep/50744866436_af7f07c0d6_k_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230111-parler-parlement-technologies-layoffs/",
           "author": null,
           "description": "「言論の自由を守る」という方針で投稿されたコンテンツの検閲を行わないとしているSNS「Parler」は、過激な発言やフェイクニュースの取り締まりが強化されているTwitterやFacebookの代替として、トランプ大統領の支持者や陰謀論者から人気を集めていました。ところが、Parlerの親会社であるParlement Technologiesが過去数週間でスタッフの約75％と複数の幹部を解雇したことが報じられています。\n続きを読む...",
@@ -6806,6 +6816,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news105.html",
+          "author": null,
+          "description": "2022年、中途採用市場で注目が高まったスキルは？　ビズリーチが職務経歴書の検索ワードを基に調査。最も検索数が増えたワードは……。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news105.html",
+          "publishedOn": "2023-01-11T04:28:00.000Z",
+          "wordCount": 2685,
+          "title": "2022年、採用市場で注目が高まったスキル　3位は「Figma」、1位・2位は？　ビズリーチ調査",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news105.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/11/news098.html",
           "author": null,

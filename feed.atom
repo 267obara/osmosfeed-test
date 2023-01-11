@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T04:16:55.802Z</updated>
+    <updated>2023-01-11T05:12:54.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新型コロナワクチンの開発元「BioNTech」がAIスタートアップ「InstaDeep」を買収してがん治療を目指すことを発表]]></title>
+        <id>https://gigazine.net/news/20230111-biontech-buy-ai-startup-instadeep/</id>
+        <link href="https://gigazine.net/news/20230111-biontech-buy-ai-startup-instadeep/"/>
+        <updated>2023-01-11T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ドイツを拠点とするバイオテクノロジー企業の「BioNTech」はこれまでファイザーと共に新型コロナウイルスのワクチンを開発しています。そんなBioNTechが2023年1月10日にイギリスを拠点とするAIスタートアップ企業であるInstaDeepを最大5億6200万ポンド(約900億円)で買収することを発表しました。BioNTechはInstaDeepの機械学習技術を使用して、がん治療の研究開発を行う予定です。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年、採用市場で注目が高まったスキル　3位は「Figma」、1位・2位は？　ビズリーチ調査]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news105.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news105.html"/>
+        <updated>2023-01-11T04:28:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年、中途採用市場で注目が高まったスキルは？　ビズリーチが職務経歴書の検索ワードを基に調査。最も検索数が増えたワードは……。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[検閲を行わない方針で話題となったSNS「Parler」の親会社が約75％のスタッフと複数の幹部を解雇したことが発覚]]></title>
         <id>https://gigazine.net/news/20230111-parler-parlement-technologies-layoffs/</id>

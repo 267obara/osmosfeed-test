@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T02:40:02.078Z</updated>
+    <updated>2023-01-11T03:14:11.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterのタイムラインで「おすすめ」がデフォルトに固定されてしまうことが判明]]></title>
+        <id>https://gigazine.net/news/20230111-twitter-for-you-following/</id>
+        <link href="https://gigazine.net/news/20230111-twitter-for-you-following/"/>
+        <updated>2023-01-11T03:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterが、アプリのホーム画面であるタイムラインに「おすすめ(For You)」と「フォロー中(Following)」のタブを追加し、左右のスワイプで切り替えられるようにすることを発表しました。これによりタイムラインの切り替えが簡単になりましたが、デフォルトの表示がおすすめのツイートに固定されることになるため、一部のユーザーにとってはかえって手間が増えると指摘されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[モデルナは新型コロナウイルスワクチンの価格を400％値上げすることを検討している]]></title>
+        <id>https://gigazine.net/news/20230111-moderna-price-hike-covid-vaccines/</id>
+        <link href="https://gigazine.net/news/20230111-moderna-price-hike-covid-vaccines/"/>
+        <updated>2023-01-11T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アメリカの医薬品メーカーであるモデルナは、新型コロナウイルスワクチンの価格設定を、接種1回あたり現在の約26ドル(約3400円)から110ドル(約1万4500円)～130ドル(約1万7200円)の範囲で値上げすることを検討していることを明らかにしました。この価格設定について、モデルナのCEOであるステファン・バンセル氏は「適正価格です」と述べています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[薬局向けSaaSのカケハシが76億円調達　新規事業の立ち上げを積極化]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news086.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news086.html"/>
+        <updated>2023-01-11T02:49:00.000Z</updated>
+        <summary type="html"><![CDATA[薬局向けの業務支援サービスを提供するカケハシが76億円を調達。資金は新規事業立ち上げに向け、ITエンジニアの採用や新サービスの開発などに充てるという。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[濃厚な甘味の「クッキー＆クリームパイ」やオレオ＆クリームたっぷりな「オレオ クッキー＆クリーム ホットラテ」をマクドナルドで食べてきた]]></title>
+        <id>https://gigazine.net/news/20230111-mcdonalds-cookie-cream-oreo/</id>
+        <link href="https://gigazine.net/news/20230111-mcdonalds-cookie-cream-oreo/"/>
+        <updated>2023-01-11T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[バニラアイス風の濃厚クリームとココアクッキー入りクリームを包んだ「クッキー＆クリームパイ」が2023年1月11日(水)にマクドナルドに登場しました。また、McCafe by Barista(マックカフェ バイ バリスタ)ではオレオをたっぷりトッピングした「オレオ クッキー＆クリーム ホットラテ」や「オレオ クッキー バニラフラッペ」も新登場しています。クッキーたっぷりの甘いスイーツを楽しむべく、実際にマクドナルドにいって新登場スイーツを食べてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoftが折りたたみ式スマホ「Surface Duo」でデュアルスクリーンをやめる方針であることが判明]]></title>
         <id>https://gigazine.net/news/20230111-microsoft-plans-scrap-dual-screen/</id>

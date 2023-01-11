@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230112-lebanon-solar-power/",
+          "author": null,
+          "description": "中東のレバノンは近年、インフレ率や失業率、貧困率が急上昇する中で深刻な電力不足に直面しています。そんなレバノンでは太陽光発電が盛んで、ソーラーパネルが住宅の屋上やベランダ、商業施設といったあらゆる場所に設置されています。その理由をケンタッキー大学の人類学者であるクリスティン・モンロー氏が解説しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-lebanon-solar-power/",
+          "publishedOn": "2023-01-11T22:00:00.000Z",
+          "wordCount": 2417,
+          "title": "レバノンで太陽光発電がブームになっている理由とは？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/lebanon-solar-power/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230112-nyctrainsign-dead-iot-company/",
           "author": null,
           "description": "鉄道駅などに掲げられた電光掲示板「発車標」の模型を作り上げ、実際の発車時刻やカスタムテキストを表示できるようにして販売したスタートアップ「NYCTrainSign」は、製品の公開からほどなく倒産していまいました。マーケティングには成功し、ある時点で25万ドル(約3300万円)の売上を達成したにもかかわらず消えていった原因について、ブロガーのケビン・チャン氏が解説しました。\n続きを読む...",
@@ -4944,26 +4954,6 @@
           "wordCount": 2505,
           "title": "Discordに「プレイ済みゲーム」や「ゲームプレイ歴」などの条件でロールを割り振れる「連携ロール」が登場",
           "imageUrl": "https://i.gzn.jp/img/2022/12/13/discord-connections-and-linked-roles/00.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221213-amd-radeon-rx-7900-benchmark/",
-          "author": null,
-          "description": "AMDから2022年12月13日(火)に次世代GPUアーキテクチャ「RDNA 3」を採用したGPU「Radeon RX 7900 XTX」と「Radeon RX 7900 XT」が発売され、すでにRadeon RX 7900シリーズを入手した海外メディアがそのベンチマーク結果や使用感を報告しています。また、Radeon RX 7900 XTXのライバルとなるNVIDIAの「GeForce RTX 4080」などのGPUとの比較も行われています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221213-amd-radeon-rx-7900-benchmark/",
-          "publishedOn": "2022-12-13T10:00:00.000Z",
-          "wordCount": 2648,
-          "title": "AMD製GPU「Radeon RX 7900」シリーズのベンチマークの海外レビューまとめ、NVIDIA純正GPUの「GeForce RTX 4080」と比較した結果とは？",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/13/amd-radeon-rx-7900-benchmark/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221213-headline/",
-          "author": null,
-          "description": "2023年に劇場公開される劇場版「グリッドマン ユニバース」に先駆けて、劇場総集編「SSSS.GRIDMAN」と劇場総集編「SSSS.DYNAZENON」が劇場公開されることが発表されました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221213-headline/",
-          "publishedOn": "2022-12-13T09:30:00.000Z",
-          "wordCount": 7277,
-          "title": "2022年12月13日のヘッドラインニュース",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/13/headline/00.png"
         }
       ]
     },
@@ -10475,36 +10465,6 @@
           "wordCount": 2336,
           "title": "今年最後の天体ショー「ふたご座流星群」は14日が見頃　関東中心に「バッチリ見える」　ライブ配信も",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news161.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news159.html",
-          "author": null,
-          "description": "オンラインゲーム「刀剣乱舞ONLINE」を運営するEXNOAは3日、スマートフォンアプリ版に「散歩」機能を実装。突然の機能追加にファンがざわついた。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news159.html",
-          "publishedOn": "2022-12-13T10:10:00.000Z",
-          "wordCount": 2349,
-          "title": "「刀剣乱舞ONLINE」が位置情報ゲームに　「とうらぶGO」「野生の刀剣男子」トレンド入り",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news159.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news162.html",
-          "author": null,
-          "description": "JR東日本は、同社子会社のビューカードとともに、デジタル金融サービス「JRE BANK」を2024年春に開始すると発表した。資産を増やすという金融サービスの価値に加え、JR東日本グループの事業領域を生かした特典の提供などを予定している。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news162.html",
-          "publishedOn": "2022-12-13T09:50:00.000Z",
-          "wordCount": 2597,
-          "title": "JR東、ネット銀行に参入　2024年春にスタート　ATMの現金引き出し手数料無料",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news162.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news158.html",
-          "author": null,
-          "description": "GMOあおぞら銀行は12月13日、要望の多かった「Pay-easy（ペイジー）」へ2023年1月16日から対応すると発表した。まずは国庫金納付と社会保険料支払いに対応する。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news158.html",
-          "publishedOn": "2022-12-13T09:47:00.000Z",
-          "wordCount": 2589,
-          "title": "GMOあおぞら銀行、Pay-easy対応で税や社会保険料支払いを行いやすく",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news158.jpg"
         }
       ]
     }

@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-10T23:13:37.819Z</updated>
+    <updated>2023-01-11T01:08:58.272Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Appleのエディ・キュー氏、2022年の「画期的な」サービス実績を披露]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news065.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news065.html"/>
+        <updated>2023-01-11T00:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleの古参幹部、エディ・キュー氏が2022年のサービス実績を紹介した。提供しているサブスクサービス全体の加入者数は9億人という。App StoreやiCloudなどの具体的な数字は公表していない。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[弐瓶勉×ポリゴン・ピクチュアズのオリジナルアニメ「大雪海のカイナ」とはどんな作品なのか？]]></title>
+        <id>https://gigazine.net/news/20230111-ooyukiumi-kaina/</id>
+        <link href="https://gigazine.net/news/20230111-ooyukiumi-kaina/"/>
+        <updated>2023-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年冬季(新春)の新作アニメとして、漫画家・弐瓶勉さんとアニメーション制作会社ポリゴン・ピクチュアズがタッグを組んだ『大雪海のカイナ』が、2023年1月11日(水)深夜からフジテレビ「＋Ultra」枠ほかにてスタートします。アニメ開始に先行して、2022年2月から月刊少年シリウスにて武本糸会さん作画による漫画版の連載が行われていますが、本作は漫画原作をアニメ化したものではなくメディアミックスプロジェクトだということで、改めて作品の情報をまとめてみました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript向け静的解析ツール「ESLint 8.31.0」が公開]]></title>
+        <id>http://codezine.jp/article/detail/17150</id>
+        <link href="http://codezine.jp/article/detail/17150"/>
+        <updated>2023-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenJS Foundationは、JavaScript向け静的解析ツール「ESLint」の最新バージョン「ESLint 8.31.0」を12月31日（現地時間）に公開した。ESLintはMITライセンスで公開しているオープンソース・ソフトウェア。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TechBowl、DX人材育成を目的とした法人向けリスキリング事業を開始]]></title>
+        <id>http://codezine.jp/article/detail/17155</id>
+        <link href="http://codezine.jp/article/detail/17155"/>
+        <updated>2023-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TechBowlは、DX人材育成を目的とした法人向けリスキリング事業を開始することを、1月10日に発表した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[サイバー攻撃の大阪急性期センター、11日に全面復旧へ　年度内にも報告書]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news062.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news062.html"/>
+        <updated>2023-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ランサムウェアとみられるサイバー攻撃を受け、システム障害が発生した大阪急性期・総合医療センターのシステムが全面復旧するのに伴い、1月11日から通常の診療体制に戻ると発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI活用しスマホ新サービス、世界提供を検討　ZHD川辺健太郎社長インタビュー]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news061.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news061.html"/>
+        <updated>2023-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ヤフーやLINEを傘下に持つZホールディングスの川辺健太郎社長が、世界市場を前提に置いた、AIを活用するスマートフォン向け新サービスについて2023年中の提供を検討する考えを明らかにした。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ゲームキャラクターの3Dモデル作成などにAIを利用してゲームの開発時間やコストを削減する試み]]></title>
         <id>https://gigazine.net/news/20230111-ai-assisted-game-art/</id>
@@ -10868,28 +10929,6 @@
         <link href="https://gigazine.net/news/20221212-astronomers-most-ancient-galaxies/"/>
         <updated>2022-12-12T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[観測史上最古となる134億年前の銀河をジェイムズ・ウェッブ宇宙望遠鏡で撮影することに成功していたことが明らかになりました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[とろろ昆布と梅干しでうまみも縁起もたっぷりな「日清のおめでどん兵衛 年明けうどん」試食レビュー]]></title>
-        <id>https://gigazine.net/news/20221212-nissin-new-year-udon/</id>
-        <link href="https://gigazine.net/news/20221212-nissin-new-year-udon/"/>
-        <updated>2022-12-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[年明けうどん普及委員会が提唱する年明けうどんとして定評の「日清のおめでどん兵衛 年明けうどん」が、2022年12月19日(月)に復活します。2022年の「おめでどん兵衛」は、太くて長い麺が縁起物として好まれているうどんの白に梅干しの赤を添えて紅白を演出し、さらに「よろこぶ」とかけたとろろ昆布でうまみを加えた一品とのことなので、一足先に食べて新年気分を満喫してみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScriptで記述できる物理学ベースのシミュレーションを分かりやすく学べ実際にデモを動かせる「Ten Minute Physics」]]></title>
-        <id>https://gigazine.net/news/20221212-ten-minute-physics/</id>
-        <link href="https://gigazine.net/news/20221212-ten-minute-physics/"/>
-        <updated>2022-12-12T12:52:00.000Z</updated>
-        <summary type="html"><![CDATA[物理学に基づくシミュレーションをコンピューターグラフィックスで仕上げる動画をYouTubeチャンネルのTen Minute Physicsが投稿しています。Ten Minute Physicsがこれまで投稿してきた数多くのシミュレーションのコードや、実際にブラウザで動作するデモについて、運営者でNVIDIAの従業員であるというマルチーズ・ミラー氏が紹介しました。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

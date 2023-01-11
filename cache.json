@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230111-ooyukiumi-kaina/",
+          "author": null,
+          "description": "2023年冬季(新春)の新作アニメとして、漫画家・弐瓶勉さんとアニメーション制作会社ポリゴン・ピクチュアズがタッグを組んだ『大雪海のカイナ』が、2023年1月11日(水)深夜からフジテレビ「＋Ultra」枠ほかにてスタートします。アニメ開始に先行して、2022年2月から月刊少年シリウスにて武本糸会さん作画による漫画版の連載が行われていますが、本作は漫画原作をアニメ化したものではなくメディアミックスプロジェクトだということで、改めて作品の情報をまとめてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-ooyukiumi-kaina/",
+          "publishedOn": "2023-01-11T00:00:00.000Z",
+          "wordCount": 2829,
+          "title": "弐瓶勉×ポリゴン・ピクチュアズのオリジナルアニメ「大雪海のカイナ」とはどんな作品なのか？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/ooyukiumi-kaina/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230111-ai-assisted-game-art/",
           "author": null,
           "description": "近年はAI技術が飛躍的に進歩しており、イラストやマンガなどの製作にAIを用いる試みが進められているほか、より複雑なゲーム製作においてもAIを活用する可能性が模索されています。ゲーム業界で20年近く働いてきたJussi-Petteri Kemppainen氏が、「ゲームキャラクターの3Dモデル作成にAIを利用できるかどうか」を試してみた結果を報告しています。\n続きを読む...",
@@ -4894,26 +4904,6 @@
           "wordCount": 2492,
           "title": "観測史上最古となる「134億年前の銀河」がジェイムズ・ウェッブ宇宙望遠鏡で撮影できていたことが明らかに",
           "imageUrl": "https://i.gzn.jp/img/2022/12/12/astronomers-most-ancient-galaxies/00_m.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221212-nissin-new-year-udon/",
-          "author": null,
-          "description": "年明けうどん普及委員会が提唱する年明けうどんとして定評の「日清のおめでどん兵衛 年明けうどん」が、2022年12月19日(月)に復活します。2022年の「おめでどん兵衛」は、太くて長い麺が縁起物として好まれているうどんの白に梅干しの赤を添えて紅白を演出し、さらに「よろこぶ」とかけたとろろ昆布でうまみを加えた一品とのことなので、一足先に食べて新年気分を満喫してみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221212-nissin-new-year-udon/",
-          "publishedOn": "2022-12-12T13:00:00.000Z",
-          "wordCount": 2519,
-          "title": "とろろ昆布と梅干しでうまみも縁起もたっぷりな「日清のおめでどん兵衛 年明けうどん」試食レビュー",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/12/nissin-new-year-udon/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221212-ten-minute-physics/",
-          "author": null,
-          "description": "物理学に基づくシミュレーションをコンピューターグラフィックスで仕上げる動画をYouTubeチャンネルのTen Minute Physicsが投稿しています。Ten Minute Physicsがこれまで投稿してきた数多くのシミュレーションのコードや、実際にブラウザで動作するデモについて、運営者でNVIDIAの従業員であるというマルチーズ・ミラー氏が紹介しました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221212-ten-minute-physics/",
-          "publishedOn": "2022-12-12T12:52:00.000Z",
-          "wordCount": 2764,
-          "title": "JavaScriptで記述できる物理学ベースのシミュレーションを分かりやすく学べ実際にデモを動かせる「Ten Minute Physics」",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/12/ten-minute-physics/00.png"
         }
       ]
     },
@@ -4922,6 +4912,26 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/17150",
+          "author": null,
+          "description": "OpenJS Foundationは、JavaScript向け静的解析ツール「ESLint」の最新バージョン「ESLint 8.31.0」を12月31日（現地時間）に公開した。ESLintはMITライセンスで公開しているオープンソース・ソフトウェア。",
+          "link": "http://codezine.jp/article/detail/17150",
+          "publishedOn": "2023-01-11T00:00:00.000Z",
+          "wordCount": 4319,
+          "title": "JavaScript向け静的解析ツール「ESLint 8.31.0」が公開",
+          "imageUrl": "https://codezine.jp/static/images/article/17150/13165_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17155",
+          "author": null,
+          "description": "TechBowlは、DX人材育成を目的とした法人向けリスキリング事業を開始することを、1月10日に発表した。",
+          "link": "http://codezine.jp/article/detail/17155",
+          "publishedOn": "2023-01-11T00:00:00.000Z",
+          "wordCount": 4307,
+          "title": "TechBowl、DX人材育成を目的とした法人向けリスキリング事業を開始",
+          "imageUrl": "https://codezine.jp/static/images/article/17155/17155_og.jpg"
+        },
         {
           "id": "http://codezine.jp/article/detail/16953",
           "author": null,
@@ -6636,6 +6646,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news065.html",
+          "author": null,
+          "description": "Appleの古参幹部、エディ・キュー氏が2022年のサービス実績を紹介した。提供しているサブスクサービス全体の加入者数は9億人という。App StoreやiCloudなどの具体的な数字は公表していない。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news065.html",
+          "publishedOn": "2023-01-11T00:01:00.000Z",
+          "wordCount": 2641,
+          "title": "Appleのエディ・キュー氏、2022年の「画期的な」サービス実績を披露",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news065.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news062.html",
+          "author": null,
+          "description": "ランサムウェアとみられるサイバー攻撃を受け、システム障害が発生した大阪急性期・総合医療センターのシステムが全面復旧するのに伴い、1月11日から通常の診療体制に戻ると発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news062.html",
+          "publishedOn": "2023-01-11T00:00:00.000Z",
+          "wordCount": 2325,
+          "title": "サイバー攻撃の大阪急性期センター、11日に全面復旧へ　年度内にも報告書",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/l_KBP7JA5G5FLL7JMFELU3WB6AXI_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news061.html",
+          "author": null,
+          "description": "ヤフーやLINEを傘下に持つZホールディングスの川辺健太郎社長が、世界市場を前提に置いた、AIを活用するスマートフォン向け新サービスについて2023年中の提供を検討する考えを明らかにした。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news061.html",
+          "publishedOn": "2023-01-11T00:00:00.000Z",
+          "wordCount": 2325,
+          "title": "AI活用しスマホ新サービス、世界提供を検討　ZHD川辺健太郎社長インタビュー",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/l_BCKJASUDENLMBN6DL44M42FTAU_1.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/11/news060.html",
           "author": null,

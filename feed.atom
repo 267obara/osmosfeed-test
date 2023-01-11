@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T05:12:54.668Z</updated>
+    <updated>2023-01-11T06:17:17.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[InstagramとFacebookが18歳未満のユーザーを広告ターゲティングする機能をさらに制限、性別に基づいて10代をターゲットにするオプションを削除へ]]></title>
+        <id>https://gigazine.net/news/20230111-meta-age-appropriate-advertisement-experiences/</id>
+        <link href="https://gigazine.net/news/20230111-meta-age-appropriate-advertisement-experiences/"/>
+        <updated>2023-01-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[InstagramとFacebookを運営するMetaが若いユーザーへ広告を表示する方法にいくつかの変更を加える予定を明らかにし、10代の若者に性別に基づいたターゲティング広告を表示する機能を削除すると告知しました。これにより、広告主が若者のターゲティングに使える情報は年齢と場所のみになります。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「課金しても広告半分」　Twitter Blueにツッコミ相次ぐ　月額980円で完全非表示にはできず]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news118.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news118.html"/>
+        <updated>2023-01-11T05:40:00.000Z</updated>
+        <summary type="html"><![CDATA[米Twitterが日本でも提供を始めた、Twitterの有料プラン「Twitter Blue」のサービス内容の一部である、広告表示数が“半分”になる仕様に対し、ユーザーからツッコミの声が殺到している。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玄人志向、電源ユニットの一部に誤ったケーブル同梱で謝罪　交換へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news119.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news119.html"/>
+        <updated>2023-01-11T05:37:00.000Z</updated>
+        <summary type="html"><![CDATA[玄人志向ブランドの電源ユニットの一部に、誤ったケーブルを同梱。交換で対応する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LINE証券、マイナンバーカードをスマホで読み取り口座開設する新機能]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news111.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news111.html"/>
+        <updated>2023-01-11T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[「LINE証券」で、スマートフォンでマイナンバーカードを読み込むことで、口座開設のための本人確認作業が簡単になる機能の提供が始まった。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新型コロナワクチンの開発元「BioNTech」がAIスタートアップ「InstaDeep」を買収してがん治療を目指すことを発表]]></title>
         <id>https://gigazine.net/news/20230111-biontech-buy-ai-startup-instadeep/</id>

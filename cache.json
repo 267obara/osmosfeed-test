@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230111-meta-age-appropriate-advertisement-experiences/",
+          "author": null,
+          "description": "InstagramとFacebookを運営するMetaが若いユーザーへ広告を表示する方法にいくつかの変更を加える予定を明らかにし、10代の若者に性別に基づいたターゲティング広告を表示する機能を削除すると告知しました。これにより、広告主が若者のターゲティングに使える情報は年齢と場所のみになります。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-meta-age-appropriate-advertisement-experiences/",
+          "publishedOn": "2023-01-11T06:00:00.000Z",
+          "wordCount": 2503,
+          "title": "InstagramとFacebookが18歳未満のユーザーを広告ターゲティングする機能をさらに制限、性別に基づいて10代をターゲットにするオプションを削除へ",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/meta-age-appropriate-advertisement-experiences/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230111-biontech-buy-ai-startup-instadeep/",
           "author": null,
           "description": "ドイツを拠点とするバイオテクノロジー企業の「BioNTech」はこれまでファイザーと共に新型コロナウイルスのワクチンを開発しています。そんなBioNTechが2023年1月10日にイギリスを拠点とするAIスタートアップ企業であるInstaDeepを最大5億6200万ポンド(約900億円)で買収することを発表しました。BioNTechはInstaDeepの機械学習技術を使用して、がん治療の研究開発を行う予定です。\n続きを読む...",
@@ -6816,6 +6826,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news118.html",
+          "author": null,
+          "description": "米Twitterが日本でも提供を始めた、Twitterの有料プラン「Twitter Blue」のサービス内容の一部である、広告表示数が“半分”になる仕様に対し、ユーザーからツッコミの声が殺到している。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news118.html",
+          "publishedOn": "2023-01-11T05:40:00.000Z",
+          "wordCount": 2610,
+          "title": "「課金しても広告半分」　Twitter Blueにツッコミ相次ぐ　月額980円で完全非表示にはできず",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news118.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news119.html",
+          "author": null,
+          "description": "玄人志向ブランドの電源ユニットの一部に、誤ったケーブルを同梱。交換で対応する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news119.html",
+          "publishedOn": "2023-01-11T05:37:00.000Z",
+          "wordCount": 2586,
+          "title": "玄人志向、電源ユニットの一部に誤ったケーブル同梱で謝罪　交換へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news119.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news111.html",
+          "author": null,
+          "description": "「LINE証券」で、スマートフォンでマイナンバーカードを読み込むことで、口座開設のための本人確認作業が簡単になる機能の提供が始まった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news111.html",
+          "publishedOn": "2023-01-11T05:01:00.000Z",
+          "wordCount": 2588,
+          "title": "LINE証券、マイナンバーカードをスマホで読み取り口座開設する新機能",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news111.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/11/news105.html",
           "author": null,

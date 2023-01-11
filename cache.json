@@ -4964,16 +4964,6 @@
           "wordCount": 2523,
           "title": "Windows 11の「将来的に実装されても全くうれしくない機能」5つ",
           "imageUrl": "https://i.gzn.jp/img/2022/12/13/windows-11-not-so-great/00_m.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221213-phil-spencer-sony-xbox/",
-          "author": null,
-          "description": "MicrosoftでXbox事業の責任者を務めるフィル・スペンサー氏がポッドキャストで放送されたインタビュー番組で、MicrosoftによるActivision Blizzardの買収に対してソニーが最も強く反対していると述べた上で、「彼らはXboxを縮小させることで成長しようとしている」と発言したことが分かりました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221213-phil-spencer-sony-xbox/",
-          "publishedOn": "2022-12-13T07:00:00.000Z",
-          "wordCount": 2570,
-          "title": "Microsoft幹部が「Activision Blizzard買収の主要な反対者はソニーだ」「Call of Dutyにしがみついている」と発言",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/13/phil-spencer-sony-xbox/00.jpg"
         }
       ]
     },
@@ -6401,26 +6391,6 @@
           "wordCount": 4282,
           "title": "コラボレーションツール「Notion」の料金プランが改訂、「フリープラン」拡充およびチーム向けの新プランが追加",
           "imageUrl": "https://codezine.jp/static/images/article/17019/13231_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/17016",
-          "author": null,
-          "description": "米Googleは、クロスプラットフォームのUIツールキット「Flutter」の、2022年第3四半期調査の結果を12月9日（現地時間）に発表した。この調査は四半期ごとに実施しているもので、今回は主にFirebase SDK for Flutter、クイック・フィックスとリファクタリング、開発ターゲットについて開発者に尋ねた。",
-          "link": "http://codezine.jp/article/detail/17016",
-          "publishedOn": "2022-12-13T06:30:00.000Z",
-          "wordCount": 4304,
-          "title": "Google、Flutter開発者を対象にした2022年第3四半期調査の結果を発表",
-          "imageUrl": "https://codezine.jp/static/images/article/17016/12794_og.jpg"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/17017",
-          "author": null,
-          "description": "米Googleは、Webブラウザ「Google Chrome」の新しい安定版「Chrome Stable M108」で、パスワード不要の認証技術「パスキー」が利用可能になったと12月8日（現地時間）に発表した。",
-          "link": "http://codezine.jp/article/detail/17017",
-          "publishedOn": "2022-12-13T06:30:00.000Z",
-          "wordCount": 4301,
-          "title": "Google Chromeの安定版で、パスワード不要の認証技術「パスキー」が利用可能に",
-          "imageUrl": "https://codezine.jp/static/images/article/17017/12518_og.jpg"
         }
       ]
     },

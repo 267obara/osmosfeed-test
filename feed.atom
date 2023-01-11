@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T18:20:04.968Z</updated>
+    <updated>2023-01-11T19:11:57.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11018,37 +11018,6 @@
         <summary type="html"><![CDATA[ソニーグループは、イメージセンサーの製造などを行うソニーセミコンダクタソリューションズ熊本テクノロジーセンターを米Appleのティム・クックCEOが訪問したと発表した]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft幹部が「Activision Blizzard買収の主要な反対者はソニーだ」「Call of Dutyにしがみついている」と発言]]></title>
-        <id>https://gigazine.net/news/20221213-phil-spencer-sony-xbox/</id>
-        <link href="https://gigazine.net/news/20221213-phil-spencer-sony-xbox/"/>
-        <updated>2022-12-13T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[MicrosoftでXbox事業の責任者を務めるフィル・スペンサー氏がポッドキャストで放送されたインタビュー番組で、MicrosoftによるActivision Blizzardの買収に対してソニーが最も強く反対していると述べた上で、「彼らはXboxを縮小させることで成長しようとしている」と発言したことが分かりました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、Flutter開発者を対象にした2022年第3四半期調査の結果を発表]]></title>
-        <id>http://codezine.jp/article/detail/17016</id>
-        <link href="http://codezine.jp/article/detail/17016"/>
-        <updated>2022-12-13T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米Googleは、クロスプラットフォームのUIツールキット「Flutter」の、2022年第3四半期調査の結果を12月9日（現地時間）に発表した。この調査は四半期ごとに実施しているもので、今回は主にFirebase SDK for Flutter、クイック・フィックスとリファクタリング、開発ターゲットについて開発者に尋ねた。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chromeの安定版で、パスワード不要の認証技術「パスキー」が利用可能に]]></title>
-        <id>http://codezine.jp/article/detail/17017</id>
-        <link href="http://codezine.jp/article/detail/17017"/>
-        <updated>2022-12-13T06:30:00.000Z</updated>
-        <summary type="html"><![CDATA[米Googleは、Webブラウザ「Google Chrome」の新しい安定版「Chrome Stable M108」で、パスワード不要の認証技術「パスキー」が利用可能になったと12月8日（現地時間）に発表した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
         </author>
     </entry>
 </feed>

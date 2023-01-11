@@ -6,6 +6,66 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230111-microsoft-plans-scrap-dual-screen/",
+          "author": null,
+          "description": "Microsoftが折りたたみ式2画面スマートフォン「Surface Duo 2」の後継機で、デュアルスクリーンをやめる方針であることがわかりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-microsoft-plans-scrap-dual-screen/",
+          "publishedOn": "2023-01-11T02:25:00.000Z",
+          "wordCount": 2531,
+          "title": "Microsoftが折りたたみ式スマホ「Surface Duo」でデュアルスクリーンをやめる方針であることが判明",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/microsoft-plans-scrap-dual-screen/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230111-microsoft-eyes-10-billion-bet-on-chatgpt/",
+          "author": null,
+          "description": "OpenAIがリリースした対話型AI「ChatGPT」について、MicrosoftがOpenAIに100億ドル(約1兆3000億円)を投資することを検討していると報じられています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-microsoft-eyes-10-billion-bet-on-chatgpt/",
+          "publishedOn": "2023-01-11T02:20:00.000Z",
+          "wordCount": 2450,
+          "title": "MicrosoftはOpenAIのChatGPTをBingやOfficeに統合するために100億ドルの投資を検討している",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/microsoft-eyes-10-billion-bet-on-chatgpt/00_m.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230111-coinbase-slash-20-percent-workforce/",
+          "author": null,
+          "description": "アメリカに本拠を置き日本でもサービスを展開している大手仮想通貨取引所のCoinbaseが、従業員の20％に当たる約950人を解雇することを発表しました。Coinbaseは2022年6月にも、当時の従業員の18％に当たる約1100人を解雇しており、仮想通貨業界に吹く逆風を受けて厳しい状況が続いています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-coinbase-slash-20-percent-workforce/",
+          "publishedOn": "2023-01-11T02:18:00.000Z",
+          "wordCount": 2487,
+          "title": "日本にも展開する大手仮想通貨取引所のCoinbaseが従業員の20％に当たる約950人を解雇、7カ月前にも約1100人を解雇したばかり",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/coinbase-slash-20-percent-workforce/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230111-google-chrome-109/",
+          "author": null,
+          "description": "ウェブブラウザ「Google Chrome」の最新安定版であるバージョン109.0.5414.74(Linux版)・109.0.5414.74/.75(Windows版)・109.0.5414.87(Mac版)がリリースされました。AndroidでOPFSが有効化されファイル操作に関するパフォーマンスとプラットフォーム互換性が向上した他、MathMLによる数式埋め込みをサポートするなどさまざまな機能が追加されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-google-chrome-109/",
+          "publishedOn": "2023-01-11T01:50:00.000Z",
+          "wordCount": 2532,
+          "title": "「Google Chrome 109」安定版リリース、MathMLによる数式埋め込みなどが追加",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/google-chrome-109/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20230111-samsung-galaxy-unpacked-2023/",
+          "author": null,
+          "description": "Samsungが新製品発表イベント「Galaxy Unpacked」を太平洋標準時の2023年2月1日午前10時(日本時間の2日午前3時)に開催することを告知しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-samsung-galaxy-unpacked-2023/",
+          "publishedOn": "2023-01-11T01:27:00.000Z",
+          "wordCount": 2621,
+          "title": "Samsungが3年ぶりの対面イベントを2023年2月2日に開催、次期フラッグシップモデル「Galaxy S23」発表か",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/samsung-galaxy-unpacked-2023/00.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20230111-windows-update/",
+          "author": null,
+          "description": "今月も毎月更新されるWindowsのセキュリティ更新プログラムやバグ修正が配信されるWindows Updateが行われました。早めにアップデートしておきましょう。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230111-windows-update/",
+          "publishedOn": "2023-01-11T01:14:00.000Z",
+          "wordCount": 2623,
+          "title": "今日は毎月恒例「Windows Update」の日",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/11/windows-update/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230111-ooyukiumi-kaina/",
           "author": null,
           "description": "2023年冬季(新春)の新作アニメとして、漫画家・弐瓶勉さんとアニメーション制作会社ポリゴン・ピクチュアズがタッグを組んだ『大雪海のカイナ』が、2023年1月11日(水)深夜からフジテレビ「＋Ultra」枠ほかにてスタートします。アニメ開始に先行して、2022年2月から月刊少年シリウスにて武本糸会さん作画による漫画版の連載が行われていますが、本作は漫画原作をアニメ化したものではなくメディアミックスプロジェクトだということで、改めて作品の情報をまとめてみました。\n続きを読む...",
@@ -4894,16 +4954,6 @@
           "wordCount": 2482,
           "title": "対話型チャットAI「ChatGPT」を使って駐車違反に異議を唱え取り消させることに成功",
           "imageUrl": "https://i.gzn.jp/img/2022/12/13/openai-chatgpt-disputing-parking-fine/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221212-astronomers-most-ancient-galaxies/",
-          "author": null,
-          "description": "観測史上最古となる134億年前の銀河をジェイムズ・ウェッブ宇宙望遠鏡で撮影することに成功していたことが明らかになりました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221212-astronomers-most-ancient-galaxies/",
-          "publishedOn": "2022-12-12T14:00:00.000Z",
-          "wordCount": 2492,
-          "title": "観測史上最古となる「134億年前の銀河」がジェイムズ・ウェッブ宇宙望遠鏡で撮影できていたことが明らかに",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/12/astronomers-most-ancient-galaxies/00_m.jpg"
         }
       ]
     },
@@ -4912,6 +4962,56 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/16896",
+          "author": null,
+          "description": "2022年のジェンダーギャップ指数は、日本は116位と先進国で最低レベルの結果となった。こうした大きなジェンダーギャップは、日本のIT業界でも顕著だ。サイバーエージェントのエンジニア新卒一期生として入社し、ソフトウェアエンジニアとしてキャリアを重ねてきた神谷優さんは、第一子の出産をきっかけにジェンダーギャップを解消することの重要性に気づいたという。第二子、第三子の出産を経て現在はプロジェクトマネジャーとして働く神谷さんが、2021年初旬にやまざきひとみさんと女性向けプログラミングブートキャンプ「Ms.Engineer」を立ち上げた理由や、社内の「ダイバーシティ推進プロジェクト」で取り組んでいることとは？ エンジニア不足にあえぐ企業にとっての処方箋を、ジェンダーギャップの視点から語ってもらった。",
+          "link": "http://codezine.jp/article/detail/16896",
+          "publishedOn": "2023-01-11T02:00:00.000Z",
+          "wordCount": 4480,
+          "title": "「IT業界のジェンダーギャップ解消を」神谷優さんが思う、女性エンジニアが増えたほうが良い理由とは？ Equityを実現するために企業が取り組むべきこと",
+          "imageUrl": "https://codezine.jp/static/images/article/16896/16896_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17154",
+          "author": null,
+          "description": "データラーニングは、データ分析コンテンツを検索してレビュー可能なナレッジベース「Data Learning Bibliography」を、1月10日にリリースした。",
+          "link": "http://codezine.jp/article/detail/17154",
+          "publishedOn": "2023-01-11T01:00:00.000Z",
+          "wordCount": 4320,
+          "title": "データラーニング、データ分析コンテンツをカテゴリ別に検索できるナレッジベース「Data Learning Bibliography」がリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/17154/17154_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17157",
+          "author": null,
+          "description": "リスキルが提供するプログラミング研修事業「リスキルテクノロジー」は、AIが講師を務めるプログラミング研修を開始したことを1月10日に発表した。AI技術を活用することで講師費用の削減を実現し、従来の半額以下でトレーニングサービスを実現した。",
+          "link": "http://codezine.jp/article/detail/17157",
+          "publishedOn": "2023-01-11T01:00:00.000Z",
+          "wordCount": 4310,
+          "title": "リスキル、プログラミング研修事業「リスキルテクノロジー」においてAIが講師を務めるプログラミング研修をスタート",
+          "imageUrl": "https://codezine.jp/static/images/article/17157/17157_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17158",
+          "author": null,
+          "description": "BLITZ Marketingは、ITベンチャー志望の学生をターゲットとしたダイレクトリクルーティングサービス「BLITZCAREER」と、完全成果報酬型の採用支援サービスを1月10日にリリースした。また、リリースを記念して、2023年3月までに登録した先着100社限定で通常月額10万円の利用料が3カ月無料になるキャンペーンを開催している。",
+          "link": "http://codezine.jp/article/detail/17158",
+          "publishedOn": "2023-01-11T01:00:00.000Z",
+          "wordCount": 4321,
+          "title": "ベンチャー志望学生とITベンチャーをつなぐマッチングプラットフォーム「BLITZCAREER」がリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/17158/17158_ogp.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17159",
+          "author": null,
+          "description": "アシストアップは、クラウドサービスの運用代行サービス「クラウドマネージド」を1月11日に提供開始する。",
+          "link": "http://codezine.jp/article/detail/17159",
+          "publishedOn": "2023-01-11T01:00:00.000Z",
+          "wordCount": 4320,
+          "title": "Windows専門のホスティングサービス「Winserver」、「クラウドマネージド」サービスを提供開始",
+          "imageUrl": "https://codezine.jp/static/images/article/17159/17159_ogp.png"
+        },
         {
           "id": "http://codezine.jp/article/detail/17150",
           "author": null,
@@ -6646,6 +6746,46 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news078.html",
+          "author": null,
+          "description": "PayPay内のミニアプリ「PayPayほけん」にて、インフルエンザに特化した保険商品。PayPay内から保険に加入でき、PayPay残高から支払える。インフルエンザに特化した保険商品は国内初",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news078.html",
+          "publishedOn": "2023-01-11T02:17:00.000Z",
+          "wordCount": 2599,
+          "title": "PayPayほけんに「インフル特化保険」　インフル治療で保険金最大7000円",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news078.png"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news073.html",
+          "author": null,
+          "description": "TwitterはiOSアプリで、タイムラインの表示順の切り替えをスワイプで行えるようにした（ロールアウト中）。「おすすめ」と「最新」を1ステップで切り替えられる。ただし、アプリを終了すると「おすすめ」に戻る。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news073.html",
+          "publishedOn": "2023-01-11T01:52:00.000Z",
+          "wordCount": 2593,
+          "title": "Twitter、「おすすめ」と「最新」（旧「フォロー中」）のスワイプ切り替えをiOSでロールアウト",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news073.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news071.html",
+          "author": null,
+          "description": "ChatGPTを「Visual Studio Code」などのIDEに統合し、開発中のコードについて「この関数のテストコードはどこ？」などと対話できる「qqbot」が登場。トライアルの申し込みを受け付けている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news071.html",
+          "publishedOn": "2023-01-11T01:14:00.000Z",
+          "wordCount": 2706,
+          "title": "IDEにChatGPTを統合　「この関数のテストコードはどこ？」「○○を実装するならどう書けばいい？」など、AIでコードと対話できる「qqbot」登場",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news071.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/11/news068.html",
+          "author": null,
+          "description": "KDDIは「au PAYプリペイドカード」が1月17日の午前10時から「3Dセキュア2.0」に対応すると発表した。これまでは3Dセキュアに対応していなかったため、利用できないECサイトなどがあった。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/11/news068.html",
+          "publishedOn": "2023-01-11T00:55:00.000Z",
+          "wordCount": 2611,
+          "title": "au PAYプリペイドカード、3Dセキュア2.0対応　1月17日から",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/11/cover_news068.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/11/news065.html",
           "author": null,
@@ -10455,16 +10595,6 @@
           "wordCount": 2594,
           "title": "「僕のヒーローアカデミア」（ヒロアカ）をNetflixが実写化へ",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news078.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/12/news186.html",
-          "author": null,
-          "description": "月面資源開発に取り組むスタートアップispace（東京都中央区）は、SpaceXのロケット「Falcon9」に同社が開発したランダー（月着陸船）の打ち上げに成功したと発表した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/12/news186.html",
-          "publishedOn": "2022-12-12T14:30:00.000Z",
-          "wordCount": 2598,
-          "title": "民間初の月着陸へ　国内ベンチャー開発の月着陸船が打ち上げ成功",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/12/cover_news186.jpg"
         }
       ]
     }

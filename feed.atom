@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T15:21:51.158Z</updated>
+    <updated>2023-01-12T16:34:10.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SQLite3 WASM/JS、Origin Private File Systemを用いてChrome上の高速なローカルDBが機能するとGoogleが明らかに、廃止されたWeb SQLの代替として利用可能]]></title>
+        <id>https://www.publickey1.jp/blog/23/sqlite3_wasmjsorigin_private_file_systemchromedbgoogleweb_sql.html</id>
+        <link href="https://www.publickey1.jp/blog/23/sqlite3_wasmjsorigin_private_file_systemchromedbgoogleweb_sql.html"/>
+        <updated>2023-01-12T16:15:59.000Z</updated>
+        <summary type="html"><![CDATA[Google Chromeの開発チームは昨年（2022年）9月に、非推奨となったWeb標準のWeb SQL Database API（以下Web SQL）をChromeから削除、その代替機能としてSQLite開発チームと協力してWebAss...]]></summary>
+        <author>
+            <name>Publickey</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020年にサービス終了したオンラインゲームが完全無料で復活＆ソースコードも公開され自由に改変可能に]]></title>
         <id>https://gigazine.net/news/20230112-open-duelyst/</id>
@@ -11040,69 +11050,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「年賀状は送らない」4割、「LINEで」2割──BIGLOBE調査]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/14/news107.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news107.html"/>
-        <updated>2022-12-14T04:04:00.000Z</updated>
-        <summary type="html"><![CDATA[ビッグローブは14日、年末年始の行動に関するアンケートで「年賀状を送らない」人が全体の4割を超えたという調査結果を発表した。20代では半数以上に上るとしている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitterがユーザーの安全を保護して公共の健全性を向上させるTrust＆Safety協議会を解散]]></title>
-        <id>https://gigazine.net/news/20221214-twitter-tsc-dissolve/</id>
-        <link href="https://gigazine.net/news/20221214-twitter-tsc-dissolve/"/>
-        <updated>2022-12-14T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[TwitterのCEOに就任したイーロン・マスク氏は従業員の3分の2を解雇するという大規模な人員整理を行っていますが、その中でもセキュリティスタッフを大量解雇していたり、Twitter上の嫌がらせやいじめなどの不適切な投稿を防止することを目的とするTrust＆Safety協議会(以下、TSC)の元メンバーが突然辞任してその理由を語ったりと、セキュリティやモデレーションを自動化していくことへの懸念も高まっています。そんな中で、Twitterは2022年12月12日に突然TSCを解散することを発表しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仮想通貨取引所最大手のBinanceで1日に4000億円相当の引き出しが発生、CEOは「いつも通りのビジネス」と言及]]></title>
-        <id>https://gigazine.net/news/20221214-binance-usdc-withdrawals/</id>
-        <link href="https://gigazine.net/news/20221214-binance-usdc-withdrawals/"/>
-        <updated>2022-12-14T03:51:00.000Z</updated>
-        <summary type="html"><![CDATA[仮想通貨取引所最大手のBinance(バイナンス)で、1日あたり30億ドル相当(約4060億円)の引き出しが発生したことがわかりました。Binanceのチャンポン・ジャオCEOは「こういうことはよくあります」といつも通りのビジネスであると述べましたが、「顧客の預金額を上回る十分な資産を保有している」というBinanceの報告書に対する疑念や、元CEOが逮捕された大手仮想通貨取引所FTXの事例があることから、他のプラットフォームへの移動が発生しているという見方が出ています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机周辺は本まみれ？　東大発フィンテック企業で働くITエンジニアのデスク環境　写真でチェック]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/14/news043.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news043.html"/>
-        <updated>2022-12-14T03:45:00.000Z</updated>
-        <summary type="html"><![CDATA[IT企業で働く人のデスク環境を写真や本人のコメント付きで紹介。転職先の雰囲気を把握したい人に向け、さまざまな職種の社員がどんな環境で働いているかをチェックする。今回はフィンテック事業を手掛ける傍ら、保険業向けSaaSなども提供するFinatextで働く人のデスク周り。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国がチップ輸出規制を巡りアメリカをWTOに提訴、規制が世界のサプライチェーンの安定を脅かしていると主張]]></title>
-        <id>https://gigazine.net/news/20221214-china-wto-dispute-us-chip-sanctions/</id>
-        <link href="https://gigazine.net/news/20221214-china-wto-dispute-us-chip-sanctions/"/>
-        <updated>2022-12-14T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[中国との政治的対立を深めているアメリカは、「安全保障上の懸念」を理由に中国へのチップ輸出規制を強化しています。これに対し中国が、自由貿易の促進を目的とする国際機関・世界貿易機関(WTO)にアメリカを提訴しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[例外規定が不正ログインの一因に　熊本県立大が被害　2要素認証なしの名誉教授が狙われ]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/14/news095.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news095.html"/>
-        <updated>2022-12-14T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[熊本県立大学は、同学名誉教授のメールアカウントが不正ログインされ、個人情報が漏えいした可能性があると明らかにした。名誉教授は例外的に2要素認証を免除されていた上、他サイトでも使っている短いパスワードを設定していたという。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230112-cnet-publishing-articles-by-ai/",
+          "author": null,
+          "description": "テクノロジーニュースメディアのCNETが2022年の11月頃から、金融解説記事の作成にAIを用いていることをニュースサイトのFuturismとWebマーケターのガエル・ブレトン氏が報じています。AIが作成した記事は「CNET Money」という署名で、これまでに73件の記事が公開されています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-cnet-publishing-articles-by-ai/",
+          "publishedOn": "2023-01-12T07:00:00.000Z",
+          "wordCount": 2581,
+          "title": "ニュースメディアのCNETが2022年11月から「CNET Money」という署名を付けて密かにAIで記事を作成していると報じられる",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/cnet-publishing-articles-by-ai/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230112-apple-business-connect-map/",
           "author": null,
           "description": "iPhoneやiPadに標準搭載されているApple純正マップアプリでは、開発当初はGoogleマップの地図データを用いていましたが、2012年からはApple独自の地図データを使用するようになりました。独自地図データの提供開始直後には「パチンコガンダム駅」などの実在しない地名が多数表示されるなどヒドイ出来栄えだったのですが、徐々に改善が進んでいます。2023年1月11日には、Apple純正マップに表示される建物情報をオーナーが編集可能となる「Apple Business Connect」が発表されました。\n続きを読む...",
@@ -6796,6 +6806,16 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news136.html",
+          "author": null,
+          "description": "プログレードデジタルがメモリカードやカードリーダーなど一部の商品を3～9％値下げ。「円高傾向が安定化したため」。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news136.html",
+          "publishedOn": "2023-01-12T06:14:00.000Z",
+          "wordCount": 2591,
+          "title": "プログレードデジタル、一部商品を値“下げ”　「円高傾向が安定化したため」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news136.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/12/news132.html",
           "author": null,

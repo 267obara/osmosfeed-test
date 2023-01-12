@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T06:17:36.943Z</updated>
+    <updated>2023-01-12T07:12:33.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ニュースメディアのCNETが2022年11月から「CNET Money」という署名を付けて密かにAIで記事を作成していると報じられる]]></title>
+        <id>https://gigazine.net/news/20230112-cnet-publishing-articles-by-ai/</id>
+        <link href="https://gigazine.net/news/20230112-cnet-publishing-articles-by-ai/"/>
+        <updated>2023-01-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[テクノロジーニュースメディアのCNETが2022年の11月頃から、金融解説記事の作成にAIを用いていることをニュースサイトのFuturismとWebマーケターのガエル・ブレトン氏が報じています。AIが作成した記事は「CNET Money」という署名で、これまでに73件の記事が公開されています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プログレードデジタル、一部商品を値“下げ”　「円高傾向が安定化したため」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news136.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news136.html"/>
+        <updated>2023-01-12T06:14:00.000Z</updated>
+        <summary type="html"><![CDATA[プログレードデジタルがメモリカードやカードリーダーなど一部の商品を3～9％値下げ。「円高傾向が安定化したため」。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple純正マップの建物情報が編集可能になる「Apple Business Connect」開始、ただしGoogleマップは同様の機能を2005年に実装済みなので18年遅れ]]></title>
         <id>https://gigazine.net/news/20230112-apple-business-connect-map/</id>

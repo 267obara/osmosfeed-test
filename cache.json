@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230112-sukiya-beef-bowl-garlic-red-sauce-shiraganegi/",
+          "author": null,
+          "description": "たっぷりの白髪ねぎに、にんにくやショウガの風味と唐辛子のピリッとした辛みが特長の赤だれをかけて、さらに香ばしいフライドにんにくをプラスしたすき家の「にんにく赤だれ白髪ねぎ牛丼」が2023年1月11日(水)に登場しました。仕上げにかけたブラックペッパーと、隠し味にみそを使用して「コク旨ピリ辛」にした赤だれがシャキシャキの白髪ねぎに絡むと、やみつきになってしまうとのことなので、実際にすき家で買って食べてみました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-sukiya-beef-bowl-garlic-red-sauce-shiraganegi/",
+          "publishedOn": "2023-01-12T13:00:00.000Z",
+          "wordCount": 2413,
+          "title": "ピリ辛赤だれが絡む白髪ねぎとフライドにんにくで牛肉のうまみが際立つすき家「にんにく赤だれ白髪ねぎ牛丼」を食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/sukiya-beef-bowl-garlic-red-sauce-shiraganegi/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230112-radeon-rx-7900-xtx-overheat/",
           "author": null,
           "description": "AMDのグラフィックスカードであるRadeon RX 7900 XTXは、ホットスポット温度が110℃に到達してサーマルスロットリングが発生することが報告されています。AMDも、一部のRX 7900 XTXにおいてGPUクーラーに不具合があり、オーバーヒートとサーマルスロットリングの問題が生じていることを認めています。ソフトウェア開発者でYouTuberのジェフ・ギアリング氏が、RX 7900 XTXを実際にテストしてサポートに連絡してみた経緯をブログで公開しています。\n続きを読む...",
@@ -5044,26 +5054,6 @@
           "wordCount": 2603,
           "title": "エネルギー省が正式に核融合実験でエネルギー投入を上回る出力を達成し「点火」を確認したと発表",
           "imageUrl": "https://i.gzn.jp/img/2022/12/14/nuclear-fusion-ignition/00.png"
-        },
-        {
-          "id": "https://gigazine.net/news/20221214-windows-update/",
-          "author": null,
-          "description": "今月も毎月更新されるWindowsのセキュリティ更新プログラムやバグ修正が配信されるWindows Updateが行われました。早めにアップデートしておきましょう。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221214-windows-update/",
-          "publishedOn": "2022-12-14T00:55:00.000Z",
-          "wordCount": 2724,
-          "title": "今日は毎月恒例「Windows Update」の日",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/14/windows-update/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221214-firefox-108/",
-          "author": null,
-          "description": "ウェブブラウザ「Firefox 108」の正式版が公開されました。ICCv4プロファイルによる画像の色補正をサポートした他、さまざまな機能改善が加えられています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221214-firefox-108/",
-          "publishedOn": "2022-12-14T00:43:00.000Z",
-          "wordCount": 2538,
-          "title": "「Firefox 108」正式版リリース、ICCv4プロファイルをサポート",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/14/firefox-108/00.png"
         }
       ]
     },
@@ -6511,16 +6501,6 @@
           "wordCount": 4461,
           "title": "地図データに代表される「空間データ」とは何か？ データベースでの扱い方を紹介",
           "imageUrl": "https://codezine.jp/static/images/article/16867/db_perfect_guide_og.png"
-        },
-        {
-          "id": "http://codezine.jp/article/detail/17027",
-          "author": null,
-          "description": "TokyoDevは、日本在住のソフトウェア開発者を対象に実施したアンケートの結果を12月8日に発表した。給与、勤務形態、使用している技術、語学力（英語・日本語）など、全42項目について、588名からの回答結果をまとめた。",
-          "link": "http://codezine.jp/article/detail/17027",
-          "publishedOn": "2022-12-14T01:00:00.000Z",
-          "wordCount": 4303,
-          "title": "日本で働くさまざまな国籍のエンジニアの年収の中央値は950万円、TokyoDevが日本在住の開発者を対象にアンケートを実施",
-          "imageUrl": "https://codezine.jp/static/images/article/17027/17027_ogp.png"
         }
       ]
     },
@@ -10745,16 +10725,6 @@
           "wordCount": 2612,
           "title": "Twitterの前CEOドーシー氏、「元従業員への攻撃は無益」と語り、Signal支援を表明",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/l_yu_jack.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/14/news077.html",
-          "author": null,
-          "description": "楽天証券はクレジットカードを使った投信積立について、楽天プレミアムカードおよび楽天ゴールドカードを使った場合に追加還元を行うキャンペーンを実施する。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/14/news077.html",
-          "publishedOn": "2022-12-14T01:18:00.000Z",
-          "wordCount": 2334,
-          "title": "楽天証券、楽天ゴールドとプレミアムカードの投信積立で最大1％還元のキャンペーン",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news077.png"
         }
       ]
     }

@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T03:14:31.974Z</updated>
+    <updated>2023-01-12T04:16:25.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Webサーバー「Apache」にアメリカ先住民から名称変更の要請]]></title>
+        <id>https://gigazine.net/news/20230112-apache-appropriation/</id>
+        <link href="https://gigazine.net/news/20230112-apache-appropriation/"/>
+        <updated>2023-01-12T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[オープンソースのWebサーバーソフトウェアとして知られる「Apache」を運営するApache Software Foundation(ASF)に、北アメリカ先住6部族の1つであるアパッチ族を念頭に「アメリカ先住民への敬意と独自の行動規範を守るため」として名称変更の要請が出されていることがわかりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitterから漏えいした6億件の個人情報は「Twitterの脆弱性を悪用して取得されたものではない」とTwitterが主張]]></title>
+        <id>https://gigazine.net/news/20230112-twitter-user-data-alleged-incident/</id>
+        <link href="https://gigazine.net/news/20230112-twitter-user-data-alleged-incident/"/>
+        <updated>2023-01-12T03:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterが、合計で6億件の個人情報が流出したとされる一連の報道について、「当該データがTwitterの脆弱(ぜいじゃく)性を突いて取得されたものであるとの証拠は見つからなかった」との調査結果を発表しました。この報告に対し、複数のメディア関係者から不明な点があるとの指摘がなされています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コンピューターシステムの不具合によりアメリカ全土のフライトが一時欠航に]]></title>
+        <id>https://gigazine.net/news/20230112-flight-grounded-us-notam-fails/</id>
+        <link href="https://gigazine.net/news/20230112-flight-grounded-us-notam-fails/"/>
+        <updated>2023-01-12T03:36:00.000Z</updated>
+        <summary type="html"><![CDATA[2023年1月11日21時ごろ、アメリカ連邦航空局(FAA)のシステムがダウンしたため、アメリカ全土のすべての航空機に運航停止が命じられました。遅延・欠航したフライトは1万便を超え、多数の乗客に影響が及びました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoftが無制限に休暇を取得できる制度を導入]]></title>
+        <id>https://gigazine.net/news/20230112-microsoft-employees-unlimited-time-off/</id>
+        <link href="https://gigazine.net/news/20230112-microsoft-employees-unlimited-time-off/"/>
+        <updated>2023-01-12T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftが、2023年1月16日から正規社員が制限なしの休暇を取得できる制度を採用することが分かりました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天下一品のあの「こってりスープ」をかけた「こってり天津飯」が裏メニューから新メニューに昇格したので食べてみた]]></title>
+        <id>https://gigazine.net/news/20230112-tenkaippin-kotteri-tenshinhan/</id>
+        <link href="https://gigazine.net/news/20230112-tenkaippin-kotteri-tenshinhan/"/>
+        <updated>2023-01-12T03:14:00.000Z</updated>
+        <summary type="html"><![CDATA[鶏がらベースの「こってりスープ」が代名詞のラーメンチェーン・天下一品に、こってりスープを天津飯にかけた「こってり天津飯」が2023年1月10日(火)から登場しています。天下一品のこってりスープをこよなく愛するユーザーからの「天津飯にもこってりスープをかけてもらえませんか？」という一声から裏メニューとして生まれ、ついには新メニューにまで昇格してしまった一品ということで、さっそく食べてきました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リチウムイオン電池の焼損リスク判定　OKI「良品解析サービス」メーカーに提供]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news112.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news112.html"/>
+        <updated>2023-01-12T03:14:00.000Z</updated>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「Password1234」などの超単純パスワードがアメリカ政府機関で大量に使われていた]]></title>
         <id>https://gigazine.net/news/20230112-us-department-password/</id>
@@ -15,6 +79,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗い座席でスマホの光はどれだけ目立つのか　劇場「博多座」の検証が話題　「見たいのは推しという光」「いま一度ご配慮を」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news108.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news108.html"/>
+        <updated>2023-01-12T02:57:00.000Z</updated>
+        <summary type="html"><![CDATA[劇場の暗い座席で、スマートフォンやスマートウォッチの光はどれだけ目立つのか──劇場「博多座」の公式Twitterアカウントが公開した映像が話題に。舞台ファンからは「周知徹底されてほしい」などの反応が集まっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -46,6 +120,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三井住友カードの5％還元対象に、ガストなどすかいらーくグループ16チェーンが追加]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news103.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news103.html"/>
+        <updated>2023-01-12T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[三井住友カードの5％還元対象に、すかいらーくグループ16チェーンが追加]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -11129,16 +11213,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NewSQLは金融システムのミッションクリティカルで高セキュリティな要件に応えられるか？ TISが評価結果を明らかに［PR］]]></title>
-        <id>https://www.publickey1.jp/blog/22/newsql_tispr.html</id>
-        <link href="https://www.publickey1.jp/blog/22/newsql_tispr.html"/>
-        <updated>2022-12-13T15:27:17.000Z</updated>
-        <summary type="html"><![CDATA[「NewSQL」と呼ばれる、新しい世代のデータベース製品が登場してきています。 NewSQLは、現在主流となっているリレーショナルデータベース製品と同様にリレーショナルなデータ構造に対応し高度なオンライントランザクション能力を備えつつ、No...]]></summary>
-        <author>
-            <name>Publickey</name>
         </author>
     </entry>
 </feed>

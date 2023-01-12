@@ -6,6 +6,56 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230112-apache-appropriation/",
+          "author": null,
+          "description": "オープンソースのWebサーバーソフトウェアとして知られる「Apache」を運営するApache Software Foundation(ASF)に、北アメリカ先住6部族の1つであるアパッチ族を念頭に「アメリカ先住民への敬意と独自の行動規範を守るため」として名称変更の要請が出されていることがわかりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-apache-appropriation/",
+          "publishedOn": "2023-01-12T04:00:00.000Z",
+          "wordCount": 2462,
+          "title": "Webサーバー「Apache」にアメリカ先住民から名称変更の要請",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/apache-appropriation/00_m.png"
+        },
+        {
+          "id": "https://gigazine.net/news/20230112-twitter-user-data-alleged-incident/",
+          "author": null,
+          "description": "Twitterが、合計で6億件の個人情報が流出したとされる一連の報道について、「当該データがTwitterの脆弱(ぜいじゃく)性を突いて取得されたものであるとの証拠は見つからなかった」との調査結果を発表しました。この報告に対し、複数のメディア関係者から不明な点があるとの指摘がなされています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-twitter-user-data-alleged-incident/",
+          "publishedOn": "2023-01-12T03:40:00.000Z",
+          "wordCount": 2648,
+          "title": "Twitterから漏えいした6億件の個人情報は「Twitterの脆弱性を悪用して取得されたものではない」とTwitterが主張",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/twitter-user-data-alleged-incident/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230112-flight-grounded-us-notam-fails/",
+          "author": null,
+          "description": "2023年1月11日21時ごろ、アメリカ連邦航空局(FAA)のシステムがダウンしたため、アメリカ全土のすべての航空機に運航停止が命じられました。遅延・欠航したフライトは1万便を超え、多数の乗客に影響が及びました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-flight-grounded-us-notam-fails/",
+          "publishedOn": "2023-01-12T03:36:00.000Z",
+          "wordCount": 2929,
+          "title": "コンピューターシステムの不具合によりアメリカ全土のフライトが一時欠航に",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/flight-grounded-us-notam-fails/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230112-microsoft-employees-unlimited-time-off/",
+          "author": null,
+          "description": "Microsoftが、2023年1月16日から正規社員が制限なしの休暇を取得できる制度を採用することが分かりました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-microsoft-employees-unlimited-time-off/",
+          "publishedOn": "2023-01-12T03:30:00.000Z",
+          "wordCount": 2454,
+          "title": "Microsoftが無制限に休暇を取得できる制度を導入",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/microsoft-employees-unlimited-time-off/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230112-tenkaippin-kotteri-tenshinhan/",
+          "author": null,
+          "description": "鶏がらベースの「こってりスープ」が代名詞のラーメンチェーン・天下一品に、こってりスープを天津飯にかけた「こってり天津飯」が2023年1月10日(火)から登場しています。天下一品のこってりスープをこよなく愛するユーザーからの「天津飯にもこってりスープをかけてもらえませんか？」という一声から裏メニューとして生まれ、ついには新メニューにまで昇格してしまった一品ということで、さっそく食べてきました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-tenkaippin-kotteri-tenshinhan/",
+          "publishedOn": "2023-01-12T03:14:00.000Z",
+          "wordCount": 2414,
+          "title": "天下一品のあの「こってりスープ」をかけた「こってり天津飯」が裏メニューから新メニューに昇格したので食べてみた",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/tenkaippin-kotteri-tenshinhan/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230112-us-department-password/",
           "author": null,
           "description": "デバイスやウェブサービスのアカウントにパスワードを設定する際は、辞書攻撃などを防ぐために「文字数を長くする」「単純な数字や単語を使わない」といった対策を取るのが一般的です。しかし、「1234」「abcd」などといった単純なパスワードをついつい使ってしまうという人も多いはず。アメリカ合衆国内務省が実施したセキュリティ監査では、省内で使われるパスワードの5分の1が容易に推測可能な文字列で構成されていることが明らかになりました。加えて、ほとんどの関係者が多要素認証を有効化していなかったことも判明しています。\n続きを読む...",
@@ -6718,16 +6768,6 @@
           "wordCount": 1282,
           "title": "Virtiofs正式採用でMacのファイルアクセスが高速化、Docker Desktop 4.15リリース。WebAssemblyアプリをcontainerd配下で管理可能に",
           "imageUrl": "https://www.publickey1.jp/2022/Fi6eiZ4XgB4qwKC.jpg"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/22/newsql_tispr.html",
-          "author": null,
-          "description": "「NewSQL」と呼ばれる、新しい世代のデータベース製品が登場してきています。 NewSQLは、現在主流となっているリレーショナルデータベース製品と同様にリレーショナルなデータ構造に対応し高度なオンライントランザクション能力を備えつつ、No...",
-          "link": "https://www.publickey1.jp/blog/22/newsql_tispr.html",
-          "publishedOn": "2022-12-13T15:27:17.000Z",
-          "wordCount": 1287,
-          "title": "NewSQLは金融システムのミッションクリティカルで高セキュリティな要件に応えられるか？ TISが評価結果を明らかに［PR］",
-          "imageUrl": "https://www.publickey1.jp/2022/tidb_tis07.png"
         }
       ]
     },
@@ -6736,6 +6776,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news112.html",
+          "author": null,
+          "description": "",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news112.html",
+          "publishedOn": "2023-01-12T03:14:00.000Z",
+          "wordCount": 2589,
+          "title": "リチウムイオン電池の焼損リスク判定　OKI「良品解析サービス」メーカーに提供",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news112.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news108.html",
+          "author": null,
+          "description": "劇場の暗い座席で、スマートフォンやスマートウォッチの光はどれだけ目立つのか──劇場「博多座」の公式Twitterアカウントが公開した映像が話題に。舞台ファンからは「周知徹底されてほしい」などの反応が集まっている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news108.html",
+          "publishedOn": "2023-01-12T02:57:00.000Z",
+          "wordCount": 2593,
+          "title": "暗い座席でスマホの光はどれだけ目立つのか　劇場「博多座」の検証が話題　「見たいのは推しという光」「いま一度ご配慮を」",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news108.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/12/news107.html",
           "author": null,
@@ -6755,6 +6815,16 @@
           "wordCount": 2609,
           "title": "Google Meetでついに絵文字リアクションが可能に",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/l_yu_emoji.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news103.html",
+          "author": null,
+          "description": "三井住友カードの5％還元対象に、すかいらーくグループ16チェーンが追加",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news103.html",
+          "publishedOn": "2023-01-12T02:45:00.000Z",
+          "wordCount": 2589,
+          "title": "三井住友カードの5％還元対象に、ガストなどすかいらーくグループ16チェーンが追加",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news103.jpg"
         },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/12/news100.html",

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230112-laputa-stone-slab/",
+          "author": null,
+          "description": "スタジオジブリの名作映画「天空の城ラピュタ」には、飛行石をかざしてラピュタをコントロールできる「黒い石」が登場します。シングルボードコンピューターのRaspberry Piを使ってさまざまな電子工作を行っているSteve Kasuyaさんが、実際に飛行石をかざすと光る黒い石を作成しました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-laputa-stone-slab/",
+          "publishedOn": "2023-01-12T08:00:00.000Z",
+          "wordCount": 2486,
+          "title": "ラピュタに出てくる「黒い石」を作った猛者が登場、実際に飛行石をかざして光らせる動画も公開中",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/laputa-stone-slab/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230112-cnet-publishing-articles-by-ai/",
           "author": null,
           "description": "テクノロジーニュースメディアのCNETが2022年の11月頃から、金融解説記事の作成にAIを用いていることをニュースサイトのFuturismとWebマーケターのガエル・ブレトン氏が報じています。AIが作成した記事は「CNET Money」という署名で、これまでに73件の記事が公開されています。\n続きを読む...",
@@ -6806,6 +6816,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news145.html",
+          "author": null,
+          "description": "NTTドコモは、スポーツ動画配信サービス「DAZN for docomo」の利用料金を改定すると発表した。2月14日以降の新規契約者の月額料金を3000円から3700円に引き上げる。ただし、13日までに契約をしたユーザーは、契約時料金のままで利用できる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news145.html",
+          "publishedOn": "2023-01-12T07:29:00.000Z",
+          "wordCount": 2631,
+          "title": "ドコモユーザー“大勝利”再び？　「DAZN for docomo」値上げ、でも既存ユーザーは価格据え置き",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news145.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news144.html",
+          "author": null,
+          "description": "「TOEIC」を実施する国際ビジネスコミュニケーション協会は、TOEIC申し込みサイトにおいて不正アクセスが発生したと明らかにした。会員の氏名や住所、メールアドレスなどが閲覧された可能性がある。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news144.html",
+          "publishedOn": "2023-01-12T07:00:00.000Z",
+          "wordCount": 2587,
+          "title": "TOEIC申し込みサイトで情報漏えいか　不正アクセス被害で　パスワード更新呼び掛け",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news144.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/12/news136.html",
           "author": null,

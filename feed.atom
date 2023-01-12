@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T07:12:33.534Z</updated>
+    <updated>2023-01-12T08:18:29.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ラピュタに出てくる「黒い石」を作った猛者が登場、実際に飛行石をかざして光らせる動画も公開中]]></title>
+        <id>https://gigazine.net/news/20230112-laputa-stone-slab/</id>
+        <link href="https://gigazine.net/news/20230112-laputa-stone-slab/"/>
+        <updated>2023-01-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[スタジオジブリの名作映画「天空の城ラピュタ」には、飛行石をかざしてラピュタをコントロールできる「黒い石」が登場します。シングルボードコンピューターのRaspberry Piを使ってさまざまな電子工作を行っているSteve Kasuyaさんが、実際に飛行石をかざすと光る黒い石を作成しました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドコモユーザー“大勝利”再び？　「DAZN for docomo」値上げ、でも既存ユーザーは価格据え置き]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news145.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news145.html"/>
+        <updated>2023-01-12T07:29:00.000Z</updated>
+        <summary type="html"><![CDATA[NTTドコモは、スポーツ動画配信サービス「DAZN for docomo」の利用料金を改定すると発表した。2月14日以降の新規契約者の月額料金を3000円から3700円に引き上げる。ただし、13日までに契約をしたユーザーは、契約時料金のままで利用できる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ニュースメディアのCNETが2022年11月から「CNET Money」という署名を付けて密かにAIで記事を作成していると報じられる]]></title>
         <id>https://gigazine.net/news/20230112-cnet-publishing-articles-by-ai/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOEIC申し込みサイトで情報漏えいか　不正アクセス被害で　パスワード更新呼び掛け]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news144.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news144.html"/>
+        <updated>2023-01-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「TOEIC」を実施する国際ビジネスコミュニケーション協会は、TOEIC申し込みサイトにおいて不正アクセスが発生したと明らかにした。会員の氏名や住所、メールアドレスなどが閲覧された可能性がある。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

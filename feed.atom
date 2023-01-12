@@ -2,10 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T01:09:43.602Z</updated>
+    <updated>2023-01-12T02:39:16.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twitterがユーザー名をオークションで販売することを計画中、マスク氏は「15億のユーザー名を解放したい」と過去に発言]]></title>
+        <id>https://gigazine.net/news/20230112-twitter-considering-usernames-auctions/</id>
+        <link href="https://gigazine.net/news/20230112-twitter-considering-usernames-auctions/"/>
+        <updated>2023-01-12T02:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Twitterはイーロン・マスク氏による買収を受けて大きく揺れ動いており、従業員の大量解雇によるコストカットが進む一方で、無法地帯化を懸念して広告主がTwitterから離れているために収益が悪化しています。そんな中で日刊紙のニューヨーク・タイムズが、Twitterは収益改善策の1つとして「@」から始まるユーザー名をオークションで販売することを検討していると報じました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Android Jetpack入門 】データベース処理を自動化してくれるライブラリ「Room」を徹底解説！]]></title>
+        <id>http://codezine.jp/article/detail/17124</id>
+        <link href="http://codezine.jp/article/detail/17124"/>
+        <updated>2023-01-12T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CodeZineの連載「Android Studio2で始めるアプリ開発入門」が終了してから約1年後、Android Jetpackがリリースされ、一歩進んだAndroidアプリ開発が可能になりました。しかし、連載をもとに内容をアップデートした『Androidアプリ開発の教科書』では、入門書という位置付けのため、Jetpackの内容までは踏み込んでいません。本連載は、「Android Studio2で始めるアプリ開発入門」連載、および『Androidアプリ開発の教科書』の続編にあたる内容として、Jetpackを取り上げていきます。前回は、UIのデータを管理するためのライブラリであるViewModelを紹介しました。今回は、データベース処理を自動化してくれるRoomを紹介します。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appleはタッチスクリーン付きの有機ELディスプレイMacBook Proを2025年にリリースする予定と報じられる]]></title>
+        <id>https://gigazine.net/news/20230112-apple-macbook-pro-touch-screen/</id>
+        <link href="https://gigazine.net/news/20230112-apple-macbook-pro-touch-screen/"/>
+        <updated>2023-01-12T01:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Appleが2025年に発売するMacBook Proはタッチスクリーンを搭載する可能性があることがBloombergによって報じられています。また、2025年発売のMacBook Proは従来の液晶ディスプレイ(LCD)から有機ELディスプレイ(OLED)への変更が行われるとされています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft、「OneDrive 100 GB Standaloneプラン」を「Microsoft 365 Basic」に改称し機能追加]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news093.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news093.html"/>
+        <updated>2023-01-12T01:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoftは個人向け「Microsoft 365」の新プラン「Basic」を発表した。従来のクラウドストレージ「OneDrive 100 GB Standaloneプラン」に機能を追加して新プランとして提供する。既存のユーザーはサブスク料金据え置きのまま1月30日に新プランに切り替わる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneDriveで障害　Microsoft「アップデートにミス」]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news089.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news089.html"/>
+        <updated>2023-01-12T01:36:00.000Z</updated>
+        <summary type="html"><![CDATA[OneDriveで1月12日午後9時40分ごろから障害が発生。サービスが利用しにくい状態になっている。米Microsoftによれば、「最新のアップデートに含まれていたコードに問題があり、一部のユーザーがサービスにアクセスできない状態」という。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple、Googleマップの「ビジネスプロフィール」のような「Business Connect」提供開始]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news087.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news087.html"/>
+        <updated>2023-01-12T01:16:00.000Z</updated>
+        <summary type="html"><![CDATA[AppleはGoogleの「ビジネスプロフィール」のようなショップやレストラン向け無料サービス「Apple Business Connect」を発表した。ショップやレストランはこのサービスを利用することでマップやSiriなどの一連のAppleのサービスでのプレゼンスを確保できる。数カ月中にグローバルに展開する計画だ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pythonで記述した動画ダウンロード・ツール「Yark」の新版が登場]]></title>
+        <id>http://codezine.jp/article/detail/17165</id>
+        <link href="http://codezine.jp/article/detail/17165"/>
+        <updated>2023-01-12T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[英国、リバプール在住の学生であるOwen Griffiths氏は、YouTubeから動画をダウンロードするツール「Yark」の新版「バージョン1.2」を1月5日（現地時間）に公開した。YarkはMITライセンスで公開しているオープンソース・ソフトウェア。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[つながるクルマ、自動運転車に潜む脆弱性　不正な遠隔操作でロック解除や始動も]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news063.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news063.html"/>
+        <updated>2023-01-12T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米ラスベガスで開幕したCESでは、クルマが話題の中心になることが増えた。クルマ本体だけでなく、自動運転やつながるクルマなどの技術に注目が集まる一方、メーカー各社のシステムに、数多くの脆弱性が潜んでいる実態が明らかになっている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国際色豊か？　Paidyで働くみんなのデスク環境　ITエンジニアからデザイナーまで写真でチェック]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/11/news013.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/11/news013.html"/>
+        <updated>2023-01-12T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IT企業で働く人のデスク環境を写真や本人のコメント付きで紹介。ITエンジニアやデザイナーなどさまざまな社員がどんな環境で働いているかチェックする。今回は、後払いサービスを提供するPaidyで働く人のデスク周りを探る。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[au PAYで追加Pontaポイント還元　ウェルシア、松屋など環境配慮店で]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news084.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news084.html"/>
+        <updated>2023-01-12T00:59:00.000Z</updated>
+        <summary type="html"><![CDATA[KDDIは1月10日より、環境省の推進する「グリーンライフ・ポイント」事業に参画し、環境配慮に取り組むau PAY加盟店やau PAYマーケットでの買い物客を対象に、Pontaポイントを還元すると発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[心理学的に正しい「人の秘密を聞き出す方法」とは？]]></title>
         <id>https://gigazine.net/news/20230112-get-secret/</id>
@@ -10985,17 +11087,6 @@
         <summary type="html"><![CDATA[「NewSQL」と呼ばれる、新しい世代のデータベース製品が登場してきています。 NewSQLは、現在主流となっているリレーショナルデータベース製品と同様にリレーショナルなデータ構造に対応し高度なオンライントランザクション能力を備えつつ、No...]]></summary>
         <author>
             <name>Publickey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もし世界大戦が起きたらインターネットはどうなってしまうのか？]]></title>
-        <id>https://gigazine.net/news/20221213-internet-during-world-war/</id>
-        <link href="https://gigazine.net/news/20221213-internet-during-world-war/"/>
-        <updated>2022-12-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[インターネットの前身と言われているARPANETが1969年に登場してから記事作成時点で半世紀以上が経過していますが、インターネットはまだ世界大戦を経験していません。しかし、2022年2月にウクライナへと侵攻したロシアによる核兵器使用の示唆や米中関係の悪化など、世界大戦の火種になりそうな問題は山積みになっています。もし世界大戦が勃発してしまったら、現代人の暮らしに不可欠なインターネットがどうなってしまうのかについて、専門家が解説しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

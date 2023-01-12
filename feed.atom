@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T05:12:47.308Z</updated>
+    <updated>2023-01-12T06:17:36.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple純正マップの建物情報が編集可能になる「Apple Business Connect」開始、ただしGoogleマップは同様の機能を2005年に実装済みなので18年遅れ]]></title>
+        <id>https://gigazine.net/news/20230112-apple-business-connect-map/</id>
+        <link href="https://gigazine.net/news/20230112-apple-business-connect-map/"/>
+        <updated>2023-01-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhoneやiPadに標準搭載されているApple純正マップアプリでは、開発当初はGoogleマップの地図データを用いていましたが、2012年からはApple独自の地図データを使用するようになりました。独自地図データの提供開始直後には「パチンコガンダム駅」などの実在しない地名が多数表示されるなどヒドイ出来栄えだったのですが、徐々に改善が進んでいます。2023年1月11日には、Apple純正マップに表示される建物情報をオーナーが編集可能となる「Apple Business Connect」が発表されました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAZN、また値上げ　2月から月額3000円→3700円に　1年で利用料金は約2倍に　980円の新プランも]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news132.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news132.html"/>
+        <updated>2023-01-12T05:47:00.000Z</updated>
+        <summary type="html"><![CDATA[スポーツ動画配信サービス「DAZN」を手掛けるDAZN Japan Investmentは、DAZNの月額料金を値上げすると発表した。従来の月額プランは「DAZN Standard」に名称を改め、現行の月額3000円から月額3700円に値上げする。新料金は2月14日から適用する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音声会話が可能で笑顔も見せるバーチャルな「俺の嫁」をChatGPTやStable Diffusionで構築して最終的に安楽死させるに至るまで]]></title>
         <id>https://gigazine.net/news/20230112-chatgpt-chan/</id>
@@ -15,6 +36,16 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix、2024年からSAGアワードをグローバルライブ配信へ]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news125.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news125.html"/>
+        <updated>2023-01-12T04:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Netflixは2024年から全米映画俳優組合賞（SAGアワード）の授賞式を独占ライブ配信する。2023年はNetflixの公式YouTubeチャンネルでのライブ配信になる。2月27日午前10時（日本時間）スタートだ。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>

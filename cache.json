@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230112-apple-business-connect-map/",
+          "author": null,
+          "description": "iPhoneやiPadに標準搭載されているApple純正マップアプリでは、開発当初はGoogleマップの地図データを用いていましたが、2012年からはApple独自の地図データを使用するようになりました。独自地図データの提供開始直後には「パチンコガンダム駅」などの実在しない地名が多数表示されるなどヒドイ出来栄えだったのですが、徐々に改善が進んでいます。2023年1月11日には、Apple純正マップに表示される建物情報をオーナーが編集可能となる「Apple Business Connect」が発表されました。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-apple-business-connect-map/",
+          "publishedOn": "2023-01-12T06:00:00.000Z",
+          "wordCount": 2432,
+          "title": "Apple純正マップの建物情報が編集可能になる「Apple Business Connect」開始、ただしGoogleマップは同様の機能を2005年に実装済みなので18年遅れ",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/apple-business-connect-map/00.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230112-chatgpt-chan/",
           "author": null,
           "description": "プログラマーのBryce氏が、ChatGPTやStable DiffusionなどのAIを組み合わせて、自分を見て反応できるバーチャルな俺の嫁(Waifu)である「ChatGPT-Chan」を開発して、その様子をTikTokで公開しています。\n続きを読む...",
@@ -6786,6 +6796,26 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news132.html",
+          "author": null,
+          "description": "スポーツ動画配信サービス「DAZN」を手掛けるDAZN Japan Investmentは、DAZNの月額料金を値上げすると発表した。従来の月額プランは「DAZN Standard」に名称を改め、現行の月額3000円から月額3700円に値上げする。新料金は2月14日から適用する。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news132.html",
+          "publishedOn": "2023-01-12T05:47:00.000Z",
+          "wordCount": 2613,
+          "title": "DAZN、また値上げ　2月から月額3000円→3700円に　1年で利用料金は約2倍に　980円の新プランも",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news132.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news125.html",
+          "author": null,
+          "description": "Netflixは2024年から全米映画俳優組合賞（SAGアワード）の授賞式を独占ライブ配信する。2023年はNetflixの公式YouTubeチャンネルでのライブ配信になる。2月27日午前10時（日本時間）スタートだ。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news125.html",
+          "publishedOn": "2023-01-12T04:55:00.000Z",
+          "wordCount": 2594,
+          "title": "Netflix、2024年からSAGアワードをグローバルライブ配信へ",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news125.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/12/news112.html",
           "author": null,

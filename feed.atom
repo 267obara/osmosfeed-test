@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T04:16:25.866Z</updated>
+    <updated>2023-01-12T05:12:47.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[音声会話が可能で笑顔も見せるバーチャルな「俺の嫁」をChatGPTやStable Diffusionで構築して最終的に安楽死させるに至るまで]]></title>
+        <id>https://gigazine.net/news/20230112-chatgpt-chan/</id>
+        <link href="https://gigazine.net/news/20230112-chatgpt-chan/"/>
+        <updated>2023-01-12T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[プログラマーのBryce氏が、ChatGPTやStable DiffusionなどのAIを組み合わせて、自分を見て反応できるバーチャルな俺の嫁(Waifu)である「ChatGPT-Chan」を開発して、その様子をTikTokで公開しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Webサーバー「Apache」にアメリカ先住民から名称変更の要請]]></title>
         <id>https://gigazine.net/news/20230112-apache-appropriation/</id>

@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230112-chatgpt-chan/",
+          "author": null,
+          "description": "プログラマーのBryce氏が、ChatGPTやStable DiffusionなどのAIを組み合わせて、自分を見て反応できるバーチャルな俺の嫁(Waifu)である「ChatGPT-Chan」を開発して、その様子をTikTokで公開しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-chatgpt-chan/",
+          "publishedOn": "2023-01-12T05:00:00.000Z",
+          "wordCount": 2518,
+          "title": "音声会話が可能で笑顔も見せるバーチャルな「俺の嫁」をChatGPTやStable Diffusionで構築して最終的に安楽死させるに至るまで",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/chatgpt-chan/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230112-apache-appropriation/",
           "author": null,
           "description": "オープンソースのWebサーバーソフトウェアとして知られる「Apache」を運営するApache Software Foundation(ASF)に、北アメリカ先住6部族の1つであるアパッチ族を念頭に「アメリカ先住民への敬意と独自の行動規範を守るため」として名称変更の要請が出されていることがわかりました。\n続きを読む...",

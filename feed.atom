@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T14:17:30.728Z</updated>
+    <updated>2023-01-12T15:21:51.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11103,88 +11103,6 @@
         <summary type="html"><![CDATA[熊本県立大学は、同学名誉教授のメールアカウントが不正ログインされ、個人情報が漏えいした可能性があると明らかにした。名誉教授は例外的に2要素認証を免除されていた上、他サイトでも使っている短いパスワードを設定していたという。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[まろやかな卵と甘辛ミソで箸が進むかつやの「味噌たまカツ丼」など2種を食べてみた]]></title>
-        <id>https://gigazine.net/news/20221214-katsuya-miso-tama-tartar/</id>
-        <link href="https://gigazine.net/news/20221214-katsuya-miso-tama-tartar/"/>
-        <updated>2022-12-14T03:19:00.000Z</updated>
-        <summary type="html"><![CDATA[とんかつ専門店のかつやから、濃厚な味噌(みそ)をまとったカツをご飯の上に乗せた「味噌たまカツ丼」と「味噌タルカツ丼」が2022年12月14日(水)に登場しました。みそカツとタマゴ、タルタルという相性バツグンな組み合わせを楽しめそうなので、実際に食べてみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高速なオールインワンJavaScriptランタイムの最新バージョン「Bun 0.3.0」がリリース]]></title>
-        <id>http://codezine.jp/article/detail/17020</id>
-        <link href="http://codezine.jp/article/detail/17020"/>
-        <updated>2022-12-14T03:10:00.000Z</updated>
-        <summary type="html"><![CDATA[JavaScriptランタイムであるBunの開発チームは、最新バージョンとなる「Bun 0.3.0」を、12月7日（現地時間）にリリースした。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[副業ワーカーを採用した企業の8割超が成果を実感、副業ワーカーの本業年収は400万円未満が約6割で最多に]]></title>
-        <id>http://codezine.jp/article/detail/17021</id>
-        <link href="http://codezine.jp/article/detail/17021"/>
-        <updated>2022-12-14T03:10:00.000Z</updated>
-        <summary type="html"><![CDATA[クラウドワークスは、個人と企業に対し実施した「副業」に関するアンケートの結果から取りまとめた「副業データブック 2022年版」を12月13日に公開した。副業に関する調査は、15歳以上の男女1057名、企業の経営者・役員541名に対して、9月14日～21日の期間に行われている。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個人や組織の成長にもつながるサイクルを生み出す「チーフエンジニア」という働き方]]></title>
-        <id>http://codezine.jp/article/detail/16924</id>
-        <link href="http://codezine.jp/article/detail/16924"/>
-        <updated>2022-12-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[エンジニアとしてのキャリアを考えるとき、「技術力を突き詰めるべきか」「チームの牽引力を伸ばすべきか」など方向性について悩むもの。株式会社ウエディングパークでは、プロダクトも技術も、そしてチームも幅広く見ることができる「チーフエンジニア」という役割が設置されており、多くのエンジニアが生き生きと働いているという。セッションでは、同社でチーフエンジニアとして活躍中の若宮奈々氏、高嶋葵氏、永井美波氏に加え、ファシリテーターとして新卒社員の野村吏璃星（りりほ）氏が登壇。働き方や施策、成功事例、キャリアのあり方などについて語り合った。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS、データ活用で平均8.5％の年間収益増が見込める可能性を示す最新の調査結果を発表]]></title>
-        <id>http://codezine.jp/article/detail/17025</id>
-        <link href="http://codezine.jp/article/detail/17025"/>
-        <updated>2022-12-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AWSは、調査レポート「Demystifying Data 2022 - データ活用の最新動向」を12月12日に公開した。同レポートでは、データを活用する日本の組織は平均8.5％の年間収益増を見込める可能性を示した。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セキュリティとプロダクト開発の今を伝えるメディア「#FlattSecurityMagazine」がスタート]]></title>
-        <id>http://codezine.jp/article/detail/17026</id>
-        <link href="http://codezine.jp/article/detail/17026"/>
-        <updated>2022-12-14T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Flatt Securityは、セキュリティとプロダクト開発の今を伝えるオウンドメディア「#FlattSecurityMagazine」を、12月8日にリリースした。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare、WAFやDDoS攻撃対策を無料提供　中小企業向けにセキュリティ支援]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/14/news089.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news089.html"/>
-        <updated>2022-12-14T02:43:00.000Z</updated>
-        <summary type="html"><![CDATA[米Cloudflareが、中小企業向けセキュリティ支援プログラムを日本やドイツなど5カ国で始めた。WAFやDDoS攻撃対策といったセキュリティサービスを無料提供する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitterがオフィスの家賃を滞納中]]></title>
-        <id>https://gigazine.net/news/20221214-twitter-stopped-paying-rent-offices/</id>
-        <link href="https://gigazine.net/news/20221214-twitter-stopped-paying-rent-offices/"/>
-        <updated>2022-12-14T02:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterが急進的なコスト削減を断行するため、サンフランシスコ本社や世界各地にある支社のオフィスの賃料を数週間にわたって支払っていないことが、報道により判明しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

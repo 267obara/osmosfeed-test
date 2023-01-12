@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T10:16:49.604Z</updated>
+    <updated>2023-01-12T11:16:17.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イーロン・マスクが「完全自動運転」のベータ版を提供してから数時間後にテスラ車がクラッシュした様子を捉えた監視映像]]></title>
+        <id>https://gigazine.net/news/20230112-tesla-crash-video/</id>
+        <link href="https://gigazine.net/news/20230112-tesla-crash-video/"/>
+        <updated>2023-01-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2022年11月24日、高速道路を走行していたテスラ車が突如として減速・停止し、後続の車が追突する事故が発生しました。この事故の報告書が新たに公開されたことにより、事故を起こした車はテスラの完全自動運転(Full Self Driving：FSD)をオンにして走行していたことが分かりました。この日はFSDのベータ版が配信された当日であり、FSDの安全性が改めて問われました。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マルウェアが最初からインストールされているとんでもないAndroid TVデバイス「T95」がAmazonとAliExpressで販売中]]></title>
         <id>https://gigazine.net/news/20230112-t95-with-malware/</id>
@@ -11264,67 +11275,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/14/news073.html"/>
         <updated>2022-12-14T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[LINEやPayPayと消費者の購入履歴に基づくポイント還元の新販促サービスを発表したヤフーの小沢隆生社長は、新サービスをはじめとする販促事業を、同社の現在の収益の柱であるインターネット広告と並ぶ規模に拡大していく考えを示した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[いつでもどこでもPCゲームが遊びまくれるモバイルゲーミングPC「Steam Deck」をNintendo Switchと比べてみた]]></title>
-        <id>https://gigazine.net/news/20221214-steam-deck-nintendo-switch/</id>
-        <link href="https://gigazine.net/news/20221214-steam-deck-nintendo-switch/"/>
-        <updated>2022-12-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ゲーム配信プラットフォーム「Steam」の全機能を搭載した携帯型ゲーミングPC「Steam Deck」の日本を含めたアジアへの出荷が2022年12月17日に開始します。一足先にSteam Deckを触る機会を得られたので、Steam Deckと似た形状で液晶ディスプレイを搭載した携帯型ゲーム機のNintendo Switchと並べて、その見た目や持ち心地を比べてみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[プログラミング言語「PHP 8.2.0」がリリース]]></title>
-        <id>http://codezine.jp/article/detail/17018</id>
-        <link href="http://codezine.jp/article/detail/17018"/>
-        <updated>2022-12-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[オープンソースのプログラミング言語であるPHPの開発チームは、最新バージョンとなる「PHP 8.2.0」を12月8日（現地時間）にリリースした。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft、「Visual Studio Code」にてSSH不要で安全な接続を確立する機能をプレビュー提供]]></title>
-        <id>http://codezine.jp/article/detail/17023</id>
-        <link href="http://codezine.jp/article/detail/17023"/>
-        <updated>2022-12-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米Microsoftは、コードエディタ「Visual Studio Code」の2022年11月版（バージョン1.74）を12月7日（現地時間）に公開した。Visual Studio Codeは、MITライセンスで公開しているオープンソース・ソフトウェア。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「消える魔球」「曲がる魔球」が打てるエアホッケー　東工大などが技術開発]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/14/news059.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news059.html"/>
-        <updated>2022-12-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[東京工業大学、NTTコミュニケーション科学基礎研究所、京都大学に所属する研究者らは、エアホッケーのパックを「消える魔球」のように意図的に見えなくする手法や、運動方向を「曲がる魔球」のように操作する手法を提案した研究報告を発表した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数字を押さずに「ボタン1つ」でパスコードを入力する方法とは？　後ろからのぞき見対策に]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/14/news057.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news057.html"/>
-        <updated>2022-12-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[米ロチェスター工科大学とカナダのウォータールー大学に所属する研究者らは、PIN（Personal Identification Numbers）コード（パスコード）において、数字を押さずに入力する視覚障害者向けの手法を提案した研究報告を発表した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中小企業がクラウドを“フッ軽”導入　GCP＆ノーコード活用し3カ月でシステム調達　受注3割増につながったワケ]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/14/news028.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news028.html"/>
-        <updated>2022-12-13T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[中小企業がクラウドとノーコードを活用し、3カ月でシステムを調達。これまで課題だった業務改善を実現した。短期間でのクラウド導入が奏功した理由をキーパーソンに聞く。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>

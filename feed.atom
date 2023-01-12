@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T08:18:29.139Z</updated>
+    <updated>2023-01-12T09:15:29.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11296,17 +11296,6 @@
         <summary type="html"><![CDATA[今回は「将棋ウォーズ」をはじめとする、将棋関連のゲームやプラットフォームを開発するAI開発企業、HEROZに、バックオフィスで活用しているSaaSについて聞いた。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[画像生成AI「Stable Diffusion」などの開発に大きな貢献を果たした超巨大データセット「LAION-5B」とは？]]></title>
-        <id>https://gigazine.net/news/20221214-laion-5b-new-era-datasets/</id>
-        <link href="https://gigazine.net/news/20221214-laion-5b-new-era-datasets/"/>
-        <updated>2022-12-13T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AIを構築する上ではアルゴリズムだけでなく訓練用のデータセットも重要であり、データセットの質によってAIの精度も大きく左右されます。高精度な画像生成AIとして話題のStable Diffusionでは、「LAION-5B」という50億以上もの画像とテキストのペアを含むデータセットを用いています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
         </author>
     </entry>
 </feed>

@@ -5054,16 +5054,6 @@
           "wordCount": 2506,
           "title": "火星を地球のような環境にする「テラフォーミング」を行うには何が必要なのか？",
           "imageUrl": "https://i.gzn.jp/img/2022/12/14/terraform-mars-laser/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221214-laion-5b-new-era-datasets/",
-          "author": null,
-          "description": "AIを構築する上ではアルゴリズムだけでなく訓練用のデータセットも重要であり、データセットの質によってAIの精度も大きく左右されます。高精度な画像生成AIとして話題のStable Diffusionでは、「LAION-5B」という50億以上もの画像とテキストのペアを含むデータセットを用いています。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221214-laion-5b-new-era-datasets/",
-          "publishedOn": "2022-12-13T21:00:00.000Z",
-          "wordCount": 2526,
-          "title": "画像生成AI「Stable Diffusion」などの開発に大きな貢献を果たした超巨大データセット「LAION-5B」とは？",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/14/laion-5b-new-era-datasets/00.jpg"
         }
       ]
     },

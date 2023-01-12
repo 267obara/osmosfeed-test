@@ -6,6 +6,26 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230112-us-department-password/",
+          "author": null,
+          "description": "デバイスやウェブサービスのアカウントにパスワードを設定する際は、辞書攻撃などを防ぐために「文字数を長くする」「単純な数字や単語を使わない」といった対策を取るのが一般的です。しかし、「1234」「abcd」などといった単純なパスワードをついつい使ってしまうという人も多いはず。アメリカ合衆国内務省が実施したセキュリティ監査では、省内で使われるパスワードの5分の1が容易に推測可能な文字列で構成されていることが明らかになりました。加えて、ほとんどの関係者が多要素認証を有効化していなかったことも判明しています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-us-department-password/",
+          "publishedOn": "2023-01-12T03:00:00.000Z",
+          "wordCount": 2434,
+          "title": "「Password1234」などの超単純パスワードがアメリカ政府機関で大量に使われていた",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/us-department-password/00.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20230112-chatgpt-professional/",
+          "author": null,
+          "description": "対話型チャットAIの「ChatGPT」は、大学生レベルの試験の自由記述問題に合格してしまうほど高精度な受け答えが可能で、未知の言語を生み出したり女性の口説き方を教えてもらったりするためにも利用されています。そんなChatGPTは記事作成時点では無料で利用可能となっているのですが、開発元のOpenAIはプロ版を用意することでChatGPTでの収益化を検討していることが明らかになっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-chatgpt-professional/",
+          "publishedOn": "2023-01-12T02:45:00.000Z",
+          "wordCount": 2618,
+          "title": "チャットAI・ChatGPTの有料版「ChatGPT Professional」のリリースをOpenAIが検討中、実験的に使える招待待ちリストも登録可能に",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/chatgpt-professional/00_m.png"
+        },
+        {
           "id": "https://gigazine.net/news/20230112-twitter-considering-usernames-auctions/",
           "author": null,
           "description": "Twitterはイーロン・マスク氏による買収を受けて大きく揺れ動いており、従業員の大量解雇によるコストカットが進む一方で、無法地帯化を懸念して広告主がTwitterから離れているために収益が悪化しています。そんな中で日刊紙のニューヨーク・タイムズが、Twitterは収益改善策の1つとして「@」から始まるユーザー名をオークションで販売することを検討していると報じました。\n続きを読む...",
@@ -6716,6 +6736,36 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news107.html",
+          "author": null,
+          "description": "つくば市は、市内の小中学校のWebサイト管理画面が1月3日に不正アクセスを受け、更新のためのIDとパスワードが書き換えられていたと発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news107.html",
+          "publishedOn": "2023-01-12T02:52:00.000Z",
+          "wordCount": 2591,
+          "title": "つくば市の小中学校公式サイトに不正アクセス　更新用ID・PW書き換えられる",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news107.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news106.html",
+          "author": null,
+          "description": "GoogleのWeb会議サービス「Google Meet」でも絵文字リアクションが使えるようになる。一般ユーザー向けのWeb版とiOS版はすぐに、Android版は「近日中に」利用可能になる。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news106.html",
+          "publishedOn": "2023-01-12T02:51:00.000Z",
+          "wordCount": 2609,
+          "title": "Google Meetでついに絵文字リアクションが可能に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/l_yu_emoji.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news100.html",
+          "author": null,
+          "description": "個人資産の損失額でイーロン・マスク氏がギネス記録を更新。孫正義氏の記録を大きく上回った。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news100.html",
+          "publishedOn": "2023-01-12T02:24:00.000Z",
+          "wordCount": 2591,
+          "title": "マスク氏、個人資産の喪失額でギネス認定　孫正義氏超え",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news100.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/12/news093.html",
           "author": null,

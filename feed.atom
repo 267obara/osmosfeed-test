@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T02:39:16.188Z</updated>
+    <updated>2023-01-12T03:14:31.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Password1234」などの超単純パスワードがアメリカ政府機関で大量に使われていた]]></title>
+        <id>https://gigazine.net/news/20230112-us-department-password/</id>
+        <link href="https://gigazine.net/news/20230112-us-department-password/"/>
+        <updated>2023-01-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[デバイスやウェブサービスのアカウントにパスワードを設定する際は、辞書攻撃などを防ぐために「文字数を長くする」「単純な数字や単語を使わない」といった対策を取るのが一般的です。しかし、「1234」「abcd」などといった単純なパスワードをついつい使ってしまうという人も多いはず。アメリカ合衆国内務省が実施したセキュリティ監査では、省内で使われるパスワードの5分の1が容易に推測可能な文字列で構成されていることが明らかになりました。加えて、ほとんどの関係者が多要素認証を有効化していなかったことも判明しています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[つくば市の小中学校公式サイトに不正アクセス　更新用ID・PW書き換えられる]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news107.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news107.html"/>
+        <updated>2023-01-12T02:52:00.000Z</updated>
+        <summary type="html"><![CDATA[つくば市は、市内の小中学校のWebサイト管理画面が1月3日に不正アクセスを受け、更新のためのIDとパスワードが書き換えられていたと発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Meetでついに絵文字リアクションが可能に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news106.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news106.html"/>
+        <updated>2023-01-12T02:51:00.000Z</updated>
+        <summary type="html"><![CDATA[GoogleのWeb会議サービス「Google Meet」でも絵文字リアクションが使えるようになる。一般ユーザー向けのWeb版とiOS版はすぐに、Android版は「近日中に」利用可能になる。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[チャットAI・ChatGPTの有料版「ChatGPT Professional」のリリースをOpenAIが検討中、実験的に使える招待待ちリストも登録可能に]]></title>
+        <id>https://gigazine.net/news/20230112-chatgpt-professional/</id>
+        <link href="https://gigazine.net/news/20230112-chatgpt-professional/"/>
+        <updated>2023-01-12T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[対話型チャットAIの「ChatGPT」は、大学生レベルの試験の自由記述問題に合格してしまうほど高精度な受け答えが可能で、未知の言語を生み出したり女性の口説き方を教えてもらったりするためにも利用されています。そんなChatGPTは記事作成時点では無料で利用可能となっているのですが、開発元のOpenAIはプロ版を用意することでChatGPTでの収益化を検討していることが明らかになっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[マスク氏、個人資産の喪失額でギネス認定　孫正義氏超え]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news100.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news100.html"/>
+        <updated>2023-01-12T02:24:00.000Z</updated>
+        <summary type="html"><![CDATA[個人資産の損失額でイーロン・マスク氏がギネス記録を更新。孫正義氏の記録を大きく上回った。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitterがユーザー名をオークションで販売することを計画中、マスク氏は「15億のユーザー名を解放したい」と過去に発言]]></title>
         <id>https://gigazine.net/news/20230112-twitter-considering-usernames-auctions/</id>

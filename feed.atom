@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T13:27:38.894Z</updated>
+    <updated>2023-01-12T14:17:30.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2020年にサービス終了したオンラインゲームが完全無料で復活＆ソースコードも公開され自由に改変可能に]]></title>
+        <id>https://gigazine.net/news/20230112-open-duelyst/</id>
+        <link href="https://gigazine.net/news/20230112-open-duelyst/"/>
+        <updated>2023-01-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サービス終了してしまったオンラインゲームは、二度とプレイできなくなるのが一般的です。ところが、2020年にサービス終了したオンラインゲーム「Duelyst」のオープンソース化が2023年1月11日に突然発表されました。記事作成時点ではソースコードやデスクトップ向けアプリの無料配布が始まっており、誰でも無料でプレイ可能となっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[室温20℃、体感温度も20℃にするには湿度〇％必要だった]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news188.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news188.html"/>
+        <updated>2023-01-12T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[今回のトピックは「湿度」です。加湿器などで湿度を上げると体感温度が上がることは知られていますが、「ウォームビズ」推奨の室温20℃で体感温度も20度にするにはどのくらい湿度が必要なのでしょうか？]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ピリ辛赤だれが絡む白髪ねぎとフライドにんにくで牛肉のうまみが際立つすき家「にんにく赤だれ白髪ねぎ牛丼」を食べてみた]]></title>
         <id>https://gigazine.net/news/20230112-sukiya-beef-bowl-garlic-red-sauce-shiraganegi/</id>
@@ -11161,48 +11182,6 @@
         <link href="https://gigazine.net/news/20221214-twitter-stopped-paying-rent-offices/"/>
         <updated>2022-12-14T02:20:00.000Z</updated>
         <summary type="html"><![CDATA[Twitterが急進的なコスト削減を断行するため、サンフランシスコ本社や世界各地にある支社のオフィスの賃料を数週間にわたって支払っていないことが、報道により判明しました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地図データに代表される「空間データ」とは何か？ データベースでの扱い方を紹介]]></title>
-        <id>http://codezine.jp/article/detail/16867</id>
-        <link href="http://codezine.jp/article/detail/16867"/>
-        <updated>2022-12-14T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[この連載では、開発者の皆様がシステム・アーキテクチャやアプリケーション・コードをより洗練させるのに役立つデータベース・マネジメント・システム（DBMS）の基本を振り返り、実装に合った技術の組み合わせを解説します。今回は今後ますます活用が進むと期待されている空間データについて、ベクターデータを中心にその特徴から実装までを紹介します。]]></summary>
-        <author>
-            <name>CodeZine:新着一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitterの前CEOドーシー氏、「元従業員への攻撃は無益」と語り、Signal支援を表明]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/14/news080.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news080.html"/>
-        <updated>2022-12-14T01:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterの共同創業者で前CEOのジャック・ドーシー氏は、マスクCEOが展開中の「#Twitter Files」に関する見解をまとめたブログを投稿した。「元従業員への攻撃は無益だ。非難するなら私を非難せよ」としている。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppleがiPhoneで「App Store以外のアプリストア」を初めて許可するべく準備を進めている]]></title>
-        <id>https://gigazine.net/news/20221214-apple-allow-third-party-app-stores/</id>
-        <link href="https://gigazine.net/news/20221214-apple-allow-third-party-app-stores/"/>
-        <updated>2022-12-14T01:39:00.000Z</updated>
-        <summary type="html"><![CDATA[AppleはiPhoneで使えるiOSアプリを、公式のアプリストアであるApp Storeからのみインストールできるようにしています。しかし、ライバルのAndroidは公式アプリストア以外からもアプリのインストールが可能であるため、Appleも「App Store以外のアプリストア」を認めるべきという声が長らく存在します。そんな「App Store以外のアプリストア」を許可するべく、Appleは準備を進めているとBloombergが報じました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[エネルギー省が正式に核融合実験でエネルギー投入を上回る出力を達成し「点火」を確認したと発表]]></title>
-        <id>https://gigazine.net/news/20221214-nuclear-fusion-ignition/</id>
-        <link href="https://gigazine.net/news/20221214-nuclear-fusion-ignition/"/>
-        <updated>2022-12-14T01:36:00.000Z</updated>
-        <summary type="html"><![CDATA[アメリカ合衆国エネルギー省と国家核安全保障局(NNSA)は2022年12月13日、ローレンス・リバモア国立研究所で行われたレーザー核融合実験で、投入した分よりも高いエネルギーの出力を得る「核融合点火」に成功したことを正式に発表しました。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

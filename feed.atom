@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T17:25:01.646Z</updated>
+    <updated>2023-01-12T18:18:07.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
@@ -11004,17 +11004,6 @@
         <link href="https://gigazine.net/news/20221214-microsoft-malicious-windows-drivers-ransomware/"/>
         <updated>2022-12-14T06:26:00.000Z</updated>
         <summary type="html"><![CDATA[MicrosoftのWindowsハードウェア開発者プログラムの認定を受けたドライバーが、マルウェアの署名に悪用されていたことが明らかになりました。これはランサムウェアを用いたサイバー攻撃などに悪用されており、Microsoft、Mandiant、Sophos、SentinelOneが共同で概要を発表しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter創業者ジャック・ドーシーがトランプ元大統領のアカウント凍結を「ビジネスとしては正しかったがネットや社会に間違ったことをした」と表現、開かれたネットの加速のためメッセージングアプリ「Signal」に年間100万ドル提供へ]]></title>
-        <id>https://gigazine.net/news/20221214-twitter-founder-signal/</id>
-        <link href="https://gigazine.net/news/20221214-twitter-founder-signal/"/>
-        <updated>2022-12-14T05:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Twitterの創業者で元CEOのジャック・ドーシー氏が社内文書「Twitterファイル」公開を受けて、ブログで自らの考えを表明しました。この中でドーシー氏はTwitterが進んだ道について「上場企業のビジネスとしては正しいことでしたが、インターネットや社会に対しては間違ったことをしました」とざんげし、ソーシャルメディアの現状と今後に対して警告を発しています。
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>

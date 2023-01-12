@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230113-chinese-researchers-claimed-quantum-encryption-crack/",
+          "author": null,
+          "description": "中国の7つの異なる研究機関に所属する20人以上の研究者らが共同でひとつの学術論文を発表しました。この論文は、2021年に発表された最新の因数分解アルゴリズムを量子近似最適化アルゴリズム(QAOA)と組み合わせることで、量子コンピューターを用いてRSA暗号を解読することができると主張するものでした。しかし、この論文に対して研究者からは懐疑的な声が挙がっています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230113-chinese-researchers-claimed-quantum-encryption-crack/",
+          "publishedOn": "2023-01-12T21:00:00.000Z",
+          "wordCount": 2650,
+          "title": "量子コンピューターは既にRSA暗号を解読できると中国人研究者が主張も専門家からは「誤解を招く論文」「そんなに楽じゃない」との指摘も",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/13/chinese-researchers-claimed-quantum-encryption-crack/00_m.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230112-open-duelyst/",
           "author": null,
           "description": "サービス終了してしまったオンラインゲームは、二度とプレイできなくなるのが一般的です。ところが、2020年にサービス終了したオンラインゲーム「Duelyst」のオープンソース化が2023年1月11日に突然発表されました。記事作成時点ではソースコードやデスクトップ向けアプリの無料配布が始まっており、誰でも無料でプレイ可能となっています。\n続きを読む...",

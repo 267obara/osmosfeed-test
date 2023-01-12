@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T20:15:10.745Z</updated>
+    <updated>2023-01-12T21:12:28.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[量子コンピューターは既にRSA暗号を解読できると中国人研究者が主張も専門家からは「誤解を招く論文」「そんなに楽じゃない」との指摘も]]></title>
+        <id>https://gigazine.net/news/20230113-chinese-researchers-claimed-quantum-encryption-crack/</id>
+        <link href="https://gigazine.net/news/20230113-chinese-researchers-claimed-quantum-encryption-crack/"/>
+        <updated>2023-01-12T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[中国の7つの異なる研究機関に所属する20人以上の研究者らが共同でひとつの学術論文を発表しました。この論文は、2021年に発表された最新の因数分解アルゴリズムを量子近似最適化アルゴリズム(QAOA)と組み合わせることで、量子コンピューターを用いてRSA暗号を解読することができると主張するものでした。しかし、この論文に対して研究者からは懐疑的な声が挙がっています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SQLite3 WASM/JS、Origin Private File Systemを用いてChrome上の高速なローカルDBが機能するとGoogleが明らかに、廃止されたWeb SQLの代替として利用可能]]></title>
         <id>https://www.publickey1.jp/blog/23/sqlite3_wasmjsorigin_private_file_systemchromedbgoogleweb_sql.html</id>

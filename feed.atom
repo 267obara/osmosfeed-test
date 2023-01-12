@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-11T23:13:44.092Z</updated>
+    <updated>2023-01-12T01:09:43.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[心理学的に正しい「人の秘密を聞き出す方法」とは？]]></title>
+        <id>https://gigazine.net/news/20230112-get-secret/</id>
+        <link href="https://gigazine.net/news/20230112-get-secret/"/>
+        <updated>2023-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[将来への不安、学業不振、色恋沙汰などなど、誰でもいくつかの秘密を持っているものです。そんな秘密を他人から聞き出す方法について、コロンビア大学の研究チームがまとめています。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustで書かれたゲームエンジン「Fyrox 0.29」がリリース]]></title>
+        <id>http://codezine.jp/article/detail/17160</id>
+        <link href="http://codezine.jp/article/detail/17160"/>
+        <updated>2023-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rustで書かれ、ネイティブエディタによって少ない労力での2Dおよび3Dゲームの作成を可能にするゲームエンジンFyroxの開発チームは、最新バージョンとなる「Fyrox 0.29」をリリースしている。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DXが進んでいる企業ほどDevOpsの実践率が高い傾向──IDC Japanの調査結果より]]></title>
+        <id>http://codezine.jp/article/detail/17161</id>
+        <link href="http://codezine.jp/article/detail/17161"/>
+        <updated>2023-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IDC Japanは、国内企業のDevOps実践状況に関する「2022年 国内DevOps／開発プラットフォーム ユーザー動向調査」の結果を、1月10日に発表した。同調査は、国内企業484社のDevOpsに対して理解のあるIT組織（開発／運用）の責任者、管理者、担当者（リーダークラス）を対象に、DevOpsの実践状況、開発手法、開発プラットフォーム環境、採用技術といった、国内企業におけるソフトウェア開発および運用についてのユーザー動向を調べている。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[デスクトップ・アプリ向けJavaScriptフレームワーク「Gluon」が登場]]></title>
+        <id>http://codezine.jp/article/detail/17167</id>
+        <link href="http://codezine.jp/article/detail/17167"/>
+        <updated>2023-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[自称「CanadaHonk」という開発者は、デスクトップ・アプリケーション向けJavaScriptフレームワーク「Gluon」の新版「バージョン0.10」を1月5日（現地時間）に公開した。GluonはMITライセンスで公開しているオープンソース・ソフトウェア。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[防災情報つぶやき10年…警視庁災害対策課ツイッター、フォロワー90万人超に]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news077.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news077.html"/>
+        <updated>2023-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[災害に関する情報を発信する警視庁災害対策課の公式Twitterが運用開始から10年を迎えた。身近な災害情報や防災の豆知識を紹介した投稿が人気を集めている。2023年は関東大震災から100年の節目でもあり、同課はさらなる防災意識の向上に寄与したいとしている。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不登校児らに“バーチャル学校”　東京都がシステム提供、新宿区が運用開始]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news076.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news076.html"/>
+        <updated>2023-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[東京都教育委員会は、不登校や日本語が不自由な外国人の子供らの学習やコミュニケーションの場として、インターネット上に学校を模した仮想空間を設置するシステムを開発した。2023年度から希望する区市町村に順次提供していく。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「危篤、至急連絡されたし」NTT、緊急定型文の電報サービス42年で幕　船舶向け無線電報も115年で終了]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news074.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news074.html"/>
+        <updated>2023-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「危篤、至急連絡されたし」「急用あり」。通常の電報より安価に緊急事態を伝えられる定型文の電報サービスが1月10日夜に終了した。遠洋漁船などの漁師に向けて、通信士がモールス信号で打電する船舶向けの無線電報も同時にサービスを終了し廃止された。船舶向けの無線電報は1908年から115年続いた長い歴史に幕を下ろした。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepL、評価額10億ユーロで増資]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news079.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news079.html"/>
+        <updated>2023-01-11T23:48:00.000Z</updated>
+        <summary type="html"><![CDATA[ディープラーニング活用の翻訳サービスDeepLが増資した。評価額は10億ユーロ（約1420億円）。日米に拠点を置くグローバルファンドWiLも出資した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ビットコイン対応ATMの数は2021年から爆増するも2022年はほぼ横ばいで冬の時代]]></title>
         <id>https://gigazine.net/news/20230112-bitcoin-atm-flatline/</id>
@@ -15,6 +96,36 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud、BigQueryで複数のクエリからなるトランザクションに正式対応]]></title>
+        <id>http://codezine.jp/article/detail/17168</id>
+        <link href="http://codezine.jp/article/detail/17168"/>
+        <updated>2023-01-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米Google Cloudは、同社が提供するデータ・ウェアハウス・サービス「BigQuery」が、複数のクエリで校正するトランザクションに対応したと1月10日（現地時間）に発表した。この機能は2021年7月からパブリック・プレビューとして公開していたが、正式な機能として今回公開した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神を信じるなら、老化防止薬を飲むべきか？　ChatGPTと議論、論文を共同執筆]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news062.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news062.html"/>
+        <updated>2023-01-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[バイオテクノロジー企業Insilico Medicine社のAlex Zhavoronkov氏とOpanAIのChatGPTGenerative Pre-trained Transformerは、OpenAIが開発したChatGPTと協力し、共同執筆した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「DNA」でつぼやコップなどを作れるツール　ナノ精度で陶芸のように加工可能　米国チームが発表]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news060.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news060.html"/>
+        <updated>2023-01-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[米デューク大学などの研究チームは、DNAの配列をナノメートルの精度で曲げたり折ったりして、複雑な3次元の物体を作るソフトウェアツールを提案した研究報告を発表した。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
     <entry>
@@ -10885,48 +10996,6 @@
 続きを読む...]]></summary>
         <author>
             <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ほうじ茶アイスとバタースカッチアイスの層でさらにリッチになったハーゲンダッツ「ジャポネ オペラ～ほうじ茶仕立て～」を食べてみた]]></title>
-        <id>https://gigazine.net/news/20221213-haagen-dazs-japonais-opera-hojicha/</id>
-        <link href="https://gigazine.net/news/20221213-haagen-dazs-japonais-opera-hojicha/"/>
-        <updated>2022-12-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ハーゲンダッツとセブン-イレブンが共同開発する和の味わいにこだわったジャポネシリーズに、ほうじ茶を使ってフランス発祥の層構造のケーキ・オペラを再現した「ジャポネ オペラ～ほうじ茶仕立て～」が登場しました。ほうじ茶アイスクリームとバタースカッチアイスクリームが層になってリッチな味わいに仕上がっているということで、実際に食べてみました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[もし「Program Files」フォルダーをWindowsで消すと何が起きるのか？]]></title>
-        <id>https://gigazine.net/news/20221213-program-files-delete-windows/</id>
-        <link href="https://gigazine.net/news/20221213-program-files-delete-windows/"/>
-        <updated>2022-12-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[重要なシステムファイルが格納されている「Program Files」フォルダーを削除したらどうなるのかということについて実際にYouTuberのThioJoe氏が試し、その結果が共有されました。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セブン-イレブン、スマホが“レジ”になるアプリ展開拡大　並ばず手元で決済完了]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news177.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news177.html"/>
-        <updated>2022-12-13T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[セブン-イレブン・ジャパンは、来店者のスマートフォンで商品の決済ができるアプリ「セブンスマホレジ」の展開を、現在の12店舗から39店舗増やし、全国51店舗に拡大する。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[忘年会の余興に一役？　「アイスブレイク専用質問出題ツール」Webで無料公開]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/13/news175.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/13/news175.html"/>
-        <updated>2022-12-13T11:33:00.000Z</updated>
-        <summary type="html"><![CDATA[企業向け研修事業などを手掛けるインバイトジャパンは、アイスブレーク用の質問をランダムに表示するツール「アイスブレイク専用質問出題ツール」を無料公開した。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
         </author>
     </entry>
 </feed>

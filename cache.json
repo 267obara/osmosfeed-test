@@ -6,6 +6,16 @@
       "siteUrl": "https://gigazine.net/",
       "articles": [
         {
+          "id": "https://gigazine.net/news/20230112-get-secret/",
+          "author": null,
+          "description": "将来への不安、学業不振、色恋沙汰などなど、誰でもいくつかの秘密を持っているものです。そんな秘密を他人から聞き出す方法について、コロンビア大学の研究チームがまとめています。\n続きを読む...",
+          "link": "https://gigazine.net/news/20230112-get-secret/",
+          "publishedOn": "2023-01-12T00:00:00.000Z",
+          "wordCount": 2418,
+          "title": "心理学的に正しい「人の秘密を聞き出す方法」とは？",
+          "imageUrl": "https://i.gzn.jp/img/2023/01/12/get-secret/00.jpg"
+        },
+        {
           "id": "https://gigazine.net/news/20230112-bitcoin-atm-flatline/",
           "author": null,
           "description": "取引所や専用のウォレットを使わずに仮想通貨「Bitcoin(ビットコイン)」を売買できる仮想通貨専用のATMは、2013年に初登場して以来、世界中で設置数を増やしていました。特に2021年初頭から2022年にかけて急激に増加していた一方で、2022年5月ごろにビットコインが大幅値下がりを起こしピーク時から55％も価格を落したり、2022年11月11日には仮想通貨取引所大手のFTXがアメリカ連邦法に基づく破産手続を申請したりした影響もあり、ビットコインATMの数は2022年内にほとんど成長しない「冬の時代」を迎えていることが、ビットコインATMの設置場所を地図上で確認できるサービス「Coin ATM Radar」のデータにより明らかになっています。\n続きを読む...",
@@ -4934,26 +4944,6 @@
           "wordCount": 2502,
           "title": "もし世界大戦が起きたらインターネットはどうなってしまうのか？",
           "imageUrl": "https://i.gzn.jp/img/2022/12/13/internet-during-world-war/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221213-haagen-dazs-japonais-opera-hojicha/",
-          "author": null,
-          "description": "ハーゲンダッツとセブン-イレブンが共同開発する和の味わいにこだわったジャポネシリーズに、ほうじ茶を使ってフランス発祥の層構造のケーキ・オペラを再現した「ジャポネ オペラ～ほうじ茶仕立て～」が登場しました。ほうじ茶アイスクリームとバタースカッチアイスクリームが層になってリッチな味わいに仕上がっているということで、実際に食べてみました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221213-haagen-dazs-japonais-opera-hojicha/",
-          "publishedOn": "2022-12-13T13:00:00.000Z",
-          "wordCount": 2497,
-          "title": "ほうじ茶アイスとバタースカッチアイスの層でさらにリッチになったハーゲンダッツ「ジャポネ オペラ～ほうじ茶仕立て～」を食べてみた",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/13/haagen-dazs-japonais-opera-hojicha/00.jpg"
-        },
-        {
-          "id": "https://gigazine.net/news/20221213-program-files-delete-windows/",
-          "author": null,
-          "description": "重要なシステムファイルが格納されている「Program Files」フォルダーを削除したらどうなるのかということについて実際にYouTuberのThioJoe氏が試し、その結果が共有されました。\n続きを読む...",
-          "link": "https://gigazine.net/news/20221213-program-files-delete-windows/",
-          "publishedOn": "2022-12-13T12:00:00.000Z",
-          "wordCount": 2548,
-          "title": "もし「Program Files」フォルダーをWindowsで消すと何が起きるのか？",
-          "imageUrl": "https://i.gzn.jp/img/2022/12/13/program-files-delete-windows/00.png"
         }
       ]
     },
@@ -4962,6 +4952,46 @@
       "feedUrl": "https://codezine.jp/rss/new/20/index.xml",
       "siteUrl": "https://codezine.jp/",
       "articles": [
+        {
+          "id": "http://codezine.jp/article/detail/17160",
+          "author": null,
+          "description": "Rustで書かれ、ネイティブエディタによって少ない労力での2Dおよび3Dゲームの作成を可能にするゲームエンジンFyroxの開発チームは、最新バージョンとなる「Fyrox 0.29」をリリースしている。",
+          "link": "http://codezine.jp/article/detail/17160",
+          "publishedOn": "2023-01-12T00:00:00.000Z",
+          "wordCount": 4328,
+          "title": "Rustで書かれたゲームエンジン「Fyrox 0.29」がリリース",
+          "imageUrl": "https://codezine.jp/static/images/article/17160/13749_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17161",
+          "author": null,
+          "description": "IDC Japanは、国内企業のDevOps実践状況に関する「2022年 国内DevOps／開発プラットフォーム ユーザー動向調査」の結果を、1月10日に発表した。同調査は、国内企業484社のDevOpsに対して理解のあるIT組織（開発／運用）の責任者、管理者、担当者（リーダークラス）を対象に、DevOpsの実践状況、開発手法、開発プラットフォーム環境、採用技術といった、国内企業におけるソフトウェア開発および運用についてのユーザー動向を調べている。",
+          "link": "http://codezine.jp/article/detail/17161",
+          "publishedOn": "2023-01-12T00:00:00.000Z",
+          "wordCount": 4335,
+          "title": "DXが進んでいる企業ほどDevOpsの実践率が高い傾向──IDC Japanの調査結果より",
+          "imageUrl": "https://codezine.jp/static/images/article/17161/17161_og.png"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17167",
+          "author": null,
+          "description": "自称「CanadaHonk」という開発者は、デスクトップ・アプリケーション向けJavaScriptフレームワーク「Gluon」の新版「バージョン0.10」を1月5日（現地時間）に公開した。GluonはMITライセンスで公開しているオープンソース・ソフトウェア。",
+          "link": "http://codezine.jp/article/detail/17167",
+          "publishedOn": "2023-01-12T00:00:00.000Z",
+          "wordCount": 4327,
+          "title": "デスクトップ・アプリ向けJavaScriptフレームワーク「Gluon」が登場",
+          "imageUrl": "https://codezine.jp/static/images/article/17167/12883_og.jpg"
+        },
+        {
+          "id": "http://codezine.jp/article/detail/17168",
+          "author": null,
+          "description": "米Google Cloudは、同社が提供するデータ・ウェアハウス・サービス「BigQuery」が、複数のクエリで校正するトランザクションに対応したと1月10日（現地時間）に発表した。この機能は2021年7月からパブリック・プレビューとして公開していたが、正式な機能として今回公開した。",
+          "link": "http://codezine.jp/article/detail/17168",
+          "publishedOn": "2023-01-11T23:00:00.000Z",
+          "wordCount": 4330,
+          "title": "Google Cloud、BigQueryで複数のクエリからなるトランザクションに正式対応",
+          "imageUrl": "https://codezine.jp/static/images/article/17168/13128_og.jpg"
+        },
         {
           "id": "http://codezine.jp/article/detail/16845",
           "author": null,
@@ -6656,6 +6686,66 @@
       "feedUrl": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
       "siteUrl": "https://www.itmedia.co.jp/news/",
       "articles": [
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news077.html",
+          "author": null,
+          "description": "災害に関する情報を発信する警視庁災害対策課の公式Twitterが運用開始から10年を迎えた。身近な災害情報や防災の豆知識を紹介した投稿が人気を集めている。2023年は関東大震災から100年の節目でもあり、同課はさらなる防災意識の向上に寄与したいとしている。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news077.html",
+          "publishedOn": "2023-01-12T00:00:00.000Z",
+          "wordCount": 2324,
+          "title": "防災情報つぶやき10年…警視庁災害対策課ツイッター、フォロワー90万人超に",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/l_NL467NHCERJRRAB2E4ZYGR5ULI_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news076.html",
+          "author": null,
+          "description": "東京都教育委員会は、不登校や日本語が不自由な外国人の子供らの学習やコミュニケーションの場として、インターネット上に学校を模した仮想空間を設置するシステムを開発した。2023年度から希望する区市町村に順次提供していく。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news076.html",
+          "publishedOn": "2023-01-12T00:00:00.000Z",
+          "wordCount": 2333,
+          "title": "不登校児らに“バーチャル学校”　東京都がシステム提供、新宿区が運用開始",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/l_TZ6J44UUBNIRXBXTGOGA4WTH44_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news074.html",
+          "author": null,
+          "description": "「危篤、至急連絡されたし」「急用あり」。通常の電報より安価に緊急事態を伝えられる定型文の電報サービスが1月10日夜に終了した。遠洋漁船などの漁師に向けて、通信士がモールス信号で打電する船舶向けの無線電報も同時にサービスを終了し廃止された。船舶向けの無線電報は1908年から115年続いた長い歴史に幕を下ろした。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news074.html",
+          "publishedOn": "2023-01-12T00:00:00.000Z",
+          "wordCount": 2326,
+          "title": "「危篤、至急連絡されたし」NTT、緊急定型文の電報サービス42年で幕　船舶向け無線電報も115年で終了",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/l_WXCXQ4BIQFI6DHSU6IJXFSRJZA_1.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news079.html",
+          "author": null,
+          "description": "ディープラーニング活用の翻訳サービスDeepLが増資した。評価額は10億ユーロ（約1420億円）。日米に拠点を置くグローバルファンドWiLも出資した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news079.html",
+          "publishedOn": "2023-01-11T23:48:00.000Z",
+          "wordCount": 2601,
+          "title": "DeepL、評価額10億ユーロで増資",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news079.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news062.html",
+          "author": null,
+          "description": "バイオテクノロジー企業Insilico Medicine社のAlex Zhavoronkov氏とOpanAIのChatGPTGenerative Pre-trained Transformerは、OpenAIが開発したChatGPTと協力し、共同執筆した研究報告を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news062.html",
+          "publishedOn": "2023-01-11T23:00:00.000Z",
+          "wordCount": 2989,
+          "title": "神を信じるなら、老化防止薬を飲むべきか？　ChatGPTと議論、論文を共同執筆",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news062.jpg"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2301/12/news060.html",
+          "author": null,
+          "description": "米デューク大学などの研究チームは、DNAの配列をナノメートルの精度で曲げたり折ったりして、複雑な3次元の物体を作るソフトウェアツールを提案した研究報告を発表した。",
+          "link": "https://www.itmedia.co.jp/news/articles/2301/12/news060.html",
+          "publishedOn": "2023-01-11T23:00:00.000Z",
+          "wordCount": 2679,
+          "title": "「DNA」でつぼやコップなどを作れるツール　ナノ精度で陶芸のように加工可能　米国チームが発表",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2301/12/cover_news060.jpg"
+        },
         {
           "id": "https://www.itmedia.co.jp/news/articles/2301/12/news078.html",
           "author": null,
@@ -10435,26 +10525,6 @@
           "wordCount": 2610,
           "title": "HEROZ編：将棋AI開発の上場企業はどんなバックオフィスSaaSを使っている？",
           "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/14/cover_news004.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news177.html",
-          "author": null,
-          "description": "セブン-イレブン・ジャパンは、来店者のスマートフォンで商品の決済ができるアプリ「セブンスマホレジ」の展開を、現在の12店舗から39店舗増やし、全国51店舗に拡大する。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news177.html",
-          "publishedOn": "2022-12-13T11:45:00.000Z",
-          "wordCount": 2583,
-          "title": "セブン-イレブン、スマホが“レジ”になるアプリ展開拡大　並ばず手元で決済完了",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news177.jpg"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2212/13/news175.html",
-          "author": null,
-          "description": "企業向け研修事業などを手掛けるインバイトジャパンは、アイスブレーク用の質問をランダムに表示するツール「アイスブレイク専用質問出題ツール」を無料公開した。",
-          "link": "https://www.itmedia.co.jp/news/articles/2212/13/news175.html",
-          "publishedOn": "2022-12-13T11:33:00.000Z",
-          "wordCount": 2598,
-          "title": "忘年会の余興に一役？　「アイスブレイク専用質問出題ツール」Webで無料公開",
-          "imageUrl": "https://image.itmedia.co.jp/news/articles/2212/13/cover_news175.jpg"
         }
       ]
     }

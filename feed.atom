@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://267obara.github.io/osmosfeed-test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-12T09:15:29.716Z</updated>
+    <updated>2023-01-12T10:16:49.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://267obara.github.io/osmosfeed-test/index.html"/>
     <link rel="self" href="https://267obara.github.io/osmosfeed-test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マルウェアが最初からインストールされているとんでもないAndroid TVデバイス「T95」がAmazonとAliExpressで販売中]]></title>
+        <id>https://gigazine.net/news/20230112-t95-with-malware/</id>
+        <link href="https://gigazine.net/news/20230112-t95-with-malware/"/>
+        <updated>2023-01-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AmazonやAliExpressでも販売されているAndroid TV搭載のセットトップボックス「T95」にマルウェアがプリインストールされていたという報告がGitHubに上げられています。マルウェアの正体は、Android端末を対象に感染を広げた「CopyCat」に似ているとのことです。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年1月12日のヘッドラインニュース]]></title>
+        <id>https://gigazine.net/news/20230112-headline/</id>
+        <link href="https://gigazine.net/news/20230112-headline/"/>
+        <updated>2023-01-12T09:58:00.000Z</updated>
+        <summary type="html"><![CDATA[マクドナルドの「スパイシーチキンマックナゲット」で史上No.1売り上げだったという「スパイシーチキンマックナゲット 黒胡椒ガーリック」が2023年1月18日(水)から期間限定で再登場することになりました。限定の新ソースとして「コク旨黒にんにくソース」と「やみつき旨辛チーズソース」も登場します。
+続きを読む...]]></summary>
+        <author>
+            <name>GIGAZINE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[請求書の発行も受領も0円から　SBI系の「請求QUICK」がインボイス対応新機能]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2301/12/news149.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2301/12/news149.html"/>
+        <updated>2023-01-12T09:24:00.000Z</updated>
+        <summary type="html"><![CDATA[SBIビジネス・ソリューションズは1月12日、請求書発行SaaS「請求QUICK」に請求書受領サービスを組み込むと発表した。発行、受領ともに初期費用無料、0円から利用できる点が特徴。10月から始まるインボイス制度だけでなく、2024年1月からスタートする電子帳簿保存法にも対応する。]]></summary>
+        <author>
+            <name>ITmedia NEWS 最新記事一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[時間単価1万円以上のエンジニアが身につけている言語はSwift、Ruby on Rails、Laravel、Node.js、「FLEXY」がエンジニア161名にアンケートを実施]]></title>
+        <id>http://codezine.jp/article/detail/17164</id>
+        <link href="http://codezine.jp/article/detail/17164"/>
+        <updated>2023-01-12T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サーキュレーションが運営する副業・兼業で働くエンジニア／デザイナー／CTO／技術顧問向けのスキルシェアサービス「FLEXY」は、登録者の副業・独立開始後の経験も含めた現在の稼働状況や、どのような案件が求められているか、案件以外に求められていることなどについて調査を実施し、その結果を1月11日に公開した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IT企業に勤める会社員の71.9％がリスキリングの必要性を実感、ビズメイツが「IT企業のリスキリングに関する実態調査」を実施]]></title>
+        <id>http://codezine.jp/article/detail/17166</id>
+        <link href="http://codezine.jp/article/detail/17166"/>
+        <updated>2023-01-12T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ビジネス特化型オンライン英会話事業「Bizmates」を展開するビズメイツは、都内在住の30代のIT企業に勤める会社員107名を対象に実施した「IT企業のリスキリングに関する実態調査」の結果を、1月11日に公開した。]]></summary>
+        <author>
+            <name>CodeZine:新着一覧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ラピュタに出てくる「黒い石」を作った猛者が登場、実際に飛行石をかざして光らせる動画も公開中]]></title>
         <id>https://gigazine.net/news/20230112-laputa-stone-slab/</id>
@@ -11273,27 +11325,6 @@
         <link href="https://www.itmedia.co.jp/news/articles/2212/14/news028.html"/>
         <updated>2022-12-13T23:00:00.000Z</updated>
         <summary type="html"><![CDATA[中小企業がクラウドとノーコードを活用し、3カ月でシステムを調達。これまで課題だった業務改善を実現した。短期間でのクラウド導入が奏功した理由をキーパーソンに聞く。]]></summary>
-        <author>
-            <name>ITmedia NEWS 最新記事一覧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火星を地球のような環境にする「テラフォーミング」を行うには何が必要なのか？]]></title>
-        <id>https://gigazine.net/news/20221214-terraform-mars-laser/</id>
-        <link href="https://gigazine.net/news/20221214-terraform-mars-laser/"/>
-        <updated>2022-12-13T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[火星は地球の隣に位置する惑星であるものの、人間が生活するには適した環境ではありません。火星を地球のような環境に変化させる「テラフォーミング」の方法について、科学系YouTubeチャンネルのKurzgesagtがアニメーションで解説しています。
-続きを読む...]]></summary>
-        <author>
-            <name>GIGAZINE</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEROZ編：将棋AI開発の上場企業はどんなバックオフィスSaaSを使っている？]]></title>
-        <id>https://www.itmedia.co.jp/news/articles/2212/14/news004.html</id>
-        <link href="https://www.itmedia.co.jp/news/articles/2212/14/news004.html"/>
-        <updated>2022-12-13T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[今回は「将棋ウォーズ」をはじめとする、将棋関連のゲームやプラットフォームを開発するAI開発企業、HEROZに、バックオフィスで活用しているSaaSについて聞いた。]]></summary>
         <author>
             <name>ITmedia NEWS 最新記事一覧</name>
         </author>
